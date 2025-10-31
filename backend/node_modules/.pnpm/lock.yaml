@@ -25,7 +25,7 @@ importers:
         version: 5.1.0
       express-rate-limit:
         specifier: ^8.1.0
-        version: 8.1.0(express@5.1.0)
+        version: 8.2.0(express@5.1.0)
       express-validator:
         specifier: ^7.3.0
         version: 7.3.0
@@ -306,8 +306,8 @@ packages:
     resolution: {integrity: sha512-aIL5Fx7mawVa300al2BnEE4iNvo1qETxLrPI/o05L7z6go7fCw1J6EQmbK4FmJ2AS7kgVF/KEZWufBfdClMcPg==}
     engines: {node: '>= 0.6'}
 
-  express-rate-limit@8.1.0:
-    resolution: {integrity: sha512-4nLnATuKupnmwqiJc27b4dCFmB/T60ExgmtDD7waf4LdrbJ8CPZzZRHYErDYNhoz+ql8fUdYwM/opf90PoPAQA==}
+  express-rate-limit@8.2.0:
+    resolution: {integrity: sha512-zDLb8RsXoA09dui1mvm/bAqSYeUh/bj3+fcDeiNBebSbSjl9IEK5mbCSYSRk52Lrco9sj9Xjuzkot3TXuXEw0A==}
     engines: {node: '>= 16'}
     peerDependencies:
       express: '>= 4.11'
@@ -1010,7 +1010,7 @@ snapshots:
 
   etag@1.8.1: {}
 
-  express-rate-limit@8.1.0(express@5.1.0):
+  express-rate-limit@8.2.0(express@5.1.0):
     dependencies:
       express: 5.1.0
       ip-address: 10.0.1
