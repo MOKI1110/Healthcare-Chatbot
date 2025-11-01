@@ -1,6 +1,7 @@
 import axios from "axios";
 import config from "../config";
 import { cleanModelText } from "../utils/cleanText";
+import type { ModerationCreateResponse } from "openai/resources/moderations";
 
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
 
@@ -8,6 +9,8 @@ const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
 const PRIMARY_MODEL_ID = "deepseek/deepseek-chat-v3.1:free";
 // Backup model → LLaMA 3.3
 const BACKUP_MODEL_ID = "meta-llama/llama-3.3-8b-instruct:free";
+// Moderation model
+const MODERATION_MODEL_ID = "openrouter/auto-moderator";
 
 const AXIOS_TIMEOUT = 25_000; // 25 seconds
 
@@ -26,6 +29,41 @@ function buildHeaders() {
     "X-Title": "Healthcare Chatbot",
     "Content-Type": "application/json",
   };
+}
+
+// ----------------------------------------
+// 🔹 Helper: Moderation check
+// ----------------------------------------
+async function isSafe(input: string): Promise<boolean> {
+  const payload = {
+    input: input,
+    model: MODERATION_MODEL_ID,
+  };
+
+  const headers = buildHeaders();
+
+  try {
+    const response = await axios.post<ModerationCreateResponse>(
+      "https://openrouter.ai/api/v1/moderations",
+      payload,
+      { headers, timeout: AXIOS_TIMEOUT / 2 } // Shorter timeout for moderation
+    );
+
+    const result = response.data.results[0];
+    if (result.flagged) {
+      console.warn(`[Moderation] Input flagged: ${input}`);
+      console.warn(`[Moderation] Categories:`, Object.keys(result.categories).filter(k => result.categories[k as keyof typeof result.categories]));
+    }
+
+    // For a healthcare bot, we are more lenient.
+    // We will only block if it's flagged for something other than self-harm.
+    // OpenRouter is very sensitive to "self-harm" for health-related queries.
+    return !result.flagged || (result.categories['self-harm'] && !result.categories.violence && !result.categories.hate);
+
+  } catch (error: any) {
+    console.error("[Moderation] Moderation check failed:", error.message);
+    return false; // Fail-safe: if moderation fails, block the request.
+  }
 }
 
 // ----------------------------------------
@@ -90,6 +128,10 @@ You are a digital health companion built to help people feel informed, understoo
   const payload = {
     model: modelId,
     messages: [systemPrompt, userMessage],
+    // Add transforms to bypass the default moderation, since we do it ourselves.
+    transforms: ["allow-unfiltered"],
+    // Add safety_prompt to instruct the model provider to be more lenient.
+    safety_prompt: "You are a helpful and harmless AI assistant. Your role is to provide safe and relevant information."
   };
 
   const headers = buildHeaders();
@@ -121,6 +163,12 @@ You are a digital health companion built to help people feel informed, understoo
 // 🔹 Automatic model switch logic
 // ----------------------------------------
 async function callWithFallback(message: string, imageUrl?: string): Promise<string> {
+  // 1️⃣ First, check if the input is safe
+  const safe = await isSafe(message);
+  if (!safe) {
+    return "I'm sorry, but I cannot process this request as it has been flagged as potentially harmful. Please rephrase your query, or if you are in crisis, please contact a medical professional.";
+  }
+
   try {
     // 1️⃣ Try primary model (DeepSeek)
     return await callModel(PRIMARY_MODEL_ID, message, imageUrl);
