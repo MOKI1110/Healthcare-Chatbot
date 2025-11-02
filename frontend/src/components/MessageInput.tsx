@@ -1,4 +1,8 @@
 import React, { useState } from "react";
+import { HiDocument } from "react-icons/hi2";
+import { RiVoiceAiFill } from "react-icons/ri";
+import { TbSend } from "react-icons/tb";
+
 
 type MessageInputProps = {
   onSend: (text: string) => void;
@@ -38,18 +42,22 @@ export default function MessageInput({ onSend, onFileUpload }: MessageInputProps
       <button 
         type="button" 
         aria-label="Voice input" 
-        className="text-2xl p-3 rounded-xl hover:bg-gradient-to-br hover:from-pink-50 hover:to-rose-50 transition-all duration-300 hover:scale-110 hover:rotate-12 group"
+        className="text-2xl p-3 rounded-xl hover:bg-gradient-to-br hover:from-pink-50 hover:to-rose-50 transition-all duration-300 hover:scale-110 group"
       >
-        <span className="group-hover:scale-125 transition-transform duration-300">🎤</span>
+        <span className="group-hover:scale-125 transition-transform duration-300 ">
+          <RiVoiceAiFill className="text-gray-500 group-hover:text-gray-700 " />
+        </span>
       </button>
 
       {/* Upload Button */}
       <label 
         htmlFor="file-upload"
-        className="text-2xl p-3 rounded-xl hover:bg-gradient-to-br hover:from-blue-50 hover:to-indigo-50 transition-all duration-300 hover:scale-110 cursor-pointer group"
+        className="text-2xl p-3 rounded-xl hover:bg-gradient-to-br hover:from-blue-50 hover:to-indigo-50 transition-all duration-300 hover:scale-110 group"
         aria-label="Upload file"
       >
-        <span className="group-hover:scale-125 transition-transform duration-300">📎</span>
+        <span className="group-hover:scale-125 transition-transform duration-300 ">
+        <HiDocument className="text-gray-500 group-hover:text-gray-700 " />
+        </span>
       </label>
       <input
         id="file-upload"
@@ -76,7 +84,9 @@ export default function MessageInput({ onSend, onFileUpload }: MessageInputProps
         className="p-3 bg-gradient-to-r from-indigo-500 to-purple-600 text-white rounded-xl hover:from-indigo-600 hover:to-purple-700 transition-all duration-300 hover:scale-110 shadow-lg disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100"
         aria-label="Send message"
       >
-        <span className="text-2xl">📨</span>
+        <span className="text-2xl">
+          <TbSend />
+        </span>
       </button>
     </form>
   );
