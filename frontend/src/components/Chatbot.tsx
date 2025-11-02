@@ -16,11 +16,22 @@ function getSessionId() {
   return sid;
 }
 
+// Message type for history
+type Message = {
+  role: 'user' | 'assistant';
+  content: string;
+};
+
 export default function Chatbot() {
   const [messages, setMessages] = useState([
     { sender: "bot", text: "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis." }
   ]);
   const [isTyping, setIsTyping] = useState(false);
+  
+  // NEW: Store conversation history for AI context
+  const [conversationHistory, setConversationHistory] = useState<Message[]>([
+    { role: 'assistant', content: "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis." }
+  ]);
 
   const { selectedLanguage } = useContext(LanguageContext);
   const userSessionId = useRef(getSessionId()).current;
@@ -28,21 +39,42 @@ export default function Chatbot() {
   async function handleUserMessage(text: string) {
     console.log("handleUserMessage called with:", text);
     
+    // Add to UI
     setMessages((msgs) => [...msgs, { sender: "user", text }]);
+    
+    // Add to conversation history
+    const newHistory: Message[] = [
+      ...conversationHistory,
+      { role: 'user', content: text }
+    ];
+    
     setIsTyping(true);
 
     try {
       const botReply = await sendChatMessage({
         message: text,
+        conversationHistory: newHistory,
         locale: selectedLanguage || "en",
         sessionId: userSessionId,
       });
+      
       console.log("Bot replied:", botReply);
+      
+      // Add bot reply to UI
       setMessages((msgs) => [...msgs, { sender: "bot", text: botReply }]);
+      
+      // Add bot reply to conversation history
+      setConversationHistory([
+        ...newHistory,
+        { role: 'assistant', content: botReply }
+      ]);
+      
     } catch {
-      setMessages((msgs) => [
-        ...msgs,
-        { sender: "bot", text: "Sorry, something went wrong. Please try again." },
+      const errorMsg = "Sorry, something went wrong. Please try again.";
+      setMessages((msgs) => [...msgs, { sender: "bot", text: errorMsg }]);
+      setConversationHistory([
+        ...newHistory,
+        { role: 'assistant', content: errorMsg }
       ]);
     } finally {
       setIsTyping(false);
@@ -53,24 +85,41 @@ export default function Chatbot() {
     console.log("handleFileUpload called with:", file.name);
     
     const fileType = file.type.startsWith('image/') ? '🖼️' : '📄';
-    setMessages((msgs) => [
-      ...msgs,
-      { sender: "user", text: `${fileType} Uploaded: ${file.name}` }
-    ]);
+    const uploadMsg = `${fileType} Uploaded: ${file.name}`;
+    
+    setMessages((msgs) => [...msgs, { sender: "user", text: uploadMsg }]);
+    
+    // Add file upload to conversation history
+    const newHistory: Message[] = [
+      ...conversationHistory,
+      { role: 'user', content: uploadMsg }
+    ];
+    
     setIsTyping(true);
 
     try {
       const botReply = await uploadFile({
         file,
+        conversationHistory: newHistory,
         locale: selectedLanguage || "en",
         sessionId: userSessionId,
       });
+      
       console.log("Bot replied to file:", botReply);
+      
       setMessages((msgs) => [...msgs, { sender: "bot", text: botReply }]);
+      
+      setConversationHistory([
+        ...newHistory,
+        { role: 'assistant', content: botReply }
+      ]);
+      
     } catch {
-      setMessages((msgs) => [
-        ...msgs,
-        { sender: "bot", text: "Sorry, I couldn't process that file. Please try again or upload a different file." },
+      const errorMsg = "Sorry, I couldn't process that file. Please try again or upload a different file.";
+      setMessages((msgs) => [...msgs, { sender: "bot", text: errorMsg }]);
+      setConversationHistory([
+        ...newHistory,
+        { role: 'assistant', content: errorMsg }
       ]);
     } finally {
       setIsTyping(false);
@@ -82,7 +131,9 @@ export default function Chatbot() {
   }
 
   function handleStartOver() {
-    setMessages([{ sender: "bot", text: "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis." }]);
+    const initialMsg = "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis.";
+    setMessages([{ sender: "bot", text: initialMsg }]);
+    setConversationHistory([{ role: 'assistant', content: initialMsg }]);
   }
 
   return (
