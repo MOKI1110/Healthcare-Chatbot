@@ -1,9 +1,16 @@
+type Message = {
+  role: 'user' | 'assistant';
+  content: string;
+};
+
 export async function sendChatMessage({
   message,
+  conversationHistory = [],
   locale = "en",
   sessionId,
 }: {
   message: string;
+  conversationHistory?: Message[];
   locale?: string;
   sessionId: string;
 }): Promise<string> {
@@ -14,6 +21,7 @@ export async function sendChatMessage({
     },
     body: JSON.stringify({
       message,
+      conversationHistory,
       locale,
       sessionId,
     }),
@@ -29,15 +37,18 @@ export async function sendChatMessage({
 
 export async function uploadFile({
   file,
+  conversationHistory = [],
   locale = "en",
   sessionId,
 }: {
   file: File;
+  conversationHistory?: Message[];
   locale?: string;
   sessionId: string;
 }): Promise<string> {
   const formData = new FormData();
   formData.append("file", file);
+  formData.append("conversationHistory", JSON.stringify(conversationHistory));
   formData.append("locale", locale);
   formData.append("sessionId", sessionId);
 

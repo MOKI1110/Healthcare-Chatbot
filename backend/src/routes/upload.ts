@@ -80,13 +80,22 @@ function imageToBase64(filePath: string): string {
 router.post('/', upload.single('file'), async (req: Request, res: Response) => {
   try {
     const file = req.file;
-    const { locale = 'en', sessionId } = req.body;
+    const { locale = 'en', sessionId, conversationHistory } = req.body;
+
+    // Parse conversation history if it's a string (from FormData)
+    let history = [];
+    if (conversationHistory) {
+      history = typeof conversationHistory === 'string' 
+        ? JSON.parse(conversationHistory) 
+        : conversationHistory;
+    }
 
     if (!file) {
       return res.status(400).json({ error: 'No file uploaded' });
     }
 
     console.log(`File uploaded: ${file.originalname}, Size: ${file.size} bytes, Type: ${file.mimetype}`);
+    console.log(`Conversation history length: ${history.length}`);
 
     const isImage = file.mimetype.startsWith('image/');
     let responseMessage = '';
@@ -94,15 +103,15 @@ router.post('/', upload.single('file'), async (req: Request, res: Response) => {
     if (isImage) {
       const base64Image = imageToBase64(file.path);
       const mimeType = file.mimetype;
-      responseMessage = await analyzeImageWithAI(base64Image, mimeType, locale);
+      responseMessage = await analyzeImageWithAI(base64Image, mimeType, locale, history);
     } else {
       const extractedText = await extractDocumentText(file.path, file.mimetype);
       
       if (!extractedText || extractedText.trim().length === 0) {
         responseMessage = `I received your file "${file.originalname}", but couldn't extract any text from it. Please ensure the document contains readable text.`;
       } else {
-        console.log(`Extracted ${extractedText.length} characters from PDF`);
-        responseMessage = await analyzeDocumentWithAI(extractedText, file.originalname, locale);
+        console.log(`Extracted ${extractedText.length} characters from document`);
+        responseMessage = await analyzeDocumentWithAI(extractedText, file.originalname, locale, history);
       }
     }
 

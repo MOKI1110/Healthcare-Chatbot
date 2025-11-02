@@ -3,13 +3,13 @@ import { body, validationResult } from 'express-validator';
 import { handleMessage, handleTriage } from '../services/chatbotService';
 import { Request, Response } from 'express';
 
-
 const router = Router();
 
 router.post(
   '/',
   [
     body("message").isString().trim().notEmpty().isLength({ max: 1024 }),
+    body("conversationHistory").optional().isArray(),
     body("locale").optional().isString(),
     body("sessionId").exists().isString().isLength({ min: 8 }),
   ],
@@ -19,17 +19,29 @@ router.post(
       return res.status(422).json({ error: "Invalid input", details: errors.array() });
     }
 
-    const { message, locale, sessionId } = req.body;
-    let response = null;
-    // If the message is a "triage" intent, call triage logic, else general chatbot Q&A.
-    if (/triage/i.test(message)) {
-      response = await handleTriage(message, sessionId, locale);
-    } else {
-      response = await handleMessage(message, sessionId, locale);
-    }
+    const { message, conversationHistory = [], locale = 'en', sessionId } = req.body;
 
-    // i18n handled within services
-    res.json({ message: response });
+    console.log(`Chat request from session ${sessionId}: "${message}"`);
+    console.log(`Conversation history length: ${conversationHistory.length}`);
+
+    let response = null;
+
+    try {
+      // If the message is a "triage" intent, call triage logic, else general chatbot Q&A.
+      if (/triage/i.test(message)) {
+        response = await handleTriage(message, sessionId, conversationHistory, locale);
+      } else {
+        response = await handleMessage(message, sessionId, conversationHistory, locale);
+      }
+
+      res.json({ message: response });
+    } catch (error: any) {
+      console.error('Chat route error:', error);
+      res.status(500).json({ 
+        error: 'Failed to generate response',
+        message: 'Sorry, I encountered an error. Please try again.'
+      });
+    }
   }
 );
 
