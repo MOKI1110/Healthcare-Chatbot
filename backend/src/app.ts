@@ -8,6 +8,7 @@ import Backend from 'i18next-fs-backend';
 import i18nextMiddleware from 'i18next-http-middleware';
 
 import chatRouter from './routes/chat';
+import uploadRouter from './routes/upload';
 import localizationMiddleware from './middleware/localization';
 
 const app = express();
@@ -15,11 +16,11 @@ const app = express();
 // Security Headers
 app.use(helmet());
 
-// CORS (CORS should be fine-tuned for prod!)
+// CORS
 app.use(cors({ origin: true, credentials: true }));
 
-// Rate Limiting (raise the limit for development)
-const limiter = rateLimit({ windowMs: 60 * 1000, max: 1000 }); // 1000 requests/minute
+// Rate Limiting
+const limiter = rateLimit({ windowMs: 60 * 1000, max: 1000 });
 app.use(limiter);
 
 // JSON Body Parser
@@ -37,11 +38,12 @@ i18next
 app.use(i18nextMiddleware.handle(i18next));
 app.use(localizationMiddleware);
 
-// Main Route
+// Routes
 app.use('/api/chat', chatRouter);
+app.use('/api/upload', uploadRouter);
 
 app.get('/', (req: Request, res: Response) => {
-  res.json({ status: 'Health Chatbot API running.' });
+  res.json({ status: 'Health Chatbot API running with file upload support.' });
 });
 
 export default app;
