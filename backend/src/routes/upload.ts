@@ -2,8 +2,7 @@ import { Router, type Request, type Response } from 'express';
 import multer from 'multer';
 import path from 'path';
 import fs from 'fs';
-import mammoth from 'mammoth';
-import { analyzeDocumentWithAI, analyzeImageWithAI } from '../services/aiAnalysis';
+import { analyzeImagesWithQwen } from '../services/aiAnalysis';
 
 const router = Router();
 
@@ -25,53 +24,49 @@ const upload = multer({
   storage,
   limits: { fileSize: 10 * 1024 * 1024 },
   fileFilter: (req, file, cb) => {
-    const allowedTypes = /jpeg|jpg|png|gif|pdf|doc|docx|txt/;
+    const allowedTypes = /jpeg|jpg|png|gif|pdf|txt/;
     const extname = allowedTypes.test(path.extname(file.originalname).toLowerCase());
     const mimetype = allowedTypes.test(file.mimetype);
     
     if (mimetype && extname) {
       return cb(null, true);
     } else {
-      cb(new Error('Invalid file type. Only images, PDFs, and documents allowed.'));
+      cb(new Error('Invalid file type. Only images, PDFs, and text files allowed.'));
     }
   }
 });
 
-// Extract text from PDF using pdf2json
-async function extractPdfText(filePath: string): Promise<string> {
-  const PDFParser = require('pdf2json');
+// Convert PDF to images (base64)
+async function convertPdfToBase64Images(pdfPath: string): Promise<string[]> {
+  const { pdf } = require('pdf-to-img');
+  const base64Images: string[] = [];
   
-  return new Promise((resolve, reject) => {
-    const pdfParser = new PDFParser();
+  try {
+    console.log('Converting PDF pages to images...');
     
-    pdfParser.on('pdfParser_dataError', (errData: any) => {
-      reject(new Error(errData.parserError));
-    });
+    const document = await pdf(pdfPath, { scale: 2.0 }); // Higher scale = better quality
     
-    pdfParser.on('pdfParser_dataReady', (pdfData: any) => {
-      const text = pdfParser.getRawTextContent();
-      resolve(text);
-    });
+    for await (const image of document) {
+      const base64 = image.toString('base64');
+      base64Images.push(base64);
+      
+      // Limit to first 5 pages to avoid huge payloads
+      if (base64Images.length >= 5) {
+        console.log('Limiting to first 5 pages');
+        break;
+      }
+    }
     
-    pdfParser.loadPDF(filePath);
-  });
-}
-
-async function extractDocumentText(filePath: string, mimeType: string): Promise<string> {
-  if (mimeType === 'application/pdf') {
-    return await extractPdfText(filePath);
-  } else if (mimeType === 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' || 
-             mimeType === 'application/msword') {
-    const buffer = fs.readFileSync(filePath);
-    const result = await mammoth.extractRawText({ buffer });
-    return result.value || '';
-  } else if (mimeType === 'text/plain') {
-    return fs.readFileSync(filePath, 'utf-8');
-  } else {
-    throw new Error('Unsupported document type');
+    console.log(`Converted ${base64Images.length} page(s) to images`);
+    return base64Images;
+    
+  } catch (error) {
+    console.error('PDF to image conversion error:', error);
+    throw new Error('Failed to convert PDF to images');
   }
 }
 
+// Convert single image file to base64
 function imageToBase64(filePath: string): string {
   const buffer = fs.readFileSync(filePath);
   return buffer.toString('base64');
@@ -82,7 +77,6 @@ router.post('/', upload.single('file'), async (req: Request, res: Response) => {
     const file = req.file;
     const { locale = 'en', sessionId, conversationHistory } = req.body;
 
-    // Parse conversation history if it's a string (from FormData)
     let history = [];
     if (conversationHistory) {
       history = typeof conversationHistory === 'string' 
@@ -97,28 +91,45 @@ router.post('/', upload.single('file'), async (req: Request, res: Response) => {
     console.log(`File uploaded: ${file.originalname}, Size: ${file.size} bytes, Type: ${file.mimetype}`);
     console.log(`Conversation history length: ${history.length}`);
 
-    const isImage = file.mimetype.startsWith('image/');
     let responseMessage = '';
+    const isPDF = file.mimetype === 'application/pdf';
+    const isImage = file.mimetype.startsWith('image/');
 
-    if (isImage) {
-      const base64Image = imageToBase64(file.path);
-      const mimeType = file.mimetype;
-      responseMessage = await analyzeImageWithAI(base64Image, mimeType, locale, history);
-    } else {
-      const extractedText = await extractDocumentText(file.path, file.mimetype);
+    if (isPDF) {
+      // Convert PDF to images, let Qwen do OCR + analysis
+      const pdfImages = await convertPdfToBase64Images(file.path);
       
-      if (!extractedText || extractedText.trim().length === 0) {
-        responseMessage = `I received your file "${file.originalname}", but couldn't extract any text from it. Please ensure the document contains readable text.`;
+      if (pdfImages.length === 0) {
+        responseMessage = `I received your PDF "${file.originalname}", but couldn't convert it to readable images. Please try a different file.`;
       } else {
-        console.log(`Extracted ${extractedText.length} characters from document`);
-        responseMessage = await analyzeDocumentWithAI(extractedText, file.originalname, locale, history);
+        responseMessage = await analyzeImagesWithQwen(
+          pdfImages,
+          file.originalname,
+          locale,
+          history,
+          true // isPDF flag
+        );
       }
+      
+    } else if (isImage) {
+      // Single image upload
+      const base64Image = imageToBase64(file.path);
+      responseMessage = await analyzeImagesWithQwen(
+        [base64Image],
+        file.originalname,
+        locale,
+        history,
+        false // not a PDF
+      );
+      
+    } else {
+      responseMessage = `File type ${file.mimetype} is not yet supported. Please upload images or PDFs.`;
     }
 
     res.json({
       message: responseMessage,
       fileId: file.filename,
-      fileType: isImage ? 'image' : 'document',
+      fileType: isPDF || isImage ? 'document' : 'other',
       originalName: file.originalname
     });
 
