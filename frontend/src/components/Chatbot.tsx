@@ -1,4 +1,4 @@
-import React, { useState, useContext, useRef } from "react";
+import React, { useState, useContext, useRef, useEffect } from "react";
 import ChatBubble from "./ChatBubble";
 import MessageInput from "./MessageInput";
 import QuickReplies from "./QuickReplies";
@@ -22,19 +22,61 @@ type Message = {
   content: string;
 };
 
-export default function Chatbot() {
-  const [messages, setMessages] = useState([
-    { sender: "bot", text: "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis." }
-  ]);
-  const [isTyping, setIsTyping] = useState(false);
-  
-  // NEW: Store conversation history for AI context
-  const [conversationHistory, setConversationHistory] = useState<Message[]>([
-    { role: 'assistant', content: "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis." }
-  ]);
+// UI Message type with health relevance flag
+type UIMessage = {
+  sender: 'user' | 'bot';
+  text: string;
+  isHealthRelated?: boolean;
+};
 
-  const { selectedLanguage } = useContext(LanguageContext);
+// Load conversation history from localStorage
+function loadConversationHistory(sessionId: string): Message[] {
+  const stored = localStorage.getItem(`healthbot-history-${sessionId}`);
+  if (stored) {
+    try {
+      return JSON.parse(stored);
+    } catch {
+      return [];
+    }
+  }
+  return [{
+    role: 'assistant',
+    content: "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis."
+  }];
+}
+
+// Save conversation history to localStorage
+function saveConversationHistory(sessionId: string, history: Message[]) {
+  localStorage.setItem(`healthbot-history-${sessionId}`, JSON.stringify(history));
+}
+
+// Convert conversation history to UI messages
+function historyToUIMessages(history: Message[]): UIMessage[] {
+  return history.map(msg => ({
+    sender: msg.role === 'assistant' ? 'bot' : 'user',
+    text: msg.content
+  }));
+}
+
+export default function Chatbot() {
   const userSessionId = useRef(getSessionId()).current;
+  
+  // Load conversation history from localStorage on mount
+  const [conversationHistory, setConversationHistory] = useState<Message[]>(() => 
+    loadConversationHistory(userSessionId)
+  );
+  
+  const [messages, setMessages] = useState<UIMessage[]>(() => 
+    historyToUIMessages(loadConversationHistory(userSessionId))
+  );
+  
+  const [isTyping, setIsTyping] = useState(false);
+  const { selectedLanguage } = useContext(LanguageContext);
+
+  // Save to localStorage whenever conversation history changes
+  useEffect(() => {
+    saveConversationHistory(userSessionId, conversationHistory);
+  }, [conversationHistory, userSessionId]);
 
   async function handleUserMessage(text: string) {
     console.log("handleUserMessage called with:", text);
@@ -63,19 +105,22 @@ export default function Chatbot() {
       // Add bot reply to UI
       setMessages((msgs) => [...msgs, { sender: "bot", text: botReply }]);
       
-      // Add bot reply to conversation history
-      setConversationHistory([
+      // Add bot reply to conversation history and save
+      const updatedHistory: Message[] = [
         ...newHistory,
         { role: 'assistant', content: botReply }
-      ]);
+      ];
+      setConversationHistory(updatedHistory);
       
     } catch {
       const errorMsg = "Sorry, something went wrong. Please try again.";
       setMessages((msgs) => [...msgs, { sender: "bot", text: errorMsg }]);
-      setConversationHistory([
+      
+      const updatedHistory: Message[] = [
         ...newHistory,
         { role: 'assistant', content: errorMsg }
-      ]);
+      ];
+      setConversationHistory(updatedHistory);
     } finally {
       setIsTyping(false);
     }
@@ -98,29 +143,37 @@ export default function Chatbot() {
     setIsTyping(true);
 
     try {
-      const botReply = await uploadFile({
+      const response = await uploadFile({
         file,
         conversationHistory: newHistory,
         locale: selectedLanguage || "en",
         sessionId: userSessionId,
       });
       
-      console.log("Bot replied to file:", botReply);
+      console.log("Bot replied to file:", response);
       
-      setMessages((msgs) => [...msgs, { sender: "bot", text: botReply }]);
+      // Add bot reply to UI with health relevance flag
+      setMessages((msgs) => [...msgs, { 
+        sender: "bot", 
+        text: response.message,
+        isHealthRelated: response.isHealthRelated
+      }]);
       
-      setConversationHistory([
+      const updatedHistory: Message[] = [
         ...newHistory,
-        { role: 'assistant', content: botReply }
-      ]);
+        { role: 'assistant', content: response.message }
+      ];
+      setConversationHistory(updatedHistory);
       
     } catch {
       const errorMsg = "Sorry, I couldn't process that file. Please try again or upload a different file.";
       setMessages((msgs) => [...msgs, { sender: "bot", text: errorMsg }]);
-      setConversationHistory([
+      
+      const updatedHistory: Message[] = [
         ...newHistory,
         { role: 'assistant', content: errorMsg }
-      ]);
+      ];
+      setConversationHistory(updatedHistory);
     } finally {
       setIsTyping(false);
     }
@@ -132,8 +185,16 @@ export default function Chatbot() {
 
   function handleStartOver() {
     const initialMsg = "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis.";
+    
+    const initialHistory: Message[] = [
+      { role: 'assistant', content: initialMsg }
+    ];
+    
     setMessages([{ sender: "bot", text: initialMsg }]);
-    setConversationHistory([{ role: 'assistant', content: initialMsg }]);
+    setConversationHistory(initialHistory);
+    
+    // Clear from localStorage
+    localStorage.removeItem(`healthbot-history-${userSessionId}`);
   }
 
   return (
@@ -150,7 +211,12 @@ export default function Chatbot() {
         </div>
         <div className="flex-1 overflow-y-auto mb-8 px-10 space-y-6 scroll-smooth max-h-[70vh]">
           {messages.map((msg, idx) => (
-            <ChatBubble key={idx} {...msg} />
+            <ChatBubble 
+              key={idx} 
+              sender={msg.sender} 
+              text={msg.text}
+              isHealthRelated={msg.isHealthRelated}
+            />
           ))}
           {isTyping && <TyperIndicator />}
         </div>

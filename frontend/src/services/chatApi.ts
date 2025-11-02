@@ -45,7 +45,7 @@ export async function uploadFile({
   conversationHistory?: Message[];
   locale?: string;
   sessionId: string;
-}): Promise<string> {
+}): Promise<{ message: string; isHealthRelated: boolean }> {
   const formData = new FormData();
   formData.append("file", file);
   formData.append("conversationHistory", JSON.stringify(conversationHistory));
@@ -62,5 +62,8 @@ export async function uploadFile({
   }
 
   const data = await response.json();
-  return data.message;
+  return {
+    message: data.message,
+    isHealthRelated: data.isHealthRelated ?? true
+  };
 }
