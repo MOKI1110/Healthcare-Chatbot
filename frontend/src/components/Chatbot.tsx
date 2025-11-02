@@ -4,10 +4,9 @@ import MessageInput from "./MessageInput";
 import QuickReplies from "./QuickReplies";
 import TyperIndicator from "./TyperIndicator";
 import StartOverButton from "./StartOverButton";
-import { sendChatMessage } from "../services/chatApi";
+import { sendChatMessage, uploadFile } from "../services/chatApi";
 import { LanguageContext } from "../context/LanguageContext";
 
-// Helper for unique session ID (keeps same across reloads)
 function getSessionId() {
   let sid = window.localStorage.getItem("healthbot-session-id");
   if (!sid) {
@@ -19,34 +18,59 @@ function getSessionId() {
 
 export default function Chatbot() {
   const [messages, setMessages] = useState([
-    { sender: "bot", text: "Hello! I’m here to help you check symptoms." }
+    { sender: "bot", text: "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis." }
   ]);
   const [isTyping, setIsTyping] = useState(false);
 
-  // Grab language from context
   const { selectedLanguage } = useContext(LanguageContext);
-  // Generate/fetch a unique session ID for this browser
   const userSessionId = useRef(getSessionId()).current;
 
   async function handleUserMessage(text: string) {
-    console.log("handleUserMessage called with:", text); // DEBUG
+    console.log("handleUserMessage called with:", text);
+    
+    setMessages((msgs) => [...msgs, { sender: "user", text }]);
     setIsTyping(true);
+
     try {
       const botReply = await sendChatMessage({
         message: text,
         locale: selectedLanguage || "en",
         sessionId: userSessionId,
       });
-      console.log("Bot replied:", botReply); // DEBUG
-      setMessages((msgs) => [
-        ...msgs,
-        { sender: "user", text },
-        { sender: "bot", text: botReply },
-      ]);
+      console.log("Bot replied:", botReply);
+      setMessages((msgs) => [...msgs, { sender: "bot", text: botReply }]);
     } catch {
       setMessages((msgs) => [
         ...msgs,
         { sender: "bot", text: "Sorry, something went wrong. Please try again." },
+      ]);
+    } finally {
+      setIsTyping(false);
+    }
+  }
+
+  async function handleFileUpload(file: File) {
+    console.log("handleFileUpload called with:", file.name);
+    
+    const fileType = file.type.startsWith('image/') ? '🖼️' : '📄';
+    setMessages((msgs) => [
+      ...msgs,
+      { sender: "user", text: `${fileType} Uploaded: ${file.name}` }
+    ]);
+    setIsTyping(true);
+
+    try {
+      const botReply = await uploadFile({
+        file,
+        locale: selectedLanguage || "en",
+        sessionId: userSessionId,
+      });
+      console.log("Bot replied to file:", botReply);
+      setMessages((msgs) => [...msgs, { sender: "bot", text: botReply }]);
+    } catch {
+      setMessages((msgs) => [
+        ...msgs,
+        { sender: "bot", text: "Sorry, I couldn't process that file. Please try again or upload a different file." },
       ]);
     } finally {
       setIsTyping(false);
@@ -58,7 +82,7 @@ export default function Chatbot() {
   }
 
   function handleStartOver() {
-    setMessages([{ sender: "bot", text: "Hello! I’m here to help you check symptoms." }]);
+    setMessages([{ sender: "bot", text: "Hello! I'm here to help you check symptoms. You can also upload medical images or documents for analysis." }]);
   }
 
   return (
@@ -85,7 +109,7 @@ export default function Chatbot() {
           options={["Yes", "No", "Not sure"]}
           onSelect={handleQuickReply}
         />
-        <MessageInput onSend={handleUserMessage} />
+        <MessageInput onSend={handleUserMessage} onFileUpload={handleFileUpload} />
         <StartOverButton onClick={handleStartOver} />
       </div>
     </main>
