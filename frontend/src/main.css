@@ -4,43 +4,69 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom theme variables for colors */
+/* ============================================
+   Healthcare Teal Color System (60-30-10)
+   ============================================ */
+
 :root {
-  --primary: #3C91E6;
-  --primary-dark: #2B7BC8;
-  --primary-light: #E8F3FD;
-  --secondary: #C9E4DE;
-  --secondary-dark: #A8D5C9;
-  --neutral-light: #F8F9FA;
-  --neutral-dark: #1A1A1A;
-  --neutral-medium: #6B7280;
-  --accent: #6366F1;
-  --critical: #EF4444;
-  --success: #10B981;
-  --warning: #F59E0B;
-  --gradient-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  --gradient-secondary: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-  --gradient-health: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  /* PRIMARY (60% - Teal) */
+  --primary: #008080;
+  --primary-dark: #006666;
+  --primary-darker: #004D4D;
+  --primary-light: #E6F5F5;
+  --primary-lighter: #CCF0F0;
+  
+  /* SECONDARY (30% - Neutral) */
+  --secondary: #FFFFFF;
+  --secondary-light: #F5F5F5;
+  --secondary-dark: #E0E0E0;
+  
+  /* ACCENT (10% - Alerts) */
+  --accent-orange: #FF6B35;
+  --accent-red: #E63946;
+  --accent-green: #06D6A0;
+  --accent-yellow: #FFD166;
+  
+  /* TEXT COLORS */
+  --neutral-light: #FAFAFA;
+  --neutral-dark: #212121;
+  --neutral-medium: #616161;
+  
+  /* SEMANTIC COLORS */
+  --critical: #E63946;
+  --success: #06D6A0;
+  --warning: #FFD166;
+  
+  /* GRADIENTS - Updated to Teal Theme */
+  --gradient-primary: linear-gradient(135deg, #008080 0%, #006666 100%);
+  --gradient-secondary: linear-gradient(135deg, #CCF0F0 0%, #99E0E0 100%);
+  --gradient-health: linear-gradient(135deg, #008080 0%, #06D6A0 100%);
+  --gradient-background: linear-gradient(135deg, #E6F5F5 0%, #CCF0F0 100%);
+  
   font-family: 'Inter', 'Noto Sans', 'Open Sans', Arial, sans-serif;
 }
 
+/* ============================================
+   BASE STYLES
+   ============================================ */
+
 * {
-  @apply transition-all duration-300 ease-out;
+  transition: all 0.3s ease-out;
 }
 
-/* Smooth scrolling */
 html {
   scroll-behavior: smooth;
 }
 
 body {
   font-family: 'Inter', 'Noto Sans', 'Open Sans', Arial, sans-serif;
-  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background: linear-gradient(135deg, #E6F5F5 0%, #F5F5F5 100%);
   color: var(--neutral-dark);
   min-height: 100vh;
   position: relative;
 }
 
+/* Subtle teal radial gradients for healthcare ambiance */
 body::before {
   content: '';
   position: fixed;
@@ -48,42 +74,61 @@ body::before {
   left: 0;
   right: 0;
   bottom: 0;
-  background: 
-    radial-gradient(circle at 20% 50%, rgba(99, 102, 241, 0.05) 0%, transparent 50%),
-    radial-gradient(circle at 80% 80%, rgba(236, 72, 153, 0.05) 0%, transparent 50%),
-    radial-gradient(circle at 40% 20%, rgba(59, 130, 246, 0.05) 0%, transparent 50%);
+  background:
+    radial-gradient(circle at 20% 50%, rgba(0, 128, 128, 0.04) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(6, 214, 160, 0.04) 0%, transparent 50%),
+    radial-gradient(circle at 40% 20%, rgba(0, 102, 102, 0.04) 0%, transparent 50%);
   pointer-events: none;
   z-index: 0;
 }
 
-/* Glassmorphism effect */
+/* ============================================
+   GLASSMORPHISM EFFECTS
+   ============================================ */
+
 .glass {
   background: rgba(255, 255, 255, 0.7);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
+  border: 1px solid rgba(0, 128, 128, 0.15);
+  box-shadow: 0 8px 32px 0 rgba(0, 128, 128, 0.08);
 }
 
 .glass-dark {
   background: rgba(255, 255, 255, 0.9);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
-  border: 1px solid rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(0, 128, 128, 0.2);
 }
 
-/* Button Styles */
+/* ============================================
+   BUTTON STYLES
+   ============================================ */
+
 button, input, textarea {
   font-family: inherit;
-  @apply font-medium;
+  font-weight: 500;
 }
 
 .btn-primary {
-  @apply bg-gradient-to-r from-indigo-500 to-purple-600 hover:from-indigo-600 hover:to-purple-700;
-  @apply text-white font-semibold px-6 py-3 rounded-xl;
-  @apply shadow-lg shadow-indigo-500/50 hover:shadow-xl hover:shadow-indigo-500/60;
-  @apply transform hover:scale-105 active:scale-95;
-  @apply transition-all duration-300 ease-out;
+  background: linear-gradient(to right, var(--primary), var(--primary-dark));
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 12px rgba(0, 128, 128, 0.3);
+  transform: scale(1);
+  transition: all 0.3s ease-out;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(to right, var(--primary-dark), var(--primary-darker));
+  box-shadow: 0 6px 16px rgba(0, 128, 128, 0.4);
+  transform: scale(1.05);
+}
+
+.btn-primary:active {
+  transform: scale(0.95);
 }
 
 .btn-secondary {
@@ -95,15 +140,18 @@ button, input, textarea {
 }
 
 .btn-ghost {
-  @apply bg-transparent hover:bg-gray-100 text-gray-600;
+  @apply bg-transparent hover:bg-primary-50 text-primary-600;
   @apply font-semibold px-4 py-2 rounded-lg;
   @apply transition-all duration-200 ease-out;
 }
 
-/* Input Styles */
+/* ============================================
+   INPUT STYLES
+   ============================================ */
+
 input:focus, textarea:focus, select:focus {
-  @apply ring-2 ring-indigo-500 ring-offset-2 outline-none;
-  @apply border-indigo-500;
+  @apply ring-2 ring-primary-500 ring-offset-2 outline-none;
+  @apply border-primary-500;
 }
 
 input, textarea {
@@ -111,14 +159,20 @@ input, textarea {
   @apply transition-all duration-200;
 }
 
-/* Card Styles */
+/* ============================================
+   CARD STYLES
+   ============================================ */
+
 .card {
   @apply bg-white rounded-2xl shadow-lg hover:shadow-2xl;
   @apply border border-gray-100;
   @apply transition-all duration-300;
 }
 
-/* Animations */
+/* ============================================
+   ANIMATIONS
+   ============================================ */
+
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -202,16 +256,26 @@ input, textarea {
   animation-delay: 0.45s;
 }
 
-/* Hover Effects */
+/* ============================================
+   HOVER EFFECTS
+   ============================================ */
+
 .hover-lift {
   @apply transition-transform duration-300 hover:scale-105;
 }
 
 .hover-glow {
-  @apply transition-shadow duration-300 hover:shadow-lg hover:shadow-indigo-500/50;
+  @apply transition-shadow duration-300;
 }
 
-/* Scrollbar Styling */
+.hover-glow:hover {
+  box-shadow: 0 8px 24px rgba(0, 128, 128, 0.3);
+}
+
+/* ============================================
+   SCROLLBAR STYLING (Teal Theme)
+   ============================================ */
+
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
@@ -222,28 +286,39 @@ input, textarea {
 }
 
 ::-webkit-scrollbar-thumb {
-  @apply bg-gradient-to-b from-indigo-400 to-purple-500 rounded-full;
+  background: linear-gradient(to bottom, #008080, #006666);
+  @apply rounded-full;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  @apply from-indigo-500 to-purple-600;
+  background: linear-gradient(to bottom, #006666, #004D4D);
 }
 
-/* Utility Classes */
-.bg-primary      { background-color: var(--primary); }
-.text-primary    { color: var(--primary); }
-.bg-secondary    { background-color: var(--secondary); }
-.text-secondary  { color: var(--secondary); }
-.bg-accent       { background-color: var(--accent); }
-.text-accent     { color: var(--accent); }
-.bg-critical     { background-color: var(--critical); }
-.text-critical   { color: var(--critical); }
+/* ============================================
+   UTILITY CLASSES (Teal Theme)
+   ============================================ */
+
+.bg-primary { background-color: var(--primary); }
+.text-primary { color: var(--primary); }
+.bg-secondary { background-color: var(--secondary); }
+.text-secondary { color: var(--neutral-medium); }
+.bg-accent { background-color: var(--accent-green); }
+.text-accent { color: var(--accent-green); }
+.bg-critical { background-color: var(--critical); }
+.text-critical { color: var(--critical); }
 .bg-neutral-light { background-color: var(--neutral-light); }
 .text-neutral-dark { color: var(--neutral-dark); }
 
 .gradient-text {
-  @apply bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent;
+  background: linear-gradient(135deg, #008080 0%, #006666 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
+
+/* ============================================
+   RESPONSIVE DESIGN
+   ============================================ */
 
 @media (max-width: 768px) {
   main {
@@ -251,4 +326,58 @@ input, textarea {
     height: 85vh !important;
     padding: 1rem !important;
   }
+  
+  .card {
+    border-radius: 1rem;
+  }
+  
+  .btn-primary, .btn-secondary {
+    padding: 0.75rem 1.25rem;
+    font-size: 0.875rem;
+  }
+}
+
+/* ============================================
+   HEALTHCARE-SPECIFIC STYLES
+   ============================================ */
+
+/* Health status indicators */
+.status-healthy {
+  background-color: rgba(6, 214, 160, 0.1);
+  color: var(--success);
+  border: 1px solid rgba(6, 214, 160, 0.3);
+}
+
+.status-warning {
+  background-color: rgba(255, 209, 102, 0.1);
+  color: var(--warning);
+  border: 1px solid rgba(255, 209, 102, 0.3);
+}
+
+.status-critical {
+  background-color: rgba(230, 57, 70, 0.1);
+  color: var(--critical);
+  border: 1px solid rgba(230, 57, 70, 0.3);
+}
+
+/* Medical card styling */
+.medical-card {
+  @apply bg-white rounded-2xl shadow-md border;
+  border-color: rgba(0, 128, 128, 0.15);
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.medical-card:hover {
+  border-color: rgba(0, 128, 128, 0.3);
+  box-shadow: 0 8px 24px rgba(0, 128, 128, 0.12);
+  transform: translateY(-2px);
+}
+
+/* Health badge */
+.health-badge {
+  @apply inline-flex items-center px-3 py-1 rounded-full text-sm font-medium;
+  background-color: var(--primary-light);
+  color: var(--primary-dark);
+  border: 1px solid rgba(0, 128, 128, 0.2);
 }

@@ -3,7 +3,6 @@ import { HiDocument } from "react-icons/hi2";
 import { RiVoiceAiFill } from "react-icons/ri";
 import { TbSend } from "react-icons/tb";
 
-
 type MessageInputProps = {
   onSend: (text: string) => void;
   onFileUpload: (file: File) => void;
@@ -27,66 +26,72 @@ export default function MessageInput({ onSend, onFileUpload }: MessageInputProps
     if (file) {
       console.log("File selected:", file.name, file.type, file.size);
       onFileUpload(file);
-      // Reset file input
       e.target.value = "";
     }
   }
 
   return (
-    <form
-      className="flex items-center gap-4 p-5 card shadow-lg hover-glow w-[95%] mx-auto max-w-[85rem]"
-      aria-label="Message input"
-      onSubmit={handleSubmit}
+    <form 
+      onSubmit={handleSubmit} 
+      className="flex items-center gap-3 p-2 rounded-2xl bg-white border border-secondary-300 shadow-md transition-all duration-300 focus-within:border-primary-500 focus-within:shadow-lg"
     >
-      {/* Voice Input Button */}
-      <button 
-        type="button" 
-        aria-label="Voice input" 
-        className="text-2xl p-3 rounded-xl hover:bg-gradient-to-br hover:from-pink-50 hover:to-rose-50 transition-all duration-300 hover:scale-110 group"
+      {/* Voice Input Button with Tooltip */}
+      <button
+        type="button"
+        className="p-3 rounded-xl bg-primary-50 text-primary-600 hover:bg-primary-100 transition-all duration-200 hover:scale-105 group relative"
+        aria-label="Voice input"
       >
-        <span className="group-hover:scale-125 transition-transform duration-300 ">
-          <RiVoiceAiFill className="text-gray-500 group-hover:text-gray-700 " />
+        <RiVoiceAiFill className="w-5 h-5" />
+        {/* Tooltip */}
+        <span className="absolute bottom-full mb-2 left-1/2 -translate-x-1/2 px-3 py-1 bg-gray-900 text-white text-xs rounded-lg opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
+          Voice Input
         </span>
       </button>
 
-      {/* Upload Button */}
-      <label 
-        htmlFor="file-upload"
-        className="text-2xl p-3 rounded-xl hover:bg-gradient-to-br hover:from-blue-50 hover:to-indigo-50 transition-all duration-300 hover:scale-110 group"
-        aria-label="Upload file"
-      >
-        <span className="group-hover:scale-125 transition-transform duration-300 ">
-        <HiDocument className="text-gray-500 group-hover:text-gray-700 " />
+      {/* Upload Button with Tooltip */}
+      <label className="p-3 rounded-xl bg-primary-50 text-primary-600 hover:bg-primary-100 transition-all duration-200 cursor-pointer hover:scale-105 group relative">
+        <HiDocument className="w-5 h-5" />
+        {/* Tooltip */}
+        <span className="absolute bottom-full mb-2 left-1/2 -translate-x-1/2 px-3 py-1 bg-gray-900 text-white text-xs rounded-lg opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
+          Upload File
         </span>
+        <input
+          type="file"
+          onChange={handleFileUpload}
+          className="hidden"
+          accept="image/*,.pdf,.doc,.docx,.txt"
+          aria-label="Upload file"
+        />
       </label>
-      <input
-        id="file-upload"
-        type="file"
-        accept="image/*,.pdf,.doc,.docx,.txt"
-        onChange={handleFileUpload}
-        className="hidden"
-        aria-label="File upload input"
-      />
 
       {/* Text Input */}
       <input
-        className="flex-1 outline-none text-base p-3 border-2 border-gray-200 rounded-xl focus:border-indigo-400 transition-all duration-300"
+        type="text"
         value={input}
-        onChange={e => setInput(e.target.value)}
+        onChange={(e) => setInput(e.target.value)}
         placeholder="Type or speak your message here..."
+        className="flex-1 px-4 py-3 bg-transparent outline-none text-secondary-900 placeholder-secondary-500"
         aria-label="Type your message"
       />
 
-      {/* Send Button */}
+      {/* Send Button with Tooltip */}
       <button
         type="submit"
         disabled={!input.trim()}
-        className="p-3 bg-gradient-to-r from-indigo-500 to-purple-600 text-white rounded-xl hover:from-indigo-600 hover:to-purple-700 transition-all duration-300 hover:scale-110 shadow-lg disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100"
+        className={`p-3 rounded-xl transition-all duration-200 hover:scale-105 group relative ${
+          input.trim()
+            ? "bg-primary-600 text-white hover:bg-primary-700"
+            : "bg-secondary-300 text-secondary-500 cursor-not-allowed"
+        }`}
         aria-label="Send message"
       >
-        <span className="text-2xl">
-          <TbSend />
-        </span>
+        <TbSend className="w-5 h-5" />
+        {/* Tooltip - only show when button is enabled */}
+        {input.trim() && (
+          <span className="absolute bottom-full mb-2 left-1/2 -translate-x-1/2 px-3 py-1 bg-gray-900 text-white text-xs rounded-lg opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
+            Send Message
+          </span>
+        )}
       </button>
     </form>
   );
