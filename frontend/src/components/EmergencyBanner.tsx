@@ -9,7 +9,7 @@ const emergencyMessages = [
 
 const EmergencyBanner: React.FC = () => {
   return (
-    <div className="w-full overflow-x-hidden bg-red-700">
+    <div className="w-full overflow-x-hidden bg-red-500">
       <div className="whitespace-nowrap animate-marquee py-2 text-white font-bold text-base">
         {emergencyMessages.map((msg, idx) => (
           <span key={idx} className="mx-8">{msg}</span>

@@ -9,6 +9,7 @@ import i18nextMiddleware from 'i18next-http-middleware';
 
 import chatRouter from './routes/chat';
 import uploadRouter from './routes/upload';
+import ragRouter from './routes/rag';
 import localizationMiddleware from './middleware/localization';
 
 const app = express();
@@ -41,6 +42,7 @@ app.use(localizationMiddleware);
 // Routes
 app.use('/api/chat', chatRouter);
 app.use('/api/upload', uploadRouter);
+app.use('/api/rag', ragRouter);
 
 app.get('/', (req: Request, res: Response) => {
   res.json({ status: 'Health Chatbot API running with file upload support.' });
