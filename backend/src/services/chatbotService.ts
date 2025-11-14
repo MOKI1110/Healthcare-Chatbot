@@ -1,6 +1,8 @@
 import axios from "axios";
 import config from "../config";
 import { cleanModelText } from "../utils/cleanText";
+import { retrieveContext, vectorStore } from "./ragService";
+import ragContextManager from "./ragContextManager";
 
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
 
@@ -8,8 +10,40 @@ const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
 const PRIMARY_MODEL_ID = "deepseek/deepseek-chat-v3.1:free";
 // Backup model → LLaMA 3.3
 const BACKUP_MODEL_ID = "meta-llama/llama-3.3-8b-instruct:free";
+// Second backup model → Mistral (neutral, often lenient moderation)
+const BACKUP_MODEL_ID_2 = "mistralai/mistral-7b-instruct:free";
 
 const AXIOS_TIMEOUT = 25_000; // 25 seconds
+
+// ----------------------------------------
+// 🔹 Helper: Small utils
+// ----------------------------------------
+function sleep(ms: number): Promise<void> {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function sanitizeForModeration(text: string): string {
+  // Remove URLs, emails, and collapse whitespace to reduce moderation triggers
+  const noUrls = text.replace(/https?:\/\/\S+/gi, "[link]");
+  const noEmails = noUrls.replace(/\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/gi, "[email]");
+  const collapsed = noEmails.replace(/\s+/g, " ").trim();
+  // Trim extremely long inputs
+  return collapsed.length > 1200 ? collapsed.slice(0, 1200) + " …" : collapsed;
+}
+
+function compactRagContext(ragContext?: string, maxLen = 1500): string | undefined {
+  if (!ragContext) return ragContext;
+  if (ragContext.length <= maxLen) return ragContext;
+  // Keep header and truncate references conservatively
+  const headerEnd = ragContext.indexOf("### ⚠️ Critical Instructions");
+  if (headerEnd > 0) {
+    const header = ragContext.slice(0, headerEnd);
+    const tail = ragContext.slice(headerEnd);
+    const remaining = Math.max(0, maxLen - header.length - 100);
+    return header + tail.slice(0, remaining) + "\n\n[Context truncated]";
+  }
+  return ragContext.slice(0, maxLen) + "\n\n[Context truncated]";
+}
 
 // ----------------------------------------
 // 🔹 Helper: Common header builder
@@ -29,17 +63,39 @@ function buildHeaders() {
 }
 
 // ----------------------------------------
-// 🔹 Helper: Generic model call with conversation history
+// 🔹 Helper: Format RAG context for prompt
 // ----------------------------------------
-async function callModel(
-  modelId: string, 
-  message: string, 
-  conversationHistory: any[] = [],
-  imageUrl?: string
-): Promise<string> {
-  const systemPrompt = {
-    role: "system",
-    content: `
+function formatRAGContext(retrievedDocs: any[]): string {
+  if (!retrievedDocs || retrievedDocs.length === 0) {
+    return "";
+  }
+
+  const contextSections = retrievedDocs.map((doc, index) => {
+    const source = doc.chunk.metadata.source || "medical knowledge base";
+    const docType = doc.chunk.metadata.documentType || "general";
+    return `[Reference ${index + 1}] (Source: ${source}, Type: ${docType}, Relevance: ${(doc.similarity * 100).toFixed(1)}%)
+${doc.chunk.content}`;
+  }).join("\n\n");
+
+  return `\n\n### 📚 Relevant Medical Information
+The following information has been retrieved from medical knowledge bases to help answer the user's question. Use this information as the PRIMARY source for your response. If the information doesn't directly address the question, you may supplement with your general knowledge, but always prioritize the retrieved information.
+
+${contextSections}
+
+### ⚠️ Critical Instructions
+- **Base your response primarily on the retrieved information above**
+- If the retrieved information doesn't fully answer the question, acknowledge this and provide what you can from the retrieved context
+- **DO NOT make up or hallucinate information** that isn't in the retrieved context or your verified medical knowledge
+- If you're uncertain, say so clearly
+- Always cite that information comes from medical knowledge bases when using retrieved context
+- Maintain empathy and clarity in your communication`;
+}
+
+// ----------------------------------------
+// 🔹 Helper: Build system prompt with RAG context
+// ----------------------------------------
+function buildSystemPrompt(ragContext?: string): { role: string; content: string } {
+  const basePrompt = `
 You are **AURA**, an advanced and empathetic **Virtual Health Assistant** created to empower individuals with reliable, science-backed health and wellness guidance.
 
 ---
@@ -77,9 +133,26 @@ You are **not** a replacement for a licensed healthcare provider. Your role is t
 ---
 
 **In essence:**  
-You are a digital health companion built to help people feel informed, understood, and supported.
-    `,
+You are a digital health companion built to help people feel informed, understood, and supported.`;
+
+  return {
+    role: "system",
+    content: ragContext ? basePrompt + ragContext : basePrompt,
   };
+}
+
+// ----------------------------------------
+// 🔹 Helper: Generic model call with conversation history and RAG
+// ----------------------------------------
+async function callModel(
+  modelId: string, 
+  message: string, 
+  conversationHistory: any[] = [],
+  imageUrl?: string,
+  ragContext?: string
+): Promise<string> {
+  const safeRagContext = compactRagContext(ragContext);
+  const systemPrompt = buildSystemPrompt(safeRagContext);
 
   // Build messages array with full conversation context
   const messages: any[] = [systemPrompt];
@@ -142,30 +215,71 @@ You are a digital health companion built to help people feel informed, understoo
 }
 
 // ----------------------------------------
-// 🔹 Automatic model switch logic with conversation history
+// 🔹 Automatic model switch logic with conversation history and RAG
 // ----------------------------------------
 async function callWithFallback(
   message: string, 
   conversationHistory: any[] = [],
-  imageUrl?: string
+  imageUrl?: string,
+  ragContext?: string
 ): Promise<string> {
-  try {
-    // 1️⃣ Try primary model (DeepSeek)
-    return await callModel(PRIMARY_MODEL_ID, message, conversationHistory, imageUrl);
-  } catch (primaryError) {
-    console.warn("[⚠️ DeepSeek failed — switching to LLaMA backup model]");
+  // 0) Prepare sanitized inputs for moderated retries
+  const sanitizedMessage = sanitizeForModeration(message);
+  const compactedRag = compactRagContext(ragContext);
+
+  // 1) Try primary model with retry/backoff on 429
+  const primaryMaxRetries = 2;
+  for (let attempt = 0; attempt <= primaryMaxRetries; attempt++) {
     try {
-      // 2️⃣ Fallback to LLaMA if DeepSeek fails
-      return await callModel(BACKUP_MODEL_ID, message, conversationHistory, imageUrl);
-    } catch (backupError) {
-      console.error("[❌ Both models failed]");
-      return "I'm currently unable to process your message. Please try again later.";
+      const backoffMs = attempt === 0 ? 0 : Math.min(10000, 1000 * Math.pow(2, attempt - 1)) + Math.floor(Math.random() * 250);
+      if (backoffMs > 0) {
+        console.log(`[Backoff] Waiting ${backoffMs}ms before retrying DeepSeek...`);
+        await sleep(backoffMs);
+      }
+      console.log(`[Model] Attempting DeepSeek (${PRIMARY_MODEL_ID})${ragContext ? ' with RAG context' : ''}... (try ${attempt + 1}/${primaryMaxRetries + 1})`);
+      return await callModel(PRIMARY_MODEL_ID, message, conversationHistory, imageUrl, compactedRag);
+    } catch (err: any) {
+      const status = err?.response?.status;
+      const msg = err?.response?.data?.error?.message || err.message;
+      console.warn(`[⚠️ DeepSeek failed — Status: ${status}, Message: ${msg}]`);
+      if (status !== 429 || attempt === primaryMaxRetries) {
+        break;
+      }
     }
+  }
+
+  // 2) Fallback to LLaMA; if 403 moderation error, sanitize and retry once
+  try {
+    console.warn("[⚠️ Switching to LLaMA backup model]");
+    console.log(`[Model] Attempting LLaMA (${BACKUP_MODEL_ID})${ragContext ? ' with RAG context' : ''}...`);
+    return await callModel(BACKUP_MODEL_ID, message, conversationHistory, imageUrl, compactedRag);
+  } catch (llamaErr: any) {
+    const status = llamaErr?.response?.status;
+    const msg = llamaErr?.response?.data?.error?.message || llamaErr.message;
+    console.warn(`[⚠️ LLaMA failed — Status: ${status}, Message: ${msg}]`);
+    if (status === 403) {
+      console.log("[Moderation] Retrying LLaMA with sanitized input and compacted context...");
+      try {
+        return await callModel(BACKUP_MODEL_ID, sanitizedMessage, conversationHistory, imageUrl, compactedRag);
+      } catch {
+        // Fall through to second backup
+      }
+    }
+  }
+
+  // 3) Second backup model — more lenient moderation typically
+  try {
+    console.warn("[⚠️ Switching to second backup model (Mistral)]");
+    console.log(`[Model] Attempting Mistral (${BACKUP_MODEL_ID_2})${ragContext ? ' with RAG context' : ''}...`);
+    return await callModel(BACKUP_MODEL_ID_2, sanitizedMessage, conversationHistory, imageUrl, compactedRag);
+  } catch (err) {
+    console.error("[❌ All models failed]");
+    return "I'm currently unable to process your message reliably due to service limits. Please try again shortly. If this is urgent, contact a licensed healthcare provider.";
   }
 }
 
 // ----------------------------------------
-// 🔹 Public API functions with conversation history
+// 🔹 Public API functions with conversation history and RAG
 // ----------------------------------------
 export async function handleMessage(
   message: string,
@@ -174,7 +288,52 @@ export async function handleMessage(
   locale = "en"
 ): Promise<string> {
   console.log(`[handleMessage] History length: ${conversationHistory.length}`);
-  return callWithFallback(message, conversationHistory);
+  
+  // Check if RAG is enabled
+  const ragEnabled = config.RAG_ENABLED !== false;
+  
+  if (!ragEnabled) {
+    console.log("[handleMessage] RAG disabled, using direct DeepSeek call");
+    return callWithFallback(message, conversationHistory);
+  }
+  
+  try {
+    // 1. Retrieve relevant context using RAG
+    console.log("[RAG] Retrieving context for query...");
+    const ragContext = await retrieveContext(message, conversationHistory);
+    
+    console.log(`[RAG] Retrieved ${ragContext.retrievedDocs.length} relevant documents`);
+    if (ragContext.retrievedDocs.length > 0) {
+      ragContext.retrievedDocs.forEach((doc, idx) => {
+        console.log(`[RAG] Doc ${idx + 1}: ${doc.chunk.metadata.source} (similarity: ${(doc.similarity * 100).toFixed(1)}%)`);
+      });
+    } else {
+      console.log("[RAG] No documents retrieved - vector store may be empty or query doesn't match");
+    }
+    
+    // 2. Store RAG context for conversation management
+    ragContextManager.addRAGContext(sessionId, ragContext);
+    
+    // 3. Get relevant context from conversation history
+    const relevantContext = ragContextManager.getRelevantContext(sessionId, message);
+    
+    // 4. Format RAG context for prompt
+    const formattedContext = formatRAGContext(relevantContext.retrievedDocs);
+    
+    // 5. Enhance message with conversation context if needed
+    let enhancedMessage = message;
+    if (relevantContext.conversationSummary && relevantContext.relevantEntities.length > 0) {
+      enhancedMessage = `${message}\n\n[Context: ${relevantContext.conversationSummary}. Relevant topics: ${relevantContext.relevantEntities.join(", ")}]`;
+    }
+    
+    // 6. Call DeepSeek with RAG context
+    console.log("[RAG] Calling DeepSeek with retrieved context...");
+    return await callWithFallback(enhancedMessage, conversationHistory, undefined, formattedContext);
+  } catch (error: any) {
+    console.error("[handleMessage] RAG retrieval failed, falling back to direct call:", error.message);
+    // Fallback to direct call if RAG fails
+    return callWithFallback(message, conversationHistory);
+  }
 }
 
 export async function handleTriage(
@@ -185,7 +344,23 @@ export async function handleTriage(
 ): Promise<string> {
   const triagePrompt = `Perform symptom triage. Guide the user with empathetic, clear, and simple questions. User's concern: ${message}`;
   console.log(`[handleTriage] History length: ${conversationHistory.length}`);
-  return callWithFallback(triagePrompt, conversationHistory);
+  
+  try {
+    // Retrieve relevant medical guidelines for triage
+    const ragContext = await retrieveContext(message, conversationHistory, {
+      topK: 3,
+      documentType: "guideline",
+    });
+    
+    ragContextManager.addRAGContext(sessionId, ragContext);
+    const relevantContext = ragContextManager.getRelevantContext(sessionId, message);
+    const formattedContext = formatRAGContext(relevantContext.retrievedDocs);
+    
+    return await callWithFallback(triagePrompt, conversationHistory, undefined, formattedContext);
+  } catch (error: any) {
+    console.error("[handleTriage] RAG retrieval failed:", error.message);
+    return callWithFallback(triagePrompt, conversationHistory);
+  }
 }
 
 export async function handleImageMessage(
