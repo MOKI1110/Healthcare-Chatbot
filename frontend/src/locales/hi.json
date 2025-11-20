@@ -1,0 +1,11 @@
+{
+  "Welcome, how can we help today?": "स्वागत है, आज हम कैसे सहायता कर सकते हैं?",
+  "Please choose your language.": "कृपया अपनी भाषा चुनें।",
+  "Brand Logo": "ब्रांड लोगो",
+  "Switch Language": "भाषा बदलें",
+  "Help & Privacy": "सहायता और गोपनीयता",
+  "About this chatbot": "इस चैटबॉट के बारे में",
+  "If this is a medical emergency, please call your local emergency number.": "यदि यह चिकित्सा आपातकाल है, तो कृपया अपने स्थानीय आपातकालीन नंबर पर कॉल करें।",
+  "greeting": "नमस्ते! मैं आपका स्वास्थ्य सहायक हूँ। कृपया अपने लक्षणों का वर्णन करें।",
+  "error_invalid_input": "अमान्य इनपुट प्रदान किया गया है।"
+}

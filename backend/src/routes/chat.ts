@@ -1,6 +1,7 @@
 import { Router } from 'express';
 import { body, validationResult } from 'express-validator';
 import { handleMessage, handleTriage } from '../services/chatbotService';
+import { translateViaM2M100 } from '../services/translationService'; // <-- MAKE SURE TO IMPLEMENT THIS
 import { Request, Response } from 'express';
 
 const router = Router();
@@ -19,25 +20,36 @@ router.post(
       return res.status(422).json({ error: "Invalid input", details: errors.array() });
     }
 
-    const { message, conversationHistory = [], locale = 'en', sessionId } = req.body;
-
+    let { message, conversationHistory = [], locale = 'en', sessionId } = req.body;
     console.log(`Chat request from session ${sessionId}: "${message}"`);
     console.log(`Conversation history length: ${conversationHistory.length}`);
 
+    let translatedInput = message;
     let response = null;
 
     try {
-      // If the message is a "triage" intent, call triage logic, else general chatbot Q&A.
-      if (/triage/i.test(message)) {
-        response = await handleTriage(message, sessionId, conversationHistory, locale);
-      } else {
-        response = await handleMessage(message, sessionId, conversationHistory, locale);
+      // Step 1: Translate incoming message to English if needed
+      if (locale !== 'en') {
+        translatedInput = await translateViaM2M100(message, locale, 'en');
       }
 
-      res.json({ message: response });
+      // Step 2: Handle triage or normal message (in English)
+      if (/triage/i.test(translatedInput)) {
+        response = await handleTriage(translatedInput, sessionId, conversationHistory, 'en');
+      } else {
+        response = await handleMessage(translatedInput, sessionId, conversationHistory, 'en');
+      }
+
+      // Step 3: Translate response back to user's language, if needed
+      let output = response;
+      if (locale !== 'en') {
+        output = await translateViaM2M100(response, 'en', locale);
+      }
+
+      res.json({ message: output });
     } catch (error: any) {
       console.error('Chat route error:', error);
-      res.status(500).json({ 
+      res.status(500).json({
         error: 'Failed to generate response',
         message: 'Sorry, I encountered an error. Please try again.'
       });

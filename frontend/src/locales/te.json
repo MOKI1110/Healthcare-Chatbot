@@ -1,0 +1,11 @@
+{
+    "Welcome, how can we help today?": "స్వాగతం, మేము ఈ రోజు ఎలా సహాయం చేయగలము?",
+    "Please choose your language.": "దయచేసి మీ భాషను ఎంచుకోండి.",
+    "Brand Logo": "బ్రాండ్ లోగో",
+    "Switch Language": "భాష మార్చు",
+    "Help & Privacy": "సహాయం & గోప్యత",
+    "About this chatbot": "ఈ చాట్‌బాట్ గురించి",
+    "If this is a medical emergency, please call your local emergency number.": "ఇది ఒక వైద్య అత్యవసరం అయితే, దయచేసి మీ స్థానిక అత్యవసర నంబర్‌కు కాల్ చేయండి.",
+    "greeting": "హలో! నేను మీ ఆరోగ్య సహాయకుడు. దయచేసి మీ లక్షణాలను వివరించండి.",
+    "error_invalid_input": "చెల్లని ఇన్‌పుట్ ఇవ్వబడింది."
+}

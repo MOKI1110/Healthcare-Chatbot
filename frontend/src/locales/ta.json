@@ -1,0 +1,11 @@
+{
+  "Welcome, how can we help today?": "நல்வரவு, இன்று எவ்வாறு உதவ முடியும்?",
+  "Please choose your language.": "தயவுசெய்து உங்கள் மொழியைத் தேர்ந்தெடுக்கவும்.",
+  "Brand Logo": "தயாரிப்பு லோகோ",
+  "Switch Language": "மொழியை மாற்றவும்",
+  "Help & Privacy": "உதவி & தனியுரிமை",
+  "About this chatbot": "இந்த சாட்பாட் பற்றி",
+  "If this is a medical emergency, please call your local emergency number.": "இதுவென்றால் மருத்துவ அவசரநிலை, உங்கள் உள்ளூர் அவசர எண்ணிற்கு அழைக்கவும்.",
+  "greeting": "வணக்கம்! நான் உங்கள் சுகாதார உதவியாளர். தயவுசெய்து உங்கள் அறிகுறிகளை விவரிக்கவும்.",
+  "error_invalid_input": "தவறான உள்ளீடு வழங்கப்பட்டது."
+}
