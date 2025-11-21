@@ -7,10 +7,23 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Node
 node_modules
+
+# Build
 dist
 dist-ssr
+
+# Local environment files
 *.local
+.env
+.env.local
+.env.*
+*.env
+
+# Vite / PNPM cache
+.vite/
+.pnpm-store/
 
 # Editor directories and files
 .vscode/*
@@ -22,3 +35,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Backups
+src.backup/
+
+# Temporary
+.cache/
+Thumbs.db

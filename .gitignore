@@ -1,0 +1,56 @@
+# === Python ===
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Node.js General ===
+node_modules/
+**/node_modules/
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Build Artifacts ===
+dist/
+build/
+.next/
+.vite/
+.pnpm-store/
+
+# === Environment / Secrets ===
+.env
+.env.*
+*.env
+
+# === Cache / Temp ===
+.DS_Store
+Thumbs.db
+.cache/
+.temp/
+
+# === Uploaded Files ===
+backend/uploads/
+**/uploads/
+
+# === RAG / AI Models ===
+rag/**/*.faiss
+rag/**/*.pkl
+rag/**/*.pickle
+rag/**/*.bin
+
+# === Backups ===
+src.backup/
+**/src.backup/
+
+# === IDE/Editor ===
+.vscode/
+.idea/
+
+# === Logs ===
+*.log
+logs/
