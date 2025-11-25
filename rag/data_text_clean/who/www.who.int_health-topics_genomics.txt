@@ -1,0 +1,119 @@
+Genomics - Global
+Skip to main content
+Overview
+Genomics is the study of the complete set of genes (the genome) of organisms, of the way genes work, interact with each other and with the environment.
+Genomics incorporates elements of genetics, but is concerned with the characterization of all genes of an organism, rather than individual genes. The field is multidisciplinary, and uses a combination of laboratory and bioinformatic techniques to investigate genomes’ structure, function, how they have evolved and how they can be edited.
+Landmark achievements in the early 2000s, culminating with the publication of the first reference human genome, have transformed scientific discovery of diseases and launched a powerful era in genetic medicine. Recent breakthroughs include:
+advances in the field of pharmacogenomics, where genomic information is used to study individual responses to drugs and enable the development of targeted therapies;
+the publication of the first human 'pangenome', representing the genetic diversity of the species; and
+the development of genome editing approaches, including by CRISPR/Cas9 technology.
+Collectively, these innovations have reshaped the understanding of the genetic basis of complex diseases, of genotype–phenotype relationships, the way health information is generated and how knowledge is translated in novel medicine and public health practice.
+Health-related applications
+Genomics is evolving rapidly, and its potential impact for the future of human health cannot yet be known. Human genomics knowledge and technologies provide new ways to prevent and manage many diseases, and opportunities to achieve global public health goals.
+Genomic knowledge of other organisms contributes to the understanding of human health and diseases, the interconnectedness across species, and is thus a vital component of the One Health approach.
+Some applications of genomics:
+medical applications in risk assessment, diagnosis, treatment selection, disease monitoring and drug development;
+applications of pathogen genomics in the identification of etiological agents, surveillance of infections and investigation of their transmission within communities;
+animal and plant genomics applications to catalogue genetic biodiversity, identify phenotypic and functional genetic traits, and select and engineer specific traits.
+WHO Response
+Compared to high-income countries, low- and middle-income countries are often disproportionately disadvantaged in the advancement of, and access to, genomics technologies and their applications.
+WHO is implementing a programme of activities to promote equitable and fair access to genomics technologies for the benefit of people worldwide. Following recommended actions identified by the WHO Science Council in its report ‘
+Accelerating access to genomics for global health: promotion, implementation, collaboration, and ethical, legal, and social issues: a report of the WHO Science Council’
+(2022), the programme of work is articulated across four themes:
+●
+Promotion:
+Advocacy is needed to persuade governments, commercial and non-commercial organizations, academic institutions, and others, of the medical, scientific, and economic benefits of genomic technologies and to promote affordable access to genomic technologies globally.
+●
+Implementation
+: Overcoming obstacles to implementation will require local planning, financing, training of essential personnel, and the affordable provision of instruments, materials, and computational infrastructure.
+●
+Collaboration
+: Government ministries, funding agencies, healthcare and scientific organizations in academia and industry should collaborate to establish plans on how to use genomics, build and expand technical capacity, if appropriate through regional programmes.
+●
+Ethical, legal and social issues
+: Effective oversight – coupled with national and international rules and standards – is key to promoting ethical, legal, equitable use and responsible sharing of information obtained with genomic methods.
+Initiatives and groups
+Technical Advisory Group on Genomics
+Technical work
+Research for Health
+News
+All →
+20 November 2024
+Departmental update
+WHO releases new principles for ethical human genomic data collection and sharing
+18 June 2024
+Departmental update
+Pan American Health Organization regional meeting on human genomic research for health held
+Technical Advisory Group on Genomics
+Read more
+Publications
+All →
+20 November 2024
+Guidance for human genome data collection, access, use and sharing
+The ethical, legal, and equitable sharing of human genomic data is critical to advancing global health research and ensuring fair access to the benefits...
+Download
+Read More
+5 December 2023
+Global genomic surveillance strategy for pathogens with pandemic and epidemic potential 2022–2032: progress...
+Since its launch in March 2022, WHO has been working with countries as well as partners to implement the Strategy and monitor gains against the Strategy’s...
+Download
+Read More
+18 August 2023
+Considerations for developing a national genomic surveillance strategy or action plan for pathogens with...
+This step by step guide outlines key considerations and a proposed
+approach for countries to develop a national genomic surveillance
+strategy or action...
+Download
+Read More
+8 November 2022
+WHO guiding principles for pathogen genome data sharing
+WHO encourages the sharing of pathogen genome
+data to protect global public health. Sharing of
+pathogen genome data is critical for preventing,
+detecting,...
+Download
+Read More
+12 July 2022
+Accelerating access to genomics for global health: promotion, implementation, collaboration, and ethical,...
+This publication presents the recommendations of the WHO Science Council to the Director-General on accelerating access to genomics for global health....
+Download
+Read More
+28 March 2022
+Global genomic surveillance strategy for pathogens with pandemic and epidemic potential, 2022–2032
+The Strategy provides a high-level unifying framework to leverage existing capacities, address barriers and strengthen the use of genomic surveillance...
+Download
+Read More
+8 December 2021
+WHO Consultation on the Global Genomic Surveillance Strategy for Pathogens with Pandemic and Epidemic...
+This virtual consultation aimed to provide a forum for the exchange
+of information and ideas on the Global Strategy. The consultation, which
+took place...
+Download
+Read More
+12 July 2021
+Human genome editing: position paper
+The recent application of tools, such as CRISPR-Cas9 (clustered regularly interspaced short palindromic repeats; Cas9 nuclease), to edit the human genome...
+Download
+Read More
+External publications
+Research for Health (RFH)
+The WHO genomics program of work for equitable implementation of human genomics for global health
+Read More
+Multimedia
+All →
+Infographic
+How our differences benefit us all
+Infographic
+A world of healthcare possibilities
+Infographic
+A tale of advancing healthcare
+Infographic
+Supporting health throughout our lives
+Events
+All →
+WHO’s principles for human genome data collection, access, use, and sharing: shaping ethical and inclusive genomics
+11 February 2025 13:00 – 15:00 CET
+Consultation on WHO principles for human genome data access and sharing
+4 – 5 March 2024
+First meeting of the Technical Advisory Group on Genomics (TAG-G)
+5 – 6 October 2023

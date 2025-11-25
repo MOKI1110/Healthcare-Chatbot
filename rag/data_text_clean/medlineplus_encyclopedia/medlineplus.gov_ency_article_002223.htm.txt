@@ -1,0 +1,23 @@
+Antibody: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Antibody
+Antibody
+An antibody is a protein produced by the body's immune system when it detects harmful substances, called
+antigens
+. Examples of antigens include microorganisms (bacteria, fungi, parasites, and viruses) and chemicals.
+Antibodies may be produced when the immune system mistakenly considers healthy tissue a harmful substance. This is called an
+autoimmune disorder
+.
+Each type of antibody is unique and defends the body against one specific type of antigen.
+Images
+Antibodies
+References
+Abbas AK, Lichtman AH, Pillai S. Antibodies and antigens. In: Abbas AK, Lichtman AH, Pillai S, eds.
+Cellular and Molecular Immunology
+. 10th ed. Philadelphia, PA: Elsevier; 2022:chap 5.
+Review Date 7/23/2024
+Updated by: Linda J. Vorvick, MD, Clinical Professor, Department of Family Medicine, UW Medicine, School of Medicine, University of Washington, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.

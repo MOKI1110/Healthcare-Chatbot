@@ -1,0 +1,118 @@
+Avian influenza: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Avian influenza
+Avian influenza
+Avian influenza A viruses cause the influenza (
+flu
+) infection in birds. These viruses occur in wild birds and can infect domestic poultry. The viruses that cause the disease in birds can change their genes (mutate) so they can spread to other animals and humans.
+As of May 2024, H5N1 bird flu has spread to poultry and dairy cows in the United States and has infected some poultry and dairy workers.
+Causes
+The first avian influenza in humans was reported in Hong Kong in 1997. It was called avian influenza (H5N1). The outbreak was linked to chickens.
+Since then, there have been human cases of avian influenza A in Asia, Africa, Europe, Indonesia, Vietnam, the Pacific, and the Near East. The virus has caused illness and even death in humans. While rare, avian influenza has also spread to humans in the United States.
+The latest outbreak in the United States started in 2022 and has affected over 1,100 flocks of birds in 48 states.
+In March 2024, the virus was detected for the first time in dairy cows. The Centers for Disease Control and Prevention reports at least 16 states where H5N1 bird flu has infected dairy cows.
+Since April 2024, there have been a total of 61 reported cases of H5N1 in humans in the United States. Symptoms have included a cough, runny nose, sore throat, chills, fever, and
+conjunctivitis
+(eye infection). In December 2024, one person was hospitalized with a severe case of H5N1 after exposure to sick and dead birds in a backyard flock.
+Currently, the risk for infection in people is low. The Centers for Disease Control and Prevention continues to monitor the situation.
+Your risk of getting the bird flu virus is higher if:
+You work with poultry or cattle (such as farmers or farm workers).
+You have exposure to backyard bird flocks and wild birds (such as through hunting).
+You travel to countries where the virus is present.
+You are exposed to sick or dead animals infected with the virus.
+You are exposed to animal feces, litter, or other material contaminated by animals infected with H5N1.
+You eat raw or undercooked poultry meat, eggs, or unpasteurized (raw) milk or cheese from animals infected with H5N1.
+No one has gotten avian flu virus from eating properly cooked animals or animal products.
+Health care workers and people who live in the same house as people with bird flu may also be at higher risk for infection.
+Avian flu viruses can live in the environment for long periods of time. Infection may be spread just by touching surfaces that have the virus on them. Birds who were infected with the avian flu can shed the virus in their feces and saliva for as long as 10 days.
+Symptoms
+Symptoms of avian flu infection in humans depend on the strain of virus.
+The avian influenza virus in humans causes typical flu-like symptoms, such as:
+Cough
+Diarrhea
+Trouble breathing
+Fever
+greater than 100.4 °F (38 °C)
+Headache
+General ill feeling
+(malaise)
+Muscle aches
+Runny nose
+Sore throat
+Exams and Tests
+If you think you have been exposed to the avian flu virus, notify your health care provider before your office visit. This will give the staff a chance to take steps to protect themselves and other people during your office visit.
+There are tests for the avian flu, but they are not widely available. One type of test can give results in about 4 hours.
+Your provider might also do the following tests:
+Listening to the lungs
+(to detect abnormal breath sounds)
+Chest x-ray
+Culture from the nose or throat
+A method or technique to detect the virus, called RT-PCR
+White blood cell count
+Other tests may be done to look at how well your heart, kidneys, and liver are working.
+Treatment
+The treatment varies and is based on your symptoms.
+Treatment with the antiviral medicine oseltamivir (Tamiflu) or zanamivir (Relenza) may make the disease less severe. For the medicine to work, you need to start taking it within 48 hours after your symptoms start.
+Oseltamivir may also be prescribed for people who live in the same house as people with avian flu. This may prevent them from getting the illness.
+The virus that causes human avian flu is resistant to the antiviral medicines amantadine and rimantadine. These medicines should not be used in the case of an H5N1 infection.
+People with severe infection may need to be hospitalized and, sometimes, placed on a breathing machine. People infected with the virus also should be kept separate from non-infected people.
+Providers recommend that people get an influenza (flu) shot. This may cut down the chance that the avian flu virus will mix with a human flu virus. This might create a new virus that may easily spread.
+Outlook (Prognosis)
+The outlook depends on the type of avian flu virus and how bad the infection is. The disease can be fatal.
+Possible Complications
+Complications may include:
+Acute respiratory failure
+Organ failure
+Pneumonia
+Sepsis
+When to Contact a Medical Professional
+Contact your provider if you develop flu-like symptoms within 10 days of handling infected birds, being around infected cattle, or being in an area with a known avian flu outbreak.
+Prevention
+There is an approved vaccine to protect humans from the H5N1 avian flu virus. This vaccine could be used if the current H5N1 virus starts spreading among people. The US government keeps a stockpile of the vaccine.
+At this time, the US Centers for Disease Control and Prevention (CDC) does not recommend against travel to countries affected by avian influenza.
+The CDC makes the following recommendations.
+As a general precaution:
+Avoid wild birds and watch them only from a distance.
+Avoid touching sick animals and surfaces that may be covered in their feces.
+Use protective clothing and special breathing masks if you work with birds or dairy cows, if you go into buildings with sick or dead animals, feces, or litter from infected animals.
+If you have had contact with infected animals, watch for signs of infection. If you do become infected, tell your provider.
+Avoid undercooked or uncooked meat. Avoid unpasteurized (raw) milk and cheeses. This reduces the risk for exposure to avian flu and other foodborne diseases.
+If traveling to other countries:
+Avoid visits to live-bird markets and poultry farms.
+Avoid preparing or eating undercooked poultry products.
+See your provider if you become sick after you return from your trip.
+You can find more about the avian flu and humans and the current situation in the United States from the Centers for Disease Control and Prevention:
+H5 Bird Flu: Current Situation --
+www.cdc.gov/bird-flu/situation-summary/index.html
+Alternative Names
+Bird flu; H5N1; H5N2; H5N8; H7N9; Avian influenza A (HPAI) H5
+Patient Instructions
+Colds and the flu - what to ask your doctor - adult
+Colds and the flu - what to ask your doctor - child
+References
+Centers for Disease Control and Prevention website. Bird flu: causes and how it spreads.
+www.cdc.gov/bird-flu/virus-transmission/index.html
+. April 23, 2025. Accessed June 2, 2025.
+Centers for Disease Control and Prevention website. Current H5N1 bird flu situation in dairy cows.
+www.cdc.gov/bird-flu/situation-summary/mammals.html
+. Updated December 18, 2024. Accessed December 18, 2024.
+Centers for Disease Control and Prevention website. Current U.S. bird flu situation in humans.
+www.cdc.gov/bird-flu/situation-summary/inhumans.html
+. Updated June 3, 2024. Accessed December 18, 2024.
+Ison MG, Lee N. Influenza. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier; 2024:chap 332.
+Reller ME, Dumler JS. Zoonoses. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier; 2024:chap 303.
+Treanor JJ. Influenza viruses, including avian influenza and swine influenza. In: Bennett JE, Dolin R, Blaser MJ, eds.
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 165.
+Review Date 12/31/2023
+Updated by: Jatin M. Vyas, MD, PhD, Roy and Diana Vagelos Professor in Medicine, Columbia University Vagelos College of Physicians and Surgeons, Division of Infectious Diseases, Department of Medicine, New York, NY. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 06/02/2025.
+Related MedlinePlus Health Topics
+Bird Flu

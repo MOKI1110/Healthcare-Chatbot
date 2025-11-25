@@ -1,0 +1,85 @@
+Ventricular fibrillation: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Ventricular fibrillation
+Ventricular fibrillation
+Ventricular fibrillation (VF) is a severely abnormal heart rhythm (
+arrhythmia
+) that is life threatening.
+Causes
+The heart pumps blood to the lungs, brain, and other organs. If the heartbeat is interrupted, even for a few seconds, it can lead to fainting (syncope) or cardiac arrest.
+Fibrillation is an uncontrolled twitching or quivering of muscle fibers (fibrils). When it occurs in the lower chambers of the heart, it is called VF. During VF, blood is not pumped from the heart. Sudden cardiac death results.
+The most common cause of VF is a heart attack. However, VF can occur whenever the heart muscle does not get enough oxygen. Conditions that can lead to VF include:
+Electrocution accidents or injury to the heart
+Heart attack
+or angina
+Heart disease that is present at birth (congenital)
+Heart muscle disease in which the
+heart muscle becomes weakened and stretched
+or
+thickened
+Heart surgery
+Sudden cardiac death (commotio cordis); most often occurs in athletes who have had a sudden blow to the area directly over the heart
+Medicines
+Very high or very low potassium levels in the blood
+Many people with VF have no history of heart disease. However, they often have heart disease risk factors, such as smoking, high blood pressure, and diabetes.
+Symptoms
+A person who has a VF episode will suddenly collapse and become unconscious. This happens because the brain and muscles are not receiving blood from the heart.
+The following symptoms may occur within minutes to 1 hour before the collapse:
+Chest pain
+Dizziness
+Nausea
+Rapid or irregular heartbeat (
+palpitations
+)
+Shortness of breath
+Exams and Tests
+A cardiac monitor will show a very disorganized ("chaotic") heart rhythm.
+Tests will be done to look for the cause of the VF.
+Treatment
+VF is a medical emergency. It must be treated immediately to save a person's life.
+Call 911 or the local emergency number for help if a person who is having a VF episode collapses at home or becomes unconscious.
+While waiting for help, place the person's head and neck in line with the rest of the body to help make breathing easier. Start
+CPR
+by doing chest compressions in the center of the chest ("push hard and push fast"). Compressions should be delivered at the rate of 100 to 120 times per minute. Compressions should be done to a depth of at least 2 inches (5 cm) but no more than 2  ¼ inches (6 cm).
+Continue to do this until the person becomes alert or help arrives.
+VF is treated by delivering a quick electric shock through the chest. It is done using a device called an external defibrillator. The electric shock can immediately restore the heartbeat to a normal rhythm, and should be done as quickly as possible. Many public places now have these machines.
+Medicines may be given to control the heartbeat and heart function.
+An
+implantable cardioverter defibrillator
+(ICD) is a device that can be implanted in the chest wall of people who are at risk for this serious rhythm disorder The ICD detects the dangerous heart rhythm and quickly sends a shock to correct it. It is a good idea for family members and friends of people who have had VF and heart disease to take a CPR course. CPR courses are available through the American Red Cross, hospitals, or the American Heart Association.
+Outlook (Prognosis)
+VF will lead to death within a few minutes unless it is treated quickly and properly. Even then, long-term survival for people who live through a VF attack outside of the hospital is low.
+Possible Complications
+People who have survived VF may be in a coma or have long-term brain or other organ damage.
+Alternative Names
+VF; Fibrillation - ventricular; Arrhythmia - VF; Abnormal heart rhythm - VF; Cardiac arrest - VF; Defibrillator - VF; Cardioversion - VF; Defibrillate - VF
+Patient Instructions
+Implantable cardioverter defibrillator - discharge
+Images
+Heart - section through the middle
+Heart - front view
+References
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS Guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology/American Heart Association Task Force on clinical practice guidelines and the Heart Rhythm Society [published correction appears in J Am Coll Cardiol. 2018;72(14):1760].
+J Am Coll Cardiol
+. 2018;72(14):1677-1749. PMID: 29097294
+pubmed.ncbi.nlm.nih.gov/29097294/
+.
+Epstein EF, DiMarco JP, Ellenbogen KA, Estes NA 3rd, et al. 2012 ACCF/AHA/HRS focused update incorporated into the ACCF/AHA/HRS 2008 guidelines for device-based therapy of cardiac rhythm abnormalities: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines and the Heart Rhythm Society.
+J Am Coll Cardiol
+. 2013;661(3):e6-75. PMID: 23265327
+pubmed.ncbi.nlm.nih.gov/23265327/
+.
+Garan H. Ventricular arrhythmias. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 53.
+Stevenson WG, Keppenfeld K. Ventricular arrhythmias. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 67.
+Review Date 5/27/2024
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Arrhythmia

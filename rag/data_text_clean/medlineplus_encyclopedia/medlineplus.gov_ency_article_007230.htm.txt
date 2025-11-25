@@ -1,0 +1,46 @@
+Neutropenia - infants: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Neutropenia - infants
+Neutropenia - infants
+Neutropenia is an abnormally low number of white blood cells. These cells are called neutrophils. They help the body fight infection. This article discusses neutropenia in newborns. Neutropenia can occur at any age.
+Causes
+White blood cells (WBCs) are produced in the bone marrow. They are released into the bloodstream and travel wherever they are needed. Low levels of neutrophils occur when the bone marrow cannot replace them as fast as needed.
+In babies, the most common cause is infection. A very severe infection may cause neutrophils to be used up quickly. It may also prevent the bone marrow from producing more neutrophils.
+Sometimes, an infant who is not sick will have a low neutrophil count for no obvious reason. Some disorders in the pregnant mother, such as preeclampsia, can also lead to neutropenia in infants.
+In rare cases, mothers may have antibodies against their baby's neutrophils. These antibodies cross the placenta before birth and cause the baby's cells to break down (alloimmune neutropenia). In other rare cases, a problem with the baby's bone marrow may lead to decreased WBC production.
+Exams and Tests
+A small sample of the baby's blood will be sent to the laboratory for a
+complete blood count (CBC)
+and
+blood differential
+. A CBC reveals the number and type of cells in the blood. The differential helps determine the number of different types of WBCs in a blood sample.
+Treatment
+The source of any infection should be found and treated.
+In many cases, neutropenia goes away on its own as the bone marrow recovers and begins to produce enough WBCs.
+In rare cases when the neutrophil count is low enough to be life threatening, the following treatments may be recommended:
+Medicines to stimulate WBC production
+Antibodies from donated blood samples (intravenous immune globulin)
+Outlook (Prognosis)
+The baby's outlook depends on the cause of the neutropenia. Some infections and other conditions in newborns can be life threatening. However, most infections do not cause long-term side effects after the neutropenia goes away or is treated.
+Alloimmune neutropenia will also get better once the mother's antibodies are out of the baby's bloodstream.
+Images
+Neutrophils
+References
+Benjamin JT, Torres BA, Maheshwari A. Neonatal leukocyte physiology and disorders. In: Gleason CA, Sawyer T, eds.
+Avery's Diseases of the Newborn
+. 11th ed. Philadelphia, PA: Elsevier; 2024:chap 71.
+Koenig JM, Bliss JM, Sperandio M. Normal and abnormal neutrophil physiology in the newborn. In: Polin RA, Abman SH, Rowitch DH, Benitz WE, Fox WW, eds.
+Fetal and Neonatal Physiology
+. 6th ed. Philadelphia, PA: Elsevier; 2022:chap 119.
+Letterio J, Ahuja S. Hematologic problems. In: Fanaroff AA, Fanaroff JM, eds.
+Klaus and Fanaroff's Care of the High-Risk Neonate
+. 7th ed. St Louis, MO: Elsevier; 2020:chap 16.
+Review Date 11/6/2023
+Updated by: Neil K. Kaneshiro, MD, MHA, Clinical Professor of Pediatrics, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Blood Disorders
+Uncommon Infant and Newborn Problems

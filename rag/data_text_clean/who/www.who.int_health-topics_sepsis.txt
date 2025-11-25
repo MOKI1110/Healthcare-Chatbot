@@ -1,0 +1,108 @@
+Sepsis
+Skip to main content
+Overview
+Sepsis is a life-threatening condition that arises when the body’s response to infection causes injury to its own tissues and organs. It is frequently a final common pathway to death for many infectious diseases worldwide. It involves organ dysfunction caused by a dysregulated host response to infection and if not recognized early and managed promptly, it can lead to septic shock, multiple organ failure and death. Although a precise estimate of the global epidemiological burden of sepsis is difficult to ascertain, a recent scientific publication reported that sepsis affects an estimated 49 million people and causes 11 million deaths globally every year.
+In the community setting, sepsis often presents as the clinical deterioration of common and preventable infections. Sepsis also frequently results from
+infections acquired in health care settings, which are one of the most frequent adverse events during care delivery and affect hundreds of millions of patients worldwide every year.
+If sepsis develops during pregnancy, while or after giving birth, or after an abortion, it is called maternal sepsis. Sepsis in newborn babies is called neonatal sepsis. Despite being highly preventable, maternal and neonatal sepsis continues to be a major cause of death for pregnant women and newborn babies.
+Symptoms
+Sepsis is a medical emergency and requires immediate attention to prevent further complications or death. It may present different warning signs and symptoms at times, some of which may cause misidentification with other conditions. A septic infection may cause a fever, but may also cause low body temperature, cold extremities and shivering. There may be difficulty breathing or rapid breathing, as well as an increased heart rate, or conversely a weak pulse and low blood pressure. It may cause low urine output, as well as blue-tinted, mottled or abnormally pale skin, and an altered mental state. Finally, it may cause extreme body pain or discomfort, which makes it easy to confuse for influenza or food poisoning.
+In children, sepsis may present through very fast breathing, convulsions, pale skin, lethargy or difficulty waking up or feeling abnormally cold to the touch. For children under 5 years, it may cause difficulty feeding, repeated vomiting or a lack of urination.
+Suspecting sepsis and acting quickly is crucial for early recognition and diagnosis.
+Treatment
+Early identification of symptoms and timely establishment of appropriate clinical management are critical elements to reducing the risk and impact of sepsis. The detection of some biomarkers, such as C reactive protein and procalcitonin, can be effective in diagnosing the condition.
+After early recognition, diagnostics to help identify a causal pathogen of infection leading to sepsis are important to guide targeted antimicrobial treatment. The appropriate antimicrobial therapy (for example, antibiotics and antifungals) should be given within one hour of sepsis identification.
+Antimicrobial resistance (AMR) can jeopardize clinical management of sepsis because empirical antibiotic treatment is often required. Early fluid resuscitation is important in the initial phase and vasopressors may be required to improve and maintain tissue perfusion.
+There are two main steps to preventing sepsis:
+Prevention of microbial transmission and infection
+Prevention of an infection evolving into sepsis
+Within the community, sepsis prevention is assisted through the use of effective hygiene practices, improving sanitation and water quality and availability, providing access to vaccines, particularly for those at high risk, as well as appropriate nutrition, including breastfeeding for newborns.
+Prevention in health care facilities relies on infection prevention and control (IPC) programmes, effective hygiene practices, and clean, well-functioning equipment.
+Fact sheets
+Sepsis
+Disease outbreak news
+COVID-19
+Ebola virus disease
+Resolutions and decisions
+Resolution WHA70.7 on Improving the prevention, diagnosis and clinical management of sepsis
+Resolution WHA76.2 on Integrated emergency, critical and operative care for universal health coverage and protection from health emergencies
+Technical work
+Antimicrobial resistance
+Clinical care for sepsis
+Immunization, vaccines and biologicals
+Infection prevention and control
+Maternal, newborn, child and adolescent health
+Sexual and reproductive health
+News
+All →
+20 November 2025
+Departmental update
+Stronger infection prevention and management, better maternal outcomes
+6 August 2025
+Departmental update
+WHO releases new target product profile for diagnostic tests to detect serious bacterial infections in young infants﻿
+9 April 2025
+Departmental update
+Global Sepsis Alliance hosts annual World Sepsis Congress
+30 January 2024
+Departmental update
+Guidelines on the Clinical Management of Sepsis
+Latest publications
+All →
+24 September 2025
+WHO recommendation on antibiotic prophylaxis during labour for vaginal birth
+The primary audience for this guideline is health professionals who are responsible for developing national and local health protocols and policies, as...
+Download
+Read More
+25 July 2025
+In vitro diagnostic tests for serious bacterial infection, including neonatal sepsis, among infants aged...
+An estimated 2.3 million newborns die each year. Low- and middle-income countries bear the greatest mortality burden, with sepsis contributing 15%. It...
+Download
+Read More
+8 December 2024
+WHO recommendations for management of serious bacterial infections in infants aged 0–59 days
+The World Health Organization (WHO) has developed guidelines for the management of infants aged 0-59 days with serious bacterial infections (sepsis, meningitis,...
+Download
+Read More
+18 June 2021
+WHO recommendations on choice of antiseptic agent and method of application for preoperative skin preparation...
+The recommendations in this document thus supersede the previous
+WHO recommendations for choice of antiseptic agent and method of application for
+preoperative...
+Download
+Read More
+Infographics
+All →
+Infographic
+Maternal infection is a cause of many maternal deaths
+Infographic
+Maternal infection is more common than you think
+Infographic
+How to prevent sepsis
+Infographic
+How to Handrub?
+Infographics
+All →
+21 September 2023
+Maternal Sepsis: Working towards an end in Malawi
+3 May 2018
+How to prevent sepsis - the role you can play in health care and communities
+14 November 2016
+What is antimicrobial resistance (AMR)?
+20 October 2015
+How to handwash? With soap and water
+Events
+All →
+Preventing and managing maternal sepsis
+24 November 2025 12:00 – 13:00 CET
+World Sepsis Congress: Sepsis Research and Innovation
+8 – 9 April 2025
+Related health topics
+Physical environment
+Antimicrobial resistance
+Diseases and conditions
+Diarrhoea
+Diseases and conditions
+Pneumonia
+Health interventions
+Vaccines and immunization

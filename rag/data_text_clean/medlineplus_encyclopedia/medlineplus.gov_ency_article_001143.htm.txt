@@ -1,0 +1,83 @@
+Barrett esophagus: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Barrett esophagus
+Barrett esophagus
+Barrett esophagus (BE) is a disorder in which the lining of the esophagus is damaged by stomach acid leading to changes in the cells of the lining. The esophagus is also called the food pipe, and it connects your throat to your stomach.
+People with BE have an increased risk for cancer in the area involved. However, cancer is not common.
+Causes
+When you eat, food passes from your throat to your stomach through the esophagus. A ring of muscle fibers in the lower esophagus keeps stomach contents from moving backward.
+If these muscles do not close tightly, harsh stomach acid can leak into the esophagus. This is called reflux or
+gastroesophageal reflux (GERD)
+. It may cause tissue damage over time. The lining becomes similar to that of the intestine.
+BE occurs more often in men than women. People who have had GERD for a long time are more likely to have this condition.
+Symptoms
+BE itself does not cause symptoms. The
+acid reflux
+that causes BE often leads to symptoms of heartburn. Many people with this condition do not have any symptoms.
+Exams and Tests
+Your health care provider will recommend an endoscopy (EGD) to screen for BE if you are a high risk person. You may also need an
+endoscopy
+if GERD symptoms are severe or come back after treatment.
+During the endoscopy, your endoscopist (usually a gastroenterologist or specialist in conditions of the GI tract) may take tissue samples (
+biopsies
+) from different parts of the esophagus. These samples help detect the condition. They also help look for changes that could lead to cancer.
+If you have BE, your provider may recommend a follow-up endoscopy to look for cell changes that indicate cancer at regular intervals.
+Some patients may choose to screen with a swallowed capsule, but this is not widely available.
+Treatment
+TREATMENT OF GERD
+Treatment should improve
+acid reflux symptoms
+, and may keep BE from getting worse. Treatment of GERD may involve lifestyle changes and medicines such as:
+Antacids
+after meals and at bedtime
+Histamine H2 receptor blockers
+Proton pump inhibitors
+(PPIs)
+Avoiding use of tobacco, chocolate, and caffeine
+However in BE, PPIs are the recommended medicine
+Lifestyle changes, medicines, and
+anti-reflux surgery
+may help with symptoms of GERD. However, these steps will not make BE go away.
+TREATMENT OF BARRETT ESOPHAGUS
+Endoscopic biopsy can show changes in the cells of the esophagus that may be cancer. You provider may advise surgery or other procedures to treat it.
+The recommended procedure to treat abnormal tissues in BE is radiofrequency ablation (RFA), which is done at the time of an endoscopy. Sometimes this is combined with endoscopic removal of particular sections of abnormal tissue. After RFA you will have follow-up endoscopy and further treatment if necessary.
+Some people may choose to have surgery to correct anatomic abnormalities such as hiatal hernia, that may lead to BE.
+If you have esophageal cancer, you may need surgery to remove the esophagus (esophagectomy).
+Outlook (Prognosis)
+Treatment should improve acid reflux symptoms and may keep BE from getting worse. RFA removes the BE tissue as does endoscopic removal, but BE often comes back and this is why surveillance with EGDs is done after RFA.
+People with chronic GERD or BE generally need to be monitored for cancer of the esophagus.
+When to Contact a Medical Professional
+Contact your provider if:
+Heartburn lasts for longer than a few days, or you have pain or problems swallowing.
+You have been diagnosed with BE and your symptoms get worse.
+You develop new symptoms (such as weight loss, problems swallowing).
+Prevention
+Early detection and treatment of GERD may prevent BE.
+Alternative Names
+Barrett's esophagus; GERD - Barrett; Reflux - Barrett
+Images
+Digestive system
+Esophagus and stomach anatomy
+References
+Cameron J. Esophagus. In: Cameron J, ed.
+Current Surgical Therapy
+. 14th ed. Philadelphia, PA: Elsevier; 2023:chap 1.
+Falk GW, Katzka DA. Diseases of the esophagus. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 124.
+Ku GY, Ilson DH. Cancer of the esophagus. In: Niederhuber JE, Armitage JO, Kastan MB, Doroshow JH, Tepper JE, eds.
+Abeloff's Clinical Oncology.
+6th ed. Philadelphia, PA: Elsevier; 2020:chap 71.
+Shaheen NJ, Falk GW, Iyer PG, et al. Diagnosis and management of Barrett's esophagus: An updated ACG Guideline.
+Am J Gastroenterol
+. 2022;117(4):559-587. PMID: 35354777
+pubmed.ncbi.nlm.nih.gov/35354777/
+.
+Review Date 3/31/2024
+Updated by: Jenifer K. Lehrer, MD, Department of Gastroenterology, Aria - Jefferson Health Torresdale, Jefferson Digestive Diseases Network, Philadelphia, PA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Esophagus Disorders

@@ -1,0 +1,132 @@
+Virtual colonoscopy: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Virtual colonoscopy
+Virtual colonoscopy
+A virtual colonoscopy (VC) is an imaging or x-ray test that looks for
+cancer
+,
+polyps
+, or other disease in the large intestine (colon). The medical name of this test is CT colonography.
+How the Test is Performed
+A VC is different from a regular
+colonoscopy
+. A regular colonoscopy uses a long, lighted tool called a colonoscope that is inserted into the rectum and large intestine.
+A VC is done in the radiology department of a hospital or medical center. No sedatives are needed and no colonoscope is used.
+The exam is done as follows:
+You lie on your left side on a narrow table that is connected to a
+CT
+(computerized tomography) machine.
+Your knees are drawn up toward your chest.
+A small, flexible tube is inserted into the rectum. Air or carbon dioxide is pumped through the tube to make the colon bigger and easier to see.
+You then lie on your back.
+The table slides into a large tunnel in the CT machine. X-rays of your colon are taken.
+X-rays are also taken while you lie on your stomach.
+You must stay very still during this procedure, because movement can blur the x-rays. You may be asked to hold your breath briefly while each x-ray is taken.
+A computer combines all the images to form three-dimensional pictures of the colon. The radiologist can view the images on a video monitor.
+How to Prepare for the Test
+Your bowels need to be completely empty and clean for the exam. A problem in your large intestine that needs to be treated may be missed if your intestines are not cleaned out.
+Your health care provider will give you the steps for cleansing your bowel. This is called bowel preparation. Steps may include:
+Using enemas
+Not eating solid foods for 1 to 3 days before the test.  Typically you are on clear liquids for 1 day before the test.
+Taking laxatives
+You need to drink plenty of clear liquids for 1 to 3 days before the test. Examples of clear liquids are:
+Clear coffee or tea
+Fat-free bouillon or broth
+Gelatin
+Sports drinks
+Strained fruit juices
+Water
+Keep taking your medicines unless your provider tells you otherwise.
+You will need to stop taking iron pills or liquids a few days before the test, unless your provider tells you it is OK to continue. Iron can make your stool dark black. This makes it harder for the radiologist to view inside your bowel.
+CT scanners are very sensitive to metals. Do not wear jewelry the day of your exam. You will be asked to change out of your street clothes and wear a hospital gown for the procedure.
+How the Test will Feel
+The x-rays are painless. Pumping air into the colon may cause cramping or gas pains.
+After the exam:
+You may feel bloated and have mild abdominal cramping and pass a lot of gas.
+You should be able to return to your regular activities.
+Why the Test is Performed
+VC may be done for the following reasons:
+Screening for colorectal cancer in average risk people (should be done every 5 years)
+In uncommon situations when a colonoscopy that cannot be performed or completed safely
+Your provider may recommend a regular colonoscopy instead of a VC. One reason is that VC does not allow removing tissue samples or polyps. It does not allow treatment of any problems discovered. Another reason is that CT scans require radiation, which a colonoscopy does not. This is particularly true if virtual colonoscopy is to be performed multiple times at the recommended every 5 years.
+Colonoscopy is the preferred test in people who have had colon polyps, colon cancer, or are at higher risk of these because of other conditions.
+Normal Results
+Normal findings are images that show a healthy intestinal tract.
+What Abnormal Results Mean
+Abnormal test results may mean any of the following:
+Colorectal cancer
+Abnormal pouches on the lining of the intestines, called
+diverticulosis
+Colitis
+(a swollen and inflamed intestine) due to
+Crohn disease
+,
+ulcerative colitis
+, infection, or lack of blood flow
+Lower gastrointestinal (GI) bleeding
+Polyps
+Tumor
+A regular colonoscopy may be done (on a different day) after a VC if:
+No cause for bleeding or other symptoms were found. A VC can miss some smaller problems in the colon.
+Problems that need a biopsy, removal, or treatment were seen on a VC.
+Risks
+Risks of a VC include:
+Exposure to radiation from the CT scan
+Nausea, vomiting, bloating, or rectal irritation from medicines used to prepare for the test
+Perforation of the intestine when the tube to pump air is inserted (extremely unlikely).
+Considerations
+The differences between a virtual and a conventional colonoscopy include:
+VC can view the colon from many different angles. This is not as easy with a regular colonoscopy.
+VC does not require sedation. You can usually go back to your normal activities right away after the test. A regular colonoscopy uses sedation and often the loss of a work day.
+VC using CT scanners expose you to radiation.
+Regular colonoscopy has a small risk for bowel perforation (creating a small tear). There is almost no such risk from a VC.
+VC is often not able to detect polyps smaller than 10 millimeters (mm). Regular colonoscopy can detect polyps of all sizes.
+VC is only used in patients at average risk for colon cancer, to screen for polyps and cancer. Colonoscopy allows detection of many problems as well as biopsy, removal, or treatment of these problems.
+If a VC is abnormal, you will need a colonoscopy.
+Alternative Names
+Colonoscopy - virtual; CT colonography; Computed tomographic colonography; Colography - virtual
+Images
+CT scan
+References
+Garber JJ, Chung DC. Colonic polyps and polyposis syndromes. In: Feldman M, Friedman LS, Brandt LJ, eds.
+Sleisenger and Fordtran's Gastrointestinal and Liver Disease: Pathophysiology Diagnosis Management
+. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 126.
+Kim DH, Pickhardt PJ. Computed tomography colonography and evaluation of the colon. In: Gore RM, Levine MS, eds.
+Textbook of Gastrointestinal Radiology
+. 5th ed. Philadelphia, PA: Elsevier; 2021:chap 38.
+Lawler M, Johnston B, Van Schaeybroeck S, et al. Colorectal cancer. In: Niederhuber JE, Armitage JO, Kastan MB, Doroshow JH, Tepper JE, eds.
+Abeloff's Clinical Oncology
+. 6th ed. Philadelphia, PA: Elsevier; 2020:chap 74.
+National Cancer Institute website. Colorectal cancer prevention (PDQ) - health professional version.
+www.cancer.gov/types/colorectal/hp/colorectal-prevention-pdq
+. Updated April 11, 2025. Accessed August 12, 2025.
+National Comprehensive Cancer Network website. NCCN clinical practice guidelines in oncology (NCCN guidelines): colorectal cancer screening. Version 2.2025 - June 24, 2025.
+www.nccn.org/professionals/physician_gls/pdf/colorectal_screening.pdf
+. Updated June 24, 2025. Accessed August 12, 2025.
+Patel SG, May FP, Anderson JC, et al. Updates on age to start and stop colorectal cancer screening: recommendations from the U.S. Multi-Society Task Force on Colorectal Cancer.
+Gastroenterology
+. 2022;162(1):285-299. PMID: 34794816
+pubmed.ncbi.nlm.nih.gov/34794816/
+.
+Shaukat A, Kahi CJ, Burke CA, Rabeneck L, Sauer BG, Rex DK. ACG clinical guidelines: colorectal cancer screening 2021.
+Am J Gastroenterol
+. 2021;116(3):458-479. PMID: 33657038
+pubmed.ncbi.nlm.nih.gov/33657038/
+.
+US Preventive Services Task Force website. Final recommendation statement. Colorectal cancer: screening.
+www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening
+. Published May 18, 2021. Accessed April 6, 2025.
+Review Date 2/3/2025
+Updated by: Jenifer K. Lehrer, MD, Gastroenterologist, Philadelphia, PA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 08/12/2025.
+Related MedlinePlus Health Topics
+Colonic Diseases
+Colonic Polyps
+Colonoscopy
+Colorectal Cancer
+Crohn's Disease
+Diverticulosis and Diverticulitis
+Ulcerative Colitis

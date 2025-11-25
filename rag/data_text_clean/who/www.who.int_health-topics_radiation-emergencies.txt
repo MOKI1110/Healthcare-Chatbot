@@ -1,0 +1,161 @@
+Radiation emergencies
+Skip to main content
+Overview
+Radiation emergencies are non-routine situations or events that require a prompt action to mitigate a radio-nuclear hazard or its adverse consequences for human life, health, property or the environment.
+Nuclear emergencies involve release of the energy resulting from a nuclear chain reaction or from the decay of the products of chain reaction (e.g. nuclear power plant accidents such as Chernobyl and Fukushima accidents).  Radiological emergencies are situations involving a radiation exposure from a radioactive source. When referring to an emergency situation regardless of its type, “radiation emergency” term is often used.
+Radiation emergencies may result from misuse of radioactive sources during industrial, medical or research applications, accidental exposure to uncontrolled (abandoned, lost or stolen) radiation sources, accidents during transport of radioactive materials, but also can be combined with conventional emergencies (a fire or a release of chemical substances), natural disasters, military conflicts, or malicious acts involving radiation sources.
+Impact
+Radiation emergencies can greatly impact human health and  the environment. The impact will vary considerably, depending on the scenario, scale of the emergency, type of radiation and exposure duration, the pathway of the exposure (external, internal, or combined), availability and timeliness of countermeasures, as well as individual characteristics of the exposed person (age, gender, underlying state of health).
+As a result, people may be exposed to radiation levels ranging from very low doses not resulting in any clinical manifestations of such exposure, to higher doses which may cause radiation injuries (a.k.a. “tissue reactions”) or even be fatal. The risk of health effects increases with the radiation dose. Workers at nuclear installations, first responders and fire-fighters are at higher risk of being over-exposed to radiation and receiving radiation injures, whereas, for the majority of people affected by the consequences of a nuclear emergency, it will be unlikely to suffer the direct impact of radiation.
+In addition, urgent protective actions implemented in response to a radiation emergency, such as sheltering, evacuation, or resettling from contaminated areas, restrictions on locally produced foodstuffs etc. may also lead to negative socio-economic impact on the human lives and the society as a whole. Losing homes and jobs, lack of access to a regular health care, stigmatization of evacuees and other hardship may further impact people’s health through severe stress, anxiety, fatigue, depression, and other mental health and psychosocial consequences.
+WHO Response
+As a full party to the
+Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency
+, WHO has a mandate to provide technical assistance and advice on public health measures and medical countermeasures. The IAEA provides Secretariat for the Convention and for
+the Inter-Agency Committee for Radiological and Nuclear Emergencies
+(IACRNE) that brings together more than 20 international organizations for coordination of their work on preparedness and response to radiation emergencies. The roles of IACRNE member organizations are described in the
+Joint Radiation Emergency Management Plan of the International Organizations
+.
+To fulfill its mandate under these Conventions, WHO established in 1987 the
+Radiation Emergency Medical Preparedness and Assistance Network (REMPAN)
+to enhance preparedness for radiation emergencies and to advise health authorities on medical and public health response in the event of a radiation emergency. The Network is WHO’s technical arm for implementing capacity building activities in member states and for providing technical assistance in case of radiation emergencies. In addition, a global network of cytogenetic laboratories
+WHO BioDoseNet
+was set up in 2008 to support biological dosimetry capacity of member states readiness for a mass-casualty type of a radiation emergency.
+Fact sheets
+Ionizing radiation and health effects
+Mental health in emergencies
+Questions and answers
+Radiation and health
+Radioactivity in food after a nuclear emergency
+Japan nuclear concerns
+Use of potassium iodide for thyroid protection during nuclear or radiological emergencies
+Databases and tools
+Health emergency implementation data center (Global Health Observatory, WHO)
+Emergency situations
+Emergency response framework
+Technological hazards and health risks in Ukraine
+Disease outbreak news
+Latest DONs
+Initiatives and groups
+Emergency medical teams
+INTOX Network of Poisons Centres
+WHO BioDoseNet - global network of biodosimetry laboratories
+Radiation Emergency Medical Preparedness and Assistance Network (REMPAN)
+Resolutions and decisions
+WHA 78.28 Effects of nuclear war on public health
+WHA 64.10 Strengthening national health emergency and disaster management capacities and resilience of health systems
+WHA 55.16 Global public health response to natural occurrence, accidental release or deliberate use of biological and chemical agents or radio-nuclear material that affect health
+Training
+Open WHO training resources
+Technical work
+Radiation and health
+Radiation emergencies
+Health Emergencies
+News
+All →
+3 July 2025
+News release
+Readout on WHO participation in global nuclear emergency exercise
+27 January 2023
+Departmental update
+WHO updates critical medicines list for radiological and nuclear emergencies
+27 October 2021
+Departmental update
+CONVEX(3)-2021: Major International Nuclear Emergency Exercise Held at Baraka Nuclear Power Plant in Abu Dhabi, UAE
+26 November 2020
+Departmental update
+WHO releases new guidance on integrating mental health in radiological and nuclear emergency response
+Infographics
+All →
+Infographic
+External exposure VS Radioactive contamination
+Infographic
+Radiation emergency: Iodine thyroid blocking
+Infographic
+Nuclear power plant emergency
+Infographic
+Radiation emergency: Advice for pregnant women
+Latest publications
+All →
+3 July 2024
+Compendium of WHO and other UN guidance in health and environment, 2024 update
+This is the 2024 update of the Compendium of WHO and other UN guidance on health and environment.
+The Compendium is a comprehensive collection of available...
+Download
+Read More
+9 February 2024
+Exercise JADE 2023: report
+All States Parties to the International Health Regulations (‎IHR)‎ 2005 must appoint a National IHR Contact Point (‎NFP)‎ responsible for...
+Download
+Read More
+23 January 2024
+Compendium of WHO and other UN guidance on health and environment: version with International Classification...
+In this version of the compendium, each guidance is coded using the International Classification of Health Interventions (ICHI).The compendium provides...
+Download
+Read More
+27 January 2023
+National stockpiles for radiological and nuclear emergencies: policy advice
+This document describes protocols and practices for ensuring the essential elements of a national stockpile of medical countermeasures for radiation emergencies,...
+Download
+Read More
+Documents
+All →
+8 August 2025
+REMPAN e-Newsletters - July 2025
+The electronic newsletters (e-Newsletters) of the WHO REMPAN network provide a communication platform to share the information and to advocate for the...
+Download
+Read More
+3 March 2025
+REMPAN e-Newsletters - February 2025
+The electronic newsletters (e-Newsletters) of the WHO REMPAN network provide a communication platform to share the information and to advocate for the...
+Download
+Read More
+4 August 2024
+REMPAN e-Newsletters - July 2024
+The electronic newsletters (e-Newsletters) of the WHO REMPAN network provide a communication platform to share the information and to advocate for the...
+Download
+Read More
+19 February 2024
+REMPAN e-Newsletters - February 2024
+The electronic newsletters (e-Newsletters) of the WHO REMPAN network provide a communication platform to share the information and to advocate for the...
+Download
+Read More
+Our work
+All →
+Managing environmental health risks in emergencies
+Mitigating health consequences of Chernobyl
+Overcoming health consequences of Fukushima nuclear accident
+Strengthening global preparedness to radiation emergencies
+Videos
+All →
+5 February 2023
+National Stockpiles for Radiological and Nuclear Emergencies: Policy Advice - WHO Webinar 27.01.2023
+7 November 2021
+Speech by Dr Neira, Director of Department of Environment Climate Change and Health at the IAEA's International Conference
+21 January 2021
+Joint WHO and IRPA Session - Protecting Human Health in Radiation Emergencies
+29 November 2020
+Fukushima at 10: what have we learned?
+Events
+All →
+Webinar series: Exposure due to radionuclides in food in non-emergency situations
+2 – 30 April 2025
+The 17th coordination meeting of the WHO REMPAN
+13 – 15 September 2023
+Webinar – Launch of the new publication “National Stockpiles for Radiological and Nuclear Emergencies: Policy Advice”
+27 January 2023 13:30 – 15:00 CET
+Webinar: Individual Monitoring, Triage and Decontamination in Radiation Emergencies
+24 June 2022 13:00 – 14:30 CET
+Related health topics
+Disasters
+Chemical incidents
+Socio-political determinants
+International Health Regulations
+Physical environment
+Radiation
+Physical environment
+Deliberate events
+Health systems
+Emergency and critical care
+Physical environment
+Food safety

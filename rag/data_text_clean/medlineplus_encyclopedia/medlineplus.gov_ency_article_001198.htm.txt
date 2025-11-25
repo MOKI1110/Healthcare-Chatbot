@@ -1,0 +1,97 @@
+Krabbe disease: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Krabbe disease
+Krabbe disease
+Krabbe disease is a rare genetic disorder of the nervous system. It is a type of brain disease called leukodystrophy.
+Causes
+A defect in the
+GALC
+gene causes Krabbe disease. People with this gene defect do not make enough of a substance (
+enzyme
+) called galactocerebroside beta-galactosidase (galactosylceramidase).
+The body needs this enzyme to make myelin. Myelin surrounds and protects nerve fibers. Without this enzyme, myelin breaks down, brain cells die, and nerves in the brain and other body areas do not work properly.
+Krabbe disease can develop at various ages:
+Early-onset Krabbe disease appears in the first months of life. Most children with this form of the disease die before they reach age 2.
+Late-onset Krabbe disease begins in late childhood or early adolescence.
+Krabbe disease is inherited, which means it is passed down through families. If both parents carry the nonworking copy of the gene related to this condition, each of their children has a 25% (1 in 4) chance of developing the disease. It is an
+autosomal recessive disorder
+.
+This condition is very rare. It is most common among people of Scandinavian descent.
+Symptoms
+Symptoms of early-onset Krabbe disease are:
+Changing muscle tone from floppy to rigid
+Hearing loss that leads to deafness
+Failure to thrive
+Feeding difficulties
+Irritability and sensitivity to loud sounds
+Severe
+seizures
+(may begin at a very early age)
+Unexplained fevers
+Vision loss that leads to blindness
+Vomiting
+With late onset Krabbe disease, vision problems may appear first, followed by walking difficulties and rigid muscles. Symptoms vary from person to person. Other symptoms may also occur.
+Exams and Tests
+Your health care provider will perform a physical exam and ask about the symptoms.
+Tests that may be done include:
+Blood test to look for galactosylceramidase levels in white blood cells
+CSF total protein
+-- tests the amount of protein in cerebrospinal fluid (CSF)
+Genetic testing for the GALC genetic variant
+MRI of the head
+Nerve conduction velocity
+Treatment
+There is no specific treatment for Krabbe disease.
+Some people have had a bone marrow transplant in the early stages of the disease, but this treatment has risks.
+Support Groups
+More information and support for people with Krabbe disease and their families can be found at:
+National Organization for Rare Disorders --
+rarediseases.org/rare-diseases/leukodystrophy-krabbes/
+NIH Genetic and Rare Diseases Information Center --
+rarediseases.info.nih.gov/diseases/6844/krabbe-disease
+United Leukodystrophy Foundation --
+ulf.org
+Outlook (Prognosis)
+The outcome is likely to be poor. On average, infants with early-onset Krabbe disease die before age 2. People who develop the disease at a later age have survived into adulthood with nervous system disease.
+Possible Complications
+This disease damages the
+central nervous system
+. It can cause:
+Blindness
+Deafness
+Severe problems with muscle tone
+The disease is usually life-threatening.
+When to Contact a Medical Professional
+Contact your provider if your child develops symptoms of this disorder. Go to the hospital emergency room or call 911 or the local emergency number if the following symptoms occur:
+Seizures
+Loss of consciousness
+Abnormal posturing
+Prevention
+Genetic counseling
+is recommended for people with a family history of Krabbe disease who are considering having children.
+A blood test can be done to see if you carry a non-working copy of the gene that causes Krabbe disease.
+Prenatal tests (
+amniocentesis
+or
+chorionic villus sampling
+) can be done to test a developing baby for this condition.
+Alternative Names
+Globoid cell leukodystrophy; Galactocerebrosidase deficiency; Galactosylceramidase deficiency
+References
+Katirji B. Disorders of peripheral nerves. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice.
+8th ed. Philadelphia, PA: Elsevier; 2022:chap 106.
+Seaborg KA, Kwon JM. Neurodegenerative disorders of childhood. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics.
+22nd ed. Philadelphia, PA: Elsevier; 2025:chap 639.
+Tay S, Pastores GM. Lysosomal storage diseases. In: Ashwal S, Pearl PL, eds.
+Swaiman's Pediatric Neurology: Principles and Practice.
+7th ed. Philadelphia, PA: Elsevier; 2026:chap 63.
+Review Date 4/8/2025
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Leukodystrophies

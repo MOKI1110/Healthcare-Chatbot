@@ -1,0 +1,103 @@
+CSF analysis: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+CSF analysis
+CSF analysis
+Cerebrospinal fluid (CSF) analysis is a group of lab tests that measure chemicals in the cerebrospinal fluid. CSF is a clear fluid that surrounds and protects the brain and spinal cord. The tests may look for cells, proteins, sugar (glucose), and other substances.
+How the Test is Performed
+A sample of CSF is needed. A
+lumbar puncture
+, also called a spinal tap, is the most common way to collect this sample. Less common ways to take a fluid sample include:
+Cisternal puncture
+Removal of CSF from a tube that is already in the CSF, such as a shunt, ventricular drain, or pain pump
+Ventricular puncture
+After the sample is taken, it is sent to the lab for evaluation.
+Your health care provider may ask you to lie flat for at least one hour after the lumbar puncture. You may develop a headache after the lumbar puncture. If it happens, fluids and drinking caffeinated beverages such as coffee, tea or soda may help.
+How to Prepare for the Test
+Your provider will tell you how to prepare for the
+lumbar puncture
+. Make sure to let them know all of the medicines you are taking in case any adjustment to the procedure is needed. It is important to report any blood thinners, aspirin, or herbal medicines too.
+Why the Test is Performed
+Analysis of CSF can help detect certain conditions and diseases. All of the following can be, but are not always, measured in a sample of CSF:
+Antibodies to and DNA of common viruses
+Bacteria (including that which causes syphilis, using a
+VDRL test
+)
+Cell count
+Chloride
+Cryptococcal
+antigen
+Glucose
+Glutamine
+Lactate dehydrogenase
+Oligoclonal banding
+to look for specific proteins
+Myelin basic protein
+Total protein
+Whether there are cancerous cells present (CSF cytology)
+Opening pressure
+Normal Results
+Normal results include:
+Antibodies and DNA of common viruses: None
+Bacteria: No bacteria grows in a lab culture
+Cancerous cells: No cancerous cells present
+Cell count: 0 to 5 white blood cells (all mononuclear) and 0 red blood cells
+Chloride: 115 to 130 mEq/L (115 to 130 mmol/L)
+Fungus: None
+Gamma globulin: 3% to 12% of the total protein
+Glucose: 50 to 80 mg/dL or 2.77 to 4.44 mmol/L (or greater than two-thirds of blood sugar level)
+Glutamine: 6 to 15 mg/dL (410.5 to 1,026 micromol/L)
+Lactate dehydrogenase: less than 40 U/L
+Oligoclonal bands: 0 or 1 bands that are not present in a matched serum sample
+Protein: 15 to 60 mg/dL (0.15 to 0.6 g/L)
+Opening pressure: 90 to 180 mm of water
+Myelin basic protein: Less than 4ng/mL
+Normal value ranges may vary slightly among different lab. Talk to your provider about the meaning of your specific test results.
+The examples above show the common measurements for results for these tests. Some labs use different measurements or may test different specimens.
+What Abnormal Results Mean
+An abnormal CSF analysis result may be due to many different causes, including:
+Cancer
+Encephalitis
+(due to Herpes simplex,
+West Nile
+, and Eastern Equine Encephalitis virus)
+Hepatic encephalopathy
+High blood sugar (hyperglycemia)
+Infection
+Inflammation
+Reye syndrome
+Meningitis
+due to bacteria, fungus, tuberculosis, or a virus
+Multiple sclerosis
+(MS)
+Alzheimer disease
+Pseudotumor cerebrii
+Normal pressure hydrocephalus
+Alternative Names
+Cerebrospinal fluid analysis
+Images
+Lumbar puncture (spinal tap)
+CSF chemistry
+References
+De Luca GC, Griggs RC, Johnston SC. Approach to the patient with neurologic disease. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 366.
+Karcher DS, McPherson RA. Cerebrospinal, synovial, serous body fluids, and alternative specimens. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods
+. 24th ed. Philadelphia, PA: Elsevier; 2022: chap 30.
+Rosenberg GA. Brain edema and disorders of cerebrospinal fluid circulation. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2022: chap 88.
+Schnapp BH, Jewell C. Central nervous system infections. In: Walls RM, ed.
+Rosen's Emergency Medicine: Concepts and Clinical Practice
+. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 95.
+Review Date 4/16/2025
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Cancer
+Encephalitis
+Meningitis
+Reye Syndrome

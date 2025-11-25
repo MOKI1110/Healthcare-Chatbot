@@ -1,0 +1,85 @@
+Electronystagmography: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Electronystagmography
+Electronystagmography
+Electronystagmography is a test that looks at eye movements to see how well nerves in the brain are working. These nerves are:
+Vestibular nerve (eighth cranial nerve), which runs from the brain to the ears
+Oculomotor, trochlear and abducens nerves, which run from the brain to the eyes and control eye movement
+How the Test is Performed
+Patches called electrodes are placed above, below, and on each side of your eyes. They may be sticky patches or attached to a headband. Another patch is attached to the forehead.
+The health care provider will spray cold water or air into each ear canal at separate times. The patches record eye movements that occur when the inner ear and nearby nerves are stimulated by the water or air. When cold water enters the ear, you should have rapid, side-to-side eye movements called
+nystagmus
+.
+Next, warm water or air is placed into the ear. The eyes should now move rapidly toward the warm water then slowly away.
+You may also be asked to use your eyes to track objects, such as flashing lights or moving lines.
+The test takes about 90 minutes.
+How to Prepare for the Test
+Most of the time, you do not need to take special steps before this test.
+Your provider will tell you if you need to stop taking any medicines before you have this test.
+Do not stop or change your medicines without talking to your provider first.
+How the Test will Feel
+You may feel discomfort due to cold water in the ear. During the test, you may have:
+Nausea or vomiting
+Brief dizziness (
+vertigo
+)
+Why the Test is Performed
+The test is used to determine whether a balance or nerve disorder is the cause of dizziness or vertigo.
+You may have this test if you have:
+Dizziness or vertigo
+Hearing loss
+Possible damage to the inner ear from certain medicines
+Normal Results
+Certain eye movements should occur after the warm or cold water or air is placed into your ears.
+Note: Normal value ranges may vary slightly among different labs. Talk to your provider about the meaning of your specific test results.
+What Abnormal Results Mean
+Abnormal results may be a sign of damage to the nerve of the inner ear or other parts of the brain that control eye movements.
+Any disease or injury that damages the acoustic nerve can cause vertigo. This may include:
+Blood vessel disorders with bleeding (hemorrhage), clots, or
+atherosclerosis
+of the blood supply of the ear
+Cholesteatoma
+and other
+ear tumors
+Congenital disorders
+Injury
+Medicines that are toxic to the ear nerves, including aminoglycoside antibiotics, some antimalarial medicines, loop diuretics, and salicylates
+Multiple sclerosis
+Movement disorders such as
+progressive supranuclear palsy
+Rubella
+Some poisons
+Additional conditions under which the test may be performed:
+Acoustic neuroma
+Benign positional vertigo
+Labyrinthitis
+Meniere disease
+Risks
+Rarely, too much water pressure inside the ear can injure your ear drum if there has been previous damage. The water part of this test should not be done if your eardrum has been perforated recently.
+Considerations
+Electronystagmography is very useful because it can record movements behind closed eyelids or with the head in many positions.
+Alternative Names
+ENG
+References
+De Luca GC, Griggs RC, Johnston SC. Approach to the patient with
+neurologic disease. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier; 2024:chap 366.
+Kerber KA, Baloh RW. Neuro-Otology: Diagnosis and management of neuro-otological
+disorders. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley
+and Daroff's Neurology in Clinical Practice.
+8th ed. Philadelphia, PA:
+Elsevier; 2022:chap 22.
+Wackym PA. Neurotology. In: Winn HR, ed.
+Youmans and Winn Neurological
+Surgery.
+8th ed. Philadelphia, PA: Elsevier; 2023:chap 16.
+Review Date 4/16/2025
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Dizziness and Vertigo

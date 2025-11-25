@@ -1,0 +1,81 @@
+Robotic surgery: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Robotic surgery
+Robotic surgery
+Robotic surgery is a method to perform surgery using very small tools attached to a robotic arm. The surgeon controls the robotic arm with a computer.
+Description
+Often, you will be given
+general anesthesia
+so that you are asleep and pain-free.
+The surgeon sits at a computer station and directs the movements of a robot. Small surgical tools are attached to the robot's arms.
+The surgeon makes small cuts to insert the instruments into your body.
+A thin tube with a camera attached to the end of it (laparoscope) allows the surgeon to view enlarged 3-D images of your body as the surgery is taking place.
+The robot matches the surgeon's hand movements to perform the procedure using the tiny instruments.
+Why the Procedure is Performed
+Robotic surgery is similar to laparoscopic surgery. It can be performed through smaller cuts than open surgery. The small, precise movements that are possible with this type of surgery give it some advantages over standard
+laparoscopic
+techniques.
+The surgeon can make small, precise movements using this method. This can allow the surgeon to do a procedure through a small cut that once could be done only with open surgery.
+Once the robotic arm is placed in the abdomen, it is easier for the surgeon to use the surgical tools than with laparoscopic surgery through a laparoscope.
+The surgeon can also see the area where the surgery is performed more easily. This method also allows the surgeon to move in a more comfortable way.
+Robotic surgery can take longer to perform. This is due to the amount of time needed to set up the robot. Also, some hospitals may not have access to this method. However, it is becoming more common.
+Robotic surgery may be used for a number of different procedures, including:
+Coronary artery bypass
+Cutting away cancer tissue from sensitive parts of the body such as blood vessels, nerves, or important body organs
+Gallbladder removal
+Hip replacement
+Hysterectomy
+Total or partial kidney removal
+Kidney transplant
+Mitral valve repair
+Pyeloplasty (surgery to correct
+ureteropelvic junction obstruction
+)
+Pyloroplasty
+Radical prostatectomy
+Radical cystectomy
+Tubal ligation
+Robotic surgery cannot always be used or be the best method of surgery for a specific problem.
+Risks
+The risks of any anesthesia and surgery include:
+Reactions to medicines
+Breathing problems
+Bleeding
+Infection
+Heart problems
+Robotic surgery has as many risks as open and laparoscopic surgery. However, the risks are different.
+Before the Procedure
+You cannot have any food or fluid for 8 hours before the surgery.
+You may need to cleanse your bowels with an enema or laxative the day before surgery for some types of procedures.
+Stop taking aspirin, blood thinners such as warfarin (Coumadin) or clopidogrel (Plavix), anti-inflammatory medicines, vitamins, or other supplements 10 days before the procedure.
+After the Procedure
+You will be taken to a recovery room after the procedure. Depending on the type of surgery performed, you may have to stay in the hospital overnight or for a couple of days.
+You should be able to walk within a day after the procedure. How soon you are active will depend on the surgery that was done.
+Avoid heavy lifting or straining until your surgeon gives you the OK. Your surgeon may tell you not to drive for at least a week.
+Outlook (Prognosis)
+Surgical cuts are smaller than with traditional open surgery. Benefits include:
+Faster recovery
+Less pain and bleeding
+Less risk for infection
+Shorter hospital stay
+Smaller scars
+Alternative Names
+Robot-assisted surgery; Robotic-assisted laparoscopic surgery; Laparoscopic surgery with robotic assistance
+References
+Dalela D, Borchert A, Sood A, Peabody J. Basics of robotic surgery. In: Smith JA Jr, Howards SS, Preminger GM, Dmochowski RR, eds.
+Hinman's Atlas of Urologic Surgery.
+4th ed. Philadelphia, PA: Elsevier; 2019:chap 7.
+Sabouri AS, Tameze Y. Anesthesia for robotic surgery. In: Gropper MA, Cohen NH, Eriksson LI, Fleisher LA, Johnson-Akeju S, Leslie K, eds.
+Miller's Anesthesia
+. 10th ed. Philadelphia, PA: Elsevier; 2025:chap 67.
+Woo Y, Fong Y. Robotic surgery. In: Townsend CM Jr, Beauchamp RD, Evers BM, Mattox KL, eds.
+Sabiston Textbook of Surgery.
+21st ed. St Louis, MO: Elsevier; 2022:chap 16.
+Review Date 4/29/2025
+Updated by: Jonas DeMuro, MD, Diplomate of the American Board of Surgery with added Qualifications in Surgical Critical Care, Assistant Professor of Surgery, Renaissance School of Medicine, Stony Brook, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Surgery

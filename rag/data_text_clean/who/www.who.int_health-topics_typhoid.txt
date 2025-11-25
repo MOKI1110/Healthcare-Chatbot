@@ -1,0 +1,114 @@
+Typhoid
+Skip to main content
+Overview
+Typhoid fever is a life-threatening systemic infection caused by the bacterium
+Salmonella enterica
+serovar Typhi (commonly known as
+Salmonella
+Typhi). Typhoid is usually spread through the ingestion of contaminated food or water.
+Typhoid occurs predominantly in association with poor sanitation and lack of clean drinking water, in both urban and rural settings. However, urbanization, with associated overcrowded populations and inadequate water and sanitation systems, as well as climate change have the potential to further increase the global burden of typhoid. In addition, increasing antibiotic resistance is making it easier for typhoid to spread and more difficult to be treated.
+An estimated 9 million people get sick from typhoid and 110 000 people die from it worldwide every year (2019 figures). Children and populations lacking access to safe drinking water and adequate sanitation are at highest risk.
+Travellers are at risk of developing typhoid fever in many typhoid endemic countries, particularly in Asia and sub-Saharan Africa. Elsewhere, travellers are usually at risk when exposed to low standards of personal hygiene or food hygiene and poor water quality.
+Even vaccinated travellers should take care to avoid consumption of potentially contaminated food and water as vaccination does not confer 100% protection.
+Symptoms and treatment
+Salmonella
+Typhi lives only in humans. In persons with typhoid fever the bacteria enter through the intestinal tract and eventually invade the bloodstream. The resulting illness is often clinically non-distinguishable from other febrile illnesses. Symptoms include:
+prolonged high fever
+fatigue
+headache
+nausea
+abdominal pain
+constipation or diarrhoea
+rash, in some cases.
+Severe cases may lead to serious complications or even death.
+Typhoid fever can be treated with antibiotics. However, increased resistance to antibiotics, including fluoroquinolones and newer antibiotics such as cephalosporins and azithromycin, as well as the emergence of extensively drug resistant strains of
+Salmonella
+Typhi leads to more complicated and expensive treatment options in the most affected regions.
+Even after symptoms pass, approximately 2–5% of cases become chronic carriers and inadvertently spread typhoid through ongoing faecal shedding of the bacteria and contamination. It is important for people being treated for typhoid fever to do the following:
+take prescribed antibiotics for      the full prescribed course;
+wash their hands with soap and      water after using the bathroom, and avoid preparing or serving food to      other people, whilst the infection persists; and
+have their doctor test (after      the antibiotic course) to ensure that no
+Salmonella
+Typhi bacteria remain in their body.
+Prevention and control
+Access to safe water and adequate sanitation, health education, appropriate hygiene among food handlers, and typhoid vaccination are all effective strategies for prevention and control of typhoid.
+There are three recommended typhoid vaccines :
+typhoid conjugate vaccine, an injectable vaccine for children from 6 months of age and adults up to 65 years;
+unconjugated Vi polysaccharide vaccine, an injectable vaccine for people over 2 years; and
+live attenuated oral vaccine, suitable for people over the age of 6 years.
+Typhoid conjugate vaccine has been recommended for routine use as a single dose in childhood immunization programmes since October 2017. The latter two vaccines have been used for many years in older children and adults at risk of typhoid, including travellers; they do not provide long-lasting immunity and require multiple doses to maintain protection.
+Since December 2017, WHO has prequalified two typhoid conjugate vaccines, which are prioritized for introduction in endemic countries with high burden of typhoid or high levels of antimicrobial resistance. Widespread use of the conjugate vaccine in priority countries is expected to help reduce the frequent use of antibiotics for typhoid treatment and slow the increase in antibiotic resistance in
+Salmonella
+Typhi
+.
+Fact sheets
+Typhoid
+Drinking-water
+Sanitation
+Food safety
+Diarrhoeal disease
+Technical work
+Immunization, Vaccines and Biologicals
+News
+All →
+18 June 2019
+News release
+1 in 3 people globally do not have access to safe drinking water – UNICEF, WHO
+3 April 2018
+Departmental update
+WHO recommends use of first typhoid conjugate vaccine
+3 January 2018
+Departmental update
+Typhoid vaccine prequalified
+3 December 2015
+News release
+WHO’s first ever global estimates of foodborne diseases find children under 5 account for almost one third of deaths
+Publications
+All →
+1 January 2020
+Target product profile for therapy of uncomplicated enteric fever
+Download
+Read More
+24 January 2019
+Weekly Epidemiological Record, 25 January 2019, vol. 94, 4 - Global Vaccine Safety meeting: Safety of...
+GACVS previously reviewed the safety of typhoid vaccines, including the newer generation of typhoid conjugate vaccines (TCVs), in December 2016.3 The...
+Download
+Read More
+8 October 2018
+Surveillance standards for vaccine-preventable diseases, 2nd edition
+The purpose of this document is to provide World Health Organization (WHO)-recommended standards for conducting surveillance for vaccine preventable diseases...
+Download
+Read More
+30 March 2018
+Typhoid vaccines: WHO position paper - March 2018
+In accordance with its mandate to provide guidance to Member States on health policy matters, WHO issues a series of regularly updated position papers...
+Download
+Read More
+Meeting reports
+All →
+4 September 2018
+Typhoid: Vaccine Preventable Diseases Surveillance Standards
+Typhoid: Vaccine Preventable Diseases Surveillance Standards
+21 November 2025
+WHO Rapid Risk Assessment - Diphtheria, African Region v.1
+WHO Rapid Risk Assessment - Diphtheria, African Region v.1
+21 November 2025
+Guidelines on the replacement or removal of animal tests
+for the quality control of biological products
+Guidelines on the replacement or removal of animal tests
+for the quality control of biological products
+Events
+All →
+World Immunization week
+24 - 30 April
+Related links
+WHO Guidance on Co-Administration of Typhoid Vaccine with Measles-containing vaccines
+Presentation: Summary of key points - WHO position paper on typhoid (2018)
+Guidelines on the quality, safety and efficacy of typhoid conjugate vaccines
+The Coalition against Typhoid (CaT)
+Typhoid Vaccine Acceleration Consortium (TyVAC)
+Gavi support for TCV
+Related health topics
+Physical environment
+Food safety
+Emergencies

@@ -1,0 +1,135 @@
+Buruli ulcer (Mycobacterium ulcerans infection)
+Skip to main content
+Overview
+Buruli ulcer is a chronic debilitating disease that mainly affects the skin and sometimes bones. First described by Sir Albert Cook in 1897 in Uganda, it was not until the 1930s that Australian scientists led by Peter MacCallum first succeeded in culturing the organism from lesions of patients from the Bairnsdale region. The name Buruli comes from an area of Uganda where many cases were reported in the 1960s. In Africa, about half of the patients are children under 15 years. In Australia, the average age is around 60 years. In 1998, WHO established the Global Buruli Ulcer Initiative in response to the growing spread of the disease, particularly in West Africa.
+Buruli ulcer is caused by
+Mycobacterium
+and
+belongs to the family of bacteria that causes tuberculosis and leprosy. Although the causative organism of Buruli ulcer is an environmental bacterium, the mode of transmission to humans remains unknown. The organism produces a unique toxin – mycolactone – that causes the damage to the skin. Early diagnosis and treatment are crucial to minimizing morbidity, costs and prevent long-term disability.
+Symptoms
+Symptoms of Buruli ulcer begin with painless nodules and swelling, usually on the arms and legs and sometimes on other parts of the body. These areas can then develop into large ulcers with a white and yellow base.
+M.
+ulcerans
+produces the toxin mycolactone. This has local immunosuppressive properties that enable the disease to progress rapidly with no pain and fever, making early detection difficult. However, if the ulcers are treated quickly, most will heal completely.
+If diagnosed late or left untreated, the condition can lead to scarring, permanent disfigurement and disability.
+Buruli ulcer has been reported in 33 countries in Africa, the Americas, Asia and the Western Pacific. Most cases occur in tropical and subtropical regions except in Australia, China and Japan. Out of the 33 countries, 14 regularly report data to WHO. The number of annual cases can be found in
+Global Health Observatory
+.
+Treatment
+Treatment consists of a combination of antibiotics and complementary treatments (under morbidity management and disability prevention/rehabilitation).
+Antibiotics:
+Current WHO recommendations are rifampicin 10 mg/kg per body weight daily and clarithromycin 7.5 mg/kg per body weight twice daily. Treatment guidance for health workers can be found in the WHO publication
+Treatment of
+mycobacterium
+ulcerans
+disease (Buruli ulcer)
+.
+Other interventions
+In addition to the antibiotics and depending on the stage of the disease, other interventions such as wound care, lymphoedema management, surgery (mainly debridement and skin grafting to speed up healing) and physiotherapy are needed. Psychological support
+may also be needed for those with severe disease.
+These same interventions are applicable to other neglected tropical diseases, such as leprosy and lymphatic filariasis, so it is important to integrate a long-term care approach into the health system to benefit all patients. The integrated approach to
+the control of skin related NTDs provides an opportunity to integrate Buruli ulcer detection and its management with these diseases.
+Fact sheets
+Buruli ulcer (Mycobacterium ulcerans infection)
+Databases and tools
+Global Health Observatory (GHO) data
+Resolutions and decisions
+Buruli ulcer
+2004 | WHA57.1
+Initiatives and groups
+WHO Technical Advisory Group on Buruli ulcer
+Skin NTDs Laboratory Network (Skin NTDs
+LABNET
+)
+Training
+Buruli ulcer: training of health workers at national and district levels on skin-NTDs
+Technical work
+Control of Neglected Tropical Diseases
+News
+All →
+26 May 2025
+Departmental update
+Progress for NTDs: two resolutions adopted at WHA78
+1 April 2025
+Departmental update
+Global meeting calls for stronger partnerships to tackle skin NTDs
+24 March 2025
+Departmental update
+Second global meeting on skin NTDs focuses on advancing integration and innovation
+10 February 2025
+Departmental update
+WHO and Anesvad Foundation to extend collaboration on skin NTDs in sub-Saharan Africa
+WHO Academy Course
+Buruli ulcer: training of health workers at national and district levels on skin-NTDs
+Events
+24 – 26 March 2025
+Second global meeting on skin-related neglected tropical diseases (skin NTDs)
+Working Groups
+WHO Skin NTDs Working Groups (office.com)
+Following the Skin NTD Meeting held in Geneva, Switzerland from 27-31 March 2023, WHO is proposing to establish different INFORMAL WORKING GROUPS to help follow up of the main outcomes and keep the momentum.
+Call for consultation
+3 October 2025
+Call for consultation
+Survey : WHA resolution on skin diseases as a global public health priority
+Our work
+Supporting countries endemic for Buruli ulcer
+Promoting the integrated approach to skin-related neglected tropical diseases
+Promoting research on Buruli ulcer
+Engaging partnerships and global coordination for Buruli ulcer
+Publications
+All →
+13 June 2025
+Skin health for all: update on skin neglected tropical diseases with a focus on Buruli...
+Weekly epidemiological record
+Download
+Read More
+22 January 2025
+Harmonizing diagnostic polymerase chain reaction procedures for skin-related neglected tropical diseases:...
+The meeting on harmonizing diagnostic polymerase chain reaction (PCR) procedures for skin-related neglected tropical diseases (skin NTDs) took place in...
+Download
+Read More
+23 August 2024
+Report of the fifth annual meeting of the network of Buruli ulcer PCR laboratories in the WHO African...
+The fifth meeting of the Buruli ulcer laboratory
+network (BU-LABNET) for the WHO African
+Region was held at the Noguchi Memorial
+Institute for Medical...
+Download
+Read More
+10 facts on Buruli ulcer
+Multimedia
+All →
+20 February 2018
+Buruli ulcer
+Infographic
+Countries reporting cases on at least one skin-NTD, 2017-2021
+20 October 2020
+How do we tackle the skin NTDs to reach the 2030 NTD road map targets?
+Infographic
+Buruli Ulcer -- Can be cured
+27 January 2012
+Buruli ulcer - from a difficult past to a hopeful future
+Related links
+Peer-reviewed publications (PubMed)
+Results for Buruli ulcer or
+Mycobacterium ulcerans infection
+Contact
+neglected.diseases@who.int
+Dr. Kingsley Bampoe Asiedu
+Medical officer
+asieduk@who.int
+Related health topics
+Diseases and conditions
+Dracunculiasis (Guinea-worm disease)
+Diseases and conditions
+Leishmaniasis
+Diseases and conditions
+Leprosy (Hansen disease)
+Diseases and conditions
+Lymphatic filariasis (Elephantiasis)
+Diseases and conditions
+Mycetoma, chromoblastomycosis and other deep mycoses
+Diseases and conditions
+Onchocerciasis (river blindness)
+Diseases and conditions
+Yaws (Endemic treponematoses)

@@ -1,6 +1,6 @@
 /**
  * RAG Service - Retrieval-Augmented Generation for Healthcare Chatbot
- * 
+ *
  * This service handles:
  * - Document chunking and embedding
  * - Vector similarity search
@@ -8,8 +8,9 @@
  * - Context retrieval and ranking
  */
 
-import axios from "axios";
-import config from "../config";
+import * as fs from "fs";
+import * as path from "path";
+import { pipeline } from "@xenova/transformers";
 
 // ============================================
 // Types & Interfaces
@@ -41,16 +42,64 @@ export interface RAGContext {
   timestamp: string;
 }
 
+/**
+ * Shape of precomputed embeddings exported from the Python RAG pipeline.
+ */
+interface PrecomputedEmbeddingRecord {
+  id: string;
+  source: string;
+  chunk_index: number;
+  text: string;
+  embedding: number[];
+}
+
 // ============================================
 // Configuration
 // ============================================
 
-const EMBEDDING_API_URL = "https://openrouter.ai/api/v1/embeddings";
-const EMBEDDING_MODEL = "text-embedding-3-small"; // Cost-effective, good quality
 const MAX_CHUNK_SIZE = 500; // characters per chunk
 const CHUNK_OVERLAP = 50; // characters overlap between chunks
 const TOP_K = 5; // Number of documents to retrieve
 const SIMILARITY_THRESHOLD = 0.3; // Minimum similarity score
+
+// ============================================
+// SBERT Embedding (local, via @xenova/transformers)
+// ============================================
+
+let embeddingPipelinePromise: Promise<any> | null = null;
+
+/**
+ * Lazy-load a SBERT-compatible embedding pipeline.
+ * Make sure to use the SAME model family as in your Python export script.
+ * JS uses the Xenova ONNX export of all-MiniLM-L6-v2.
+ */
+async function getEmbeddingPipeline() {
+  if (!embeddingPipelinePromise) {
+    embeddingPipelinePromise = pipeline(
+      "feature-extraction",
+      "Xenova/all-MiniLM-L6-v2" // ONNX export matching sentence-transformers/all-MiniLM-L6-v2
+    );
+  }
+  return embeddingPipelinePromise;
+}
+
+/**
+ * Generates embeddings for text using local SBERT (no external API).
+ */
+async function generateEmbedding(text: string): Promise<number[]> {
+  try {
+    const pipe = await getEmbeddingPipeline();
+    const output = await pipe(text, { pooling: "mean", normalize: true });
+    const data = output.data as Float32Array | number[];
+    return Array.from(data);
+  } catch (error: any) {
+    console.error(
+      "[RAG] SBERT embedding generation failed:",
+      error?.message || error
+    );
+    throw error;
+  }
+}
 
 // ============================================
 // Document Chunking
@@ -66,16 +115,21 @@ export function chunkDocument(
   overlap: number = CHUNK_OVERLAP
 ): DocumentChunk[] {
   const chunks: DocumentChunk[] = [];
-  
+
   // Split by paragraphs first (preserve medical document structure)
-  const paragraphs = content.split(/\n\s*\n/).filter(p => p.trim().length > 0);
-  
+  const paragraphs = content
+    .split(/\n\s*\n/)
+    .filter((p) => p.trim().length > 0);
+
   let currentChunk = "";
   let chunkIndex = 0;
-  
+
   for (const paragraph of paragraphs) {
     // If adding this paragraph would exceed chunk size
-    if (currentChunk.length + paragraph.length > chunkSize && currentChunk.length > 0) {
+    if (
+      currentChunk.length + paragraph.length > chunkSize &&
+      currentChunk.length > 0
+    ) {
       // Save current chunk
       chunks.push({
         id: `${metadata.source}_chunk_${chunkIndex}`,
@@ -85,7 +139,7 @@ export function chunkDocument(
           section: `chunk_${chunkIndex}`,
         },
       });
-      
+
       // Start new chunk with overlap
       const overlapText = currentChunk.slice(-overlap);
       currentChunk = overlapText + "\n\n" + paragraph;
@@ -94,7 +148,7 @@ export function chunkDocument(
       currentChunk += (currentChunk ? "\n\n" : "") + paragraph;
     }
   }
-  
+
   // Add remaining chunk
   if (currentChunk.trim().length > 0) {
     chunks.push({
@@ -106,73 +160,37 @@ export function chunkDocument(
       },
     });
   }
-  
+
   return chunks;
 }
 
 // ============================================
-// Embedding Generation
+// Embedding Generation for New Documents
 // ============================================
 
 /**
- * Generates embeddings for text using OpenRouter API
+ * Batch generate embeddings for multiple chunks (for new docs indexed in Node).
  */
-async function generateEmbedding(text: string): Promise<number[]> {
-  const apiKey = config.OPENROUTER_API_KEY || process.env.OPENROUTER_API_KEY;
-  
-  if (!apiKey) {
-    throw new Error("❌ OPENROUTER_API_KEY missing for embeddings");
-  }
-
-  try {
-    const response = await axios.post(
-      EMBEDDING_API_URL,
-      {
-        model: EMBEDDING_MODEL,
-        input: text,
-      },
-      {
-        headers: {
-          Authorization: `Bearer ${apiKey}`,
-          "Content-Type": "application/json",
-        },
-        timeout: 10000,
-      }
-    );
-
-    const embedding = response.data?.data?.[0]?.embedding;
-    if (!embedding || !Array.isArray(embedding)) {
-      throw new Error("Invalid embedding response");
-    }
-
-    return embedding;
-  } catch (error: any) {
-    console.error("[RAG] Embedding generation failed:", error.message);
-    throw error;
-  }
-}
-
-/**
- * Batch generate embeddings for multiple chunks
- */
-export async function embedChunks(chunks: DocumentChunk[]): Promise<DocumentChunk[]> {
+export async function embedChunks(
+  chunks: DocumentChunk[]
+): Promise<DocumentChunk[]> {
   const embeddedChunks: DocumentChunk[] = [];
-  
-  // Process in batches to avoid rate limits
+
+  // Process in batches
   const batchSize = 10;
   for (let i = 0; i < chunks.length; i += batchSize) {
     const batch = chunks.slice(i, i + batchSize);
-    const embeddingPromises = batch.map(chunk => 
-      generateEmbedding(chunk.content).then(embedding => ({
+    const embeddingPromises = batch.map((chunk) =>
+      generateEmbedding(chunk.content).then((embedding) => ({
         ...chunk,
         embedding,
       }))
     );
-    
+
     const embedded = await Promise.all(embeddingPromises);
     embeddedChunks.push(...embedded);
   }
-  
+
   return embeddedChunks;
 }
 
@@ -182,16 +200,32 @@ export async function embedChunks(chunks: DocumentChunk[]): Promise<DocumentChun
 
 class VectorStore {
   private documents: DocumentChunk[] = [];
-  
+
   /**
-   * Add documents to the vector store
+   * Add documents to the vector store (computes embeddings for them).
+   * Use this for NEW documents indexed from Node.
    */
   async addDocuments(chunks: DocumentChunk[]): Promise<void> {
     const embedded = await embedChunks(chunks);
     this.documents.push(...embedded);
-    console.log(`[RAG] Added ${embedded.length} chunks to vector store (total: ${this.documents.length})`);
+    console.log(
+      `[RAG] Added ${embedded.length} chunks to vector store (total: ${this.documents.length})`
+    );
   }
-  
+
+  /**
+   * Add documents that ALREADY have embeddings (from Python RAG export).
+   */
+  async addPreembeddedDocuments(chunks: DocumentChunk[]): Promise<void> {
+    const valid = chunks.filter(
+      (c) => Array.isArray(c.embedding) && c.embedding!.length > 0
+    );
+    this.documents.push(...valid);
+    console.log(
+      `[RAG] Loaded ${valid.length} pre-embedded chunks into vector store (total: ${this.documents.length})`
+    );
+  }
+
   /**
    * Search for similar documents using cosine similarity
    */
@@ -204,20 +238,23 @@ class VectorStore {
     if (this.documents.length === 0) {
       return [];
     }
-    
+
     // Calculate cosine similarity for all documents
     const similarities = this.documents
       .map((doc, index) => {
         if (!doc.embedding) return null;
-        
+
         // Apply filters
-        if (filters?.documentType && doc.metadata.documentType !== filters.documentType) {
+        if (
+          filters?.documentType &&
+          doc.metadata.documentType !== filters.documentType
+        ) {
           return null;
         }
         if (filters?.source && doc.metadata.source !== filters.source) {
           return null;
         }
-        
+
         const similarity = cosineSimilarity(queryEmbedding, doc.embedding);
         return {
           chunk: doc,
@@ -225,8 +262,9 @@ class VectorStore {
           rank: index,
         };
       })
-      .filter((result): result is RetrievalResult => 
-        result !== null && result.similarity >= threshold
+      .filter(
+        (result): result is RetrievalResult =>
+          result !== null && result.similarity >= threshold
       )
       .sort((a, b) => b.similarity - a.similarity)
       .slice(0, topK)
@@ -234,17 +272,17 @@ class VectorStore {
         ...result,
         rank: index + 1,
       }));
-    
+
     return similarities;
   }
-  
+
   /**
    * Get all documents (for debugging)
    */
   getDocuments(): DocumentChunk[] {
     return this.documents;
   }
-  
+
   /**
    * Clear the vector store
    */
@@ -264,20 +302,20 @@ function cosineSimilarity(vecA: number[], vecB: number[]): number {
   if (vecA.length !== vecB.length) {
     throw new Error("Vectors must have the same length");
   }
-  
+
   let dotProduct = 0;
   let normA = 0;
   let normB = 0;
-  
+
   for (let i = 0; i < vecA.length; i++) {
     dotProduct += vecA[i] * vecB[i];
     normA += vecA[i] * vecA[i];
     normB += vecB[i] * vecB[i];
   }
-  
+
   const denominator = Math.sqrt(normA) * Math.sqrt(normB);
   if (denominator === 0) return 0;
-  
+
   return dotProduct / denominator;
 }
 
@@ -296,18 +334,16 @@ export async function reformulateQuery(
   // Extract key medical terms from conversation history
   const recentContext = conversationHistory
     .slice(-4) // Last 4 messages
-    .map(msg => msg.content)
+    .map((msg) => msg.content)
     .join(" ");
-  
+
   // Combine query with recent context
-  const enhancedQuery = recentContext 
+  const enhancedQuery = recentContext
     ? `${query}. Context: ${recentContext}`
     : query;
-  
+
   // For now, return enhanced query
-  // In production, you could use DeepSeek to reformulate:
-  // "Reformulate this medical query for better document retrieval: {query}"
-  
+  // In production, you could use DeepSeek / other model to reformulate.
   return enhancedQuery;
 }
 
@@ -339,20 +375,20 @@ export async function retrieveContext(
         timestamp: new Date().toISOString(),
       };
     }
-    
+
     // 1. Reformulate query with conversation context
     const reformulatedQuery = await reformulateQuery(query, conversationHistory);
     console.log(`[RAG] Reformulated query: "${reformulatedQuery}"`);
-    
-    // 2. Generate query embedding
+
+    // 2. Generate query embedding (local SBERT)
     console.log("[RAG] Generating query embedding...");
     const queryEmbedding = await generateEmbedding(reformulatedQuery);
-    
+
     // 3. Build filters
     const filters: { documentType?: string; source?: string } = {};
     if (options.documentType) filters.documentType = options.documentType;
     if (options.source) filters.source = options.source;
-    
+
     // 4. Search vector store
     console.log(`[RAG] Searching ${docCount} documents in vector store...`);
     const results = await vectorStore.search(
@@ -361,9 +397,9 @@ export async function retrieveContext(
       options.threshold || SIMILARITY_THRESHOLD,
       Object.keys(filters).length > 0 ? filters : undefined
     );
-    
+
     console.log(`[RAG] Found ${results.length} relevant documents`);
-    
+
     return {
       retrievedDocs: results,
       query,
@@ -387,6 +423,7 @@ export async function retrieveContext(
 
 /**
  * Load and index documents from various sources
+ * (for new docs indexed directly in Node)
  */
 export async function indexDocuments(
   documents: Array<{
@@ -395,14 +432,16 @@ export async function indexDocuments(
   }>
 ): Promise<void> {
   const allChunks: DocumentChunk[] = [];
-  
+
   for (const doc of documents) {
     const chunks = chunkDocument(doc.content, doc.metadata);
     allChunks.push(...chunks);
   }
-  
+
   await vectorStore.addDocuments(allChunks);
-  console.log(`[RAG] Indexed ${documents.length} documents into ${allChunks.length} chunks`);
+  console.log(
+    `[RAG] Indexed ${documents.length} documents into ${allChunks.length} chunks`
+  );
 }
 
 /**
@@ -413,10 +452,60 @@ export async function loadDocumentsFromCSV(
   questionColumn: string = "question",
   answerColumn: string = "answer"
 ): Promise<void> {
-  // This would require a CSV parser
-  // For now, we'll provide the structure
-  // In production, use: const csv = require('csv-parser');
-  console.log(`[RAG] CSV loading not implemented. Use indexDocuments() instead.`);
+  // Not implemented here; you can wire a CSV parser if needed.
+  console.log(
+    `[RAG] CSV loading not implemented. Use indexDocuments() instead.`
+  );
+}
+
+// ============================================
+// Load Precomputed Embeddings from Python RAG
+// ============================================
+
+/**
+ * Load precomputed MedlinePlus embeddings exported by the Python RAG pipeline.
+ * Expects: src/data/medlineplus_embeddings.jsonl
+ */
+export async function loadPrecomputedEmbeddings(): Promise<void> {
+  try {
+    const embeddingsPath = path.resolve(
+      __dirname,
+      "../data/medlineplus_embeddings.jsonl"
+    );
+
+    if (!fs.existsSync(embeddingsPath)) {
+      console.warn(
+        `[RAG] Precomputed embeddings file not found at ${embeddingsPath}`
+      );
+      return;
+    }
+
+    const fileContents = fs.readFileSync(embeddingsPath, "utf-8");
+    const lines = fileContents
+      .split(/\r?\n/)
+      .filter((l) => l.trim().length > 0);
+
+    const docs: DocumentChunk[] = lines.map((line) => {
+      const rec: PrecomputedEmbeddingRecord = JSON.parse(line);
+      return {
+        id: rec.id,
+        content: rec.text,
+        metadata: {
+          source: rec.source,
+          section: `chunk_${rec.chunk_index}`,
+          documentType: "general", // you can refine this if you export documentType
+        },
+        embedding: rec.embedding,
+      };
+    });
+
+    await vectorStore.addPreembeddedDocuments(docs);
+  } catch (error: any) {
+    console.error(
+      "[RAG] Failed to load precomputed embeddings:",
+      error?.message || error
+    );
+  }
 }
 
 // ============================================
@@ -431,5 +520,5 @@ export default {
   embedChunks,
   reformulateQuery,
   vectorStore,
+  loadPrecomputedEmbeddings,
 };
-

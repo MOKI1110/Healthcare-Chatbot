@@ -1,0 +1,118 @@
+Serotonin syndrome: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Serotonin syndrome
+Serotonin syndrome
+Serotonin syndrome (SS) is a potentially life-threatening drug reaction. It causes the body to have too much serotonin, a chemical produced by some nerve cells.
+Causes
+SS most often occurs when two or more medicines or drugs that affect the body's level of serotonin are taken together at the same time. The medicines cause too much serotonin to be released or to remain in the brain area.
+For example, you can develop this syndrome if you take
+migraine
+medicines called triptans together with antidepressants called selective serotonin reuptake inhibitors (SSRIs), or selective serotonin/norepinephrine reuptake inhibitors (SSNRIs).
+Common SSRIs include:
+Citalopram (Celexa)
+Escitalopram (Lexapro)
+Fluoxetine (Prozac)
+Paroxetine (Paxil)
+Sertraline (Zoloft)
+SSNRIs include:
+Desvenlafaxine (Pristiq)
+Duloxetine (Cymbalta)
+Levomilnacipran (Fetzima)
+Milnacipran (Savella)
+Venlafaxine (Effexor)
+Common triptans include:
+Almotriptan (Axert)
+Eletriptan (Relpax)
+Frovatriptan (Frova)
+Naratriptan (Amerge)
+Rizatriptan (Maxalt)
+Sumatriptan (Imitrex)
+Zolmitriptan (Zomig)
+If you take these medicines, be sure to read the warning on the packaging. It tells you about the potential risk of SS. However, do not stop taking your medicine. Talk to your health care provider about your concerns first.
+SS is more likely to occur when you first start taking or increase the dose of the medicine..
+Older antidepressants called monoamine oxidase inhibitors (MAOIs) can also cause SS when combined with the medicines described above, as well as meperidine (Demerol, a painkiller), fentanyl, dextromethorphan (cough medicine), and others.
+Street drugs, such as methamphetamine or other
+amphetamines
+,
+cocaine
+, opiates, ecstasy,
+LSD
+, and others have also been associated with SS.
+Symptoms
+Symptoms occur within minutes to hours of taking medicines that can cause SS, and may include:
+Agitation or restlessness
+Abnormal eye movements
+Diarrhea
+Fast heartbeat and high blood pressure
+Hallucinations
+Increased body temperature
+Loss of coordination
+Nausea and vomiting
+Overactive reflexes
+Rapid changes in blood pressure
+Exams and Tests
+The diagnosis is usually made by asking the person questions about medical history, including the types of medicines they take.
+To be diagnosed with SS, the person must have been taking a drug that changes the body's serotonin level (serotonergic drug) and have at least three of the following signs or symptoms:
+Agitation
+Abnormal eye movements called 'ocular clonus'
+Heavy sweating not due to activity
+Fever
+Mental status changes, such as
+confusion
+or hypomania
+Muscle spasms (myoclonus)
+Overactive reflexes (
+hyperreflexia
+)
+Shivering
+Tremor
+Uncoordinated movements (ataxia)
+SS is not diagnosed until all other likely causes have been ruled out. This may include infections, intoxication, metabolic and hormone problems, and drug or alcohol withdrawal. Some symptoms of SS can mimic those due to an overdose of cocaine, lithium, or an MAOI.
+If a person has just started taking or increased the dosage of a tranquilizer (neuroleptic drug), other conditions such as neuroleptic malignant syndrome (NMS) will be considered.
+Tests may include:
+Blood cultures (to check for infection)
+Complete blood count
+(CBC)
+CT scan of the brain
+Drug (toxicology) and alcohol screen
+Electrolyte levels
+Electrocardiogram (ECG)
+Kidney and liver function tests
+Thyroid function tests
+Treatment
+People with SS will usually stay in the hospital for at least 24 hours for close observation.
+Treatment may include:
+Benzodiazepine medicines to decrease agitation, seizure-like movements, and muscle stiffness
+Cyproheptadine (Periactin), a drug that blocks serotonin production
+Intravenous (through the vein) fluids
+Stopping medicines that caused the syndrome
+In life-threatening cases, medicines that keep the muscles still (paralyze them), and a temporary breathing tube and breathing machine will be needed to prevent further muscle damage.
+Outlook (Prognosis)
+People may get slowly worse and can become severely ill if not quickly treated. Untreated, SS can be deadly. With treatment, symptoms usually go away in less than 24 hours. Permanent organ damage may result, even with treatment.
+Possible Complications
+Uncontrolled muscle spasms can cause severe muscle breakdown. The products produced when the muscles break down are released into the blood and eventually go through the kidneys. This can cause severe kidney damage if not recognized and treated properly.
+When to Contact a Medical Professional
+Contact your provider right away if you have symptoms of SS.
+Prevention
+Always tell your providers which medicines you take. People who take triptans with SSRIs or SSNRIs should be closely followed, especially right after starting a medicine or increasing its dosage.
+Alternative Names
+Hyperserotonemia; Serotonergic syndrome; Serotonin toxicity; SSRI - serotonin syndrome; MAO - serotonin syndrome
+References
+Levine MD, Ruha AM. Antidepressants. In: Walls RM, eds.
+Rosen's Emergency Medicine: Concepts and Clinical Practice
+. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 141.
+Meehan TJ. Care of the poisoned patient. In: Walls RM, eds.
+Rosen's Emergency Medicine: Concepts and Clinical Practice
+. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 135.
+Praschan N, Beach SR, Fricchione GL, Huffman JC, Stern TA. Catatonia, neuroleptic malignant syndrome, and serotonin syndrome. In: Stern TA, Wilens TE, Fava M, eds.
+Massachusetts General Hospital Comprehensive Clinical Psychiatry
+. 3rd ed. Philadelphia, PA: Elsevier; 2025:chap 38.
+Review Date 4/3/2024
+Updated by: Jesse Borke, MD, CPE, FAAEM, FACEP, Attending Physician at Kaiser Permanente, Orange County, CA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Antidepressants
+Migraine

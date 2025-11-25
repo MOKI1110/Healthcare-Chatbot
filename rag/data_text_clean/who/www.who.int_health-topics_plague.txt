@@ -1,0 +1,122 @@
+Plague
+Skip to main content
+Overview
+Plague is an infectious disease caused by
+Yersinia pestis
+bacteria, usually found in small mammals and their fleas. The disease is transmitted between animals via their fleas and, as it is a zoonotic bacterium, it can also transmit from animals to humans.
+Humans can be contaminated by the bite of infected fleas, through direct contact with infected materials, or by inhalation. Plague can be a very severe disease in people, particularly in its septicaemic and pneumonic forms, with a case-fatality ratio
+of 30% - 100% if left untreated.
+Although plague has been responsible for widespread pandemics throughout history, including the so-called Black Death that caused over 50 million deaths in Europe during the fourteenth century, today it can be easily treated with antibiotics and the use of standard preventative measures.
+Plague is found on all continents except Oceania but most human cases since the 1990s have occurred in Africa. Democratic Republic of Congo, Madagascar and Peru are the three most endemic countries.
+Symptoms
+People infected with plague usually develop influenza-like symptoms after an incubation period of 3–7 days. Symptoms include fever, chills, aches, weakness, vomiting and nausea.
+There are 3 main forms of plague.
+Bubonic plague is the most common and is caused by the bite of an infected flea. The plague bacillus,
+Y. pestis
+, enters at the bite and travels to the nearest lymph node to replicate. The lymph node becomes inflamed, tense and painful, and is called a bubo. With advanced infections, the inflamed lymph nodes can turn into suppurating open sores. Bubonic plague cannot be transmitted from human to human.
+Septicaemic plague occurs when infection spreads through the bloodstream. It may result from flea bites or from direct contact with infective materials through cracks in the skin. Advanced stages of the bubonic form of plague will also lead to direct spread of
+Y. pestis
+in the blood.
+Pneumonic plague – or lung-based plague – is the most virulent and least common form of plague. Typically, it is caused by spread to the lungs from advanced bubonic plague. However, a person with secondary pneumonic plague may form aerosolized infective droplets and transmit plague to other humans. This is usually fatal.
+Treatment
+Untreated plague can be rapidly fatal, so early diagnosis and treatment is essential for survival and to reduce complications. Antibiotics and supportive therapy are effective against plague if patients are diagnosed in time.
+Laboratory testing is required to confirm infection. This includes identifying the causative bacteria in a sample of pus from a bubo, blood or sputum. WHO does not recommend vaccination except for high-risk people such as laboratory personnel and health
+care workers.
+Preventive measures include informing people when zoonotic plague is present in their environment and giving advice on how they can protect themselves. They should be advised to take precautions against flea bites and not to handle animal carcasses. People,
+especially health workers, should also avoid direct contact with infected tissues such as buboes, or close exposure to patients with pneumonic plague.
+Country readiness checklist
+(in English)
+Country readiness checklist
+(in French)
+Country readiness checklist
+(in Portuguese)
+Fact sheets
+Plague
+Questions and answers
+Questions and answers on plague
+Databases and tools
+Plague Outbreak Toolbox
+Emergency situations
+Plague in Madagascar 2017
+Disease outbreak news
+Latest disease outbreak news
+Weekly epidemiological record (WER)
+Initiatives and groups
+Emerging and Dangerous Pathogens Laboratory Network (EDPLN)
+Training
+Introduction to human plague
+Technical work
+Disease outbreaks
+Risk communications and community engagement (RCCE)
+News
+All →
+8 January 2018
+News release
+WHO Director-General: invest in health to end plague in Madagascar
+27 November 2017
+News release
+Madagascar’s plague epidemic is slowing, but we must sustain the response
+18 October 2017
+News release
+Suspected cases from Seychelles test negative for plague
+6 October 2017
+News release
+WHO provides 1.2 million antibiotics to fight plague in Madagascar
+Latest publications
+All 	→
+25 September 2024
+Manual for plague surveillance, diagnosis, prevention and control
+Plague has caused millions of deaths in pandemics over the past 2,500
+years. Re-emerging in several countries during the 1990s, it is now
+considered...
+Download
+Read More
+27 May 2021
+WHO guidelines for plague management: revised recommendations for the use of rapid diagnostic tests,...
+Plague is an acute bacterial infection caused by Yersinia pestis. Although effective antimicrobials are available, plague still has high mortality because...
+Download
+Read More
+14 May 2021
+After action review (‎AAR)‎ results: plague response in Madagascar helped improve national preparedness...
+Download
+Read More
+14 May 2021
+Report of an Interregional Meeting on Prevention and Control of Plague, New Delhi, India, 13-16 March...
+Download
+Read More
+Our work
+Strengthening global health security at the human-animal interface
+Strengthening national emergency preparedness
+Streamlining operational R&D response during outbreaks
+Developing norms and standards in the epidemic context
+Feature stories
+All →
+14 November 2017
+Madagascar plague: mitigating the risk of regional spread
+7 November 2017
+Encounters with plague: tracing and preventing illness
+Infographics
+All →
+Infographic
+Facts about plague
+Infographic
+Global distribution of natural plague
+Events
+All →
+WHO EPI-WIN Webinar: plague in the 21st century: new evidence to control a re-emerging zoonotic disease
+23 July 2025 13:00 – 14:00 CET
+Global consultation on Plague Vaccines
+12 October 2023 13:00 – 18:00 CET
+EPI-WIN webinar: Managing plague in the field
+19 April 2023 13:00 – 14:00 CET
+Related health topics
+Communicable diseases
+Ebola virus disease
+Diseases and conditions
+Influenza (avian and other zoonotic)
+Socio-political determinants
+International Health Regulations
+Communicable diseases
+Middle East respiratory syndrome coronavirus (MERS-CoV)
+Diseases and conditions
+Zika virus disease

@@ -1,0 +1,80 @@
+PET scan for breast cancer: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+PET scan for breast cancer
+PET scan for breast cancer
+A positron emission tomography
+(PET) scan
+is an imaging test that uses a radioactive substance (called a tracer) to look for potential spread of
+breast cancer
+. This tracer can help identify areas of cancer that an
+MRI
+or
+CT
+scan may not show.
+How the Test is Performed
+A PET scan requires a small amount of radioactive material (tracer). This tracer is given through a vein (
+IV
+), usually on the inside of your elbow, or in a small vein in your hand. The tracer travels through your blood, collects in organs and tissues and gives off a signal that helps the radiologist see certain areas or disease more clearly.
+You will need to wait nearby as your body absorbs the tracer. This usually takes about 1 hour.
+Then, you will lie on a narrow table, which slides into a large tunnel-shaped scanner. The PET scanner detects signals that are given off from the tracer. A computer converts the results into 3D pictures. The images are displayed on a monitor for your health care provider to interpret.
+You must lie still during test. Too much movement can blur images and cause errors.
+The test takes about 90 minutes.
+Most PET scans are performed along with a CT scan. This combination scan is called a PET/CT and allows a detailed exam of the whole body, looking for any sign of cancer cells.
+How to Prepare for the Test
+You may be asked not to eat anything for 4 to 6 hours before the scan. You will be able to drink water.
+Tell your provider if:
+You are afraid of closed spaces (have claustrophobia). You may be given a medicine to help you feel sleepy and less anxious.
+You are pregnant or think you might be pregnant.
+You are breastfeeding.
+You have any allergies to injected dye (contrast).
+You take insulin for
+diabetes
+. If so, you will need special preparation.
+Always tell your provider about the medicines you're taking, including those bought without a prescription. Sometimes, medicines can interfere with the test results.
+How the Test will Feel
+You may feel a sharp sting when the needle containing the tracer is placed into your vein.
+A PET scan causes no pain. The room and table may be cold, but you can request a blanket or pillow.
+An intercom in the room allows you to speak to someone at any time.
+There is no recovery time, unless you were given a medicine to relax.
+Why the Test is Performed
+A PET scan is most often used when other tests, such as MRI scan or CT scan, do not provide enough information or providers are looking for the potential spread of the breast cancer to lymph nodes or beyond.
+If you have breast cancer, your provider may order this scan:
+Soon after your diagnosis to see if the cancer has spread and to help tailor your treatments
+After treatment if there is concern that the cancer has returned
+During treatment to see if the cancer is responding to treatment
+A PET scan is not used to screen for, or diagnose, breast cancer.
+Normal Results
+A normal result means there are no areas outside the breast in which the radiotracer has abnormally collected. This result most likely means the breast cancer has not spread to other parts of the body.
+Very small areas of breast cancer may not show up on a PET scan.
+What Abnormal Results Mean
+Abnormal results may mean that the breast cancer may have spread outside of the breast.
+Blood sugar or insulin level may affect the test results in people with diabetes.
+Risks
+The amount of radiation used in a PET scan is low. It is about the same amount of radiation as in most CT scans. Also, the radiation does not last for very long in your body.
+Women who are pregnant or breastfeeding should let their provider know before having this test. Infants and babies developing in the womb are more sensitive to the effects of radiation because their organs are still growing.
+It is possible, although very unlikely, to have an allergic reaction to the radioactive substance. Some people have pain, redness, or swelling at the injection site.
+After the scan is performed, you may be asked to drink a lot of water and stay away from children under 13 years old or anyone pregnant for 24 hours.
+If you are breastfeeding, tell your doctor. Your provider may recommend that you do not breastfeed for 24 hours after the scan.
+Alternative Names
+Breast positron emission tomography; PET - breast; PET - tumor imaging - breast
+Images
+Female breast
+References
+Allweis TM, Grubstein A, Menes T. Breast cancer screening. In: Klimberg VS, Gradishar WJ, Bland KI, Korourian S, White J, Copeland EM, eds.
+Bland and Copeland's The Breast.
+6th ed. Philadelphia, PA: Elsevier; 2024:chap 12.
+Davidson NE. Breast cancer and benign breast disorders. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier; 2024:chap 183.
+National Cancer Institute website. Breast cancer treatment (PDQ) - health professional version.
+www.cancer.gov/types/breast/hp/breast-treatment-pdq
+. Updated December 6, 2024. Accessed January 3, 2025.
+Review Date 7/16/2024
+Updated by: David Herold, MD, Radiation Oncologist in Jupiter, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 01/03/2025.
+Related MedlinePlus Health Topics
+Breast Cancer
+Nuclear Scans

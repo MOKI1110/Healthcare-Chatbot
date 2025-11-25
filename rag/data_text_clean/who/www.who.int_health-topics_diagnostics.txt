@@ -1,0 +1,166 @@
+Diagnostics - Global
+Skip to main content
+Overview
+Diagnostics are the most important tools that empower the health workforce in the identification of diseases or health conditions. They allow the initiation of treatments in order to avoid further complications and costly treatments for patients.
+Diagnostic services are vital for the prevention, screening, diagnosis, case management, monitoring and treatment or surveillance of communicable, noncommunicable, neglected tropical and rare diseases, injuries and disabilities. Therefore, equitable access to safe, effective and quality assured diagnostics requires a comprehensive health-systems approach that addresses all stages of the access value chain.
+The term diagnostics includes medical devices used for in vitro and in vivo determination of physiological status or presence and characteristics of a disease. Examples of in vitro diagnostics include laboratory tests (such as blood or urine tests); in vivo diagnostics include imaging tests (such as chest radiography, mammography or pelvic ultrasound) and other type of tests such as thermometer, electrocardiogram, pulse oximeters, endoscopes or blood pressure measurement devices. The simplest ones can be self-used, such as pregnancy tests, while others require important infrastructure and a specialized health workforce, like CT scanners.
+Impact
+Diagnostics are important to ensure quality, comprehensive and integrated primary health care and health services everywhere and for everyone. Every medical decision depends on a proper diagnosis, and while diagnostics results influence approximately 70% of healthcare decisions, only 3–5% of healthcare budgets go to diagnostic services. Thus, greater availability and improved access to diagnostics contribute towards health systems strengthening and universal health coverage.
+Diagnostics contribute to the identification, detection and characterization of infectious and noncommunicable diseases. They also contribute to the monitoring of the burden of diseases as they can be used to collect data for informing public health interventions.
+Diagnostics are fundamental for identification of pathogens and successful outbreak containment and control strategies. They are the first line of defence against emerging pathogens and the possibility of the re-emergence of eradicated diseases.
+Diagnostics can be used in clinical studies to develop guidance for clinical care of patients and to monitor the efficacy and effectiveness of medical countermeasures such as treatments or vaccines.
+WHO response
+WHO works with Member States, collaborating centres, partners and expert groups to develop and revise guidelines and tools, including norms and standards of all types of diagnostics (in vitro and in vivo).
+WHO selects priority medical devices required for multiple diseases and health conditions. WHO promotes the Essential in vitro diagnostic list and the Priority medical devices list to assist Member States in developing their own national lists, and to support their access and availability.
+WHO supports Member States in establishing mechanisms to assess national needs for health technologies, in particular medical devices used to screen, diagnose and monitor diseases and health conditions to assure their availability and use, particularly in low-resource settings.
+The Organization also support the strengthening of national laboratory systems to deliver timely, safe, and reliable diagnostic test results. This includes plans and frameworks for the provision of laboratory based diagnostic services, laboratory workforce and network development, and optimization of laboratory operations.
+The Organization assists Member States in addressing access barriers, strengthening regulatory capabilities, and promoting evidence-based decision-making and rational use of health technologies including diagnostics. Furthermore, the Organization leads efforts in innovation and increasing regional capacity in the research and development of priority health products.
+Fact sheets
+Self-care for health and well-being
+Databases and tools
+WHO Priority list of Medical Devices Information System (MedDevIS)
+Electronic WHO Model list of essential in vitro diagnostics
+Magnetic resonance imaging units (per million population), total density
+Computed tomography units (per million population), total density
+Positron Emission tomography (per million population), total density
+Mammography units (per million females aged from 50 to 69 years old), total density
+Toolkit to optimize HIV testing algorithms
+Dual HIV/syphilis rapid diagnostic tests
+Diagnostics for gonococcal antimicrobial resistance
+Training
+Global Laboratory Leadership Programme (GLLP)
+Laboratory Quality Management System Training Toolkit | HSLP
+Laboratory Quality Stepwise Implementation tool
+Resolutions and decisions
+WHA 76.5 - Strengthening diagnostics capacity
+WHA78.13 - Strengthening medical imaging capacity
+Technical work
+Medical devices and in vitro diagnostics
+Health product and policy standards (HPS)
+Surveillance prevention and control of AMR
+Noncommunicable diseases
+Regulation and prequalification
+News
+All →
+10 September 2025
+Departmental update
+WHO announces the development of guidelines on multiplex testing
+31 July 2025
+Departmental update
+Redefining the HIV response in Africa through local production of medicines and diagnostics
+15 July 2025
+Departmental update
+WHO prequalifies the first triple diagnostic test for HIV, hepatitis B and syphilis, a milestone toward global disease elimination goals
+2 July 2025
+Departmental update
+WHO-backed integrated testing model strengthens  response to mpox, HIV, and syphilis
+Latest publications
+All →
+2 October 2025
+Landscape analysis of commercially available and pipeline in vitro diagnostics for bacterial priority...
+This report maps the available and pipeline diagnostics to detect and identify WHO bacterial priority pathogens and to perform phenotypic antimicrobial...
+Download
+Read More
+20 July 2025
+Rapid diagnostic test accessibility considerations for professional use and self-tests
+In the last few decades, rapid diagnostic medical tests, such as those for HIV, or SARS-CoV-2 (COVID-19), have become widespread in laboratories, clinics,...
+Download
+Read More
+19 March 2025
+Landscape analysis of commercially available and pipeline in vitro diagnostics for fungal priority pathogens
+This report presents the first World Health Organization (WHO) analysis of commercially available diagnostic products and pipeline diagnostic products...
+Download
+Read More
+11 March 2025
+Integration of HIV and syphilis testing services as part of mpox response: standard operating procedures
+As
+mpox mortality has been associated to HIV infection, and its mode of
+transmission is direct contact, including sexual contact, it is
+important...
+Download
+Read More
+Our work
+Strengthening diagnostics capacity
+Safeguarding biosafety and biosecurity in laboratories
+Prioritizing medical devices
+Strengthening medical imaging
+Strengthening public health laboratory services
+Screening for cervical cancer
+Events
+Laboratory diagnostic testing for Chikungunya
+15 October 2025 12:00 – 13:30 CET
+Webinar on Ensuring safe care for every newborn and child:
+A radiation protection perspective
+17 September 2025 12:30 – 14:00 CET
+2025
+World Patient Safety Day, 17 September 2025: "Safe care for every newborn and every child"
+17 September 2025
+1
+(current)
+2
+3
+4
+5
+6
+7
+Calls
+30 July 2025
+Call for consultation
+Call for public comment: Target Product Profiles for developing IVDs for low- and middle-income settings
+6 July 2025
+Call for consultation
+Call for public consultation: Target Product Profiles for screening devices to detect medicines contaminated with diethylene glycol or ethylene glycol
+2 May 2025
+Call for consultation
+Call for public consultation - Defining the term “diagnostics”
+1
+(current)
+2
+Videos
+30 June 2021
+Optimizing HIV Testing Services Using HIV Risk Assessment Tools
+28 January 2021
+Developing a national EDL for a better access to diagnostics
+28 January 2021
+What is the WHO EDL for a better access to diagnostics?
+28 January 2021
+The importance of diagnostics and the EDL
+Resources
+Selection, access and use of in vitro diagnostics
+Electronic WHO Model list of essential in vitro diagnostics
+WHO Priority Medical Devices Information System
+WHO TB Knowledge sharing platform
+WHO TB Supranational Reference Laboratory Network
+In Vitro Diagnostics Prequalification
+Reporting safety, quality, performance issues for in vitro diagnostics
+Global collaboration for diagnostics
+Association Internationale des Technologistes Biomédicaux
+Amref Health Africa
+Global Diagnostic Imaging, Healthcare IT & Radiation Therapy Trade Association
+Global Medical Technology Alliance
+International Council for Standardization in Haematology
+International Federation of Biomedical Laboratory Science
+International Federation of Clinical Chemistry and Laboratory Medicine
+International Society of Radiographers & Radiological Technologists
+International Society of Radiology
+RAD-AID International
+World Association of Societies of Pathology and Laboratory Medicine
+World Federation for Ultrasound in Medicine and Biology
+World Federation of Nuclear Medicine and Biology
+Related health topics
+Physical environment
+Antimicrobial resistance
+Health systems
+Blood transfusion safety
+Diseases and conditions
+Diabetes
+Health systems
+Emergency and critical care
+Communicable diseases
+HIV
+Health interventions
+In vitro diagnostics
+Health interventions
+Medical devices
+Diseases and conditions
+Tuberculosis

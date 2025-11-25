@@ -1,0 +1,108 @@
+Scabies
+Skip to main content
+Overview
+Scabies is one of the commonest dermatological conditions, accounting for a substantial proportion of skin disease in many low- and middle-income countries. Globally, it is estimated to affect more than 200 million people at any time and more than 400 million people every year.
+Scabies is caused by infestation of the skin with a microscopic mite (
+Sarcoptes scabiei
+var.
+hominis
+) characterized by itch and a skin eruption. Scabies is frequently complicated by bacterial skin infection (impetigo). In turn, impetigo may result in abscesses, sepsis and invasive infections with bacteria, most frequently
+Staphylococcus aureus
+and
+Streptococcus pyogenes
+, the latter of which may result in kidney disease and rheumatic heart disease. Scabies also impacts quality of life: itch and visible rash often lead to poor sleep, stigmatization and social exclusion, interrupting school and work attendance.
+Scabies affects the world’s most disadvantaged populations,
+especially people living in crowded and impoverished conditions, from island communities in the Pacific to favelas of Latin America, remote and rural communities across Africa and Australia, and displaced populations living in camps. In resource-poor settings, scabies and its complications impose a major cost on health care systems. In high-income countries, cases are sporadic, yet outbreaks in health institutions and vulnerable communities contribute to significant economic costs for national health services.
+Symptoms
+Scabies mites burrow under the upper layer of the skin to lay their eggs, resulting in intense itching. Characteristics of scabies are papules or burrows in typical locations, including the web spaces of the fingers and toes, wrists, buttocks, breasts in females, and genitals. In young children and the elderly, scabies lesions may also be present on the palms, soles and scalp. The itching and rash cause poor sleep, stigmatization and social exclusion, as well as absenteeism from education and employment, resulting in reduced learning potential for children and economic impacts for families and communities. Presence of redness, pus or crusts may indicate a secondary bacterial infection. This should be differentiated from crusted scabies, a severe form of scabies, that is characterized by thick, scaly, plaques over the skin and, in severe cases, deep fissures.
+Treatment
+Primary management of affected individuals involves application of a topical scabicide such as 5% permethrin, 0.5% malathion in aqueous base, 10–25% benzyl benzoate emulsion or 5–10% sulfur ointment. Oral ivermectin is also highly effective and is approved in several countries. The safety of ivermectin in pregnant women or children below
+15 kg body weight has not been established, so ivermectin should not be used in these groups until more safety data are available. Itch commonly intensifies with effective treatment for 1–2 weeks and treated individuals should be informed accordingly.
+Because people in the early stage of new infestation may be asymptomatic, it is critical to treat the whole household at the same time as the diagnosed case. Repeating treatment in the time frame appropriate for the chosen medication (typically after 7–14 days) will lead to a higher efficacy, particularly for oral ivermectin, which does not kill mite eggs.
+Fact sheets
+Scabies
+Epidemiological data
+Yaws data from Global Health Observatory
+Status of yaws endemicity (interactive graph), GHO
+Status of yaws endemicity by country
+Q&A
+Frequently asked questions on Yaws
+WHO Resolutions
+Control of endemic treponematoses, 1978
+| WHA31.58
+Bejel and other Treponematoses, 1949
+| WHA2.36
+WHO teams
+Neglected Tropical Diseases
+Data
+Neglected tropical diseases
+News
+All →
+26 May 2025
+Departmental update
+Progress for NTDs: two resolutions adopted at WHA78
+1 April 2025
+Departmental update
+Global meeting calls for stronger partnerships to tackle skin NTDs
+24 March 2025
+Departmental update
+Second global meeting on skin NTDs focuses on advancing integration and innovation
+10 February 2025
+Departmental update
+WHO and Anesvad Foundation to extend collaboration on skin NTDs in sub-Saharan Africa
+Our work
+Promoting the integrated approach to skin-related neglected tropical diseases
+Events
+24 – 26 March 2025
+Second global meeting on skin-related neglected tropical diseases (skin NTDs)
+Working Groups
+WHO Skin NTDs Working Groups (office.com)
+Following the Skin NTD Meeting held in Geneva, Switzerland from 27-31 March 2023, WHO is proposing to establish different INFORMAL WORKING GROUPS to help follow up of the main outcomes and keep the momentum.
+Publications
+All →
+13 June 2025
+Skin health for all: update on skin neglected tropical diseases with a focus on Buruli...
+Weekly epidemiological record
+Download
+Read More
+22 January 2025
+Harmonizing diagnostic polymerase chain reaction procedures for skin-related neglected tropical diseases:...
+The meeting on harmonizing diagnostic polymerase chain reaction (PCR) procedures for skin-related neglected tropical diseases (skin NTDs) took place in...
+Download
+Read More
+23 May 2024
+Report of the first WHO global meeting on skin-related neglected tropical diseases: Geneva, Switzerland,...
+The World Health Organization (WHO) held its inaugural global meeting on skin-related neglected
+tropical diseases (skin NTDs) on 27–31 March 2023,...
+Download
+Read More
+Multimedia
+Infographic
+Countries reporting cases on at least one skin-NTD, 2017-2021
+20 October 2020
+How do we tackle the skin NTDs to reach the 2030 NTD road map targets?
+External Publications
+Peer-reviewed publications (PubMed)
+Results for scabies and sarcoptes scabiei
+Contact
+neglected.diseases@who.int
+Dr. Kingsley Bampoe Asiedu
+Medical officer
+asieduk@who.int
+Related health topics
+Communicable diseases
+Buruli ulcer  (Mycobacterium ulcerans infection)
+Diseases and conditions
+Leprosy (Hansen disease)
+Diseases and conditions
+Leishmaniasis
+Diseases and conditions
+Lymphatic filariasis (Elephantiasis)
+Diseases and conditions
+Mycetoma, chromoblastomycosis and other deep mycoses
+Diseases and conditions
+Onchocerciasis (river blindness)
+28 April 2023
+Tungiasis
+Diseases and conditions
+Yaws (Endemic treponematoses)

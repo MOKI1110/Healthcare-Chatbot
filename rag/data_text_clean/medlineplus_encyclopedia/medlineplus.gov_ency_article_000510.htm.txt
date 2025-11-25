@@ -1,0 +1,138 @@
+Hemolytic-uremic syndrome: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Hemolytic-uremic syndrome
+Hemolytic-uremic syndrome
+Shiga-like toxin producing
+E coli
+hemolytic-uremic syndrome (STEC-HUS) is a disorder that most often occurs when an infection in the digestive system produces toxic substances. These substances destroy red blood cells and cause kidney injury.
+Causes
+Hemolytic-uremic syndrome (HUS) often occurs after a gastrointestinal infection with
+E coli
+bacteria (
+Escherichia coli
+O157:H7). However, the condition has also been linked to other gastrointestinal infections, including
+shigella
+and
+salmonella
+. It has also been linked to non-gastrointestinal infections.
+HUS is most common in children. It is the most common cause of acute kidney failure in children. Several large outbreaks have been linked to undercooked hamburger meat contaminated with
+E coli
+.
+E coli
+can be transmitted through:
+Contact from one person to another
+Consuming uncooked food, such as milk products or beef
+STEC-HUS is not to be confused with atypical HUS (aHUS) which is not infection-related. It is similar to another disease called
+thrombotic thrombocytopenic purpura
+(TTP).
+Symptoms
+STEC-HUS often begins with vomiting and diarrhea, which may be bloody. Within a week, the person may become weak and irritable. People with this condition may urinate less than normal. Urine output may almost stop.
+Red blood cell destruction leads to symptoms of
+anemia
+.
+Early symptoms:
+Blood in the stools
+Irritability
+Fever
+Lethargy
+Vomiting
+and
+diarrhea
+Weakness
+Later symptoms:
+Bruising
+Decreased consciousness
+Low urine output
+No urine output
+Pallor
+Seizures
+-- rare
+Skin rash that looks like fine red spots (
+petechiae
+)
+Exams and Tests
+Your health care provider will perform a physical exam. This may show:
+Liver or spleen swelling
+Nervous system changes
+Laboratory tests will show signs of
+hemolytic anemia
+and
+acute renal failure
+. Tests may include:
+Blood clotting tests (
+PT
+and
+PTT
+)
+Comprehensive metabolic panel
+may show increased levels of
+BUN
+and
+creatinine
+Complete blood count
+(CBC) may show increased white blood cell count and decreased red blood cell count
+Platelet count
+is usually reduced
+Review of a blood smear, which shows deformed and fragmented red blood cells
+Urinalysis
+may reveal blood and protein in the urine
+Urine protein
+test can show the amount of protein in the urine
+Other tests:
+Stool culture
+may be positive for a certain type of
+E coli
+bacteria or other bacteria
+Colonoscopy
+Kidney biopsy
+(in rare cases)
+Treatment
+Treatment may involve:
+Dialysis
+Medicines, such as corticosteroids
+Management of fluids and electrolytes
+Transfusions of packed red blood cells and platelets
+Outlook (Prognosis)
+This is a serious illness in both children and adults, and it can cause death. With proper treatment, more than half of people will recover. The outcome is better in children than adults.
+Possible Complications
+Complications may include:
+Blood clotting problems
+Hemolytic anemia
+Kidney failure
+Hypertension leading to seizures, irritability, and other nervous system problems
+Too few platelets (
+thrombocytopenia
+)
+Uremia
+When to Contact a Medical Professional
+Contact your provider if you develop symptoms of HUS. Emergency symptoms include:
+Blood in the stool
+No urination
+Reduced alertness (consciousness)
+Contact your provider if you have had an episode of HUS and your urine output decreases, or you develop other new symptoms.
+Prevention
+You can prevent the known cause,
+E coli
+, by cooking hamburger and other meats well. You should also avoid contact with unclean water and follow proper hand washing methods.
+Alternative Names
+HUS; STEC-HUS; Hemolytic-uremic syndrome
+Images
+Male urinary system
+References
+Alexander T, Licht C, Smoyer WE, Rosenblum ND. Diseases of the kidney and upper urinary tract in children. In: Yu ASL, Chertow GM, Luyckx VA, Marsden PA, Skorecki K, Taal MW, eds.
+Brenner and Rector's The Kidney
+. 11th ed. Philadelphia, PA: Elsevier; 2020:chap: 72.
+George G, Friedman KD. Thrombotic thrombocytopenic purpura and the hemolytic uremic syndromes. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 132.
+Mele C, Noris M, Remuzzi G. Hemolytic uremic syndrome. In: Ronco C, Bellomo R, Kellum JA, Ricci Z, eds.
+Critical Care Nephrology
+. 3rd ed. Philadelphia, PA: Elsevier; 2019:chap 50.
+Review Date 3/31/2024
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+E. Coli Infections

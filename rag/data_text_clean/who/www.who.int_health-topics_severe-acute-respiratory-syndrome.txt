@@ -1,0 +1,140 @@
+Severe Acute Respiratory Syndrome (SARS)
+Skip to main content
+Overview
+Severe acute respiratory syndrome (SARS) is a viral respiratory disease caused by a SARS-coronavirus. While SARS cases were detected as early as November 2002 as part of an outbreak that emerged in China and subsequently spread to 28 other countries, the pathogen causing the disease was identified as a coronavirus at the end of February 2003. WHO coordinated the international investigation with the assistance of the
+Global Outbreak Alert and Response Network (GOARN)
+and worked closely with health authorities in affected countries to provide epidemiological, clinical and logistical support and to bring the outbreak under control.
+SARS-CoV-1 (the number 1 was added later to distinguish it from the recently emerged SARS-CoV-2) is a respiratory virus which can spread through the air through small infectious respiratory particles. It was the first severe and readily transmissible new disease to emerge in the 21
+st
+century and spread along respiratory routes and cause an epidemic through international air travel of people to other countries outside of its originating country.
+SARS can also be transmitted indirectly through deposition of the virus onto surfaces via contaminated surfaces that have been touched by someone who is infected with the virus.
+Most patients who contracted SARS were previously healthy adults aged 25–70 years. A few suspected cases of SARS have been reported among children under 15 years. The case fatality among persons with illness meeting the current WHO case definition for confirmed cases of SARS is around 9.6%.
+Following the emergence of COVID-19, evidence-based guidance was published and can be found
+here
+. Such guidance will largely apply to SARS as well.
+Symptoms
+The incubation period of SARS is usually 2–7 days but may be as long as 10 days.
+The first symptom of the illness is generally fever (>38°C), which is often high, and sometimes associated with chills and rigors. It may also be accompanied by other symptoms including headache, malaise and muscle pain. At the onset of illness, some cases have mild respiratory symptoms. Typically, rash and neurologic or gastrointestinal findings are absent, although a few patients have reported diarrhoea during the early febrile stage.
+After 3-7 days, a lower respiratory phase begins with the onset of a dry, non-productive cough or dyspnoea (shortness of breath) that may be accompanied by, or progress to, hypoxemia (low blood oxygen levels). In 10–20% of cases, the respiratory illness is severe enough to require intubation and mechanical ventilation. Chest radiographs may be normal throughout the course of illness, though not for all patients. The white blood cell count is often decreased early in the disease, and many people have low platelet counts at the peak of the disease.
+Treatment
+While no treatment or cure was available at the time of the emergence of SARS, the emergence of a closely related disease – COVID-19 – lead to the rapid development of several antivirals and vaccines. Antivirals such as polymerase and protease inhibitors against SARS-CoV-2 are likely to be effective against SARS-CoV-1. COVID-19 vaccines may provide some level of cross-protection against SARS; however, the extent of such cross-protection remains to be studied.
+Controlling outbreaks relies on containment measures including:
+prompt detection of cases through good surveillance networks and including an      early warning system;
+isolation of suspected or probable cases;
+tracing to identify both the source of the infection and contacts of those who are      sick and may be at risk of contracting the virus;
+quarantine of suspected contacts for 10 days;
+exit screening for outgoing passengers from areas with recent local      transmission by asking questions and temperature measurement; and
+disinfection of aircraft and cruise vessels having SARS cases on board using WHO      guidelines.
+Personal preventive measures to prevent spread of the virus include frequent hand washing using soap or alcohol-based disinfectants. For those with a high risk of contracting the disease, such as health care workers, use of personal protective equipment, including a mask, goggles and an apron is mandatory.  Whenever possible, household contacts should also wear a mask.
+For more information, please access SARS-CoV-2 material
+here
+.
+Disease outbreak news
+Latest SARS disease outbreak news
+Initiatives and groups
+WHO Coronavirus Network (CoViNet)
+Technical Advisory Group on Virus Evolution (TAG-VE)
+WHO collaborative multi-centre research project on Severe Acute Respiratory Syndrome (SARS) diagnosis
+Resolutions and decisions
+WHA56.29 Agenda item 14.16 Severe acute respiratory syndrome (SARS)
+Technical work
+Disease outbreaks
+Emergencies
+News
+All →
+18 April 2024
+News release
+Leading health agencies outline updated terminology for pathogens that transmit through the air
+26 September 2003
+News release
+Inadequate plumbing systems likely contributed to SARS transmission
+2 September 2003
+News release
+Amid SARS concerns, WHO urges influenza vaccinations for high-risk groups
+21 August 2003
+Departmental update
+Joint mission on SARS animal reservoir and necessary next steps
+Our work
+WHO Foresight: Monitoring emerging technologies and building futures-thinking
+Rapidly detecting and responding to health emergencies
+Prioritizing diseases for research and development in emergency contexts
+Feature story
+14 January 2021
+Indonesia: WHO helps assess and improve COVID-19 pandemic preparedness and response capacity
+Events
+All 	→
+WHO EPI-WIN Webinar: integrated sentinel surveillance for influenza and other respiratory viruses – standards and implementation
+5 December 2024 13:00 – 14:00 CET
+2017 – First Annual review of diseases prioritized under the Research and Development Blueprint
+24 – 25 January 2017
+December 2015 - First list of top emerging diseases likely to cause major epidemics
+8 – 9 December 2015
+Latest publications
+All →
+15 June 2022
+Integrated sentinel surveillance of influenza and SARS-CoV-2 and the development of the Global Influenza...
+The first WHO consultation from 6 – 8 October 2020 developed interim guidance of epidemiological and laboratory surveillance of influenza and SARS-CoV-2...
+Download
+Read More
+6 April 2022
+Clinical care of severe acute respiratory infections – Tool kit
+First published in 2020, this toolkit is intended for clinicians working in acute care, managing adult and paediatric patients with acute respiratory infection,...
+Download
+Read More
+28 March 2020
+Severe Acute Respiratory Infections Treatment Centre
+This is the first edition of the practical manual to set up and manage a severe acute respiratory infection
+(SARI) treatment centre and a SARI screening...
+Download
+Read More
+27 January 2020
+WHO R&D Blueprint: novel Coronavirus: prospects for evaluating cross-reactivity of nCoV with SARS-CoV
+Objectives of the callTo discuss the theoretical potential for cross-reactivity between nCoV and
+SARS based on available sequence/modelling dataTo obtain...
+Download
+Read More
+Documents
+All →
+6 December 2024
+Wastewater and Environmental Surveillance: Summary for SARS-CoV-2
+This document provides information on wastewater and environmental surveillance (WES) for SARS-CoV-2. It should be used together with the accompanying...
+Download
+Read More
+18 April 2024
+Global technical consultation report on proposed terminology for pathogens that transmit through the...
+Terminology used to describe the transmission of pathogens through the air varies across scientific disciplines, organizations and the general public....
+Download
+Read More
+12 November 2021
+WHO Recommendations on SARS and Blood Safety
+These guidelines are constantly reviewed and updated, as new information becomes available. These are compiled to provide a generic basis on which national...
+Read More
+12 November 2021
+First data on stability and resistance of SARS coronavirus compiled by members of WHO laboratory network
+The below table provides the first compilation of data on resistance of the SARS Coronavirus against environmental factors and disinfectants. This information...
+Read More
+Multimedia
+All →
+7 June 2023
+Clinical trials for new/re-emerging pathogens: GPP -- Module 1: Welcome, Importance by Nina Gobat
+7 June 2023
+Clinical trials for new/re-emerging pathogens: GPP -- Module 4.1 Differentiating - Kate Leyritana
+7 June 2023
+Clinical trials for new/re-emerging pathogens: GPP -- Module 2 Maria Galvis Malagon 3
+7 June 2023
+Clinical trials for new/re-emerging pathogens: GPP -- Module 4.1 Management Fadima Cheick Haidara
+Related health topics
+Communicable diseases
+Coronavirus disease (COVID-19)
+Physical environment
+Food safety
+Diseases and conditions
+Influenza (avian and other zoonotic)
+Socio-political determinants
+International Health Regulations
+Communicable diseases
+Middle East respiratory syndrome coronavirus (MERS-CoV)
+Health interventions
+One Health
+Related links
+Global outbreak alert and response network

@@ -1,0 +1,73 @@
+Transcranial Doppler ultrasound: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Transcranial Doppler ultrasound
+Transcranial Doppler ultrasound
+Transcranial doppler ultrasound (TCD) is a diagnostic test. It measures blood flow to and within the brain.
+How the Test is Performed
+TCD uses sound waves to create images of the blood flow inside the brain.
+This is how the test is performed:
+You lie on your back on a padded table with your head and neck on a pillow. Your neck is stretched slightly. Or you may sit on a chair.
+The technician applies a water-based gel on your temples and eyelids, under your jaw, and at the base of your neck. The gel helps the sound waves get into your tissues.
+A wand, called a transducer, is moved over the area being tested. The wand sends out sound waves. The sound waves go through your body and bounce off the area being studied (in this case, your brain and blood vessels).
+A computer looks at the pattern that the sound waves create when they bounce back. It creates a picture from the sound waves. The Doppler creates a "whooshing" sound, which is the sound of your blood moving through the arteries and veins.
+The test can take 30 minutes to 1 hour to complete.
+How to Prepare for the Test
+No special preparation is needed for this test. You do not need to change into a medical gown.
+Remember to:
+Remove contact lenses before the test if you wear them.
+Keep your eyes closed when gel is applied to your eyelids so you don't get it in your eyes.
+How the Test will Feel
+The gel may feel cold on your skin. You may feel some pressure as the transducer is moved around your head and neck. The pressure should not cause any pain. You may also hear a "whooshing" sound. This is normal.
+Why the Test is Performed
+The test is done to detect conditions that affect blood flow to the brain:
+Narrowing or blockage of the arteries in the brain
+Stroke
+or
+transient ischemic attack
+(TIA)
+Bleeding in the space between the brain and the tissues that cover the brain (
+subarachnoid hemorrhage
+)
+Ballooning of a blood vessel in the brain (
+cerebral aneurysm
+)
+Change in pressure inside the skull (intracranial pressure)
+Sickle cell anemia
+, to assess stroke risk
+Normal Results
+A normal report shows normal blood flow to the brain. There is no narrowing or blockage in the blood vessels leading to and within the brain.
+What Abnormal Results Mean
+An abnormal result means an artery may be narrowed or something is changing the blood flow in the arteries of the brain.
+Risks
+There are no risks with having this procedure.
+Alternative Names
+Transcranial Doppler ultrasonography; TCD ultrasonography; TCD; Transcranial Doppler study
+Images
+Endarterectomy
+Cerebral aneurysm
+Transient Ischemic attack (TIA)
+Atherosclerosis of internal carotid artery
+References
+Defresne A, Bonhomme V. Multimodal monitoring. In: Prabhakar H, ed.
+Essentials of Neuroanesthesia.
+Cambridge, MA: Elsevier Academic Press; 2017:chap 9.
+Ellis JA, Yocum GT, Ornstein E, Joshi S. Cerebral and spinal cord blood flow. In: Cottrell JE, Patel P, eds.
+Cottrell and Patel's Neuroanesthesia.
+6th ed. Philadelphia, PA: Elsevier; 2017:chap 2.
+Matta B, Czosnyka M. Transcranial doppler ultrasonography in anesthesia and neurosurgery. In: Cotrell JE, Patel P, eds.
+Cottrell and Patel's Neuroanesthesia.
+6th ed. Philadelphia, PA: Elsevier; 2017:chap 7.
+Newell DW, Monteith SJ, Alexandrov AV. Diagnostic and therapeutic neurosonology. In: Winn HR, ed.
+Youmans and Winn Neurological Surgery.
+8th ed. Philadelphia, PA: Elsevier; 2023:chap 410.
+Sharma D, Prabhakar H. Transcranial Doppler ultrasonography. In: Prabhakar H, ed.
+Neuromonitoring Techniques.
+Cambridge, MA: Elsevier Academic Press; 2018:chap 5.
+Review Date 4/29/2023
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School of Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Stroke

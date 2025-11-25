@@ -1,0 +1,137 @@
+Cardiac ablation procedures : MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Cardiac ablation procedures
+Cardiac ablation procedures
+Cardiac ablation is a procedure that is used to scar small areas in your heart that may be involved in your
+heart rhythm problems
+. This can prevent the abnormal electrical signals or rhythms from moving through your heart.
+During the procedure, small wires called electrodes are placed inside your heart to measure your heart's electrical activity. When the source of the problem is found, the tissue causing the problem is destroyed.
+Description
+There are two methods for performing cardiac ablation:
+Radiofrequency ablation uses heat energy to eliminate the problem area.
+Cryoablation uses very cold temperatures.
+The type of procedure you have will depend on what kind of abnormal heart rhythm you have.
+Cardiac ablation procedures are done in a hospital laboratory by a team of trained staff. This includes cardiologists (heart doctors), technicians, and nurses. The setting is safe and controlled so your risk is as low as possible.
+You will be given medicine (a sedative) before the procedure to help you relax.
+The skin on your neck, arm, or groin will be cleaned well and made numb with an anesthetic.
+Next, the cardiologist will make a small cut in the skin.
+A small, flexible tube (catheter) will be inserted through this cut into one of the blood vessels in the area. The cardiologist will use live x-ray images to carefully guide the catheter up into your heart.
+Sometimes more than one catheter is needed.
+Once the catheter is in place, your cardiologist will place small electrodes in different areas of your heart.
+These electrodes are connected to monitors that allow the cardiologist to tell what area in your heart is causing problems with your heart rhythm. In most cases, there are one or more specific areas.
+Once the source of the problem has been found, one of the catheter lines is used to send electrical (or sometimes cold) energy to the problem area.
+This creates a small scar that causes the heart rhythm problem to stop.
+Catheter ablation is a long procedure. It can last 4 or more hours. During the procedure your heart will be monitored closely. A health care team member may ask you if you are having symptoms at different times during the procedure. Symptoms you may feel are:
+A brief burning when medicines are injected
+faster or stronger heartbeat
+Lightheadedness
+Burning when the electrical energy is used
+Why the Procedure is Performed
+Cardiac ablation is used to treat certain heart rhythm problems that medicines are not controlling. These problems may be dangerous if they are not treated.
+Common symptoms of heart rhythm problems may include:
+Chest pain
+Fainting
+Slow or fast heartbeat (palpitations)
+Lightheadedness, dizziness
+Paleness
+Shortness of breath
+Skipping beats -- changes in the pattern of the pulse
+Sweating
+Some heart rhythm problems are:
+AV nodal reentrant tachycardia (AVNRT)
+Associated with an accessory pathway, such as
+Wolff-Parkinson-White syndrome
+Atrial fibrillation
+Atrial flutter
+Ventricular tachycardia
+Risks
+Catheter ablation is generally safe. Talk with your cardiologist about these rare complications:
+Bleeding or blood pooling where the catheter is inserted
+Blood clot
+that goes to arteries in your leg, heart, or brain
+Damage to the artery where the catheter is inserted
+Damage to heart valves
+Damage to the coronary arteries (blood vessels that carry blood to your heart)
+Esophageal atrial
+fistula
+(a connection that forms between your esophagus and part of your heart)
+Fluid around the heart (
+cardiac tamponade
+)
+Heart attack
+Vagal or phrenic nerve damage
+Before the Procedure
+Always tell your health care providers what medicines you are taking, even medicines or herbs you bought without a prescription.
+During the days before the procedure:
+Ask your cardiologist which medicines you should still take on the day of the surgery.
+Tell your cardiologist if you are taking aspirin, clopidogrel (Plavix), prasugrel (Effient), ticagrelor (Brilinta), warfarin (Coumadin), or another blood thinner such as apixaban (Eliquis), rivaroxaban (Xarelto), dabigatran (Pradaxa) and edoxaban (Savaysa).
+If you smoke, stop before the procedure. Ask your provider for help if you need it.
+Tell your cardiologist if you have a
+cold
+,
+flu
+,
+fever
+,
+herpes
+breakout, or other illness.
+On the day of the procedure:
+You will most often be asked not to drink or eat anything after midnight the night before your procedure.
+Take the medicines your cardiologist has told you to take with a small sip of water.
+You will be told when to arrive at the hospital.
+After the Procedure
+Pressure to reduce bleeding is put on the area where the catheters were inserted into your body. You will be kept in bed for at least 1 hour. You may need to stay in bed for up to 5 or 6 hours. Your heart rhythm will be checked during this time.
+Your cardiologist will decide whether you can go home on the same day, or if you will need to stay in the hospital overnight for continued heart monitoring. You will need someone to drive you home after your procedure.
+For 2 or 3 days after your procedure, you may have these symptoms:
+Fatigue
+Achy feeling in your chest
+Skipped heartbeats or times when your heartbeat is very fast or irregular
+Your cardiologist may keep you on your medicines, or give you new ones that help control your heart rhythm.
+Outlook (Prognosis)
+Success rates are different depending on what type of heart rhythm problem is being treated.
+Alternative Names
+Catheter ablation; Radiofrequency catheter ablation; Cryoablation - cardiac ablation; AV nodal reentrant tachycardia - cardiac ablation; AVNRT - cardiac ablation; Wolff-Parkinson-White Syndrome - cardiac ablation; Atrial fibrillation - cardiac ablation; Atrial flutter - cardiac ablation; Ventricular tachycardia - cardiac ablation; VT - cardiac ablation; Arrhythmia - cardiac ablation; Abnormal heart rhythm - cardiac ablation
+Patient Instructions
+Angina - discharge
+Angina - when you have chest pain
+Antiplatelet medicines - P2Y12 inhibitors
+Aspirin and heart disease
+Atrial fibrillation - discharge
+Butter, margarine, and cooking oils
+Cholesterol and lifestyle
+Controlling your high blood pressure
+Dietary fats explained
+Fast food tips
+Heart attack - discharge
+Heart disease - risk factors
+Heart failure - discharge
+Heart pacemaker - discharge
+How to read food labels
+Low-salt diet
+Mediterranean diet
+Images
+Conduction system of the heart
+References
+Calkins H, Hindricks G, Cappato R, et al. 2017 HRS/EHRA/ECAS/APHRS/SOLAECE expert consensus statement on catheter and surgical ablation of atrial fibrillation.
+Heart Rhythm.
+2017;14(10):e275-e444. PMID: 28506916
+pubmed.ncbi.nlm.nih.gov/28506916/
+.
+Mehta NK, Haines DE. Cryoablation and other radiofrequency alternatives. In Jalife J, Stevenson WG, eds.
+Zipes and Jalife's Cardiac Electrophysiology: From Cell to Bedside.
+8th ed. Philadelphia, PA: Elsevier; 2022:chap 131.
+Miller JM, Ellenbogen KA. Therapy for cardiac arrhythmias. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine.
+12th ed. Philadelphia, PA: Elsevier; 2022:chap 64.
+Qian PC, Sauer WH. Radiofrequency ablation. In: Jalife J, Stevenson WG, eds.
+Zipes and Jalife's Cardiac Electrophysiology: From Cell to Bedside.
+8th ed. Philadelphia, PA: Elsevier; 2022:chap 130.
+Review Date 7/14/2024
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Arrhythmia
+Atrial Fibrillation

@@ -1,56 +1,37 @@
 /**
  * RAG System Initialization Script
- * 
- * Run this script to initialize the RAG system with healthcare documents
- * Usage: ts-node src/scripts/initializeRAG.ts
+ *
+ * This version loads precomputed embeddings exported from the Python RAG pipeline.
+ * No OpenRouter embedding calls. No CSV indexing. No sample documents.
+ *
+ * Usage:
+ *   ts-node src/scripts/initializeRAG.ts
  */
 
-import { initializeRAGSystem } from "../utils/documentIndexer";
-import { indexDocuments } from "../services/ragService";
+import { loadPrecomputedEmbeddings, vectorStore } from "../services/ragService";
 
 async function main() {
-  console.log("🚀 Initializing RAG System for Healthcare Chatbot...\n");
-  
+  console.log("🚀 Initializing RAG system...\n");
+
   try {
-    // Initialize with default healthcare dataset
-    await initializeRAGSystem();
-    
-    // Example: Add custom medical documents
-    // Uncomment and modify as needed:
-    /*
-    await indexDocuments([
-      {
-        content: `Medical Guideline: Hypertension Management
-        
-        Hypertension, or high blood pressure, is a common condition that requires careful management.
-        
-        Key Points:
-        - Normal BP: <120/80 mmHg
-        - Stage 1 Hypertension: 130-139/80-89 mmHg
-        - Stage 2 Hypertension: ≥140/90 mmHg
-        
-        Treatment approaches:
-        1. Lifestyle modifications (diet, exercise, stress reduction)
-        2. Medication when lifestyle changes are insufficient
-        3. Regular monitoring and follow-up
-        
-        Always consult with a healthcare provider for personalized treatment plans.`,
-        metadata: {
-          source: "hypertension_guidelines",
-          documentType: "guideline",
-          section: "cardiovascular",
-        },
-      },
-    ]);
-    */
-    
-    console.log("\n✅ RAG System initialized successfully!");
-    console.log("📚 The chatbot is now ready to use RAG for context-aware responses.");
+    console.log("📦 Loading precomputed MedlinePlus embeddings...");
+    await loadPrecomputedEmbeddings();
+
+    const count = vectorStore.getDocuments().length;
+
+    if (count === 0) {
+      console.warn(
+        "⚠️  No documents were loaded. Check that file exists at src/data/medlineplus_embeddings.jsonl"
+      );
+    } else {
+      console.log(`✅ Loaded ${count} medical chunks into vector store.`);
+    }
+
+    console.log("\n🎉 RAG system is ready to use!");
   } catch (error: any) {
-    console.error("❌ Initialization failed:", error.message);
+    console.error("❌ RAG initialization failed:", error.message || error);
     process.exit(1);
   }
 }
 
 main();
-

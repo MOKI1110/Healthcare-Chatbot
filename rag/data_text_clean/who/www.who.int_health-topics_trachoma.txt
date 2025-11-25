@@ -1,0 +1,114 @@
+Trachoma
+Skip to main content
+Overview
+Trachoma is a disease of the eye and the leading infectious cause of blindness worldwide. It is caused by an obligate intracellular bacterium called
+Chlamydia trachomatis
+. Infection is transmitted from person to person by direct or indirect transfer of ocular and nasal discharges of infected people; indirect transfer includes carriage on the body of species of flies. Preschool-age children harbour the principal reservoir of infection. Models suggest that an individual requires more than 150 lifetime infections to develop the blinding complications of trachoma.
+Trachoma is endemic in some of the world’s poorest populations, who live in rural and remote areas and have highly inadequate access to water, sanitation and healthcare. Africa is the most affected continent, but it also has the most widespread control efforts. The disease is also found in Central and South America, Asia, Australia, and the Middle East. As of 19 March 2024, 18 countries had been validated as having eliminated trachoma as a public health problem. In 2022 alone, 129 224 people received surgical treatment for advanced trachoma, and 36.2 million were treated with antibiotics. Despite these successes, the disease remains a serious public health concern, with an estimated US$ 8 billion annual loss in productivity due to blindness and visual impairment.
+Symptoms
+Infection is associated with inflammatory changes in the conjunctiva known as “active trachoma”. An individual’s immune system can clear a single episode of infection, but in endemic communities, re-acquisition of the organism occurs frequently.
+After years of
+repeated episodes of active trachoma
+, the inside of the eyelid can become so severely scarred (trachomatous conjunctival scarring) that it turns inwards and causes the eyelashes to rub against the eyeball (trachomatous trichiasis), resulting in constant pain and light intolerance; this and other alterations of the eye can lead to scarring of the cornea. Left untreated, this condition leads to the formation of irreversible opacities, with resulting visual impairment or blindness. The age at which this occurs depends on several factors including local transmission intensity. In very highly endemic communities, it can occur in childhood, though onset of visual impairment between the ages of 30 and 40 years is more typical.
+Women are blinded up to four times as often as men, probably due to more frequent contact with infected children.
+Individuals living in the poorest and most remote communities of Africa, Asia, Australia, the Middle East, Central and South America and the Pacific Islands are at risk.
+Treatment
+Trachoma can be prevented by limiting environmental risk factors. These include inadequate hygiene, crowded households, inadequate access to water and inadequate access to and use of sanitation. Infections usually begin at an early age and grow less frequent
+and shorter in duration with increasing age. Infections are most often acquired through family and contact with others with active disease. Repeated infections cause the most serious symptoms of the disease.
+Trachoma can be eliminated as a public health problem using the SAFE strategy, comprising:
+S
+urgery to treat trachomatous trichiasis, the blinding stage of the disease;
+ntibiotics to clear infection, particularly mass drug administration of the antibiotic azithromycin, which is donated by the manufacturer to national programmes through the International Trachoma Initiative;
+F
+acial cleanliness; and
+E
+nvironmental improvement, particularly better access to water and sanitation.
+WHO adopted the SAFE strategy in 1993 and continues in its mandate to provide leadership and coordination of international efforts to eliminate trachoma as a public health problem.
+Fact sheets
+Trachoma
+Questions and answers
+Frequently asked questions on Trachoma
+Databases and tools
+Status of elimination of trachoma as a public health problem, 2019
+Global Health Observatory (GHO) interactive graph
+Global Health Observatory data repository
+Global Atlas of Trachoma
+Preventive chemotherapy data portal
+Resolutions and decisions
+Global elimination of blinding trachoma (WHA51.11)
+Technical work
+Control of Neglected tropical diseases
+News
+All →
+12 November 2025
+News release
+Egypt becomes the seventh country in the Eastern Mediterranean Region to eliminate trachoma as a public health problem
+20 October 2025
+News release
+Fiji becomes the 26th country to eliminate trachoma as a public health problem
+15 July 2025
+News release
+Senegal joins growing list of countries that have eliminated trachoma
+11 July 2025
+News release
+Burundi eliminates trachoma as a public health problem
+Events
+23 January 2024 18:00 – 19:00 CET
+Canadian engagement in global trachoma elimination strategies
+23 January 2024 15:00 – 17:00 GMT
+Trachoma: Accelerating progress to elimination as a public health problem
+Publications
+All →
+18 July 2025
+WHO Alliance for the Global Elimination of Trachoma: progress report on elimination...
+Weekly epidemiological record
+Download
+Read More
+6 January 2025
+Diagnostic target product profiles for trachoma surveillance
+The need for interventions against active trachoma has traditionally been determined using the prevalence of clinical signs that are associated with conjunctival...
+Download
+Read More
+Call
+25 July 2023
+Call for consultation
+Call for public consultation  ̶  Target Product Profiles (TPP) for trachoma surveillance
+Our work
+Providing technical leadership and coordination for trachoma elimination
+Facilitating research  for trachoma elimination
+Eliminating trachoma through high-quality data
+Multimedia
+Infographic
+Trachoma -- Defeating the world's leading infectious cause of blindness
+26 March 2015
+Trachoma -- Nieba's story
+Photo story
+23 May 2019
+Ghana eliminates trachoma, freeing millions from suffering and blindness
+10 Facts
+4 April 2020
+Trachoma
+Related links
+Peer-reviewed publications (PubMed)
+Results for
+Trachoma
+and
+Trichiasis
+Partners
+International Coalition for Trachoma Control
+International Trachoma initiative
+Contact
+neglected.diseases@who.int
+Dr Anthony Solomon
+Medical officer
+solomona@who.int
+@anthonywsolomon
+Related health topics
+Diseases and conditions
+Yaws (Endemic treponematoses)
+Communicable diseases
+Buruli ulcer  (Mycobacterium ulcerans infection)
+Diseases and conditions
+Leishmaniasis
+Diseases and conditions
+Lymphatic filariasis (Elephantiasis)

@@ -1,0 +1,90 @@
+Bone mineral density test: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Bone mineral density test
+Bone mineral density test
+A bone mineral density (BMD) test measures how much calcium and other types of minerals are in an area of your bone.
+This test helps your health care provider detect
+osteoporosis
+or bone loss and predict your risk for bone fractures.
+How the Test is Performed
+Bone density testing can be done in several ways.
+The most common and accurate way uses a dual-energy x-ray absorptiometry (DEXA) scan. DEXA uses low-dose
+x-rays
+. (You receive more radiation from a chest x-ray than a DEXA scan.)
+There are two types of DEXA scans:
+Central DEXA -- You lie on a soft table. The scanner passes over your lower spine and hip. In most cases, you do not need to undress. This scan is the best test to predict your risk for fractures, especially of the hip.
+Peripheral DEXA (p-DEXA) -- These smaller machines measure the bone density in your wrist, fingers, leg, or heel. These machines are found in some health care offices, pharmacies, shopping centers, and at health fairs.
+How to Prepare for the Test
+If you are or could be pregnant, tell your provider before this test is done.
+DO NOT take calcium supplements for 24 hours before the test.
+You'll be told to remove all metal items from your body, such as jewelry and buckles.
+How the Test will Feel
+The scan is painless. You need to remain still during the test.
+Why the Test is Performed
+Bone mineral density (BMD) tests are used to:
+Diagnose bone loss and osteoporosis
+See how well osteoporosis medicines are working
+Predict your risk for future bone fractures
+The US Preventive Services Task Force recommends this test for women age 65 and older and for some women younger than age 65 who have an increased risk of osteoporosis.
+There is not full agreement on whether men should undergo this type of testing. Some groups recommend testing of men at age 70, while others state that the evidence is not clear enough to say whether men will benefit from screening.
+Younger women, as well as men of any age, may also need bone density testing if they have risk factors for osteoporosis. These risk factors include:
+Fracturing a bone after age 50
+Strong family history of osteoporosis
+History of treatment for prostate cancer or breast cancer
+History of medical conditions such as
+rheumatoid arthritis
+, diabetes, thyroid imbalances, or
+anorexia nervosa
+Early
+menopause
+(either from natural causes or hysterectomy)
+Long-term use of medicines such as corticosteroids, thyroid hormone, or aromatase inhibitors
+Low body weight (less than 127 pounds or 57 kilograms) or low body mass index (less than 20 kilograms per square meter)
+Significant loss of height
+Long-term tobacco or excessive alcohol use
+Normal Results
+The results of your test are usually reported as a T-score and Z-score:
+T-score compares your bone density with that of a healthy young woman.
+Z-score compares your bone density with that of other people of your age, sex, and race.
+With either score, a negative number means you have thinner bones than the comparison group. The more negative the number, the higher your risk for a bone fracture.
+A T-score is within the normal range if it is -1.0 or above.
+What Abnormal Results Mean
+Bone mineral density testing does not diagnose fractures. Along with other risk factors you may have, it helps predict your risk for having a bone fracture in the future. Your provider will help you understand the results.
+If your T-score is:
+From -1.1 to -2.4, you may have bone loss (osteopenia)
+Equal to or below -2.5, you likely have osteoporosis
+Treatment recommendations depend on your total fracture risk. This risk can be calculated using the Fracture Risk Assessment Tool (FRAX) score. Your provider can tell you more about this. You can also find information about FRAX online.
+Risks
+Bone mineral density uses a slight amount of radiation. Most experts feel that the risk is very low compared with the benefits of finding osteoporosis before you break a bone.
+Alternative Names
+BMD test; Bone density test; Bone densitometry; DEXA scan; DXA; Dual-energy x-ray absorptiometry; p-DEXA; Osteoporosis - BMD;  Dual x-ray absorptiometry
+Images
+Bone density scan
+Osteoporosis
+Osteoporosis
+References
+Almohaya M, Almehthel M, Kendler D. Dual x-ray absorptiometry and measurement of bone. In: Hochberg MC, Gravallese EM, Smolen JS, van der Heiide D, Weinblatt ME, Weisman MH, eds.
+Rheumatology
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 48.
+LeBoff MS, Greenspan SL, Insogna KL, et al. The clinician's guide to prevention and treatment of osteoporosis.
+Osteoporos Int
+. 2022;33(10):2049-2102. PMID: 35478046
+pubmed.ncbi.nlm.nih.gov/35478046/
+.
+US Preventive Services Task Force; Nicholson WK, Silverstein M, et al. Screening for osteoporosis to prevent fractures: US Preventive Services Task Force Recommendation Statement.
+JAMA
+. 2025;333(6):498-508. PMID: 39808425
+pubmed.ncbi.nlm.nih.gov/39808425/
+.
+Weber TJ. Osteoporosis. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 225.
+Review Date 4/1/2025
+Updated by: Linda J. Vorvick, MD, Clinical Professor Emeritus, Department of Family Medicine, UW Medicine, School of Medicine, University of Washington, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Bone Density
+Osteoporosis

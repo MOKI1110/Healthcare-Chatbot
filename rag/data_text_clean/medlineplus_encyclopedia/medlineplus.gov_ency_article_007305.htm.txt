@@ -1,0 +1,75 @@
+Glomerular filtration rate: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Glomerular filtration rate
+Glomerular filtration rate
+Glomerular filtration rate (GFR) is a test used to check how well the kidneys are working. Specifically, it estimates how much blood passes through the glomeruli each minute. Glomeruli are the tiny filters in the kidneys that filter waste from the blood.
+How the Test is Performed
+blood sample
+is needed.
+The blood sample is sent to a lab. There, the creatinine level in the blood sample is tested. Creatinine is a chemical waste product of creatine. Creatine is a chemical the body makes to supply energy, mainly to muscles.
+The lab specialist combines your blood creatinine level with several other factors to estimate your GFR. Different formulas are used for adults and children. The formula includes some or all of the following:
+Age
+Blood creatinine measurement
+Sex
+Height
+Weight
+The
+creatinine clearance test
+, which involves a 24-hour urine collection, can also provide an estimate of kidney function.
+How to Prepare for the Test
+Your health care provider may ask you to temporarily stop any medicines that may affect the test results. These include antibiotics and stomach acid medicines.
+Be sure to tell your provider about all the medicines you take. Do not stop taking any medicine before talking to your provider.
+Tell your provider if you are pregnant or think you might be. GFR is affected by pregnancy.
+How the Test will Feel
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there might be some throbbing or a slight bruise. This soon goes away.
+Why the Test is Performed
+The GFR test measures how well your kidneys are filtering the blood. Your provider may order this test if there are signs that your kidneys are not working well. It may also be done to see how far kidney disease has progressed.
+The GFR test is recommended for people with chronic kidney disease. It is also recommended for people who may develop kidney disease due to:
+Diabetes
+Family history of kidney disease
+Frequent urinary tract infections
+Heart disease
+High blood pressure
+Urinary blockage
+Normal Results
+According to the National Kidney Foundation, normal results range from 90  to 120 mL/min/1.73 m
+2
+. Older people will have lower than normal GFR levels because GFR decreases with age.
+Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your doctor about the meaning of your specific test results.
+What Abnormal Results Mean
+Levels below 60 mL/min/1.73 m2 for 3 or more months are a sign of chronic kidney disease. A GFR lower than 15 mL/min/1.73 m2 is a sign of kidney failure and requires immediate medical attention.
+Lower than normal GFR may indicate:
+Too little blood flow to the kidneys
+Loss of body fluids (dehydration)
+Heart or liver disease leading to circulatory system changes that affect the kidneys
+Damage to the filtering units of the kidneys
+Damage to tubules or other tissues of the kidneys
+Obstruction or blockage of the bladder or other parts of the urinary tract system
+Risks
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Taking blood from some people may be more difficult than from others.
+Other risks associated with having blood drawn are slight, but can include:
+Excessive bleeding
+Fainting or feeling lightheaded
+Multiple punctures to locate veins
+Blood accumulating under the skin (hematoma)
+Infection (a slight risk any time the skin is broken)
+Alternative Names
+GFR; Estimated GFR; eGFR
+Images
+Creatinine tests
+References
+Gharavi AG, Landry DW. Approach to the patient with renal disease. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 106.
+Krishnan A, Levin A. Laboratory assessment of kidney disease: glomerular filtration rate, urinalysis, and proteinuria. In: Yu ASL, Chertow GM, Luyckx VA, Marsden PA, Skorecki K, Taal MW, eds.
+Brenner and Rector's The Kidney
+. 11th ed. Philadelphia, PA: Elsevier; 2020:chap 23.
+Review Date 8/20/2023
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Kidney Failure
+Kidney Tests

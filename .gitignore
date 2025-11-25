@@ -54,3 +54,7 @@ src.backup/
 # === Logs ===
 *.log
 logs/
+
+backend/src/data/medlineplus_embeddings.jsonl
+backend/src/data/
+backend/src/data/medlineplus_embeddings.jsonl

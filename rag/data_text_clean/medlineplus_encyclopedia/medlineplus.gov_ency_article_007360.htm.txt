@@ -1,0 +1,116 @@
+Breast MRI scan: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Breast MRI scan
+Breast MRI scan
+A breast
+MRI
+scan is an imaging test that uses powerful magnets and radio waves to create pictures of the breast and surrounding tissue. It does not use radiation (
+x-rays
+).
+A breast MRI is most often done in combination with
+mammography
+or
+ultrasound
+. It is not a replacement for mammography.
+How the Test is Performed
+You will wear a hospital gown or clothes without metal snaps or a zipper (sweatpants and a t-shirt). Some types of metal can cause blurry images.
+You will lie on your stomach on a narrow table with your breasts hanging down into cushioned openings. The table slides into a large tunnel-like tube.
+Some exams require a special dye (contrast). You will get the dye through a vein (IV) in your hand or forearm. The dye helps the radiology specialist (radiologist) see some areas more clearly.
+During the MRI, the person who operates the machine will watch you from another room. The test usually lasts 30 to 60 minutes, but may take longer.
+How to Prepare for the Test
+You likely won't need to do anything to prepare for the test. Ask your health care provider about eating and drinking before the test.
+Tell your provider if you are afraid of tight spaces (have claustrophobia). You may be given a medicine to help you feel sleepy and less anxious. Also, your provider may suggest an "open" MRI. The machine is not as close to the body in this type of test.
+Before the test, tell your provider and the MRI technologist if you have:
+Brain aneurysm clips
+Certain types of artificial heart valves
+Heart defibrillator or
+pacemaker
+Inner ear (
+cochlear
+) implants
+Kidney disease
+or dialysis (you may not be able to receive the IV contrast)
+Recently placed artificial joints
+Certain types of vascular
+stents
+Worked with sheet metal in the past (you may need tests to check for metal pieces in your eyes)
+Because the MRI contains strong magnets, metal objects are not allowed into the room with the MRI scanner:
+Pens, pocketknives, and eyeglasses may fly across the room.
+Items such as jewelry, watches, credit cards, and hearing aids can be damaged.
+Pins, hairpins, metal zippers, and similar metallic items can distort the images.
+Removable dental work should be taken out just before the scan.
+How the Test will Feel
+An MRI exam causes no pain. You will need to lie still. Too much movement can blur MRI images and cause errors.
+If you are very anxious, you may be given medicine to calm your nerves. If medicine is taken, you must have someone drive you home from the facility.
+The table may be hard or cold, but you can ask for a blanket or pillow. The machine makes loud thumping and humming noises when turned on. You will likely be given ear plugs to help reduce the noise.
+An intercom in the room lets you speak to someone at any time. Most MRI centers have special headphones for music to help the time pass.
+There is no recovery time, unless you were given a medicine to relax. After an MRI scan, you can return to your normal diet, activity, and medicines unless your provider tells you otherwise.
+Why the Test is Performed
+MRI provides detailed pictures of the breast. It also provides clear pictures of parts of the breast that are hard to see or evaluate clearly on an ultrasound or mammogram.
+Breast MRI may also be performed to:
+Check for more cancer in the same breast or the other breast after
+breast cancer
+has been diagnosed
+Distinguish between scar tissue and tumors in the breast
+Evaluate an abnormal result on a mammogram or breast ultrasound
+Evaluate for possible rupture of
+breast implants
+Find any cancer that remains after surgery or
+chemotherapy
+Guide a
+biopsy
+An MRI of the breast may also be done after a mammogram to screen for breast cancer in women who:
+Are at very high risk for breast cancer (those with a strong family history or
+genetic markers for breast cancer
+)
+Have very dense breast tissue
+Before having a breast MRI, talk to your provider about the pros and cons of having the test. Ask about:
+Your
+risk for breast cancer
+Whether screening decreases your chance of dying from breast cancer
+Whether there is any harm from breast cancer screening, such as side effects from testing or overtreatment of cancer when discovered
+What Abnormal Results Mean
+Abnormal results may be due to:
+Breast cancer
+Cysts
+Leaking or ruptured
+breast implants
+Abnormal breast tissue that is not cancer
+Scar tissue
+Consult your provider if you have any questions and concerns.
+Risks
+MRI contains no radiation. No side effects from the magnetic fields and radio waves have been reported.
+The most common type of contrast (dye) used is gadolinium. It is very safe. Allergic reactions to this dye are rare. However, gadolinium can be harmful to people with kidney problems who need dialysis. If you have kidney problems, tell your provider before the test.
+The strong magnetic fields created during an MRI can make heart pacemakers and other implants not work as well. It can also cause a piece of metal inside your body to move or shift.
+Considerations
+A breast MRI is more sensitive than a mammogram, especially when it is performed using contrast dye. However, breast MRI may not always be able to distinguish breast cancer from noncancerous breast growths. This can lead to a false-positive result.
+MRI also cannot pick up tiny pieces of calcium (microcalcifications), which a mammogram can detect. Certain types of calcifications can be an indication of breast cancer.
+biopsy
+is needed to confirm the results of a finding suspicious for cancer on a breast MRI.
+Alternative Names
+MRI - breast; Magnetic resonance imaging - breast; Breast cancer - MRI; Breast cancer screening - MRI
+References
+American Cancer Society website. American Cancer Society recommendations for the early detection of breast cancer.
+www.cancer.org/cancer/breast-cancer/screening-tests-and-early-detection/american-cancer-society-recommendations-for-the-early-detection-of-breast-cancer.html
+. Updated December 19, 2023. Accessed January 27, 2025.
+American College of Radiology website. ACR practice parameter for the performance of contrast-enhanced magnetic resonance imaging (MRI) of the breast.
+www.acr.org/-/media/ACR/Files/Practice-Parameters/mr-contrast-breast.pdf
+. Revised 2023. Accessed January 27, 2025.
+National Cancer Institute website. Breast cancer screening (PDQ) -- patient version.
+www.cancer.gov/types/breast/patient/breast-screening-pdq
+. Updated February 14, 2025. Accessed July 22, 2025.
+US Preventive Services Task Force; Nicholson WK, Silverstein M, et al. Screening for breast cancer: US Preventive Services Task Force Recommendation Statement.
+JAMA
+. 2024;331(22):1918-1930. PMID: 38687503
+pubmed.ncbi.nlm.nih.gov/38687503/
+.
+Review Date 1/15/2025
+Updated by: Kenneth Levin, MD, Private Practice specializing in Radiology and Nuclear Medicine, Allentown, PA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Breast Cancer
+Breast Diseases
+MRI Scans

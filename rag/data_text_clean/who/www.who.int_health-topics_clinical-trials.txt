@@ -1,0 +1,121 @@
+Clinical trials
+Skip to main content
+Overview
+Clinical trials are a type of research that studies new tests and treatments and evaluates their effects on human health outcomes. People volunteer to take part in clinical trials to test medical interventions including drugs, cells and other biological products, surgical procedures, radiological procedures, devices, behavioural treatments and preventive care.
+Clinical trials are carefully designed, reviewed and completed, and need to be approved before they can start. People of all ages can take part in clinical trials, including children.
+There are 4 phases of biomedical clinical trials:
+Phase I studies usually test new drugs for the first time in a small group of people to evaluate a safe dosage range and identify side effects.
+Phase II studies test treatments that have been found to be safe in phase I but now need a larger group of human subjects to monitor for any adverse effects.
+Phase III studies are conducted on larger populations and in different regions and countries, and are often the step right before a new treatment is approved.
+Phase IV studies take place after country approval and there is a need for further testing in a wide population over a longer timeframe.
+WHO Response
+Clinical trials usually involve participants from more than one medical or research institution, and often more than one country. As each country has its own requirements for clinical trials research it is possible that single trials could be included on more than one registry, and hence appear on more than one registry database. However, data on various clinical trial registries varies.
+WHO’s International Clinical Trials Registry Platform (ICTRP) links clinical trials registers globally in order to ensure a single point of access and the unambiguous identification of trials with a view to enhancing access to information by patients, families, patient groups and others.
+The ICTRP is a global initiative that aims to make information about all clinical trials involving humans publicly available. It also aims to:
+improve the comprehensiveness, completeness and accuracy of registered clinical trial data;
+communicate and raise awareness of the need to register clinical trials;
+ensure the accessibility of registered data;
+build capacity for clinical trial registration;
+encourage the utilization of registered data; and
+ensure the sustainability of the ICTRP.
+Strengthening clinical trials
+Beyond the ICTRP, WHO also leads efforts to strengthen the broader clinical trials ecosystem. In May 2022, the World Health Assembly adopted resolution
+WHA75.8 on strengthening clinical trials
+. This resolution emphasizes the critical role of well-designed, ethically guided, and scientifically robust clinical trials in generating the high-quality evidence needed to inform public health policies and interventions.
+The resolution calls for:
+Stronger global collaboration in clinical research, including support for multi-country trials and rapid coordination during public health emergencies;
+Equity and ethics, with a focus on inclusive participation and addressing the needs of under-represented populations; and
+Enhanced capabilities, particularly in low- and middle-income countries, to meet international standards for trial quality and transparency.
+As part of its response, WHO has developed the
+Guidance for Best Practices for Clinical Trials
+and a
+Global Action Plan for Clinical Trial Ecosystem Strengthening
+, which together provide practical recommendations and pathways for all stakeholders including Member States, regulators, researchers, funders and partners to implement WHA75.8.
+These initiatives complement the ICTRP by ensuring that, in addition to being visible and accessible, clinical trials are also ethical, equitable, collaborative, and of high quality, so that the evidence they generate can be trusted and used globally.
+Questions and answers
+What is a clinical trial
+FAQ about the Universal Trial Numbers (UTN)
+Resolutions
+WHA58.22 Ministerial Summit on Health Research
+WHA75.8 Strengthening clinical trials to provide high-quality evidence on health interventions and to improve research quality and coordination
+Technical work
+International Clinical Trials Registry Platform
+Strengthening clinical trials
+News
+All →
+6 November 2025
+Departmental update
+WHO publishes new global research agenda to strengthen paediatric clinical trials
+7 October 2025
+Departmental update
+WHO launches the Global Clinical Trials Forum
+25 September 2025
+Departmental update
+Core funders of medical research commit to strengthening clinical trials worldwide
+18 June 2025
+Departmental update
+Equity and health: the inclusion of pregnant and breastfeeding women in clinical trials
+Publications
+All→
+28 October 2025
+The future of paediatric clinical trials – setting research priorities for child health
+Despite significant reductions in under-five mortality over recent decades, progress has stalled, and children – especially newborns and infants...
+Download
+Read More
+21 April 2025
+Global action plan for clinical trial ecosystem strengthening
+This plan sets out nine key action areas to improve innovation, design, conduct, and oversight of clinical trials. It supports implementation of WHO’s...
+Download
+Read More
+27 January 2025
+Clinical research landscape of monoclonal antibodies
+Monoclonal antibodies (mAbs) are artificial proteins that mimic the body’s natural defences and represent an important medical innovation in modern...
+Download
+Read More
+9 December 2024
+Experts Consultation on Implementing World Health Assembly Resolution WHA75.8 on Strengthening Clinical...
+Download
+Read More
+Documents
+All→
+8 July 2025
+Second World Health Organization Global Clinical Trials Forum: Action for impact
+The Second WHO Global Clinical Trials Forum (GCTF25),
+held at WHO Headquarters in Geneva from 2-3 April
+2025, marked a strategic inflection point in...
+Download
+Read More
+11 May 2022
+Solidarity Trial Vaccines (STV) presentation
+This is a global presentation of the STV: its key features, aims, methods, procedures and outputs.Presentation available in french.
+Download
+Read More
+11 May 2022
+Solidarity Trial Vaccines (STV) flipbook
+This flipbook is for staff of the Solidarity Trial Vaccines (STV). It is a resource that can be used to guide conversation and information exchange between...
+Download
+Read More
+22 April 2020
+Good Participatory Practice (GPP) for COVID-19 clinical trials: A toolbox
+This document draws on the World Health Organization’s Good Participatory Practice Guidelines for Emerging Pathogens (GPP-EP) (2016) which were adapted...
+Download
+Read More
+Other resources
+Events
+All→
+Preventing and managing maternal sepsis
+24 November 2025 12:00 – 13:00 CET
+Transforming clinical trials: Launch of the French translation of WHO’s Guidance for Best Practices for Clinical Trials
+9 October 2025 14:00 – 15:30 CET
+Feature stories
+14 April 2023
+Mothers in Malawi value the first malaria vaccine
+31 March 2021
+WHO advises that ivermectin only be used to treat COVID-19 within clinical trials
+Related health topics
+Socio-political determinants
+Global health ethics
+Health systems
+Research
+Health systems
+Patient safety

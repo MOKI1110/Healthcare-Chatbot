@@ -1,0 +1,144 @@
+Cardiogenic shock: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Cardiogenic shock
+Cardiogenic shock
+Cardiogenic shock takes place when the heart is unable to supply enough blood and oxygen to the organs of the body.
+Causes
+The most common causes of cardiogenic shock are serious heart conditions. Many of these occur during or after a
+heart attack
+(myocardial infarction). These complications include:
+A large section of heart muscle that no longer moves well or does not move at all
+Breaking open (rupture) of the heart muscle due to damage from the heart attack
+Dangerous heart rhythms, such as
+ventricular tachycardia
+,
+ventricular fibrillation
+, or
+supraventricular tachycardia
+Pressure on the heart due to a buildup of fluid around it (pericardial tamponade)
+Tear or rupture of the muscles or tendons that support the heart valves, especially the mitral valve
+Tear or rupture of the wall (septum) between the left and right ventricles (lower heart chambers)
+Very slow heart rhythm (bradycardia) or problem with the electrical system of the heart (heart block)
+Cardiogenic shock occurs when the heart is unable to supply as much blood as the body needs. It can happen even if there hasn't been a heart attack. For example, if one of these problems listed above occurs and your heart function drops suddenly. Or if a valve becomes obstructed or if a combination of problems occurs.
+Symptoms
+Symptoms include:
+Chest pain or pressure
+Coma
+Decreased urination
+Fast breathing
+Fast pulse
+Heavy sweating
+, moist skin
+Lightheadedness
+Loss of alertness and ability to concentrate
+Restlessness,
+agitation
+,
+confusion
+Shortness of breath
+Skin that feels cool to the touch
+Pale skin color or blotchy skin
+Weak (thready) pulse
+Exams and Tests
+An exam will show:
+Low blood pressure (most often less than 90 mmHg systolic [the first number])
+Blood pressure that drops more than 10 points when you stand up after lying down (orthostatic hypotension)
+Weak (thready) pulse
+Cold and clammy skin
+To diagnose cardiogenic shock, a catheter (tube) may be placed in the lung artery (
+right heart catheterization
+). Tests may show that blood is backing up into the lungs and the heart is not pumping well.
+Tests include:
+Cardiac catheterization
+Chest x-ray
+Coronary angiography
+Echocardiogram
+Electrocardiogram
+Nuclear scan of the heart
+Other tests may be done to find out why the heart is not working properly.
+Lab tests include:
+Arterial blood gas
+Blood chemistry
+(
+chem-7
+,
+chem-20
+,
+electrolytes
+, lactic acid level)
+Cardiac enzymes (troponin, CKMB)
+Complete blood count
+(CBC)
+Thyroid stimulating hormone (TSH)
+Treatment
+Cardiogenic shock is a medical emergency. You will need to stay in the hospital, most often in the Intensive or Coronary Care Unit (ICU). The goal of treatment is to find and treat the cause of shock to save your life.
+You may need medicines to increase blood pressure and improve heart function, including:
+Dobutamine
+Dopamine
+Epinephrine
+Levosimendan
+Milrinone
+Norepinephrine
+Vasopressin
+These medicines may help in the short-term. They are not often used for a long time.
+When a heart rhythm disturbance (dysrhythmia) is serious, urgent treatment may be needed to restore a normal heart rhythm. This may include:
+Electrical "shock" therapy (defibrillation or cardioversion)
+Implanting a temporary pacemaker
+Medicines given through a vein (IV)
+You may also receive:
+Pain medicine
+Oxygen
+Fluids, blood, and blood products through a vein (IV)
+Other treatments for shock may include:
+Cardiac catheterization
+with
+coronary angioplasty and stenting
+Heart monitoring to guide treatment
+Heart surgery (
+coronary artery bypass surgery
+,
+heart valve replacement
+, left
+ventricular assist device
+)
+Intra-aortic balloon counterpulsation (IABP) to help the heart work better
+Pacemaker
+Ventricular assist device or other mechanical support
+Outlook (Prognosis)
+In the past, the death rate from cardiogenic shock ranged from 80% to 90%. In more recent studies, this rate has decreased to 50% to 75%.
+When cardiogenic shock is not treated, the outlook is very poor.
+Possible Complications
+Complications may include:
+Brain damage
+Kidney damage
+Liver damage
+When to Contact a Medical Professional
+Go to the emergency room or call 911 or the local emergency number if you have symptoms of cardiogenic shock. Cardiogenic shock is a medical emergency.
+Prevention
+You may reduce the risk for developing cardiogenic shock by:
+Quickly treating its cause (such as heart attack or heart valve problem)
+Preventing and treating the risk factors for heart disease, such as diabetes, high blood pressure, high cholesterol and triglycerides, or tobacco use
+Alternative Names
+Shock - cardiogenic
+Images
+Heart - section through the middle
+References
+Felker GM, Teerlink JR. Diagnosis and management of acute heart failure. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 49.
+McMurray JJV, Pfeffer MA. Heart failure: treatment and prognosis. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier; 2024: chap 46.
+Rogers JG, O'Connor CM. Heart failure: epidemiology, pathobiology, and diagnosis. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024: chap 45.
+Review Date 5/27/2024
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+First Aid
+Heart Attack
+Shock

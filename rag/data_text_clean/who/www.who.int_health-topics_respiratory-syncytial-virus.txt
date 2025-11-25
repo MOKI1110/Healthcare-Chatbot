@@ -1,0 +1,106 @@
+Respiratory syncytial virus - Global
+Skip to main content
+Overview
+Respiratory syncytial virus (RSV) is a common virus that causes infections of the upper and lower respiratory airways (including the nose, sinuses and lungs). Discovered in 1956, RSV is a ribonucleic acid (RNA) virus that belongs to the family
+Paramyxoviridae
+. It is classified into 2 subgroups, RSV-A and RSV-B. Both subgroups tend to co-circulate during each season and both can cause severe disease.
+RSV is a leading cause of acute lower respiratory infections and associated hospitalizations in infants and children globally. Nearly all children will have experienced at least one RSV infection by their second year of life. In 2019, there were 33 million RSV-associated cases of acute lower respiratory airway infection, 3.6 million RSV-associated hospital admissions, and 101 400 RSV-attributable deaths in children under 5 years of age. Over 97% of pediatric RSV-related deaths occur in children living in low- and middle-income countries.
+RSV infection in adults is generally mild and presents as low-level upper respiratory airway infections. However, older adults and those with chronic respiratory and/or cardiac conditions are more likely to experience severe disease. RSV-related complications include bronchiolitis (inflammation of the smaller airways in the lung), pneumonia, acute otitis media (infection of the middle ear) and conjunctivitis.
+Symptoms
+RSV is transmitted via droplets from the nose and throat of infected persons. The average incubation period from infection to symptoms is 4–6 days. Mild upper respiratory tract illness is most common, including symptoms and signs such as runny nose, sore throat, headache, fatigue and fever. In more severe cases, infection can lead to small airway obstruction due to accumulation of dead cells and mucus. Symptoms and signs consistent with lower respiratory tract infection include cough, shortness of breath, rapid breathing and wheezing. Very severe lung infection can result in low oxygen levels, respiratory muscle fatigue and death.
+RSV infection and disease occurs in almost all infants before the age of 2 years and most cases of severe disease occur among previously healthy infants. However, some infants are at particularly high risk of severe disease, including very premature infants, and those with underlying lung and heart disease. RSV lower respiratory tract infection in early life might lead to long-term respiratory consequences, including repeat hospitalizations for respiratory illness during infancy, recurrent wheeze and possible impaired lung function into adulthood.
+Adults are infected repeatedly with RSV throughout their lifetime. In general, younger adults have mild disease, but elderly people can develop severe disease.
+Treatment
+There is currently no treatment for RSV. Infections are usually self-limiting and resolve in 1–2 weeks. Healthy adults and infants infected with RSV typically do not require hospitalization, but medically attended RSV may require supportive care, which includes fever management, hydration, oxygen therapy and nutritional support.
+Several immunization products are currently available to prevent severe RSV disease in infants and elderly adults. To protect infants, there is a vaccine given to pregnant women and persons late in pregnancy, which allows transfer of antibodies against RSV through the placenta to the unborn baby, who is then protected after birth. Another immunization product to protect babies is a long-acting monoclonal antibody that targets the RSV virus and is given as an intramuscular injection to the baby soon after birth. Both products can protect babies for approximately six months. For elderly adults, three RSV vaccines are now available that are equally effective.
+Other vaccines and next generation monoclonal antibodies are in development.
+Fact sheets
+Respiratory syncytial virus (RSV)
+Questions and answers
+Respiratory syncytial virus (RSV) immunization products
+Resolutions and decisions
+WHA76.3 Increasing access to medical oxygen
+WHA73.9 Immunization Agenda 2030
+Technical work
+Immunization, Vaccines and Biologicals
+Norms and standards: Respiratory Syncytial Virus (RSV) disease
+Global Influenza Programme
+News
+All →
+30 May 2025
+News release
+WHO outlines recommendations to protect infants against RSV – respiratory syncytial virus
+19 March 2025
+Departmental update
+WHO prequalifies first maternal respiratory syncytial virus vaccine
+18 April 2024
+News release
+Leading health agencies outline updated terminology for pathogens that transmit through the air
+Latest publications
+All →
+13 June 2025
+Respiratory syncytial virus sequencing considerations for an expanded Global Influenza Surveillance and...
+In recent years, rapid progress has been made in the development of new pharmaceutical interventions against respiratory syncytial virus (RSV), including...
+Download
+Read More
+30 May 2025
+WHO position paper on
+immunization to protect
+infants against respiratory
+syncytial virus disease,...
+Recommendations on the use of maternal respiratory syncytial virus (RSV) vaccines and long-acting RSV monoclonal antibodies (mAbs) to prevent severe RSV...
+Download
+Read More
+6 December 2024
+Meeting of the Strategic Advisory Group of Experts on Immunization, September 2024: conclusions and recommendations
+The Strategic Advisory Group of Experts (SAGE) on Immunization met on 23–26 September 2024. This report summarises their discussions, conclusions,...
+Download
+Read More
+4 December 2024
+Implementing the integrated sentinel surveillance of influenza and other respiratory viruses of epidemic...
+Integrated surveillance in the context of the GISRS refers to expanding GISRS functions to include non-influenza respiratory viruses with epidemic or pandemic...
+Download
+Read More
+Documents
+All →
+5 August 2025
+Manual for strengthening monitoring of respiratory virus immunization coverage - draft
+The Manual for strengthening monitoring of respiratory virus immunization coverage provides technical guidance to support immunization programmes...
+Download
+Read More
+19 December 2024
+WHO Global Market Study on RSV Immunization Products
+MI4A produces antigen-specific market studies, analyzing global demand and supply dynamics for products targeting a specific antigen.The Global Market...
+Download
+Read More
+4 December 2024
+Nonclinical and clinical evaluation of monoclonal antibodies and related products intended for the prevention...
+Evaluating the safety and efficacy of monoclonal antibodies (mAbs) and related products intended for the prevention or treatment of infectious diseases...
+Download
+Read More
+11 November 2020
+Guidelines on the quality, safety and efficacy of respiratory syncytial virus vaccines, Annex 2, TRS...
+Full version of the WHO Technical Report Series N° 1024Human respiratory syncytial virus (RSV) is a globally prevalent cause of lower respiratory...
+Download
+Read More
+Multimedia
+All →
+3 October 2022
+Dr Tedros: GISRS is a unique platform for flu and other respiratory viruses
+Infographic
+Screening for acute respiratory infection
+Events
+All →
+WHO EPI-WIN Webinar: respiratory syncytial virus (RSV) genomic surveillance – how & why
+13 August 2025 13:00 – 14:00 CET
+WHO EPI-WIN Webinar: update on influenza, COVID-19 and other respiratory viruses: focus on the winter season in the Northern Hemisphere
+19 February 2025 13:00 – 14:00 CET
+WHO EPI-WIN Webinar: integrated sentinel surveillance for influenza and other respiratory viruses – standards and implementation
+5 December 2024 13:00 – 14:00 CET
+Related health topics
+Populations and demographics
+Maternal health
+Diseases and conditions
+Pneumonia
+Health interventions
+Vaccines and immunization

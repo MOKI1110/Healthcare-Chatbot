@@ -1,0 +1,199 @@
+Infodemic
+Skip to main content
+Overview
+An infodemic is too much information including false or misleading information in digital and physical environments during a disease outbreak. It causes confusion and risk-taking behaviours that can harm health. It also leads to mistrust
+in health authorities and undermines the public health response. An infodemic can intensify or lengthen outbreaks when people are unsure about what they need to do to protect their health and the health of people around them.
+With growing digitization – an expansion of social media and internet use – information can spread more rapidly. This can help to more quickly fill information voids but can also amplify harmful messages.
+Infodemic management is the systematic use of risk- and evidence-based analysis and approaches to manage the infodemic and reduce its impact on health behaviours during health emergencies.
+Infodemic management aims to enable good health practices through 4 types of activities:
+Listening to community concerns and questions
+Promoting understanding of risk and health expert advice
+Building resilience to misinformation
+Engaging and empowering communities to take positive action
+Subscribe to the
+Infodemic Management News Flash
+to receive latest biweekly updates from the team.
+Leadership
+Member States have recognized the importance and need of an infodemic response through recent
+resolutions
+,
+coming together in solidarity
+and responding to calls for actions. Therefore, WHO is building partnerships across all societies to respond to the COVID-19 infodemic and is developing country tools for infodemic management that can be used now and for future infodemics.
+During the COVID-19 pandemic, WHO has worked with the UN family, tech sector, media, civil society and other amplifying communities to understand concerns, co-develop messages, extend the reach of health information, and to respond to the information needs of communities. WHO has also worked with academia to develop
+a public health research agenda for infodemic management
+, and with a diverse group of experts to develop a competency framework and
+trainings in infodemic management
+.
+WHO is championing universal access to credible health information, and building resilience to misinformation for people worldwide. At the same time, more efforts are needed to better understand the scale of the infodemic, and impact of strategies used to manage it, in order to develop new toolkits for countries.
+Through regional networks, such as the Africa Infodemic Response Alliance, WHO is fostering new approaches to meet changing needs for an evolving health emergency infodemic response. This is providing a foundation for further collaborations to also improve preparedness and early detection of emerging and resurgent health threats.
+Research & innovation
+WHO is working with partners across society to strengthen the scientific discipline of infodemiology. The purpose is to build and deliver sustainable tools that health authorities and communities can use to prevent and overcome the harmful impacts caused by infodemics.
+Through partnerships, WHO works to bolster digital capabilities and leverage social inoculation principles to foster higher digital and health literacy, build resilience to misinformation, and deliver innovative ways to reach communities with reliable health information. Here are a few of those innovations:
+Developing a
+public health research agenda
+that provides guidance for where to invest in research to better understand, measure and respond to infodemics
+Establishing
+EARS
+, an early AI-supported response and social listening tool to help health authorities quickly identify rising narratives and “information voids” that interfere with people getting the information they need to make good health choices
+Running a weekly aggregate of publicly available social and news media, web analytics and online search data
+to identify and understand online infodemic-related conversation patterns
+Conducting visual network analyses to better understand the ecosystems where misinformation is able to thrive
+Establishing a repository of ~200 active COVID-19 fact-checking groups
+that verify COVID-19 related claims in more than 40 languages
+Refining an AI-based infodemic observatory to assess the current status of misinformation and disinformation diffusion
+To advance progress on infodemiology, WHO regularly convenes the global community for conferences to discuss and chart ways forward on infodemic management topics.
+Fact sheets
+Health literacy
+Questions and answers
+Disinformation and public health
+Cyber-attacks on critical health infrastructure
+Databases and tools
+Early AI-supported Response with Social Listening (EARS)
+Resolutions and decisions
+WHA 74/A/CONF./2
+WHA 73.1
+Trainings
+1st WHO Infodemic Manager training
+2nd WHO Infodemic Manager training booklet
+3rd WHO Infodemic Manager training
+Technical work
+EPI-WIN: WHO Information Network for Epidemics
+Digital Health and Innovation
+Corporate comms
+Research
+Science Division
+Highlights
+25 October 2023
+Departmental update
+New infodemic management tools to support pandemic planning and preparedness for pandemic influenza and respiratory pathogen disease events
+6 July 2023
+Departmental update
+Introducing rapid social listening and infodemic insights for action: WHO and UNICEF launch manual on 6 steps to build an infodemic insights report
+5 June 2023
+Departmental update
+Learn how to manage the infodemic and reduce its impact in new OpenWHO infodemic management courses
+13 April 2023
+Departmental update
+Highlighting a population’s health information needs during health emergencies through new infodemic management tools and frameworks
+Infodemic management course series
+The course series provides an overview of
+the strategies, good practices, methods and tools that infodemic
+managers and all interested health workers can use in the field to
+prevent, prepare for and respond to this phenomenon.
+Access the course series here
+Infodemic management news flash
+The news flash contains a summary of the latest news, events, opportunities and research in infodemic management, it's published on a bi-weekly basis.
+Subscribe
+|
+Read previous issues
+Publications
+All →
+29 January 2025
+Impact of the COVID-19 infodemic on frontline workers and health systems: analysis of story-telling approach...
+This report outlines an analysis of 68 collected interviews telling stories of experience of the COVID-19 infodemic by infodemic managers to draw out learning...
+Download
+Read More
+16 February 2024
+Mainstreaming infodemic management in learning and teaching programmes: a report from a WHO technical...
+This report summarizes major themes and outputs of the WHO Technical Consultation on Building a GlobalCurriculum for Infodemic Management held in Belgrade,...
+Download
+Read More
+3 July 2023
+How to build an infodemic insights report in six steps
+Within a noisy information environment that affects people’s perceptions, attitudes and health decisions, there is often a gap between health guidance...
+Download
+Read More
+14 September 2022
+WHO policy brief: COVID-19 infodemic management, 14 September 2022
+Key points Train health workers, who are often the most trusted source of health information, to better identify and address health misinformation. Tailor...
+Download
+Read More
+External publications
+Community Readiness and Resilience (CRR), Country Readiness Strengthening (CRS), Epidemic and Pandemic Preparedness and Prevention (EPP)
+Ethical considerations in infodemic management: systematic scoping review
+This systematic scoping review aims to identify and analyze ethical considerations and procedural principles relevant to infodemic management, ultimately...
+Read More
+Epidemic and Pandemic Preparedness and Prevention (EPP)
+Measuring the burden of infodemics: summary of the methods and results of the 5th WHO infodemic management...
+Read More
+Epidemic and Pandemic Preparedness and Prevention (EPP)
+WHO competency framework for health authorities and institutions to manage infodemics: its development...
+Read More
+Epidemic and Pandemic Preparedness and Prevention (EPP)
+Finding the Signal through the Noise
+Read More
+News
+All →
+21 March 2025
+Departmental update
+WHO partners with Thailand and Sri Lanka to pilot a new tool to combat and address infodemics
+25 October 2023
+Departmental update
+New infodemic management tools to support pandemic planning and preparedness for pandemic influenza and respiratory pathogen disease events
+6 July 2023
+Departmental update
+Introducing rapid social listening and infodemic insights for action: WHO and UNICEF launch manual on 6 steps to build an infodemic insights report
+5 June 2023
+Departmental update
+Learn how to manage the infodemic and reduce its impact in new OpenWHO infodemic management courses
+Feature stories
+All →
+12 July 2024
+Donors making a difference for WHO’s work to save lives in Sudan and South Sudan
+Sudan and South Sudan have been facing multiple and severe difficulties over the past decades, with people suffering from the devastating impact of armed conflict and harsh environ ...
+18 June 2024
+Development partners making a difference: The European Union supports WHO in eight Asian countries to prepare for the future
+24 May 2022
+Agencia Bori: Bridging the gap between science and journalism in Brazil
+24 May 2022
+Rumour Tracker Programme: A community-based approach to address information gaps and misinformation on COVID-19
+Events
+All →
+Infodemic Management live! Online Storytelling event #2
+15 December 2022 16:00 – 17:00 CET
+WHO EPI-WIN Webinar: building the future of public health intelligence: launch of the PHI Competency Framework and Curriculum
+3 December 2025 13:00 – 14:00 CET
+WHO EPI-WIN Webinar: defining cases of meningococcal disease: a public health tool for outbreak prevention and control
+26 November 2025 13:00 – 14:00 CET
+1
+(current)
+2
+3
+4
+5
+6
+7
+8
+9
+10
+»
+Campaigns
+Call for action - Infodemic response call for action signature
+Sign here
+How to report misinformation online
+Related heath topics
+All →
+Communicable diseases
+Coronavirus disease (COVID-19)
+Socio-political determinants
+Global health ethics
+Health systems
+Research
+Health systems
+Digital health
+Health and wellbeing
+Mental health
+Resources
+Infodemic management: a key component of the COVID-19 global response
+- Weekly epidemiological record
+Managing the Infodemic: A critical condition for an effective global response to the COVID-19 pandemic
+The truth is our there, somewhere
+- The Lancet
+Developing trans-disciplinary science: infodemiology, the science behind infodemic management
+,
+Coronavirus disease (COVID-19) Situation Report – 169
+Using social media listening to get ahead of the infodemic
+Artificial intelligence cooperation to support the global response to COVID-19
+- The Nature
+Contact
+infodemicmanagement@who.int

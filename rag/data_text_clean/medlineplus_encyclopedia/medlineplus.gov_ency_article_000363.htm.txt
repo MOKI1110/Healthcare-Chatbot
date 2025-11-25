@@ -1,0 +1,65 @@
+Familial Mediterranean fever: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Familial Mediterranean fever
+Familial Mediterranean fever
+Familial Mediterranean fever (FMF) is a rare disorder that may be passed down through families (inherited). It involves repeated fevers and inflammation that often affects the lining of the abdomen, chest, or joints.
+Causes
+FMF is most often caused by a variation in a gene named
+MEFV
+. This gene creates a protein involved in regulating inflammation. The disease usually appears only in people who received two copies of the variant gene, one from each parent. This is called autosomal recessive inheritance or an autosomal recessive condition.
+FMF most often affects people of Mediterranean ancestry. These include non-Ashkenazi (Sephardic) Jews, Armenians, and Arabs. People from other ethnic groups can also be affected.
+Symptoms
+Symptoms usually begin between ages 5 and 15. Inflammation in the lining of the abdominal cavity, chest cavity, skin, or joints occurs along with high fevers that usually peak in 12 to 24 hours. Attacks may vary in severity of symptoms. People are usually symptom-free between attacks.
+Symptoms may include repeated episodes of:
+Abdominal pain
+Chest pain that is sharp and gets worse when taking a breath
+Fever or alternating chills and fever
+Joint pain
+Skin sores (lesions) that are red and swollen and range from 5 to 20 centimeters (cm) in diameter
+Exams and Tests
+If genetic testing shows that you have two pathogenic variants and your symptoms match the typical pattern, the diagnosis is nearly certain. Lab tests and
+x-rays
+or other imaging tests are used to check for other possible diseases to help confirm the diagnosis.
+Levels of certain blood tests may be higher than normal when done during an attack. Tests may include:
+Complete blood count
+(CBC) that includes white blood cell count
+C-reactive protein
+(CRP) to check for inflammation
+Erythrocyte sedimentation rate
+(ESR) to check for inflammation
+Fibrinogen test
+to check blood clotting
+Treatment
+The goal of treatment for FMF is to regulate symptoms. Colchicine, a medicine that reduces inflammation, may help during an attack and may prevent further attacks. It can also help prevent a serious complication called systemic
+amyloidosis
+, which is common in people with FMF.
+Nonsteroidal anti-inflammatory drugs (NSAIDs) may be used to treat fever and pain.
+Outlook (Prognosis)
+There is no known cure for FMF. Most people continue to have attacks, but the number and severity of attacks is different from person to person.
+Possible Complications
+Amyloidosis may lead to kidney damage or not being able to absorb nutrients from food (malabsorption). Fertility problems in women and men and arthritis are also complications.
+When to Contact a Medical Professional
+Contact your health care provider if you or your child develops symptoms of this condition.
+Alternative Names
+Familial paroxysmal polyserositis; Periodic peritonitis; Recurrent polyserositis; Benign paroxysmal peritonitis; Periodic disease; Periodic fever; FMF
+Images
+Temperature measurement
+References
+Assady S, Ramadan R, Frishberg Y. Near and middle east. In: Yu ASL, Chertow GM, Luyckx VA, Marsden PA, Skorecki K, Taal MW, eds.
+Brenner and Rector's The Kidney
+. 11th ed. Philadelphia, PA: Elsevier; 2020:chap 78.
+Kastner DL. The systemic autoinflammatory diseases. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 240.
+Verbsky JW. Hereditary periodic fever syndromes and other systemic autoinflammatory diseases. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 204.
+Review Date 8/18/2024
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Autoimmune Diseases
+Fever

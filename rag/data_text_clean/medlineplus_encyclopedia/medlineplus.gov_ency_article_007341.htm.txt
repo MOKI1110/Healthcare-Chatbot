@@ -1,0 +1,97 @@
+Brain PET scan : MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Brain PET scan
+Brain PET scan
+A brain positron emission tomography (PET) scan is an imaging test of the brain. It uses a radioactive substance called a tracer to look for disease or injury in the brain.
+A PET scan shows how the brain and its tissues are working. Other imaging tests, such as magnetic resonance imaging (
+MRI
+) and computed tomography (
+CT
+) scans only reveal the structure of the brain and its surrounding tissues.
+How the Test is Performed
+A PET scan requires a small amount of radioactive material (tracer). This tracer is given through a vein (IV), usually on the inside of your elbow. Or, you breathe in the radioactive material as a gas.
+The tracer travels through your blood and collects in organs and tissues. The tracer helps your health care provider to see certain areas or diseases more clearly.
+You wait nearby as the tracer is absorbed by your body. This usually takes about 1 hour.
+Then, you lie on a narrow table, which slides into a large tunnel-shaped scanner. The PET scanner detects signals from the tracer. A computer changes the results into 3-D pictures. The images are displayed on a monitor for your provider to read.
+You must lie still during the test so that the machine can produce clear images of your brain. You may be asked to read or name letters if your memory is being tested.
+The test takes between 30 minutes and 2 hours.
+How to Prepare for the Test
+You may be asked not to eat anything for 4 to 6 hours before the scan. You will be able to drink water.
+Tell your provider if:
+You are afraid of close spaces (have claustrophobia). You may be given a medicine to help you feel sleepy and less anxious.
+You are pregnant or think you might be pregnant.
+You have any allergies to injected dye (contrast).
+You have taken insulin for diabetes. You will need special preparation.
+Always tell your provider about the medicines you are taking, including those bought without a prescription. Sometimes, medicines interfere with the test results.
+How the Test will Feel
+You may feel a sharp sting when the needle containing the tracer is placed into your vein.
+A PET scan causes no pain. The table may be hard or cold, but you can request a blanket or pillow.
+An intercom in the room allows you to speak to someone at any time.
+There is no recovery time unless you were given a medicine to relax.
+After the test, drink a lot of fluids to flush the tracer out of your body.
+Why the Test is Performed
+A PET scan can show the size, shape, and function of the brain, so your provider can make sure it is working as well as it should. It is most often used when other tests, such as MRI scan or CT scan, do not provide enough information.
+This test can be used to:
+Diagnose a
+brain tumor
+or monitor the effect of treatment on a brain tumor.
+Locate the source of seizures and prepare for
+epilepsy
+surgery.
+Help diagnose
+dementia
+such as
+Alzheimer disease
+if other tests and exams do not provide enough information.
+Tell the difference between
+Parkinson disease
+from other movement disorders. It also helps to predict the long-term outcome of Parkinson disease.
+Help explain why someone is in a coma.
+Several PET scans may be taken to determine how well you are responding to treatment for cancer or another illness.
+Normal Results
+There are no problems detected in the size, shape, or function of the brain. There are no areas in which the tracer has abnormally collected.
+What Abnormal Results Mean
+Abnormal results may be due to:
+Alzheimer disease or dementia due to other health conditions
+Brain tumor or spread of cancer from another body area to the brain
+Epilepsy, and may identify where the seizures start in your brain
+Movement disorders (such as Parkinson disease)
+Brain injury
+Risks
+The amount of radiation used in a PET scan is low. It is about the same amount of radiation as in most CT scans. Also, the radiation does not last for long in your body.
+Women who are pregnant or are breastfeeding should let their provider know before having this test. Infants and babies developing in the womb are more sensitive to the effects of radiation because their organs are still growing.
+It is possible, though very unlikely, to have an allergic reaction to the radioactive substance. Some people have pain, redness, or swelling at the injection site.
+Considerations
+It is possible to have false results on a PET scan. Blood sugar or insulin levels may affect the test results in people with
+diabetes
+.
+PET scans may be done along with a CT scan. This combination scan is called a PET/CT.
+Alternative Names
+Brain positron emission tomography; PET scan - brain
+References
+Barras CD, Bhattacharya JJ. Current status of imaging of the brain and anatomical features. In: Adam A, Dixon AK, Gillard JH, Schaefer-Prokop CM, eds.
+Grainger & Allison's Diagnostic Radiology
+. 7th ed. Philadelphia, PA: Elsevier; 2021:chap 53.
+Glaudemans AWJM, Israel O, Ben-Haim S, Slart RHJA. Vascular PET/CT and SPECT/CT. In: Sidawy AN, Perler BA, eds.
+Rutherford's Vascular Surgery and Endovascular Therapy
+. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 31.
+Jankovic J, Mazziotta JC, Newman NJ, Pomeroy SL. Investigations in the diagnosis and management of neurological disease. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 34.
+Wijdicks EFM. Prolonged comatose states and brain death. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 6.
+Review Date 1/13/2025
+Updated by: Luc Jasmin, MD, Ph.D., FRCS (C), FACS, Department of Neuroscience, Guam Regional Medical City, Guam; Senior Advisor at Elevance Health, Department of Surgery, Johnson City Medical Center, TN; Senior advisor at Elevance Health Department of Maxillofacial Surgery at UCSF, San Francisco, CA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Alzheimer's Disease
+Brain Diseases
+Brain Tumors
+Dementia
+Epilepsy
+Nuclear Scans
+Parkinson's Disease

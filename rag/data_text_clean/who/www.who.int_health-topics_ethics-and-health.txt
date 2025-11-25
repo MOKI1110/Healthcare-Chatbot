@@ -1,0 +1,116 @@
+Ethics
+Skip to main content
+Overview
+Ethical questions related to health, health care, and public health cover topics as diverse as moral issues around reproduction, state obligations in the provision of health care services, and appropriate measures to control infectious disease. Scholars and health care professionals have debated ethical questions related to health and health care since the earliest days of medicine. Recent formal efforts to articulate international standards of ethics applicable to health and health care can
+be traced to the Nuremberg trials of 1947, during which the horrors of Nazi medical experiments came to light.
+The principles that emerged from those trials, known as the Nuremberg Code, are broadly applicable to many types of health-related research involving
+human participants, including clinical trials. The growing breadth and complexity of contemporary health challenges have produced a range of difficult questions that cannot always be adequately addressed by relying exclusively on existing policies,
+guidelines or codes of conduct. Debates over access to new and expensive pharmaceuticals and medical technologies, as well as increasing awareness of the gross health disparities that exist both within and between countries, have called attention to the
+need for an ethics of health policy and practice.
+Research
+Research ethics govern the standards of conduct for scientific researchers. It is important to adhere to ethical principles in order to protect the dignity, rights and welfare of research participants.
+The WHO Manual (Section XV.2) defines research with human subjects as 'any social science, biomedical, behavioural, or epidemiological activity that entails systematic collection or analysis of data with the intent to generate new knowledge, in which human beings:
+are exposed to manipulation, intervention, observation, or other interaction with investigators either directly or through alteration of their environment; or
+become individually identifiable through investigator's collection, preparation, or use of biological material or medical or other records.
+Infectious diseases
+Immunization
+raises a host of challenging ethical questions that researchers, governments, funders, pharmaceutical companies, and communities must confront.
+TB
+: Ethical issues include questions about the equitable distribution of resources, protection of vulnerable groups, respect for patient choice of treatment options and solidarity between communities during outbreaks.
+Zika
+has raised many specific ethical issues, in particular regarding pregnancy. At the same time, it has highlighted ethical issues that arise in
+vector-borne diseases
+more generally.
+The
+HIV
+epidemic has raised many ethical challenges for public health officials, researchers and clinicians, reaching from macro-level policy to micro-level clinical decisions.
+Questions and answers
+Questions and answers about ethics
+Ethics and COVID-19: resource allocation and priority setting
+Databases and tools
+Human Genome Editing (HGE) Registry
+Initiatives and groups
+Expert Group on Ethics and Governance of Artificial Intelligence for Health
+ACT-Accelerator Ethics & Governance Working Group
+Expert Advisory Committee on Developing Global Standards for Governance and Oversight of Human Genome Editing
+Global Network of WHO Collaborating Centres for Bioethics
+Global Summit of National Bioethics Committees
+Public Health Emergency Preparedness and Response Ethics Network (PHEPREN)
+Public Health Ethics Consultative Group
+Research Ethics Review Committee (ERC)
+WHO Expert Group on Ethics & Governance of Infectious Disease Outbreaks and other Emergencies
+Working Group on Developing WHO Guidance on Clinical Ethics
+Technical work
+Health Ethics & Governance
+Ethics and COVID-19
+News
+All →
+18 January 2024
+News release
+WHO releases AI ethics and governance guidance for large multi-modal models
+11 December 2023
+Departmental update
+New Technical Advisory Group on Embedding Ethics in Health and Climate Change Policy (TAG-Ethics & Climate Health)
+25 September 2023
+Departmental update
+Launch of WHO tool for benchmarking ethics oversight of health-related research involving human participants
+10 February 2023
+Departmental update
+WHO kicks off deliberations on ethical framework and tools for social listening and infodemic management
+Publications
+All 	→
+19 June 2017
+WHO guidelines on ethical issues in public health surveillance
+This document outlines 17 ethical guidelines that can assist everyone involved in public health surveillance, including officials in government agencies,...
+Download
+Read More
+22 July 2025
+Key criteria for the ethical acceptability of controlled human infection studies during public health...
+Controlled human infection studies (CHIS) involve the intentional infection of volunteers with pathogens, including those that cause epidemics or pandemics....
+Download
+Read More
+23 June 2025
+The ethics of health research priority setting
+The resources available for health research at any given time – including money but also time, infrastructure and personnel – are scarce. Not...
+Download
+Read More
+23 June 2025
+WHO guidance on the ethics of health research priority setting
+The resources available for health research at any given time – including money but also time, infrastructure and personnel – are scarce. Not...
+Download
+Read More
+8 April 2025
+Social listening in infodemic management for public health emergencies: guidance on ethical considerations
+This guidance document has been developed by the World Health Organization (WHO) to guide governments, organizations and individuals seeking advice on...
+Download
+Read More
+Our work
+All →
+Developing normative guidance to address ethical challenges in global health
+Framing the ethics of public health surveillance
+Building ethics capacity
+Engaging the global community in health ethics
+Supporting countries to manage ethical issues during outbreaks and emergencies
+Ensuring ethical standards and procedures for research with human beings
+Videos
+All →
+11 April 2025
+WHO EPI-WIN Webinar: social listening in infodemic management for public health emergencies
+27 October 2022
+Has the decolonizing global health agenda been colonized?
+6 December 2021
+WHO Pandemic Ethics & Policy Summit: Prof David Archer, Chairperson of Nuffield Council on Bioethics
+6 December 2021
+WHO Pandemic Ethics & Policy Summit: Dr Fifa A Rahman, Civil Society Representative
+Partners
+UN-Interagency Committee
+Country Coordinating Mechanism - The Global Fund to Fight AIDS, Tuberculosis and Malaria
+Quiz
+The ethics of public health surveillance
+Related health topics
+Communicable diseases
+HIV
+Other
+Human genome editing
+Health interventions
+Vaccines and immunization

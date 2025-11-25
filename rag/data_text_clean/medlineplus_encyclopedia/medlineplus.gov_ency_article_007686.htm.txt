@@ -1,0 +1,128 @@
+Non-Hodgkin lymphoma in children: MedlinePlus Medical Encyclopedia
+(
+Lock
+the .gov website. Share sensitive information only on official,
+→
+→
+Non-Hodgkin lymphoma in children
+Non-Hodgkin lymphoma in children
+Non-Hodgkin lymphoma (NHL) is a
+cancer
+of the lymph tissue. Lymph tissue is found in the lymph nodes, spleen, tonsils, bone marrow, and other organs of the immune system. The immune system protects us against diseases and infections.
+This article is about NHL in children.
+Causes
+NHL tends to occur more often in adults. But children do get some types of NHL and more commonly in the second decade of life. Although all ages are affected, NHL is rare in children younger than 3 years old.
+The exact cause of NHL in children is not known. The development of lymphomas in children, however, has been associated with:
+A weak immune system from an organ transplant
+Epstein-Barr virus, the virus that causes
+mononucleosis
+HIV (human immunodeficiency virus) infection
+Past cancer treatment such as
+radiation treatment
+or
+chemotherapy
+(very rare)
+There are many types of NHL. One classification (grouping) is by how fast the cancer spreads. The cancer may be low grade (slow growing), intermediate grade, or high grade (fast growing).
+NHL is further grouped by:
+How the cells look under the microscope
+What type of white blood cell it originates from
+Whether there are certain genetic DNA changes in the tumor cells themselves
+Symptoms
+Symptoms depend on which area of the body is affected by the cancer and how fast the cancer is growing.
+Symptoms may include:
+Swollen lymph nodes
+in the neck, underarm, stomach, or groin
+Painless swelling or lump in the testicle
+Swelling of the head, neck, arms or upper body
+Trouble swallowing
+Trouble breathing
+Wheezing
+Persistent cough
+Swelling in the belly
+Night sweats
+Weight loss
+Feeling tired
+Neurological symptoms such as severe back pain, numbness or weakness
+Skin rash
+Unexplained fever
+Exams and Tests
+Your health care provider will take your child's medical history. Your provider will do a physical exam to check for swollen lymph nodes.
+Your provider may perform these lab tests when NHL is suspected:
+Blood chemistry tests
+including protein levels, liver function tests, kidney function tests, and uric acid level
+Complete blood count
+(CBC)
+Chest x-ray
+, which often shows signs of a mass in the area between the lungs
+lymph node biopsy
+confirms the diagnosis for NHL.
+If a biopsy shows that your child has NHL, more tests will be done to see how far the cancer has spread. This is called
+staging
+. Staging helps guide future treatment and follow-up.
+CT scan
+of the chest, abdomen and pelvis
+Bone marrow biopsy
+PET scan
+Immunophenotyping is a lab test used to identify cells, based on the types of antigens or markers on the surface of the cell. This test is used to diagnose the specific type of lymphoma by comparing the cancer cells to normal cells of the immune system.
+Treatment
+You may choose to seek care at a
+children's cancer center
+.
+Treatment will depend on:
+The type of NHL (there are many types of NHL)
+Stage (where the cancer has spread)
+Your child's age and overall health
+Your child's symptoms, including weight loss, fever, and night sweats
+Chemotherapy is most often the first treatment:
+Your child may need to stay in the hospital at first. But most of the treatment for NHL can be given in a clinic, and your child will still live at home.
+Chemotherapy is given mainly into the veins (
+IV
+), but some chemotherapy is given by mouth.
+Other treatments may include:
+Targeted therapy
+that uses medicines or antibodies to kill cancer cells.
+High-dose chemotherapy may be followed by
+stem cell transplant
+(using your child's own stem cells or from a donor).
+CAR-T cells (special type of immunotherapy).
+Having a child with cancer is one of the hardest things you will ever deal with as a parent.
+Explaining what it means to have cancer to your child
+will not be easy. You will also need to
+learn how to get help and support
+so you can cope more easily.
+Support Groups
+Having a child with cancer can be stressful. Joining a support group where other parents or families share common experiences may help ease your stress.
+Leukemia and Lymphoma Society --
+www.lls.org
+The National Children's Cancer Society --
+thenccs.org/
+Outlook (Prognosis)
+Most forms of NHL are curable. Even late stages of NHL are curable in children.
+Your child will need to have regular exams and imaging tests for years after treatment to make sure the tumor does not come back.
+Even if the tumor comes back, there is a good chance of a cure.
+Regular follow-ups will also help your child's health care team check for signs of the cancer returning and for any long-term treatment effects.
+Possible Complications
+Treatments for NHL may have complications. Side effects of chemotherapy or radiation therapy may appear months or years after treatment. These are called "
+late effects
+." It is important to talk about treatment effects with your health care team. What to expect in terms of late effects depends on the specific treatments your child receives.  The concern of late effects must be balanced by the need to treat and cure the cancer.
+When to Contact a Medical Professional
+Contact your child's provider if your child has swollen lymph nodes with unexplained fever that does not go away or has other symptoms of NHL.
+Contact your child's provider if your child has NHL and has a persistent fever or other signs of infection.
+Alternative Names
+Lymphoma - non-Hodgkin - children; Lymphoblastic lymphoma - children; Burkitt lymphoma - children; Large cell lymphomas - children, Cancer - non-Hodgkin lymphoma - children; Diffuse large B-cell lymphoma - children; Mature B cell lymphoma - children; Anaplastic large cell lymphoma; Non-Hodgkin's lymphoma in children
+Images
+Immune system structures
+References
+American Cancer Society website. What is Non-Hodgkin lymphoma in children?
+www.cancer.org/cancer/childhood-non-hodgkin-lymphoma/about/non-hodgkin-lymphomain-children.html
+. Updated August 10, 2021. Accessed August 22, 2024.
+Hochberg J, Goldman SC, Cairo MS. Lymphoma. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 545.
+National Cancer Institute website. Childhood non-Hodgkin lymphoma treatment (PDQ) - health professional version.
+www.cancer.gov/types/lymphoma/hp/child-nhl-treatment-pdq
+. Updated April 30, 2024. Accessed August 22, 2024.
+Review Date 8/12/2024
+Updated by: Rachel Offenbacher, MD, Pediatric Hematology & Oncology, The Children's Hospital at Montefiore, Bronx, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Related MedlinePlus Health Topics
+Lymphoma
