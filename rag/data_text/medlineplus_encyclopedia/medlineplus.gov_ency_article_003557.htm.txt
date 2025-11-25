@@ -1,0 +1,96 @@
+Antithyroglobulin antibody test: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Antithyroglobulin antibody test
+URL of this page: //medlineplus.gov/ency/article/003557.htm
+Antithyroglobulin antibody test
+To use the sharing features on this page, please enable JavaScript.
+Antithyroglobulin antibody is a test to measure
+antibodies
+to a protein called thyroglobulin. This protein is found in thyroid cells, but a small amount leaks out into the bloodstream. Sometimes the immune system produces antibodies against this protein.
+How the Test is Performed
+A
+blood sample
+is needed.
+How to Prepare for the Test
+You may be told not to eat or drink anything for several hours (usually overnight). Your health care provider may monitor you or tell you to stop taking certain medicines for a short time before the test because they may affect the test results. Do not stop taking any medicine without first talking to your provider.
+How the Test will Feel
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.
+Why the Test is Performed
+This test helps detect possible thyroid problems.
+Antithyroglobulin antibodies can be a sign of thyroid gland damage caused by the immune system. They may be measured if
+thyroiditis
+is suspected.
+Measuring thyroglobulin antibody levels after treatment for thyroid cancer can help your provider decide what the best test is to monitor you for a recurrence of the cancer.
+Normal Results
+A negative test result is a normal result. It means no antibodies to thyroglobulin are found in your blood.
+Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.
+What Abnormal Results Mean
+A positive test means antithyroglobulin antibodies are found in your blood. They may be present with:
+Graves disease
+or
+overactive thyroid
+Hashimoto thyroiditis
+Subacute thyroiditis
+Underactive thyroid
+Systemic lupus erythematosus
+Type 1 diabetes
+Pregnant women and relatives of those with autoimmune thyroiditis may also test positive for these antibodies.
+If you have a positive test for antithyroglobulin antibodies, this may make it harder to measure your thyroglobulin level accurately. Thyroglobulin level is an important blood test to determine risk that thyroid cancer will recur.
+Risks
+There is little risk involved with having your blood taken.Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.
+Other risks associated with having blood drawn are slight, but may include:
+Excessive bleeding
+Fainting or feeling lightheaded
+Multiple punctures to locate veins
+Hematoma
+(blood buildup under the skin)
+Infection (a slight risk any time the skin is broken)
+Alternative Names
+Thyroglobulin antibody; Thyroiditis - thyroglobulin antibody; Hypothyroidism - thyroglobulin antibody; Thyroiditis - thyroglobulin antibody; Graves disease - thyroglobulin antibody; Underactive thyroid - thyroglobulin antibody
+Images
+Blood test
+References
+Brent GA, Weetman AP. Hypothyroidism and thyroiditis. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds.
+Williams Textbook of Endocrinology
+. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 13.
+Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods
+. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 25.
+Pearce EN, Hollenberg AN. Thyroid. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 207.
+Ramos-Levi AM, Marazuela M. Thyroiditis. In: Robertson RP, ed.
+DeGroot's Endocrinology
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 73.
+Smith JR, Wassner AJ. Thyroiditis. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 604.
+Review Date 2/28/2024
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Diabetes Type 1
+Lupus
+Thyroid Diseases
+Thyroid Tests

@@ -1,0 +1,112 @@
+Immune hemolytic anemia: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Immune hemolytic anemia
+URL of this page: //medlineplus.gov/ency/article/000576.htm
+Immune hemolytic anemia
+To use the sharing features on this page, please enable JavaScript.
+Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to the body's tissues.
+Red blood cells last for about 120 days before the body gets rid of them. In hemolytic anemia, red blood cells in the blood are destroyed earlier than normal.
+Immune hemolytic
+anemia
+occurs when antibodies form against the body's own red blood cells and destroy them. This happens because the immune system mistakenly recognizes these blood cells as foreign.
+Causes
+Possible causes include:
+Certain chemicals, medicines, and toxins
+Infections
+Transfusion of blood from a donor with a blood type that does not match
+Certain cancers
+When
+antibodies
+form against red blood cells for no reason, the condition is called idiopathic autoimmune hemolytic anemia.
+The antibodies may also be caused by:
+A complication of another disease
+Past blood transfusions
+Pregnancy (if the baby's blood type is different from the mother's)
+Risk factors are related to the causes.
+Symptoms
+You may not have symptoms if the anemia is mild. If the problem develops slowly, symptoms that may occur first include:
+Feeling weak or tired more often than usual, or with exercise
+Headaches
+Problems concentrating or thinking
+If the anemia gets worse, symptoms may include:
+Lightheadedness when you stand up
+Pale skin color (
+pallor
+)
+Shortness of breath
+Sore tongue
+Exams and Tests
+You may need the following tests:
+Absolute
+reticulocyte count
+Direct or indirect
+Coombs test
+Hemoglobin
+in the urine
+LDH
+(level of this enzyme rises as a result of tissue damage)
+Red blood cell count
+(RBC), hemoglobin, and
+hematocrit
+Serum
+bilirubin
+level
+Serum haptoglobin
+Donath-Landsteiner test
+Cold agglutinins
+Platelet count
+Protein electrophoresis - serum
+Pyruvate kinase
+Treatment
+The first treatment tried is most often a steroid medicine, such as prednisone. If a steroid medicine does not improve the condition, treatment with intravenous immunoglobulin (IVIG) or removal of the spleen (splenectomy) may be considered.
+You may receive treatment to suppress your immune system if you do not respond to steroids. Medicines such as azathioprine (Imuran), cyclophosphamide (Cytoxan), and rituximab (Rituxan) have been used.
+Blood transfusions are given with caution, because the blood may not be compatible and it may cause more red blood cell destruction.
+Outlook (Prognosis)
+The disease may start quickly and be very serious, or it may stay mild and not need special treatment.
+In most people, steroids or splenectomy can totally or partially control anemia.
+Possible Complications
+Severe anemia rarely leads to death. Severe infection may occur as a complication of treatment with steroids, other medicines that suppress the immune system, or splenectomy. These treatments impair the body's ability to fight infection.
+When to Contact a Medical Professional
+Contact your health care provider if you have unexplained fatigue or chest pain, or signs of infection.
+Prevention
+Screening for antibodies in donated blood and in the recipient may prevent hemolytic anemia related to blood transfusions.
+Alternative Names
+Anemia - immune hemolytic; Autoimmune hemolytic anemia (AIHA)
+Images
+Antibodies
+References
+Michel M. Autoimmune and intravascular hemolytic anemias. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 146.
+Michel M, JÃ¤ger U. Autoimmune hemolytic anemia. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 47.
+Wong E, Rose MG, Berliner N. Disorders of red blood cells. In: Wing EJ, Schiffman FJ, eds.
+Cecil Essentials of Medicine
+. 10th ed. Philadelphia, PA: Elsevier; 2022:chap 48.
+Review Date 3/31/2024
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Anemia

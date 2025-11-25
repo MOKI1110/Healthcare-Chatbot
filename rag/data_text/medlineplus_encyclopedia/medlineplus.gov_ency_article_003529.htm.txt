@@ -1,0 +1,93 @@
+Antimitochondrial antibody: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Antimitochondrial antibody
+URL of this page: //medlineplus.gov/ency/article/003529.htm
+Antimitochondrial antibody
+To use the sharing features on this page, please enable JavaScript.
+Antimitochondrial antibodies (AMA) are substances (
+antibodies
+) that form against mitochondria. The mitochondria are an important part of cells. They are the energy source inside the cells. These help the cells work properly.
+This article discusses the blood test used to measure the amount of AMA in the blood.
+How the Test is Performed
+A blood sample is needed. It is most often taken from a vein. The procedure is called a
+venipuncture
+.
+How to Prepare for the Test
+Your health care provider may tell you not to eat or drink anything for up to 6 hours before the test (most often overnight).
+How the Test will Feel
+When the needle is inserted to draw blood, some people feel moderate pain. Others may feel only a prick or stinging sensation. Afterward, there may be some throbbing.
+Why the Test is Performed
+You may need this test if you have signs of liver damage. This test is most often used to diagnose primary biliary cholangitis, formerly called
+primary biliary cirrhosis
+(PBC).
+The test may also be used to tell the difference between
+bile
+system-related cirrhosis and liver problems due to other causes such as a blockage, viral
+hepatitis
+, or
+alcoholic cirrhosis
+.
+Normal Results
+Normally, there are no antibodies present.
+What Abnormal Results Mean
+This test is important for diagnosing PBC. Almost all people with the condition will test positive. It is rare that a person without the condition will have a positive result. However, some people with a positive test for AMA and no other sign of liver disease may progress to PBC over time.
+Rarely, abnormal results may also be found that are due to other kinds of liver disease and some
+autoimmune diseases
+.
+Risks
+Risks for having blood drawn are slight, but can include:
+Excessive bleeding
+Fainting
+or feeling lightheaded
+Hematoma
+(blood accumulating under the skin)
+Infection (a slight risk any time the skin is broken)
+Images
+Blood test
+References
+American College of Rheumatology website. Antinuclear antibodies (ANA).
+rheumatology.org/patients/antinuclear-antibodies-ana
+. Updated February 2023. Accessed March 6, 2025.
+Daniels L, Khalili M, Goldstein E, Bluth MH, Bowne W, Pincus MR. Evaluation of liver function. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods
+. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 22.
+Eaton JE, Lindor KD. Primary biliary cholangitis. In: Feldman M, Friedman LS, Brandt LJ, eds.
+Sleisenger and Fordtran's Gastrointestinal and Liver Disease
+. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 91.
+Peng SL. Anti-nuclear antibodies. In: Firestein GS, McInnes IB, Koretzky GA, Mikuls TR, Neogi T, O'Dell JR, eds.
+Firestein & Kelley's Textbook of Rheumatology
+. 12th ed. Philadelphia, PA: Elsevier; 2025:chap 55.
+von MÃ¼hlen CA, Chan EKL, Ceribelli A, Fritzler MJ. Clinical and laboratory evaluation of systemic autoimmune rheumatic diseases. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods
+. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 53.
+Review Date 1/28/2025
+Updated by: Diane M. Horowitz, MD, Rheumatology and Internal Medicine, Northwell Health, Great Neck, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Bile Duct Diseases
+Cirrhosis
+Liver Diseases
+Lupus
+Mitochondrial Diseases
+Rheumatoid Arthritis

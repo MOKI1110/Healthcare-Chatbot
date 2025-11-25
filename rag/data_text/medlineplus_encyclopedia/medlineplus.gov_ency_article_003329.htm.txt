@@ -1,0 +1,116 @@
+B and T cell screen: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+B and T cell screen
+URL of this page: //medlineplus.gov/ency/article/003329.htm
+B and T cell screen
+To use the sharing features on this page, please enable JavaScript.
+B and T cell screen is a lab test to determine the amount of B and T lymphocytes in the blood.
+How the Test is Performed
+A
+blood sample is needed
+.
+Blood could also be obtained by
+capillary sample
+(fingerstick or heel stick in infants).
+After the blood is drawn, it goes through a two-step process. First, the lymphocytes are separated from other blood parts. Once the cells are separated, identifiers are added to distinguish between T and B cells.
+How to Prepare for the Test
+Tell your health care provider if you have had any of the following, which might affect your T and B cell count:
+Chemotherapy
+HIV/AIDS
+Radiation therapy
+Recent or current infection
+Steroid therapy
+Stress
+Surgery
+How the Test will Feel
+When the needle is inserted to draw blood, some people feel moderate pain, while others feel only a prick or stinging sensation. Afterward, there may be some throbbing.
+Why the Test is Performed
+Your provider may order this test if you have signs of certain diseases that weaken the immune system. It may also be used to distinguish between cancerous and noncancerous disease, particularly
+cancers
+that involve the blood and bone marrow.
+Also, the test may be used to determine how well treatment for certain conditions such as HIV/AIDS is working.
+Normal Results
+Normal value ranges may vary slightly among different labs. Some labs use different measurements or test different samples. Talk to your provider about the meaning of your specific test results.
+What Abnormal Results Mean
+Abnormal B and T cell counts may suggest a possible disease. Further testing is needed to confirm a diagnosis.
+An increased T cell count may be due to:
+Cancer of white blood cells, called lymphoblasts (
+acute lymphoblastic leukemia
+)
+Cancer of white blood cells, called lymphocytes (
+chronic lymphocytic leukemia
+)
+A viral infection called
+infectious mononucleosis
+Blood cancer that starts in the plasma cells in the bone marrow (
+multiple myeloma
+)
+Syphilis
+, a sexually transmitted disease (STD)
+Toxoplasmosis
+, an infection due to a parasite
+Tuberculosis
+An increased B cell count may be due to:
+Chronic lymphocytic leukemia
+DiGeorge syndrome
+Multiple myeloma
+WaldenstrÃ¶m macroglobulinemia
+A decreased T cell count may be due to:
+Congenital T-cell deficiency disease, such as Nezelof syndrome, DiGeorge syndrome, or Wiskott-Aldrich syndrome
+Acquired T-cell deficiency states, such as HIV infection or HTLV-1 infection
+B cell proliferative disorders, such as chronic lymphocytic leukemia or WaldenstrÃ¶m macroglobulinemia
+A decreased B cell count may be due to:
+HIV/AIDS
+Acute lymphoblastic leukemia
+Immunodeficiency disorders
+Treatment with certain medicines
+Risks
+Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.
+Other risks associated with having blood drawn are slight but may include:
+Excessive bleeding
+Fainting or feeling lightheaded
+Hematoma (blood accumulating under the skin)
+Infection (a slight risk any time the skin is broken)
+Alternative Names
+E-rosetting; T and B lymphocyte assays; B and T lymphocyte assays
+Images
+Blood test
+References
+Own M, Bussel JB. Hematologic manifestations of HIV/AIDS. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 152.
+Riley RS, Mageau R, Ben-Ezra J. Laboratory evaluation of the cellular immune system. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods
+. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 46.
+Review Date 11/10/2024
+Updated by: Jatin M. Vyas, MD, PhD, Roy and Diana Vagelos Professor in Medicine, Columbia University Vagelos College of Physicians and Surgeons, Division of Infectious Diseases, Department of Medicine, New York, NY. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Acute Lymphocytic Leukemia
+Childhood Leukemia
+Chronic Lymphocytic Leukemia
+HIV
+Leukemia
+Lymphoma
+Multiple Myeloma

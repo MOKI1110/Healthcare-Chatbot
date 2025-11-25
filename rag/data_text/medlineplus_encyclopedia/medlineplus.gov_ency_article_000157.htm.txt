@@ -1,0 +1,125 @@
+Atrial septal defect (ASD): MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Atrial septal defect (ASD)
+URL of this page: //medlineplus.gov/ency/article/000157.htm
+Atrial septal defect (ASD)
+To use the sharing features on this page, please enable JavaScript.
+Atrial septal defect (ASD) is a heart defect that is present at birth (congenital).
+As a baby develops in the womb, a wall (septum) forms that divides the upper chamber into a left and right atrium. When this wall does not form correctly, it can result in a defect that remains after birth. This is called an atrial septal defect, or ASD.
+Causes
+Normally, blood cannot flow between the two upper heart chambers. However, an ASD allows this to happen.
+When blood flows between the two heart chambers, this is called a shunt. Blood most often flows from the left to the right side. When this happens the right side of the heart enlarges. Over time pressure in the lungs may build up. When this happens, the blood flowing through the defect will then go from right to left. If this occurs, there will be less oxygen in the blood that goes to the body.
+Atrial septal defects are defined as primum or secundum.
+The primum defects are linked to other heart defects of the
+ventricular septum
+and
+mitral valve
+.
+Secundum defects can be a single, small or large hole. They may also be more than one small hole in the septum or wall between the two chambers.
+Very small defects (less than 5 millimeters or Â¼ inch) are less likely to cause problems. Smaller defects are often discovered much later in life than larger ones.
+Along with the size of the ASD, where the defect is located plays a role that affects blood flow and oxygen levels. The presence of other heart defects is also important.
+ASD is not very common.
+Symptoms
+A person with no other heart defect, or a small defect (less than 5 millimeters) may not have any symptoms, or symptoms may not occur until middle age or later.
+Symptoms that do occur may begin at any time after birth through childhood. They can include:
+Difficulty breathing (
+dyspnea
+)
+Frequent respiratory infections in children
+Feeling the heart beat (
+palpitations
+) in adults
+Shortness of breath
+with activity
+Exams and Tests
+The health care provider will check how large and severe an ASD is based on the symptoms, physical exam, and the results of heart tests.
+The provider may hear
+abnormal heart sounds
+when listening to the chest with a stethoscope. A murmur may be heard only in certain body positions. Sometimes, a murmur may not be heard at all. A murmur means that blood is not flowing through the heart smoothly.
+The physical exam may also show signs of
+heart failure
+in some adults.
+An
+echocardiogram
+is a test that uses sound waves to create a moving picture of the heart. It is often the first test done. A Doppler study done as part of the echocardiogram allows the provider to assess the amount of shunting of blood between the heart chambers.
+Other tests that may be done include:
+Cardiac catheterization
+Coronary angiography
+(for patients over 35 years old)
+Electrocardiogram
+(ECG)
+Heart MRI or CT
+Transesophageal echocardiography (TEE)
+Treatment
+ASD may not need treatment if there are few or no symptoms, or if the defect is small and is not associated with other abnormalities. Surgery to close the defect is recommended if the defect causes a large amount of shunting, the heart is swollen, or symptoms occur.
+A procedure has been developed to close the defect (if no other abnormalities are present) without open heart surgery. Some people with ASDs may be able to have this procedure, depending on the size and location of the defect.
+The procedure involves placing an ASD closure device into the heart through tubes called catheters.
+The provider makes a tiny cut in the groin, then inserts the catheters into a blood vessel and up into the heart.
+The closure device is then placed across the ASD and the defect is closed.
+Sometimes,
+open-heart surgery
+may be needed to repair the defect. This type of surgery is more likely needed when other heart defects are present.
+People who have a repair to close an ASD should get antibiotics before any dental procedures they have in the period following the procedure. Antibiotics are not needed later on.
+Outlook (Prognosis)
+In infants, small ASDs (less than 5 mm) will often not cause problems, or will close without treatment. Larger ASDs (8 to 10 mm), often do not close and may need a repair.
+Important factors include the size of the defect, the amount of extra blood flowing through the opening, the size of the right side of the heart, and whether the person has any symptoms.
+Some people with ASD may have other congenital heart conditions. These may include a leaky valve or a hole in another area of the heart.
+Possible Complications
+People with a larger or more complicated ASD are at an increased risk for developing other problems, including:
+Abnormal heart rhythms
+, particularly atrial fibrillation
+Heart failure
+Heart infection (endocarditis)
+High blood pressure in the arteries of the lungs
+Stroke
+When to Contact a Medical Professional
+Contact your provider if you have symptoms of an atrial septal defect.
+Prevention
+There is no known way to prevent the defect. Some of the complications can be prevented with early detection.
+Alternative Names
+Congenital heart defect - ASD; Birth defect heart - ASD; Primum ASD; Secundum ASD
+Patient Instructions
+Pediatric heart surgery - discharge
+Images
+Atrial septal defect
+References
+Liegeois JR, Rigby ML. Atrial septal defect (interatrial communication). In: Gatzoulis MA, Webb GD, Daubeney PEF, eds.
+Diagnosis and Management of Adult Congenital Heart Disease
+. 3rd ed. Philadelphia, PA: Elsevier; 2018:chap 29.
+Sodhi N, Zajarias A, Balzer DT, Lasala JM. Percutaneous closure of patent formen ovale and atrial septal defect. In: Topol EJ, Teirstein PS, eds.
+Textbook of Interventional Cardiology
+. 8th ed. Philadelphia, PA: Elsevier; 2020:chap 49.
+Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults with congenital heart disease: A report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines.
+Circulation
+. 2019(14);139:e698-e800. PMID: 30586767
+pubmed.ncbi.nlm.nih.gov/30586767/
+.
+Valente AM, Dorfman AL, Babu-Narayan SV, Krieger EV. Congenital heart disease in the adolescent and adult. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 82.
+Review Date 2/27/2024
+Updated by: Thomas S. Metkus, MD, Assistant Professor of Medicine and Surgery, Johns Hopkins University School of Medicine, Baltimore, MD. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Congenital Heart Defects

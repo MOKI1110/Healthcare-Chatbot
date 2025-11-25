@@ -1,0 +1,129 @@
+Nephrogenic diabetes insipidus: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Nephrogenic diabetes insipidus
+URL of this page: //medlineplus.gov/ency/article/000511.htm
+Nephrogenic diabetes insipidus
+To use the sharing features on this page, please enable JavaScript.
+Nephrogenic diabetes insipidus (NDI) is a disorder in which a defect in the small tubes (tubules) in the kidneys causes a person to pass a large amount of urine and lose too much water.
+Causes
+Normally, the kidney tubules allow most water in the blood to be filtered and returned to the blood.
+NDI occurs when the kidney tubules do not respond to a hormone in the body called
+antidiuretic hormone
+Â (ADH), also called vasopressin. ADH normally causes the kidneys to make the urine more concentrated.
+As a result of not responding to the ADH signal, the kidneys release too much water into the urine. This causes the body to produce a large quantity of very dilute urine.
+NDI is very rare. Congenital nephrogenic diabetes insipidus means it is present at birth. It is a result of a genetic variant passed down through families. Men are usually affected, though women can pass this gene on to their children.
+Most commonly, NDI develops because of other reasons. This is called an acquired disorder. Factors that can trigger the acquired form of this condition include:
+Blockage in the urinary tract
+High blood calcium levels
+Low blood potassium levels
+Use of certain medicines (lithium, demeclocycline, amphotericin B)
+Symptoms
+You may have intense or uncontrollable thirst, and crave ice water.
+You will produce large amounts of urine, usually more than 3 liters, and up to 15 liters per day. The urine is very dilute and looks almost like water. You may need to urinate every hour or even more, even during the night when you are not eating or drinking as much.
+If you do not drink enough fluids, dehydration can result. Symptoms may include:
+Dry mucous membranes
+Dry skin
+Sunken appearance to eyes
+Sunken fontanelles (soft spot) in infants
+Changes in memory or balance
+Other symptoms that can occur due to lack of fluids, causing dehydration, include:
+Fatigue, feeling weak
+Headache
+Irritability
+Low body temperature
+Muscle pain
+Rapid heart rate
+Weight loss
+A change in alertness, and even
+coma
+Exams and Tests
+Your health care provider will examine you and ask about your or your child's symptoms.
+A physical exam may reveal:
+Low blood pressure
+Rapid pulse
+Shock
+Signs of dehydration
+Tests may reveal:
+High serum osmolality
+High urine output, regardless of how much fluid you drink
+Kidneys do not concentrate urine when you are given ADH (usually a medicine called desmopressin)
+Low
+urine osmolality
+Normal or high blood ADH levels
+Other tests that may be done include:
+Blood electrolyte test
+Urine 24-hour volume
+Urine concentration test
+Urine specific gravity
+SupervisedÂ
+water deprivation test
+Treatment
+The goal of treatment is to control the body's fluid levels. A large amount of fluids will be given. The amount should be about equal to the amount of water being lost in the urine.
+If the condition is due to a certain medicine, stopping the medicine may improve symptoms. But, do not stop taking any medicine without first talking to your provider.
+Medicines may be given to improve symptoms by reducing urine output.
+Outlook (Prognosis)
+If a person drinks enough water, this condition will not have much effect on the fluid or
+electrolyte
+balance of the body. Sometimes, passing a lot of urine for a long time can cause other electrolyte problems.
+If the person does not drink enough fluids, high urine output may cause dehydration and high levels of sodium in the blood.
+NDI that is present at birth is a long-term condition requiring lifelong treatment.
+Possible Complications
+Untreated, NDI may cause any of the following:
+Dilation of the ureters and bladder
+High blood sodium (
+hypernatremia
+)
+Severe dehydration
+Shock
+Coma
+When to Contact a Medical Professional
+Contact your provider if you or your child has symptoms of this disorder.
+Prevention
+Congenital NDI cannot be prevented.
+Treating the disorders that can lead to the acquired form of the condition may prevent it from developing in some cases.
+Alternative Names
+Nephrogenic diabetes insipidus; Acquired nephrogenic diabetes insipidus; Congenital nephrogenic diabetes insipidus; NDI
+Images
+Kidney anatomy
+References
+Al-Awqati Q, Radhakrishnan J. Disorders of sodium and water. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 102.
+Bock ME, Dixon BP. Diabetes insipidus. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 570.
+Bockenhauer D. Fluid, electrolyte, and acid-base disorders in children. In: Yu ASL, Chertow GM, Luyckx VA, Marsden PA, Skorecki K, Taal MW, eds.
+Brenner and Rector's The Kidney
+. 11th ed. Philadelphia, PA: Elsevier; 2020:chap 73.
+Scheinman SJ. Genetically based kidney transport disorders. In: Gilbert SJ, Weiner DE, eds.
+National Kidney Foundation Primer on Kidney Diseases
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 37.
+Thompson CJ, Garrah A, Disorders of sodium, diabetes insipidus and hyponatremia. In: Robertson RP, eds.
+DeGroot's Endocrinology
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 12.
+Review Date 3/31/2024
+Updated by: Walead Latif, MD, Nephrologist and Clinical Associate Professor, Rutgers Medical School, Newark, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Diabetes Insipidus

@@ -1,0 +1,152 @@
+Diabetic hyperglycemic hyperosmolar syndrome: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Diabetic hyperglycemic hyperosmolar syndrome
+URL of this page: //medlineplus.gov/ency/article/000304.htm
+Diabetic hyperglycemic hyperosmolar syndrome
+To use the sharing features on this page, please enable JavaScript.
+Diabetic hyperglycemic hyperosmolar syndrome (HHS) is a complication of
+type 2 diabetes
+. It involves an extremely high blood sugar (glucose) level without the presence of ketones.
+Causes
+HHS is a condition of:
+Extremely high blood sugar level
+Extreme lack of water (
+dehydration
+)
+Decreased alertness or consciousness (in many cases)
+A buildup of ketones in the body (ketoacidosis) may also occur, but it is unusual and is often mild compared with
+diabetic ketoacidosis
+.
+HHS is more often seen in people with type 2 diabetes who don't have their diabetes under control. It may also occur in those who have not been diagnosed with diabetes. The condition may be brought on by:
+Infection
+Other illness, such as heart attack or stroke
+Medicines that decrease the effect of insulin in the body
+Medicines or conditions that increase fluid loss
+Running out of, or not taking prescribed diabetes medicines
+Normally, the kidneys try to make up for a high glucose level in the blood by allowing the extra glucose to leave the body in the urine. But this also causes the body to lose water. If you do not drink enough water, or you drink fluids that contain sugar and keep eating foods with carbohydrates, you become very dehydrated. When this occurs, the kidneys are no longer able to get rid of the extra glucose. As a result, the glucose level in your blood can become very high, sometimes more than 10 times the normal amount.
+The loss of water also makes the blood more concentrated than normal. This is called hyperosmolarity. It is a condition in which the blood has a high concentration of salt (sodium), glucose, and other substances. This draws the water out of the body's other organs, including the brain.
+Risk factors include:
+A stressful event such as infection,
+heart attack
+,
+stroke
+, or recent surgery
+Heart failure
+Impaired thirst
+Limited access to water (especially in people with
+dementia
+or who are bedbound)
+Older age
+Poor kidney function
+Poor management of diabetes, not following the treatment plan as directed
+Stopping or running out of insulin or other medicines that lower glucose level
+Symptoms
+Symptoms may include any of the following:
+Increased thirst
+and
+urination
+(at the beginning of the syndrome)
+Feeling weak
+Nausea
+Weight loss
+Dry mouth, dry tongue
+Fever
+Seizures
+Confusion
+Coma
+Symptoms may get worse over days or weeks.
+Other symptoms that may occur with this disease:
+Loss of feeling or function of muscles
+Problems with movement
+Speech impairment
+Exams and Tests
+Your health care provider will examine you and ask about your symptoms and medical history. The exam may show that you have:
+Extreme dehydration
+Fever higher than 100.4Â°F (38Â°C)
+Increased
+heart rate
+Low systolic blood pressure
+Tests that may be done include:
+Blood osmolarity (concentration)
+BUN
+and
+creatinine
+levels
+Blood
+sodium
+level (needs to be adjusted for the blood glucose level)
+Ketone test
+Blood glucose
+, potassium, and bicarbonate
+Evaluation for possible causes may include:
+Blood
+and urine cultures
+Chest x-ray
+Electrocardiogram
+(ECG)
+Urinalysis
+COVID-19 and influenza testing
+CT scan of the head
+Treatment
+At the start of treatment, the goal is to correct the water loss. This will improve the blood pressure, urine output, and circulation. Blood sugar will also decrease.
+Fluids and potassium will be given through a vein (
+intravenously
+). This must be done carefully. A high glucose level may be treated with insulin given through a vein.
+Outlook (Prognosis)
+People who develop HHS are often already ill. If not treated right away, seizures, coma, or death may result.
+Possible Complications
+Untreated, HHS may lead to any of the following:
+Shock
+Blood clot
+formation
+Brain swelling (cerebral edema)
+Increased blood acid level (
+lactic acidosis
+)
+When to Contact a Medical Professional
+This condition is a medical emergency. Go to the emergency room or call 911 or the local emergency number if you develop symptoms of HHS.
+Prevention
+Controlling type 2 diabetes and recognizing the early signs of dehydration and infection can help prevent HHS. Have a sick-day plan so you will be prepared for days when you are not going to be eating well. Also try to order your diabetes and other medicines in 3-month amounts so you will be less likely to run out of them.
+Alternative Names
+HHS; Hyperglycemic hyperosmolar coma; Nonketotic hyperglycemic hyperosmolar coma (NKHHC); Hyperosmolar nonketotic coma (HONK); Hyperglycemic hyperosmolar non-ketotic state; Diabetes - hyperosmolar
+Patient Instructions
+Type 2 diabetes - what to ask your doctor
+Images
+Food and insulin release
+References
+Dhatariya KK, Umpierrez GE, Crandall JP. Diabetes mellitus. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier; 2024:chap 210.
+Lebovitz HE. Hyperglycemia secondary to non-traditional diabetic conditions. In: Robertson RP, ed.
+DeGroot's Endocrinology.
+8th ed. Philadelphia, PA: Elsevier; 2023:chap 35.
+Sinha A. Diabetic emergencies. In: Bersten AD, Handy JM, eds.
+Oh's Intensive Care Manual.
+8th ed. Philadelphia, PA: Elsevier; 2019:chap 59.
+Review Date 2/28/2024
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Diabetes Complications
+Hyperglycemia

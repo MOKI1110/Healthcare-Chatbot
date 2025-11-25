@@ -1,0 +1,118 @@
+Chikungunya
+Skip to main content
+Overview
+Chikungunya is a mosquito-borne viral disease that causes fever and severe joint pain. It is caused by a ribonucleic acid (RNA) virus that belongs to the
+alphavirus
+genus of the family
+Togaviridae
+. The name “chikungunya” derives from a word in the Kimakonde language of southern Tanzania, meaning “that which bends up” and describes the stooped appearance of infected people with severe joint pain (arthralgia).
+Chikungunya virus (CHIKV) is transmitted to humans by the bites of infected female mosquitoes, most commonly
+Aedes aegypti
+and
+Aedes albopictus
+mosquitoes. These two species can also transmit other viruses, including dengue and Zika viruses. They bite primarily during daylight hours, and there may be peaks of activity in the early morning and late afternoon.
+CHIKV was first identified in the United Republic of Tanzania in 1952 and subsequently in other countries in Africa and Asia. Urban outbreaks were first recorded in Asia in the 1970s, but since 2004, outbreaks of CHIKV have become more frequent and widespread. The first local, mosquito-transmitted chikungunya cases in the Americas were reported in late 2013, after which large outbreaks occurred affecting most of the countries in the region. Chikungunya has now been reported in >110 countries in Asia, Africa, the Americas and Europe.
+Symptoms
+Symptoms of chikungunya appear between 4 and 8 days (range 2–12 days) after the patient has been bitten by the infected mosquito. Chikungunya is rarely fatal. Most symptoms are generally self-limiting and last for 2–3 days. The disease is characterized by an abrupt onset of fever, which is frequently accompanied by joint pain. Other common signs and symptoms include muscle pain, headache, nausea, fatigue and rash. The joint pain is often debilitating and usually lasts for a few days but may be prolonged, lasting for weeks, months or even years.
+Most patients recover fully from the infection; however, occasional cases of eye, heart and neurological complications have been reported with CHIKV infections. Patients at extremes of the age spectrum are at higher risk for severe disease including newborns infected during delivery to infected mothers or bitten by infected mosquitoes in the weeks after birth, and older people with underlying medical conditions. Patients with severe disease require hospitalization because of the risk of organ damage and death. Often symptoms in infected individuals are mild and the infection may go unrecognized or be misdiagnosed in areas where dengue and other arboviruses also occur.
+Once an individual is recovered, available evidence suggests they are likely to be immune from future chikungunya infections.
+Treatment
+Treatment is directed primarily at relieving the symptoms, including joint pain. This is largely achieved by using anti-pyretic drugs to reduce fever, by optimizing the use of pain medication and by administering fluids. Aspirin and other non-steroidal anti-inflammatory drugs should not be administered until dengue can be ruled out to reduce the risk of bleeding. There is no specific antiviral drug treatment for chikungunya.
+Prevention and control rely heavily on reducing the number of water-filled habitats that allow mosquitoes to breed. During outbreaks, insecticides may be sprayed to kill flying mosquitoes; applied to surfaces in and around water-filled habitats where the mosquitoes land; and used to treat these habitats to kill the immature larvae.
+There are currently two chikungunya vaccines that have received regulatory approvals and/or have been recommended for use in populations at risk in several countries, but the vaccines are not yet widely available nor in widespread use. WHO and external expert advisors are reviewing vaccine trial and post-marketing data in the context of global chikungunya epidemiology to inform possible recommendations for use.
+For protection in areas of chikungunya transmission, people with risk of exposure to infected mosquitoes are advised to wear clothing which minimizes skin exposure to day-biting mosquitoes. Window and door screens should be used to prevent mosquitoes from entering homes. Repellents can be applied to exposed skin or to clothing in strict accordance with product label instructions. Repellents should contain DEET, IR3535 or icaridin.
+Insecticide-treated mosquito nets should be used against day-biting mosquitoes by people who sleep during the daytime, for example young children, sick patients or older people. Mosquito coils or other insecticide vaporizers may also reduce indoor biting.
+Fact sheets
+Chikungunya
+Questions and answers
+Chikungunya
+Databases and tools
+Chikungunya outbreak toolbox
+Disease outbreak news
+Latest disease outbreak news
+Technical work
+Vaccine development
+Vector ecology and management
+Risk communications and community engagement (RCCE)
+WASH and Neglected tropical diseases
+News
+All →
+10 July 2025
+Departmental update
+New WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever
+16 May 2023
+Departmental update
+Scientists in Tahiti prepare to release sterilized mosquitoes to control dengue
+11 April 2022
+Departmental update
+Genuine intersectoral collaboration is needed to achieve better progress in vector control
+14 November 2019
+News release
+Mosquito sterilization offers new opportunity to control chikungunya, dengue, and Zika
+Latest publications
+All →
+16 July 2025
+Policy considerations for strengthening preparedness and response to arbovirus epidemics and pandemics
+The increasing incidence of arboviral outbreaks, such as dengue, chikungunya, and Zika, highlights the need for urgent and stronger preparedness and response...
+Download
+Read More
+4 July 2025
+WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever
+World Health Organization (WHO) has just released the Integrated Guidelines on the Clinical Management of Arboviral Diseases — a crucial step...
+Download
+Read More
+27 March 2025
+Report on the global arbovirus surveillance and response capacity survey 2021-2022
+In 2021-2022 the World Health Organization (WHO) conducted a survey to assess current surveillance and response guidelines and practices across WHO Member...
+Download
+Read More
+17 June 2024
+Meeting of programme managers and the Regional Technical Advisory Group on dengue and other arboviruses...
+Dengue has emerged as the most widespread and rapidly increasing vector-borne disease (VBD)
+in the world. With dengue endemic in 10 of the 11 Member...
+Download
+Read More
+Documents
+All →
+11 June 2025
+Chikungunya epidemiology update - June 2025
+Chikungunya virus (CHIKV) is a mosquito-borne virus primarily transmitted by Aedes mosquitoes. It causes acute illness characterized by fever, rash, and...
+Download
+Read More
+23 December 2024
+Guideline Development Group for clinical management and diagnosis of dengue, chikungunya, Zika and yellow...
+For the development of the guidelines for the clinical management and diagnosis of dengue, chikungunya, Zika and yellow fever, a Guideline Development...
+Download
+Read More
+23 November 2023
+Chikungunya information for travelers
+In light of recent outbreaks of chikungunya virus infection and ongoing transmission in multiple regions where Aedes (Stegomyia) mosquitoes are present,...
+Download
+Read More
+10 May 2023
+Update 87: Chikungunya: Experiences from the current response to the outbreak in the Americas
+Chikungunya is a viral disease transmitted to humans through the bites of Aedes mosquitoes
+infected with the chikungunya virus. It has...
+Download
+Read More
+Infographics
+All→
+Infographic
+Global distribution of Chikungunya virus
+Infographic
+How to prevent mosquito breeding
+Infographic
+Is Zika a risk if I am pregnant
+Infographic
+What is Zika?
+Related health topics
+Diseases and conditions
+Dengue and severe dengue
+Diseases and conditions
+Malaria
+Diseases and conditions
+Yellow fever
+Diseases and conditions
+Zika virus disease
+Socio-political determinants
+International Health Regulations

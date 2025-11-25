@@ -1,0 +1,105 @@
+Osmotic demyelination syndrome: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Osmotic demyelination syndrome
+URL of this page: //medlineplus.gov/ency/article/000775.htm
+Osmotic demyelination syndrome
+To use the sharing features on this page, please enable JavaScript.
+Osmotic demyelination syndrome (ODS) leads to brain cell dysfunction. It is caused by the destruction of the layer (
+myelin sheath
+) covering nerve cells in the brain, most often the middle of the brainstem (pons).
+Causes
+When the myelin sheath that covers nerve cells is destroyed, signals from one nerve to another aren't properly transmitted. Although the brainstem is mainly affected, other areas of the brain can also be involved.
+The most common cause of ODS is a quick change in the body's blood sodium levels. This most often occurs when someone is being treated for low blood sodium (
+hyponatremia
+) and the sodium is replaced too fast. Sometimes, it occurs when a high level of sodium in the body (hypernatremia) is corrected too quickly.
+ODS does not usually occur on its own. Most often, it's a complication of treatment for other problems, or from the other problems themselves.
+Risks include:
+Alcohol use
+Liver disease
+Malnutrition
+from serious illnesses
+Radiation treatment of the brain
+Severe nausea and vomiting during pregnancy
+Symptoms
+Symptoms may include any of the following:
+Confusion
+,
+delirium
+,
+hallucinations
+Balance problems,
+tremor
+Problem swallowing
+Reduced alertness
+,
+drowsiness or sleepiness
+,
+lethargy
+, poor responses
+Slurred speech
+Â (dysarthria)
+Weakness in the face, arms, or legs, usually affecting both sides of the body
+Exams and Tests
+Your health care provider will perform a physical exam and ask about the symptoms.
+A
+head MRI
+scan may reveal a problem in the brainstem (pons) or other parts of the brain. This is the main diagnostic test.
+Other tests may include:
+Blood sodium level
+and other blood tests
+Brainstem auditory evoked response
+(BAER)
+Treatment
+ODS is an emergency disorder that needs to be treated in the hospital though most people with this condition are already in the hospital for another problem.
+There is no known cure for central pontine myelinolysis. Treatment is focused on relieving symptoms.
+Physical therapy may help maintain muscle strength, mobility, and function in weakened arms and legs.
+Outlook (Prognosis)
+The nerve damage caused by central pontine myelinolysis is often long-lasting. The disorder can cause serious long-term (chronic) disability.
+Possible Complications
+Complications may include:
+Decreased ability to interact with others
+Decreased ability to work or care for self
+Inability to move, other than to blink eyes ("locked in" syndrome)
+Permanent nervous system damage
+When to Contact a Medical Professional
+There is no real guideline on when to seek medical attention, because ODS is rare in the general community.
+Prevention
+In the hospital, slow, controlled treatment of a low sodium level may reduce the risk for nerve damage in the pons. Being aware of how some medicines can change sodium levels can prevent the level from changing too quickly.
+Alternative Names
+ODS; Central pontine demyelination; Central pontine myelinolysis
+Images
+Brain structures
+References
+Weissenborn K, Lockwood AH. Toxic and metabolic encephalopathies. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 84.
+Yaqoob MM, McCafferty K. Water balance, fluids and electrolytes. In: Feather A, Randall D, Waterhouse M, eds.
+Kumar and Clark's Clinical Medicine
+. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 9.
+Review Date 6/13/2024
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Alcohol Use Disorder (AUD)
+Brain Diseases

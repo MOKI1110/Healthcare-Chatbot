@@ -1,0 +1,95 @@
+Hereditary angioedema: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Hereditary angioedema
+URL of this page: //medlineplus.gov/ency/article/001456.htm
+Hereditary angioedema
+To use the sharing features on this page, please enable JavaScript.
+Hereditary angioedema is a rare but serious problem with the immune system. The problem is passed down through families. It causes swelling, particularly of the face and airways, and intestines (causing severe abdominal pain).
+Causes
+Angioedema is swelling that is similar to
+hives
+, but the swelling is under the skin instead of on the surface. Angioedema typically is not itchy while hives are very itchy.
+Hereditary angioedema (HAE) is caused by a low level or improper function of a protein called the C1 inhibitor. It affects the blood vessels. An HAE attack can result in rapid swelling of the hands, feet, limbs, face, intestinal tract, larynx (voicebox), or trachea (windpipe).
+Attacks of swelling can become more severe in late childhood and adolescence.
+There is usually a family history of the condition. But relatives may be unaware of previous cases, which may have been reported as an unexpected, sudden, and premature death of a parent, aunt, uncle, or grandparent.
+Dental procedures, sickness (including colds and the flu), and surgery may trigger HAE attacks.
+Symptoms
+Symptoms include:
+Airway blockage
+-- involves throat swelling and sudden hoarseness
+Repeat episodes of abdominal cramping without obvious cause
+Swelling
+in the hands, arms, legs, lips, eyes, tongue, throat, or genitals
+Swelling of the intestines -- can be severe and lead to abdominal cramping, vomiting, dehydration, diarrhea, pain, and occasionally
+shock
+A non-itchy, red rash
+Exams and Tests
+Blood tests:
+C1 inhibitor function
+C1 inhibitor level
+Complement component 4
+(may only be abnormal during an episode)
+Treatment
+Antihistamines, corticosteroids and other treatments used for idiopathic angioedema and hives (urticaria) do not work well for HAE. Epinephrine could be used in life-threatening reactions, although it is unlikely to stop the swelling. There are a number of newer FDA-approved treatments for HAE.
+Some are given through a vein (IV) and can be used at home. Others are given as an injection under the skin by the person. Another is given by mouth. Some of these medicines are used regularly to prevent attacks and others are used emergently when an attack occurs to prevent it from getting worse. The choice of which agent may be based on the age of the person, personal preference, and where the symptoms occur.
+Before these newer medicines became available, androgen medicines such as danazol, were used to reduce the frequency and severity of attacks. These medicines help the body make more C1 inhibitor. However, many women have serious side effects from these medicines. They can also not be used in children.
+Once an attack occurs, treatment includes fast administration of specific medicines that stop the attack from worsening and supportive care such as pain relief and fluids given through a vein by an intravenous (IV) line.
+Helicobacter pylori
+, a type of bacteria found in the stomach, can trigger abdominal attacks. Antibiotics to treat the bacteria help decrease abdominal attacks.
+Support Groups
+More information and support for people with HAE condition and their families can be found at:
+National Organization for Rare Disorders --
+rarediseases.org/rare-diseases/hereditary-angioedema
+US Hereditary Angioedema Association --
+www.haea.org
+Outlook (Prognosis)
+HAE can be life threatening and, despite new treatments, airway swelling can still lead to death. How well a person does depends on the specific symptoms.
+Possible Complications
+Swelling of the airways may be deadly.
+When to Contact a Medical Professional
+Contact or visit your health care provider if you are considering having children and have a family history of this condition. Also call if you have symptoms of HAE.
+Swelling of the airway is a life-threatening emergency. If you are having difficulty breathing due to swelling, seek immediate medical attention.
+Prevention
+Genetic counseling may be helpful for prospective parents with a family history of HAE.
+Alternative Names
+Quincke disease; HAE - Hereditary angioedema; Kallikrein inhibitor - HAE; Bradykinin receptor antagonist - HAE; C1-inhibitors - HAE; Hives - HAE
+Images
+Antibodies
+References
+Craig T, Zuraw B, Longhurst H, et al, eds. Long-term outcomes with subcutaneous c1-inhibitor replacement therapy for prevention of hereditary angioedema attacks.
+J Allergy Clin Immunol Pract
+. 2019;7(6):1793-1802.e2. PMID: 30772477
+pubmed.ncbi.nlm.nih.gov/30772477/
+.
+Saini SS. Urticaria and angioedema. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 232.
+Zuraw BL, Christiansen SC. Hereditary angioedema and bradykinin-mediated angioedema. In: Burks AW, Holgate ST, O'Hehir RE, et al, eds.
+Middleton's Allergy: Principles and Practice
+. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 36.
+Review Date 3/31/2024
+Updated by: Deborah Pedersen, MD, MS, Allergy & Asthma Care, PC, Taunton, MA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Vascular Diseases

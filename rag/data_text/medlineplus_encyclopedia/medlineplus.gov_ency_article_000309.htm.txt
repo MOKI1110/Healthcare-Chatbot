@@ -1,0 +1,107 @@
+Factitious hyperthyroidism: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Factitious hyperthyroidism
+URL of this page: //medlineplus.gov/ency/article/000309.htm
+Factitious hyperthyroidism
+To use the sharing features on this page, please enable JavaScript.
+Factitious hyperthyroidism is higher-than-normal thyroid hormone levels in the blood and symptoms that suggest hyperthyroidism. It occurs from taking too much thyroid hormone medicine.
+Hyperthyroidism is also known as overactive thyroid.
+Causes
+The thyroid gland produces the hormones thyroxine (T4) and triiodothyronine (T3). In most cases of
+hyperthyroidism
+, the thyroid gland itself produces too much of these hormones.
+Hyperthyroidism can also be caused by taking too much thyroid hormone medicine for
+hypothyroidism
+. This is called factitious hyperthyroidism. When this occurs because the prescribed dosage of hormone medicine is too high, it is called iatrogenic, or doctor-induced, hyperthyroidism. This is common. Sometimes this is intentional (for some people with depression or thyroid cancer), but often this happens because the dose is not adjusted based on follow-up blood tests.
+Factitious hyperthyroidism can also occur when someone takes too much thyroid hormone on purpose and may conceal this. This is very uncommon. These may be people:
+Who have mental disorders such as
+Munchausen syndrome
+Who are trying to lose weight
+Who are being treated for depression or infertility
+Children may take thyroid hormone pills accidentally.
+Symptoms
+The symptoms of factitious hyperthyroidism are the same as those of hyperthyroidism caused by a thyroid gland disorder, except that:
+There is no
+goiter
+. The thyroid gland is often small.
+The eyes do not bulge, as they do in
+Graves disease
+(the most common type of hyperthyroidism).
+The skin over the shins does not thicken, as it sometimes does in people who have Graves disease.
+Exams and Tests
+Blood tests used to diagnose factitious hyperthyroidism include:
+Free T4
+Thyroglobulin
+Total
+T3
+Total
+T4
+TSH
+Other tests that may be done include
+radioactive iodine uptake
+or thyroid ultrasound.
+Treatment
+Your health care provider will tell you to stop taking thyroid hormone. If you need to take it, your provider will reduce the dosage.
+You should be re-checked in 2 to 4 weeks to be sure that the signs and symptoms are gone. This also helps to confirm the diagnosis.
+People with Munchausen syndrome will need mental health treatment and follow up.
+Outlook (Prognosis)
+Factitious hyperthyroidism will resolve on its own when you stop taking or lower the dosage of thyroid hormone.
+Possible Complications
+When factitious hyperthyroidism lasts a long time, the same complications as untreated or poorly treated hyperthyroidism may develop:
+Abnormal heartbeat (
+atrial fibrillation
+)
+Anxiety
+Chest pain
+(
+angina
+)
+Heart attack
+Loss of bone mass (if severe,
+osteoporosis
+)
+Weight loss
+Infertility
+Problems sleeping
+When to Contact a Medical Professional
+Contact your provider if you have symptoms of hyperthyroidism.
+Prevention
+Thyroid hormone should be taken only by prescription and under the supervision of a provider. Regular blood tests are often needed to help your provider adjust the dose you are taking.
+Alternative Names
+Factitious thyrotoxicosis; Thyrotoxicosis factitia; Thyrotoxicosis medicamentosa; Factitious hyperthyroxinemia
+Images
+Thyroid gland
+References
+Jonklaas J. Hypothyroidism. In: Robertson RP, ed.
+DeGroot's Endocrinology
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 74.
+Pearce EN, Hollenberg AN. Thyroid. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 207.
+Review Date 5/20/2024
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Hyperthyroidism
+Hypothyroidism

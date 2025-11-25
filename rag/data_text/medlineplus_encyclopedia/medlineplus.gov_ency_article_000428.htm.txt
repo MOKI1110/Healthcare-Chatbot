@@ -1,0 +1,115 @@
+Polymyositis - adult: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Polymyositis - adult
+URL of this page: //medlineplus.gov/ency/article/000428.htm
+Polymyositis - adult
+To use the sharing features on this page, please enable JavaScript.
+Polymyositis and dermatomyositis are rare inflammatory diseases. These diseases lead to muscle weakness, swelling, tenderness, and tissue damage. They are part of a larger group of diseases called myopathies, more specifically inflammatory myopathies.
+Causes
+Polymyositis affects the skeletal muscles. It is also known as idiopathic inflammatory myopathy. The exact cause is unknown, but it may be related to an
+autoimmune
+reaction or infection.
+Polymyositis can affect people at any age. It is most common in adults between ages 50 and 60, and in older children. It affects women twice as often as men. It is more common in African Americans than white people.
+Symptoms
+Polymyositis is a systemic disease. This means it affects the whole body. Muscle weakness and tenderness can be signs of polymyositis. A rash is a sign of a related condition,
+dermatomyositis
+.
+Common symptoms include:
+Muscle weakness in the shoulders and hips. This can make it hard to raise the arms over the head, get up from a sitting position, or climb stairs.
+Difficulty swallowing
+.
+Muscle pain
+.
+Problems with the voice (caused by weak throat muscles).
+Shortness of breath
+.
+You may also have:
+Fatigue
+Fever
+Joint pain
+Loss of appetite
+Morning stiffness
+Weight loss
+Skin rash
+on the back of the fingers, on the eyelids, or on the face
+Exams and Tests
+Tests may include:
+Autoimmune antibodies and inflammation tests
+Serum
+CPK (creatine phosphokinase)
+Serum aldolase
+Electromyography
+MRI of affected muscles
+Muscle biopsy
+Myoglobin in the urine
+Electrocardiogram
+(ECG)
+Chest x-ray and
+CT scan of the chest
+Pulmonary function tests
+Esophageal swallowing study
+Myositis specific and associated autoantibodies
+People with this condition also must be watched carefully for signs of cancer.
+Treatment
+The initial treatment is the use of corticosteroid medicines. The dose of medicine is slowly tapered off as muscle strength improves. Medicines to suppress the immune system may be used to replace the corticosteroids. These medicines may include azathioprine, methotrexate, rituximab (Rituxan), or mycophenolate.
+For disease that remains active in spite of corticosteroids, intravenous gamma globulin can be given. It is important to check for other conditions in people who do not respond to treatment. A repeat muscle biopsy may be needed to make this diagnosis.
+If the condition is associated with a
+tumor
+, it may improve if the tumor is removed.
+Outlook (Prognosis)
+Response to treatment varies, based on the complications. As many as 1 in 5 people may die within 5 years of developing the condition.
+Many people, especially children, recover from the illness and do not need ongoing treatment. For most adults, however, immunosuppressant medicines are needed to control the disease.
+The outlook for people with lung disease with the anti-MDA-5 antibody is poor despite current treatment.
+In adults, death may result from:
+Malnutrition
+Pneumonia
+Respiratory failure
+Severe, long-term muscle weakness
+The major causes of death are cancer and lung disease.
+Possible Complications
+Complications may include:
+Calcium deposits in the affected muscles, especially in children with the disease
+Cancer
+Heart disease,
+lung disease
+, or abdominal complications
+When to Contact a Medical Professional
+Contact your health care provider if you have symptoms of this disorder. Seek emergency treatment if you have shortness of breath and difficulty swallowing.
+Images
+Superficial anterior muscles
+References
+Greenberg SA. Inflammatory myopathies. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 248.
+Nagaraju K, Aggarwal R, Lundberg IE. Inflammatory diseases of muscle and other myopathies In: Firestein GS, Mclnnes IB, Koretzky GA, Mikuls TR, Neogi T, O'Dell JR, eds.
+Firestein & Kelley's Textbook of Rheumatology
+. 12th ed. Philadelphia, PA: Elsevier; 2025:chap 86.
+National Organization for Rare Disorders website. Polymyositis and necrotizing myopathy.
+rarediseases.org/rare-diseases/polymyositis/
+. Updated August 26, 2019. Accessed March 24, 2025.
+Review Date 1/28/2025
+Updated by: Diane M. Horowitz, MD, Rheumatology and Internal Medicine, Northwell Health, Great Neck, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Myositis

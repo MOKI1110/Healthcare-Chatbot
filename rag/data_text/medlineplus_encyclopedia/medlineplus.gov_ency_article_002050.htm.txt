@@ -1,0 +1,70 @@
+Sex-linked dominant: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Sex-linked dominant
+URL of this page: //medlineplus.gov/ency/article/002050.htm
+Sex-linked dominant
+To use the sharing features on this page, please enable JavaScript.
+Sex-linked dominant is a rare way that a genetic trait or disorder can be passed down through families. One abnormal gene on the X chromosome can cause a sex-linked dominant disease.
+Related terms and topics include:
+Autosomal dominant
+Autosomal recessive
+Chromosome
+Gene
+Heredity and disease
+Inheritance
+Sex-linked recessive
+Information
+Inheritance of a specific disease, condition, or trait depends on the type of chromosome that is affected. It can be either an autosomal chromosome or a sex chromosome. It also depends on whether the trait is dominant or recessive. Sex-linked diseases are inherited through one of the sex chromosomes, which are the X and Y chromosomes.
+Dominant inheritance occurs when a variant gene from one parent can cause a disease, even though a matching gene from the other parent is normal. The variant gene dominates the gene pair.
+For an X-linked dominant disorder:Â If the father has the variant X gene, all of his daughters will inherit the disease and none of his sons will have the disease. That is because daughters always inherit their father's X chromosome. If the mother carries the variant X gene, half of all her children (daughters and sons) will inherit the trait.
+For example, if there are four children (two boys and two girls) and the mother is affected (she has one variant X and has the disease) but the father does not have the variant X gene, the expected odds are:
+Two children (one girl and one boy) will have the disease
+Two children (one girl and one boy) will not have the disease
+If there are four children (two boys and two girls) and the father is affected (he has one variant X gene and has the disease) but the mother is not affected, the expected odds are:
+Two girls will have the disease
+Two boys will not have the disease
+These odds do not mean that the children who inherit the variant X gene will show severe symptoms of the disease. The chance of inheritance is new with each conception, so these expected odds may not be what actually occurs in a family. Some X-linked dominant disorders are so severe that males with the genetic disorder may die before birth. Therefore, there may be an increased rate of miscarriages in the family or fewer male children than expected.
+Alternative Names
+Inheritance - sex-linked dominant; Genetics - sex-linked dominant; X-linked dominant; Y-linked dominant
+Images
+Genetics
+References
+Gregg AR, Kuller JA. Human genetics and patterns of inheritance. In: Lockwood CJ, Copel JA, Dugoff L, eds.
+Creasy and Resnik's Maternal-Fetal Medicine: Principles and Practice
+. 9th ed. Philadelphia, PA: Elsevier; 2023:chap 1.
+Jones KL, Jones MC, Campo M. Genetics, genetic counseling, and prevention. In: Jones KL, Jones MC, Campo MD, eds.
+Smith's Recognizable Patterns of Human Malformation
+. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 2.
+Korf BR, Limdi NA. Principles of genetics. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 31.
+Scott DA, Lee B. Patterns of genetic transmission. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 97.
+Sondheimer N. Patterns of single-gene inheritance. In: Cohn RD, Scherer SW, Hamosh A, eds.
+Thompson & Thompson Genetics and Genomics in Medicine
+. 9th ed. Philadelphia, PA: Elsevier; 2024:chap 7.
+Review Date 3/31/2024
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page

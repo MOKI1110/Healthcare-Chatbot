@@ -1,0 +1,141 @@
+Subcutaneous implantable cardioverter-defibrillator: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Subcutaneous implantable cardioverter-defibrillator
+URL of this page: //medlineplus.gov/ency/article/007815.htm
+Subcutaneous implantable cardioverter-defibrillator
+To use the sharing features on this page, please enable JavaScript.
+A subcutaneous implantable cardioverter-defibrillator (S-ICD) is a device that detects and corrects life-threatening fast heart rhythms, called
+arrhythmias
+. If an arrhythmia is detected, the device quickly sends an electrical shock to the heart. The shock changes the rhythm back to normal. This is called defibrillation.
+Description
+An S-ICD is made up of these parts:
+The pulse generator contains a battery and electrical circuits that read the electrical activity of your heart.
+The electrode is a wire, also called a lead, that is inserted under the skin in the middle of your chest along your breastbone.
+The procedure involves placing the S-ICD under your skin just below your armpit area on the left side of your chest.
+You will be in a sleep-like state (
+general anesthesia
+) or awake but relaxed during the procedure. Your surgeon will tell you what type of sedation you require.
+A small incision is made on the left side of your chest, under your left arm.
+The pulse generator device is placed inside a pouch made in the skin on the left lower part of your chest. The electrode is placed under the skin near your breastbone to sense any abnormal heart rhythms.
+The device is connected to the electrode above the heart and is anchored in place under the skin. The S-ICD will be tested during the procedure. Your incision will be closed with stitches, glue, or tape strips.
+Why the Procedure Is Performed
+An S-ICD is placed in people who have heart disease and are at high risk of sudden cardiac death from an abnormal heart rhythm. These rhythms include
+ventricular tachycardia
+(VT) or
+ventricular fibrillation
+(VF).
+Reasons you may be at high risk are:
+You have had episodes of one of these abnormal heart rhythms.
+Your heart is weakened, too large, and does not pump blood very well. This may be from earlier heart attacks, heart failure, or
+cardiomyopathy
+(diseased heart muscle).
+You have a type of congenital (present at birth) heart problem or genetic health condition.
+How does S-ICD differ from traditional ICD?
+Transvenous ICDs use 3 wire leads that run into the heart through veins. S-ICD is a less invasive technique and uses a lead placed under your skin rather than through veins. This process has fewer complications.
+A traditional ICD also includes a
+pacemaker
+, to help keep your heart rhythm beating normally. The S-ICD does not include a pacemaker. It can only correct an arrhythmia when it occurs.
+Your heart doctor (cardiologist) may suggest an S-ICD instead of a traditional ICD if you:
+Have blood vessel disease or a structural defect in the heart that is difficult to access.
+Are at risk for infections or have had a prior ICD infection.
+Are younger in age and need an ICD for a lifetime.
+Have an active lifestyle.
+Risks
+Risks for any surgery are:
+Blood clots in the legs
+that may
+travel to the lungs
+Breathing problems
+Heart attack
+or
+stroke
+Allergic reactions to medicines (anesthesia) used during surgery
+Infection
+Possible risks for this surgery are:
+Wound infection
+Dangerous heart rhythm (arrhythmia)
+Bruising or swelling
+Bleeding
+An S-ICD sometimes delivers shocks to your heart when you do not need them. Even though a shock lasts a very short time, you can feel it in most cases.
+This and other S-ICD problems can sometimes be prevented by changing how your S-ICD is programmed. It can also be set to sound an alert if there is a problem. The doctor who manages your S-ICD care can program your device.
+Before the Procedure
+Tell your surgeon or nurse if:
+You are or could be pregnant
+You are taking any medicines, including medicines, supplements, or herbs you bought without a prescription
+You have been drinking a lot of alcohol, more than 1 or 2 drinks a day
+You have any bleeding problems or any previous surgery
+You are allergic to anything
+Planning for your surgery:
+If you have
+diabetes
+or other medical conditions, your surgeon may ask you to see the health care provider who treats you for these conditions.
+If you smoke, it's important to cut back or quit. Smoking can slow healing and increase the risk for
+blood clots
+. Ask your provider for
+help quitting
+.
+Ask your surgeon if you need to arrange to have someone drive you home after your surgery.
+During the week before your surgery:
+You may be asked to temporarily stop taking medicines that keep your blood from clotting. These medicines are called blood thinners. This includes over-the-counter medicines and supplements such as aspirin, ibuprofen (Advil, Motrin), naproxen (Aleve, Naprosyn), and vitamin E. Many prescription medicines are also blood thinners.
+Ask your surgeon which medicines you should still take on the day of surgery.
+Let your surgeon know about any illness you may have before your surgery. This includes
+COVID-19
+, a
+cold
+,
+flu
+, fever, herpes breakout, or other illness. If you do get sick, your surgery may need to be postponed.
+The day before your surgery:
+Let your surgeon know about any cold, flu, fever, herpes breakout, or other illnesses you might have.
+Shower and shampoo well. You may be asked to wash your whole body below your neck with a special soap.
+You may also be asked to take antibiotics to guard against infection.
+On the day of the surgery:
+Follow instructions about when to stop eating and drinking.
+Take the medicines your surgeon told you to take with a small sip of water.
+Follow instructions on when to arrive at the hospital. Be sure to arrive on time.
+After the Procedure
+Most people who have an S-ICD implanted can go home from the hospital in one day. When you leave the hospital, you will be given a card and a remote home monitoring device. This card lists the details of your S-ICD, and the device allows you to communicate with your provider.
+You may have pain for a few days and feel a slight bump where the device was placed. Your surgeon may prescribe pain medicines. If you have been given antibiotics, take them as instructed.
+Do not take baths, swim, or hot tub until your surgeon approves. You may be allowed to have sponge baths with your incision covered.
+Avoid wearing tight clothes that could rub on your incision.
+Ask your surgeon how much you can use the arm on the side of your body where the S-ICD was placed. For at least 4-6 weeks, you may be advised not to raise your arm above your shoulders. You may be given a sling to use. You need to avoid pushing, pulling, or twisting your arm, and you may be told not to lift anything heavier than 10 to 15 pounds (4.5 to 6.75 kilograms) for 2 to 3 weeks.
+Ask your surgeon when you can drive.
+You will need regular checkups so your S-ICD can be monitored. Your provider will check:
+That the device is properly sensing your heartbeat
+The number of shocks delivered
+How much power is left in the batteries
+Outlook (Prognosis)
+Your S-ICD will constantly monitor your heartbeats to make sure they are steady. It will deliver a shock to the heart when it senses a life-threatening rhythm.
+Alternative Names
+S-ICD; Subcutaneous defibrillator
+References
+Chung MK, Daubert JP. Pacemakers and implantable cardioverter-defibrillators. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 69.
+Grace A, Mellor G. Subcutaneous implantable cardioverter-defibrillators. In: Jalife J, Stevenson WG, eds.
+Zipes and Jalife's Cardiac Electrophysiology: From Cell to Bedside
+. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 123.
+Review Date 10/21/2024
+Updated by: Thomas S. Metkus, MD, Assistant Professor of Medicine and Surgery, Johns Hopkins University School of Medicine, Baltimore, MD. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page

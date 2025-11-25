@@ -1,0 +1,88 @@
+Thyroid ultrasound: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Thyroid ultrasound
+URL of this page: //medlineplus.gov/ency/article/003776.htm
+Thyroid ultrasound
+To use the sharing features on this page, please enable JavaScript.
+A thyroid ultrasound is an imaging method to see the thyroid, a gland in the neck that regulates
+metabolism
+(the many processes that control the rate of activity in cells and tissues).
+How the Test is Performed
+Ultrasound
+is a painless method that uses sound waves to create images of the inside of the body. The test is often done in the ultrasound or radiology department of a hospital. It also can be done in a clinic.
+The test is done in this way:
+You lie down with your neck on a pillow or other soft support. Your neck is stretched slightly.
+The ultrasound technician applies a water-based gel on your neck to help transmit the sound waves.
+Next, the technician moves a wand, called a transducer, back and forth on the skin of your neck. The transducer gives off sound waves. The sound waves go through your body and bounce off the area being studied (in this case, the thyroid gland). A computer looks at the pattern that the sound waves create when bouncing back, and creates an image from them.
+How to Prepare for the Test
+No special preparation is necessary for this test.
+How the Test will Feel
+You should feel very little discomfort with this test. The gel may be cold.
+Why the Test is Performed
+A thyroid ultrasound is usually done when a physical exam shows any of these findings:
+You have a growth on your thyroid gland, called a
+thyroid nodule
+.
+The thyroid feels big or irregular, called a
+goiter
+.
+You have abnormal lymph nodes near your thyroid.
+Ultrasound is also often used to guide the needle in biopsies of:
+Thyroid nodules or the thyroid gland
+-- In this test, a needle draws out a small amount of tissue from the nodule or thyroid gland. This is a test to diagnose thyroid disease or thyroid cancer.
+The parathyroid gland.
+Lymph nodes in the area of the thyroid.
+Normal Results
+A normal result will show that the thyroid has a normal size, shape, and position.
+What Abnormal Results Mean
+Abnormal results may be due to:
+Cysts (nodules filled with fluid)
+Enlargement of the thyroid gland (
+goiter
+)
+Thyroid nodules
+Thyroiditis, or inflammation of the thyroid (if a biopsy is done)
+Thyroid cancer
+(if a biopsy is done)
+Your health care provider can use these results and the results of other tests to direct your care. Thyroid ultrasounds are becoming better and predicting whether a thyroid nodule is benign or is a cancer. Many thyroid ultrasound reports will now give each nodule a score and discuss the characteristics of the nodule that caused the score. Talk to your provider about the results of any thyroid ultrasound.
+Risks
+There are no documented risks for ultrasound.
+Alternative Names
+Ultrasound - thyroid; Thyroid sonogram; Thyroid echogram; Thyroid nodule - ultrasound; Goiter - ultrasound
+Images
+Thyroid ultrasound
+Thyroid gland
+References
+Salvatore D, Cohen R, Kopp PA, Larsen PR. Thyroid pathophysiology and diagnostic evaluation. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds.
+Williams Textbook of Endocrinology
+. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 11.
+Sipos JA. Thyroid imaging. In: Robertson RP, ed.
+DeGroot's Endocrinology
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 69.
+Review Date 2/28/2024
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Thyroid Cancer
+Thyroid Tests

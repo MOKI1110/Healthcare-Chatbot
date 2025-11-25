@@ -1,0 +1,112 @@
+Coronary angiography: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Coronary angiography
+URL of this page: //medlineplus.gov/ency/article/003876.htm
+Coronary angiography
+To use the sharing features on this page, please enable JavaScript.
+Coronary angiography is a procedure that uses a special dye (contrast material) and x-rays to see how blood flows through the arteries in your heart.
+How the Test is Performed
+Coronary angiography is sometimes performed with cardiac
+catheterization
+.Â
+Before the test starts, you may be given a mild sedative to help you relax.
+An area of your body (the arm or groin) is cleaned and numbed with a local numbing medicine (anesthetic). The cardiologist passes a thin hollow tube, called a catheter, through an artery and carefully moves it up into the heart. X-ray images help the doctor position the catheter.
+Once the catheter is in place, dye (contrast material) is injected into the catheter. X-ray images are taken to see how the dye moves through the artery. The dye helps highlight any blockages in blood flow.
+The procedure most often lasts 30 to 60 minutes.
+How to Prepare for the Test
+You should not eat or drink anything for 8 hours before the test starts.
+You will wear a hospital gown. You must sign a consent form before the test. Your health care provider will explain the procedure and its risks.
+Tell your provider if you:
+Are allergic to any medicines or if you have had a bad reaction to contrast material in the past
+Are taking sildenafil (Viagra), Avanafil (Stendra), tadalafil (Cialis) or other medicines from this class
+Might be pregnant
+How the Test will Feel
+In most cases, you will be awake during the test. You may feel some pressure at the site where the catheter is placed.
+You may feel a flushing or warm sensation after the dye is injected.
+After the test, the catheter is removed. You might feel a firm pressure being applied at the insertion site to prevent bleeding. If the catheter is placed in your groin, you will be asked to lie flat on your back for a few hours to several hours after the test to avoid bleeding. This may cause some mild back discomfort.
+Why the Test is Performed
+Coronary angiography may be done if:
+You have angina for the first time.
+You have angina that is becoming worse, not going away, occurring more often, or happening at rest (called
+unstable angina
+).
+You have
+aortic stenosis
+or another heart valve problem.
+You have atypical chest pain, when other tests are normal.
+You had an abnormal
+heart stress test
+.
+You are going to have surgery on your heart and you are at high risk for coronary artery disease.
+You have
+heart failure
+.
+You have been diagnosed as having a heart attack.
+Normal Results
+There is a normal supply of blood to the heart and no blockages.
+What Abnormal Results Mean
+An abnormal result may mean you have a blocked artery. The test can show how many coronary arteries are blocked, where they are blocked, and the severity of the blockages.
+Risks
+Cardiac catheterization carries a slightly increased risk when compared with other heart tests. However, the test is very safe when performed by an experienced team.
+Generally, the risk for serious complications ranges from 1 in 1,000 to 1 in 500. Risks of the procedure include the following:
+Cardiac tamponade
+Irregular heartbeats
+Injury to a heart artery
+Low blood pressure
+Allergic reaction to contrast dye or a medicine administered during the exam
+Stroke
+Heart attack
+Considerations associated with any type of catheterization include the following:
+In general, there is a risk for bleeding, infection, and pain at the IV or catheter site.
+There is a very small risk that the soft plastic catheters could damage the blood vessels or surrounding structures.
+Blood clots could form on the catheters and later block blood vessels elsewhere in the body.
+The contrast dye could damage the kidneys (particularly in people with diabetes or prior kidney problems).
+Considerations
+If a blockage is found, your cardiologist may perform a percutaneous coronary intervention (PCI) to open the blockage. This can be done during the same procedure, but may be delayed for various reasons.
+Alternative Names
+Cardiac angiography; Angiography - heart; Angiogram - coronary; Coronary artery disease - angiography; CAD - angiography; Angina - angiography; Heart disease - angiography
+Images
+Coronary angiography
+References
+Dangas GD, Mehran R. Coronary angiography and intravascular imaging. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 21.
+Lange RA, Mukherjee D. Acute coronary syndrome: unstable angina and non-ST elevation myocardial infarction. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 57.
+Teirstein PS, Kirtane AJ. Interventional diagnosis and treatment of coronary artery disease. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 59.
+Virani SS, Newby LK, Arnold SV, et al. 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the management of patients with chronic coronary disease: A report of the American Heart Association/American College of Cardiology joint committee on clinical practice guidelines.
+Circulation
+. 2023;148:e9âe119. PMID: 37471501
+pubmed.ncbi.nlm.nih.gov/37471501/
+.
+Review Date 1/1/2025
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Angina
+Coronary Artery Disease
+Heart Health Tests

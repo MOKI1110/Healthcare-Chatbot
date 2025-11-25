@@ -1,0 +1,118 @@
+Respiratory acidosis: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Respiratory acidosis
+URL of this page: //medlineplus.gov/ency/article/000092.htm
+Respiratory acidosis
+To use the sharing features on this page, please enable JavaScript.
+Respiratory acidosis is a condition that occurs when your lungs can't remove all of the carbon dioxide produced by your body. This causes the blood and other body fluids to become too acidic.
+Causes
+There are many causes of respiratory acidosis, including:
+Airway diseases, such as
+asthma
+and
+chronic obstructive pulmonary disease
+(COPD)
+Diseases that can affect the chest, such as
+scoliosis
+Diseases that affect the nerves and muscles that signal the lungs to inflate or deflate
+Medicines that suppress breathing, including narcotics (opioids), and "downers," such as benzodiazepines, often when combined with each other or alcohol
+Severe obesity, which restricts how much the lungs can expand
+Obstructive sleep apnea
+Â can cause respiratory acidosis while you are asleep
+Chronic respiratory acidosis occurs over a long time. This leads to a stable situation, because the kidneys increase body chemicals, such as bicarbonate, that help restore the body's acid-base balance.
+Acute respiratory acidosis occurs when carbon dioxide builds up very quickly, before the kidneys can return the body to a state of balance.
+Some people with chronic respiratory acidosis get acute respiratory acidosis when a serious illness worsens their condition and disrupts their body's acid-base balance.
+Symptoms
+Symptoms may include:
+Confusion
+Anxiety
+Easy fatigue
+Lethargy
+Shortness of breath
+Sleepiness
+Tremors
+(shaking)
+Warm and flushed skin
+Sweating
+Exams and Tests
+Your health care provider will perform a physical exam and ask about symptoms.
+You may have certain tests, including:
+Arterial
+blood gas
+(measures oxygen and carbon dioxide levels in the blood)
+Basic metabolic panel
+Chest x-ray
+CT scan of the chest
+Pulmonary function test
+to measure breathing and how well the lungs are functioning
+Ultrasound of the heart (
+echocardiogram
+)
+Treatment
+Treatment is aimed at the underlying disease, and may include:
+Bronchodilator medicines and corticosteroids to reverse some types of airway obstruction
+Noninvasive positive-pressure ventilation (called
+CPAP or BiPAP
+)
+Oxygen if your blood oxygen level is low
+Treatment to
+stop smoking
+.
+Changing medicines when appropriate
+If your case is severe, you may need to be put on a breathing machine (ventilator).
+Outlook (Prognosis)
+How well you do depends on the disease causing the respiratory acidosis.
+Possible Complications
+Complications may include:
+Poor organ function
+Respiratory failure
+Shock
+When to Contact a Medical Professional
+Severe acute respiratory acidosis is a medical emergency. Seek medical help right away if you have symptoms of this condition.
+Call your provider if you have symptoms of lung disease that suddenly get worse.
+Prevention
+Do not smoke. Smoking can lead to many severe lung diseases that can cause respiratory acidosis.
+Losing weight may help prevent respiratory acidosis due to obesity (obesity-hypoventilation syndrome).
+Be careful about taking sedating medicines, and never combine these medicines with alcohol.
+Use your CPAP device regularly if it has been prescribed for you.
+Alternative Names
+Ventilatory failure; Respiratory failure; Acidosis - respiratory
+Images
+Respiratory system
+References
+McCoin NS, Self WH. Acid-base disorders. In: Walls RM, ed.
+Rosen's Emergency Medicine: Concepts and Clinical Practice
+. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 113.
+Sanghavi S, Albert TJ, Swenson ER. Acid-base balance. In: Broaddus VC, Ernst JD, King TE, et al, eds.
+Murray and Nadel's Textbook of Respiratory Medicine
+. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 12.
+Seifter JL. Acid-base disorders. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 104.
+Review Date 8/19/2024
+Updated by: Allen J. Blaivas, DO, Division of Pulmonary, Critical Care, and Sleep Medicine, VA New Jersey Health Care System, Clinical Assistant Professor, Rutgers New Jersey Medical School, East Orange, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Lung Diseases
+Respiratory Failure

@@ -1,0 +1,86 @@
+Cardiac intravascular ultrasound: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Cardiac intravascular ultrasound
+URL of this page: //medlineplus.gov/ency/article/007266.htm
+Cardiac intravascular ultrasound
+To use the sharing features on this page, please enable JavaScript.
+Intravascular ultrasound (IVUS) is a diagnostic test. This test uses sound waves to see inside blood vessels. It is useful for evaluating the coronary arteries that supply the heart.
+Description
+A tiny
+ultrasound
+wand is attached to the top of a thin tube. This tube is called a catheter. The catheter is inserted into an artery in your groin area and moved up to the heart. It is different from conventional duplex ultrasound. Duplex ultrasound is done from the outside of your body by placing the ultrasound transducer on the skin.
+A computer measures how the sound waves reflect off blood vessels, and changes the sound waves into pictures. IVUS gives the health care provider a look at your coronary arteries from the inside-out.
+IVUS is almost always done during a procedure. Reasons why it may be done include:
+Getting information about the heart or its blood vessels
+or to find out if you need heart surgery
+Treating some types of heart conditions
+Angiography gives a general look at the coronary arteries. However, it can't show the walls of the arteries. IVUS images show the artery walls and can reveal cholesterol and fat deposits (plaques). Buildup of these deposits can increase your risk for a heart attack.
+IVUS may help providers understand how
+stents
+become clogged. This is called stent restenosis.
+Why the Procedure is Performed
+IVUS is commonly done to make sure a stent is correctly placed during angioplasty. It may also be done to determine where a stent should be placed.
+IVUS may also be used to:
+View the aorta and structure of the artery walls, which can show plaque buildup
+Find which blood vessel is involved in aortic dissection
+Risks
+There is a slight risk for complications with angioplasty and cardiac catheterization. However, the tests are very safe when done by an experienced team. IVUS adds little additional risk.
+Risks of anesthesia and surgery in general are:
+Reactions to medicines
+Breathing problems
+Bleeding, blood clots
+Infection
+Other risks include:
+Damage to a heart valve or blood vessel
+Heart attack
+Irregular heartbeat (
+arrhythmia
+)
+Kidney failure (a higher risk in people who already have kidney problems or diabetes)
+Stroke
+(this is rare)
+After the Procedure
+After the test, the catheter is completely removed. A bandage is placed on the area. You will be asked to lie flat on your back with pressure on your groin area for a few hours after the test to prevent bleeding.
+If IVUS was done during:
+Cardiac catheterization: You will stay in the hospital for about 3 to 6 hours.
+Angioplasty: You will stay in the hospital for 12 to 24 hours.
+The IVUS does not add to the time you must stay in the hospital.
+Alternative Names
+IVUS; Ultrasound - coronary artery; Endovascular ultrasound; Intravascular echocardiography
+Images
+Anterior heart arteries
+Conduction system of the heart
+Coronary angiography
+References
+Honda Y, Fitzgerald PJ, Yock PG. Intravascular ultrasound. In: Topol EJ, Teirstein PS, eds.
+Textbook of Interventional Cardiology.
+8th ed. Philadelphia, PA: Elsevier; 2020:chap 65.
+Yammine H, Ballast JK, Arko FR. Intravascular ultrasound. In: Sidawy AN, Perler BA, eds.
+Rutherford's Vascular Surgery and Endovascular Therapy.
+10th ed. Philadelphia, PA: Elsevier; 2023:chap 32.
+Review Date 5/10/2024
+Updated by: Neil Grossman, MD, Saint Vincent Radiological Associates, Framingham, MA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Heart Health Tests

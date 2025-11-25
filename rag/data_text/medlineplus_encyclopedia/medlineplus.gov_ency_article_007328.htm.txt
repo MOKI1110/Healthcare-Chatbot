@@ -1,0 +1,125 @@
+Double outlet right ventricle : MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Double outlet right ventricle
+URL of this page: //medlineplus.gov/ency/article/007328.htm
+Double outlet right ventricle
+To use the sharing features on this page, please enable JavaScript.
+Double outlet right ventricle (DORV) is a heart disease that is
+present from birth (congenital)
+. The aorta connects to the right ventricle (RV, the chamber of the heart that pumps oxygen-poor blood to the lungs), instead of to the left ventricle (LV, the chamber that normally pumps oxygen-rich blood to the body).
+Both the pulmonary artery (which carries oxygen-poor blood to the lungs) and aorta (which carries oxygen-rich blood from the heart to the body) come from the same pumping chamber. No arteries are connected to the left ventricle (the chamber that normally pumps blood to the body).
+Causes
+In a normal heart structure, the aorta connects to the LV. The pulmonary artery normally is connected to the RV. In DORV, both arteries flow out of the RV. This is a problem because the RV pumps oxygen-poor blood. This blood is then circulated throughout the body.
+Another defect called a
+ventricular septal defect
+(VSD) always occurs with DORV.
+Oxygen-rich blood from the lungs flows from the left side of the heart, through the VSD opening and into the RV. This helps the infant with DORV by allowing oxygen-rich blood to mix with oxygen-poor blood. Even with this mixture, the body may not get enough oxygen. This makes the heart work harder to meet the body's needs. There are several types of DORV.
+The difference between these types is the location of the VSD as it relates to the location of the pulmonary artery and aorta. The symptoms and severity of the problem will depend on the type of DORV. The presence of pulmonary valve stenosis also affects the condition.
+People with DORV often have other heart defects, such as:
+Endocardial cushion defects
+(the walls separating all four chambers of the heart are poorly formed or absent)
+Coarctation of the aorta
+(narrowing of the aorta)
+Mitral valve problems
+Pulmonary atresia
+(pulmonary valve does not form properly)
+Pulmonary valve stenosis
+(narrowing of the pulmonary valve)
+Right-sided aortic arch (aortic arch is on right instead of the left)
+Transposition of the great arteries
+(the aorta and pulmonary artery are switched)
+Symptoms
+Signs of DORV may include:
+Enlarged heart
+Heart murmur
+Rapid breathing
+Rapid heartbeat
+Symptoms of DORV may include:
+Poor feeding from becoming tired easily
+Bluish color of the skin and lips
+(cyanosis)
+Clubbing
+(thickening of the nail beds) of toes and fingers (late sign)
+Failure to gain weight and grow
+Pale coloring
+(pallor)
+Sweating
+Swollen legs or abdomen
+Trouble breathing
+Exams and Tests
+Tests to diagnose DORV include:
+Chest x-rays
+Echocardiogram
+, which is an ultrasound exam of the heart
+Cardiac catheterization
+, which is passing a thin, flexible tube into the heart to measure blood pressure and inject dye for special pictures of the heart and arteries
+Heart MRI
+Treatment
+Treatment requires surgery to close the hole in the heart and direct blood from the left ventricle into the aorta. Surgery may also be needed to move the pulmonary artery or aorta.
+Factors that determine the type and number of operations your baby needs include:
+The type of DORV
+The severity of the defect
+The presence of other problems in the heart
+Your child's overall condition
+Outlook (Prognosis)
+How well the baby does depends on:
+The size and location of the VSD
+The size of the pumping chambers
+The location of the aorta and pulmonary artery
+The presence of other complications (such as coarctation of the aorta and mitral valve problems)
+Your baby's overall health at the time of diagnosis
+Whether lung damage has occurred from too much blood flowing to the lungs for a long period of time
+Possible Complications
+Complications from DORV may include:
+Heart failure
+High blood pressure in the lungs, which untreated can lead to permanent lung damage
+Death
+Children with this heart condition may need to take antibiotics before surgeries or dental treatments. This prevents infections in the heart.
+When to Contact a Medical Professional
+Contact your health care provider if your child seems to tire easily, has trouble breathing, or has bluish skin or lips. You should also consult your provider if your baby is not growing or gaining weight.
+Alternative Names
+DORV; Taussig-Bing anomaly; DORV with doubly-committed VSD; DORV with noncommitted VSD; DORV with subaortic VSD; Congenital heart defect - DORV; Cyanotic heart defect - DORV; Birth defect - DORV
+Images
+Double outlet right ventricle
+References
+Bichell D. Double-outlet right ventricle. In: Ungerleider RM, Meliones JN, McMillian KN, Cooper DS, Jacobs JP, eds.
+Critical Heart Disease in Infants and Children
+. 3rd ed. Philadelphia, PA: Elsevier; 2019:chap 58.
+Haller C, Van Arsdell GS, Yoo S-J, George-Hyslop CST, Spicer DE, Anderson RH. Double-outlet ventricle. In: Wernovsky G, Anderson RH, Kumar K, et al, eds.
+Anderson's Pediatric Cardiology
+. 4th ed. Philadelphia, PA: Elsevier; 2020:chap 39.
+Iyengar AJ, d'Udekem Y. Management of single ventricle and cavopulmonary connections. In: Sellke FW, del Nido PJ, Swanson SJ, eds.
+Sabiston and Spencer Surgery of the Chest
+. 10th ed. Philadelphia, PA: Elsevier; 2024:chap 134.
+Kliegman RM, St. Geme JW, Blum NJ, et al. Cyanotic congenital heart disease: lesions associated with increased pulmonary blood flow. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 480.
+Wohlmuth C, Gardiner HM. The heart. In: Pandya PP, Oepkes D, Sebire NJ, Wapner RJ, eds.
+Fetal Medicine: Basic Science and Clinical Practice
+. 3rd ed. Philadelphia, PA: Elsevier; 2020:chap 29.
+Review Date 5/27/2024
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Congenital Heart Defects

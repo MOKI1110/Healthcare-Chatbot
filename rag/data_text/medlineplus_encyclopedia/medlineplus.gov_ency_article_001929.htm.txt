@@ -1,0 +1,181 @@
+Reportable diseases: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Reportable diseases
+URL of this page: //medlineplus.gov/ency/article/001929.htm
+Reportable diseases
+To use the sharing features on this page, please enable JavaScript.
+Reportable diseases are diseases considered to be of great public health importance. In the United States, local, state, and national agencies (for example, county and state health departments or the United States Centers for Disease Control and Prevention [CDC]) require that these diseases be reported when they are diagnosed by health care providers or laboratories.
+Reporting allows for the collection of statistics that show how often the disease occurs. This helps researchers identify disease trends and track disease outbreaks. This information can help control future outbreaks.
+Information
+All US states have a reportable diseases list. It is the responsibility of your provider, not you, to report cases of these diseases. Many diseases on the list must also be reported to the CDC.
+Reportable diseases are divided into several groups:
+Mandatory written reporting: A report of the disease must be made in writing. Examples are
+gonorrhea
+and
+salmonellosis
+.
+Mandatory reporting by telephone: The provider must make a report by phone. Examples are
+rubeola
+(measles) and
+pertussis
+(whooping cough).
+Report of total number of cases. Examples are
+chickenpox
+and
+influenza
+.
+Cancer. Cancer cases are reported to the state Cancer Registry.
+Diseases reportable to the CDC include:
+Anthrax
+Arboviral diseases (diseases caused by viruses spread by mosquitoes, sandflies, ticks, etc.) such as
+West Nile virus
+, eastern and western equine
+encephalitis
+Babesiosis
+Botulism
+Brucellosis
+Campylobacteriosis
+Cancer
+Candida auris
+, clinical
+Candida auris
+, screening
+Carbapenemase-producing organisms (CPO)
+Carbapenemase-producing organisms, clinical
+Carbapenemase-producing organisms, screening
+Carbon monoxide poisoning
+Chancroid
+Chickenpox (varicella)
+Chlamydia
+Cholera
+Coccidioidomycosis
+Coronavirus disease 2019 (COVID-19)
+Cryptosporidiosis
+Cyclosporiasis
+Dengue virus infections
+Diphtheria
+Ehrlichiosis
+and anaplasmosis
+Foodborne disease outbreak
+Giardiasis
+Gonorrhea
+Haemophilus influenza
+, invasive disease
+Hansen disease
+Hantavirus infection
+, non-Hantavirus pulmonary syndrome
+Hantavirus pulmonary syndrome
+Hemolytic uremic syndrome
+, post-diarrheal
+Hepatitis A
+Hepatitis B
+Â (acute and chronic)
+Hepatitis B perinatal infection
+Hepatitis C
+(acute and chronic)
+Hepatitis C, perinatal infection
+HIV/AIDS
+Influenza-related infant deaths
+Invasive pneumococcal disease
+Lead, elevated blood level
+Legionnaire disease (
+legionellosis
+)
+Leptospirosis
+Listeriosis
+Lyme disease
+Malaria
+Measles
+Melioidosis
+Meningitis
+(meningococcal disease)
+Mpox
+Mumps
+Novel influenza A virus infections
+Pertussis
+Pesticide-related illnesses and injuries
+Plague
+Poliomyelitis
+, paralytic
+Poliovirus infection, nonparalytic
+Psittacosis
+Q-fever
+Â (acute and chronic)
+Rabies
+(human and animal cases)
+Rubella
+(including congenital syndrome)
+Salmonella
+paratyphi and typhi infections
+Salmonellosis
+Severe acute respiratory syndrome-associated coronavirus disease
+(SARS CoV-2)
+Shiga toxin-producing
+Escherichia coli
+(STEC)
+Shigellosis
+Silicosis
+Smallpox
+Spotted fever rickettsiosis
+Streptococcal toxic shock syndrome
+Syphilis
+, including congenital syphilis
+Tetanus
+Toxic shock syndrome
+(other than streptococcal)
+Trichinellosis
+Tuberculosis
+Tularemia
+Vancomycin intermediate
+Staphylococcus aureus
+(VISA)
+Vancomycin resistant
+Staphylococcus aureus
+(VRSA)
+Vibriosis
+Viral hemorrhagic fever (including
+Ebola virus
+, Lassa virus, among others)
+Waterborne disease outbreak
+Yellow fever
+Zika virus disease
+and infection (including congenital)
+The county or state health department will try to find the source of many of these illnesses, such as food poisoning. In the case of sexually transmitted diseases (STDs), the county or state will try to locate sexual contacts of infected people to make sure they are disease-free or are treated if they are already infected.
+The information gained from reporting allows the county or state to make informed decisions and laws about activities and the environment, such as:
+Animal control
+Food handling
+Immunization programs
+Insect control
+STD tracking
+Water purification
+The provider is required by law to report these diseases. By cooperating with state health workers, you can help them locate the source of an infection or prevent the spread of an epidemic.
+Alternative Names
+Notifiable diseases
+References
+Centers for Disease Control and Prevention website. National Notifiable Diseases Surveillance System (NNDSS).
+www.cdc.gov/nndss/index.html
+. Updated March 15, 2024. Accessed June 19, 2024.
+Review Date 5/19/2023
+Updated by: Jatin M. Vyas, MD, PhD, Roy and Diana Vagelos Professor in Medicine, Columbia University Vagelos College of Physicians and Surgeons, Division of Infectious Diseases, Department of Medicine, New York, NY. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page

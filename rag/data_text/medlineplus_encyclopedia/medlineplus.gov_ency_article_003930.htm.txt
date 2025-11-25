@@ -1,0 +1,71 @@
+Tensilon test: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Tensilon test
+URL of this page: //medlineplus.gov/ency/article/003930.htm
+Tensilon test
+To use the sharing features on this page, please enable JavaScript.
+The Tensilon test is a method to help diagnose
+myasthenia gravis
+.
+How the Test is Performed
+A medicine called Tensilon (also called edrophonium) is given during this test. Your health care provider gives the medicine through one of your veins (intravenously, through an IV). You may also be given a medicine called atropine before receiving Tensilon to reduce chances of side effects. Your heart rate may be monitored to make sure the medicine doesn't slow your heart down.
+You will be observed for any improvement in strength from the medicine. Muscles that are weak will be tested before and right after the medicine is given. Any weak muscles are monitored, although the muscles of the eyes or face are most commonly tested.
+The test may be repeated and you may have other Tensilon tests to help tell the difference between myasthenia gravis and other conditions.
+How to Prepare for the Test
+No special preparation is usually necessary. Follow your provider's instructions about how to prepare.
+How the Test will Feel
+You will feel a sharp prick as the IV needle is inserted. The medicine may cause a feeling of a churning of the stomach or a slight feeling of decreased heart rate, especially if atropine is not given first.
+Why the Test is Performed
+The test helps:
+Diagnose myasthenia gravis
+Tell the difference between myasthenia gravis and other similar brain and nervous system conditions
+Monitor treatment with oral anticholinesterase medicines
+The test may also be done for conditions such as
+Lambert-Eaton syndrome
+. This is a disorder in which faulty communication between nerves and muscles leads to muscle weakness.
+What Abnormal Results Mean
+In many people with myasthenia gravis, the muscle weakness will improve right after receiving Tensilon. The improvement lasts only a few minutes. For some types of myasthenia, Tensilon may make the weakness worse.
+When the disease gets worse enough to cause significant weakness, there is a brief improvement in muscle strength.
+When there is an overdose of anticholinesterase (cholinergic crisis), Tensilon does not improve strength and may make the person even weaker.
+Risks
+The medicine used during the test may cause side effects, including low heart rate, fainting, nausea, or breathing failure. This is why the test is done by a provider in a medical setting.
+Alternative Names
+Myasthenia gravis - Tensilon test; Edrophonium test
+Images
+Muscle fatigue
+References
+Guptill JT, Sanders DB. Disorders of neuromuscular transmission. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 108.
+Weimer M, Reese JJ, Tilton AH. Acute neuromuscular disease and disorders. In: Zimmerman JJ, Clark RSB, Fuhrman BP, et al, eds.
+Fuhrman and Zimmerman's Pediatric Critical Care
+. 6th ed. Philadelphia, PA: Elsevier; 2022:chap 68.
+Zhou J, Zhao J, Xiaobing YU Nozari A, Pessah IN, Allen PD. Neuromuscular disorders and other genetic disorders. In: Gropper MA, Cohen NH, Eriksson LI, Fleisher LA, Johnson-Akeju S, Leslie K, eds.
+Miller's Anesthesia
+. 10th ed. Philadelphia, PA: Elsevier; 2025:chap 31.
+Review Date 2/11/2025
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Myasthenia Gravis

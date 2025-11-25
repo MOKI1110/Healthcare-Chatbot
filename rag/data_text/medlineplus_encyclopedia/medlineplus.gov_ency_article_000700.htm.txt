@@ -1,0 +1,147 @@
+Neuropathy secondary to drugs: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Neuropathy secondary to drugs
+URL of this page: //medlineplus.gov/ency/article/000700.htm
+Neuropathy secondary to drugs
+To use the sharing features on this page, please enable JavaScript.
+Neuropathy is injury to one or more peripheral nerves. These are nerves that are not in the brain or spinal cord. Neuropathy secondary to medicines causes a
+loss of sensation
+or movement in a part of the body due to nerve damage from taking a certain medicine, combination of medicines, or illicit (street) drugs.
+Causes
+The damage is caused by the toxic effect of certain medicines or illicit (street) drugs on the peripheral nerves. There may be damage to the axon part of the nerve cell, which interferes with nerve signals. Or, the damage may involve the myelin sheath, which insulates the axons and increases the speed of transmission of signals through the axon.
+Most commonly, many nerves are involved (polyneuropathy). This usually causes sensation changes that begin in the outside parts of the body (
+distal
+) and move toward the center of the body (
+proximal
+). There may also be changes in movement, such as weakness. There may also be burning pain.
+Many medicines and substances may lead to the development of neuropathy. Examples are listed below.
+Heart or blood pressure medicines:
+Amiodarone
+Hydralazine
+Medicines used to fight
+cancer
+Â (chemotherapy medicines):
+Cisplatin
+Docetaxel
+Paclitaxel
+Medicines used to fight infections:
+Chloroquine
+Dapsone
+Isoniazid (INH), used against
+tuberculosis
+Metronidazole (Flagyl)
+Nitrofurantoin
+Thalidomide (used to fight
+leprosy
+)
+Medicines used to treat
+autoimmune disease
+:
+Etanercept (Enbrel)
+Infliximab (Remicade)
+Leflunomide (Arava)
+Tacrolimus
+Medicines used to treat seizures:
+Carbamazepine
+Phenytoin
+Phenobarbital
+Medicines used to treat alcohol use disorder:
+Disulfiram
+Medicines to fight HIV/AIDS:
+Didanosine (Videx)
+Emtricitabine (Emtriva)
+Stavudine (Zerit)
+Tenofovir and emtricitabine (Truvada)
+Other medicines and substances that may cause neuropathy include:
+Colchicine (used to treat gout)
+Excess pyridoxine (Vitamin B6)
+Arsenic
+Gold
+Illicit drugs (such as methaqualone)
+Glue sniffing
+n-Hexane
+Nitrous oxide (laughing gas)
+Symptoms
+Symptoms may include any of the following:
+Numbness
+, loss of sensation
+Tingling,
+abnormal sensations
+Weakness
+Burning pain
+Loss of balance
+Trouble walking
+Sensation changes usually begin in the feet or hands and move inward to the legs or arms.
+Exams and Tests
+A brain and nervous system examination will be done.
+Other tests include:
+Blood and urine tests to check levels of the medicine (even normal blood levels of certain medicines may be toxic in older adults or certain other people)
+Electromyography
+(EMG) and
+nerve conduction tests
+(recording of electrical activity along the nerve)
+Skin biopsy
+to measure nerve fibers (usually for small fiber neuropathy if EMG and nerve conduction tests are normal)
+Treatment
+Treatment is based on the symptoms and how severe they are. The medicine causing the neuropathy may be stopped, reduced in dose, or changed to another medicine. (Never change or stop any medicine without first talking to your health care provider.)
+Your provider may suggest the following medicines to help regulate pain:
+Over-the-counter pain medicines may be helpful for mild pain (neuralgia).
+Phenytoin, carbamazepine, gabapentin, pregabalin, duloxetine, or tricyclic antidepressants such as nortriptyline may reduce the stabbing pains some people experience.
+Topical agents such as capsaicin or Lidoderm cream can be useful for more limited areas of pain.
+Opioid pain medicines such as morphine or fentanyl arenât effective for neuropathic pain.
+There are currently no medicines that can reverse the loss of sensation. If you have lost sensation, you may need to take safety measures to avoid injury.
+Ask your provider if there are exercises that can help relieve your symptoms.
+Outlook (Prognosis)
+Many people can partially or fully return to their normal function. The disorder does not usually cause life-threatening complications, but it can be uncomfortable or disabling.
+Possible Complications
+Complications may include:
+Inability to function at work or home because of permanent loss of sensation
+Pain with tingling in the area of the nerve injury
+Permanent loss of sensation (or rarely, movement) in an area of the body
+When to Contact a Medical Professional
+Contact your provider if you have a loss of sensation or movement of any area of the body while taking any medicine.
+Prevention
+Your provider will closely monitor your treatment with any medicine that may cause neuropathy. The goal is to keep the proper blood level of the medicine needed to control the disease and its symptoms while preventing the medicine from reaching toxic levels.
+Images
+Central nervous system and peripheral nervous system
+References
+Jones MR, Urits I, Wolf J, et al. Drug-induced peripheral neuropathy, a narrative review.
+Curr Clin Pharmacol
+. 2020;15(1):38-48. PMID: 30666914
+pubmed.ncbi.nlm.nih.gov/30666914/
+.
+Katirji B. Disorders of peripheral nerves. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 106.
+Mastaglia FL. Drug-induced disorders of the nervous system. In: Aminoff MJ, Josephson SA, eds.
+Aminoff's Neurology and General Medicine
+. 6th ed. Waltham, MA: Elsevier Academic Press; 2021:chap 32.
+Smith GA, Shy ME. Peripheral neuropathies. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 388.
+Review Date 2/11/2025
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Peripheral Nerve Disorders

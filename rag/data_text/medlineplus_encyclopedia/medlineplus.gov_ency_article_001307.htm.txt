@@ -1,0 +1,128 @@
+Agammaglobulinemia: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Agammaglobulinemia
+URL of this page: //medlineplus.gov/ency/article/001307.htm
+Agammaglobulinemia
+To use the sharing features on this page, please enable JavaScript.
+Agammaglobulinemia is an inherited disorder in which a person has very low levels of protective immune system proteins called immunoglobulins. Immunoglobulins are a type of
+antibody
+. Low levels of these antibodies make you more likely to get infections.
+Causes
+This is a rare disorder that mainly affects males. It is caused by a gene defect that blocks the growth of normal, mature immune cells called B lymphocytes.
+As a result, the body makes very little (if any) immunoglobulins. Immunoglobulins play a major role in the
+immune response
+, which protects against illness and infection.
+People with this disorder develop infections again and again. Common infections include ones that are due to bacteria such as
+Haemophilus influenzae
+, pneumococci (
+Streptococcus pneumoniae
+), and staphylococci. Common sites of infection include:
+Gastrointestinal tract
+Joints
+Lungs
+Skin
+Upper
+respiratory
+tract
+Agammaglobulinemia is inherited, which means other people in your family may have the condition.
+Symptoms
+Symptoms include frequent episodes of:
+Bronchitis
+(airway infection)
+Conjunctivitis
+(eye infection)
+Diarrhea
+Otitis media
+(middle ear infection)
+Pneumonia
+(lung infection)
+Sinusitis
+(sinus infection)
+Skin infections
+Upper respiratory tract infections
+Infections typically appear in the first 4 years of life.
+Other symptoms include:
+Bronchiectasis
+(a disease in which the bronchial tubes in the lungs become damaged and enlarged)
+Asthma
+without a known cause
+Exams and Tests
+The disorder is confirmed by blood tests that measure levels of immunoglobulins.
+Tests include:
+Flow cytometry to measure circulating B lymphocytes
+Immunoelectrophoresis - serum
+Quantitative immunoglobulins
+- IgG, IgA, IgM (usually measured by nephelometry)
+Treatment
+Treatment involves taking steps to reduce the number and severity of infections. Antibiotics are often needed to treat bacterial infections.
+Immunoglobulins are given through a vein or by injection to boost the immune system.
+A bone marrow transplant may be considered.
+Support Groups
+More information and support for people with agammaglobulinemia and their families can be found at:
+Immune Deficiency Foundation --
+primaryimmune.org
+National Organization for Rare Disorders --
+rarediseases.org/rare-diseases/agammaglobulinemia/
+NIH Genetic and Rare Diseases Information Center --
+rarediseases.info.nih.gov/diseases/1033/x-linked-agammaglobulinemia
+Outlook (Prognosis)
+Treatment with immunoglobulins has greatly improved the health of those who have this disorder.
+Without treatment, most severe infections are deadly.
+Possible Complications
+Health problems that may result include:
+Arthritis
+Chronic
+sinus or
+pulmonary disease
+Eczema
+Intestinal
+malabsorption
+syndromes
+When to Contact a Medical Professional
+Contact your health care provider for an appointment if:
+You or your child has experienced frequent infections.
+You have a family history of agammaglobulinemia or another immunodeficiency disorder and you are planning to have children. Ask the provider about genetic counseling.
+Prevention
+Genetic counseling should be offered to prospective parents with a family history of agammaglobulinemia or other
+immunodeficiency disorders
+.
+Alternative Names
+Bruton's agammaglobulinemia; X-linked agammaglobulinemia; Immunosuppression - agammaglobulinemia; Immunodepressed - agammaglobulinemia; Immunosuppressed - agammaglobulinemia
+Images
+Antibodies
+References
+Cunningham-Rundles C. Primary immunodeficiency diseases. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 231.
+Hernandez-Trujillo VP, Ortega C. B-cell and antibody deficiencies. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 166.
+Pai SY, Notarangelo LD. Congenital disorders of lymphocyte function. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 52.
+Review Date 3/31/2024
+Updated by: Deborah Pedersen, MD, MS, Allergy & Asthma Care, PC, Taunton, MA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Immune System and Disorders

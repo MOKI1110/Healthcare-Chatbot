@@ -1,0 +1,99 @@
+CSF cell count: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+CSF cell count
+URL of this page: //medlineplus.gov/ency/article/003625.htm
+CSF cell count
+To use the sharing features on this page, please enable JavaScript.
+A CSF cell count is a test to measure the number of red and white blood cells that are in cerebrospinal fluid (CSF). CSF is a clear fluid that is in the space around the spinal cord and brain.
+How the Test is Performed
+A sample of CSF is needed [1 to 5 milliliters (ml)]. A
+lumbar puncture
+(spinal tap) is the most common way to collect this sample. Rarely, other methods are used for collecting CSF such as:
+Cisternal puncture
+Ventricular puncture
+Removal of CSF from a tube that is already in the CSF, such as a shunt or ventricular drain
+After the sample is taken, it is sent to a lab for evaluation.
+Why the Test is Performed
+The CSF cell count may help detect:
+Meningitis
+and infection of the brain or spinal cord
+Tumor
+,
+abscess
+, or area of tissue death (infarct)
+Inflammation
+Bleeding into the spinal fluid (secondary to
+subarachnoid hemorrhage
+)
+Normal Results
+The normal white blood cell count is from 0 to 5. The normal red blood cell count is 0.
+Note: Normal value ranges may vary slightly among different labs. Talk to your health care provider about the meaning of your specific test results.
+The examples above show the common measurements for results for these tests. Some labs use different measurements or may test different specimens.
+What Abnormal Results Mean
+An increase of white blood cells indicates infection, inflammation, or bleeding into the cerebrospinal fluid. Some causes include:
+Abscess
+Encephalitis
+Hemorrhage
+Meningitis
+Multiple sclerosis
+Other infections
+Tumor
+Neurosarcoidosis
+Finding red blood cells in the CSF may be a sign of bleeding. However, red blood cells in the CSF may also be due to the spinal tap needle hitting a blood vessel.
+Additional conditions which this test may help diagnose include:
+Arteriovenous malformation (cerebral)
+Cerebral aneurysm
+Delirium
+Guillain-BarrÃ© syndrome
+Stroke
+Neurosyphilis
+Primary lymphoma of the brain
+Seizure disorders, including
+epilepsy
+Spinal tumor
+Lyme disease
+Images
+CSF cell count
+References
+De Luca GC, Griggs RC, Johnston SC. Approach to the patient with neurologic disease. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier; 2024:chap 366.
+Karcher DS, McPherson RA. Cerebrospinal, synovial, serous body fluids, and alternative specimens. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods.
+24th ed. Philadelphia, PA: Elsevier; 2022:chap 30.
+Rosenberg GA. Brain edema and disorders of cerebrospinal fluid circulation. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice.
+8th ed. Philadelphia, PA: Elsevier; 2022:chap 88.
+Schnapp BH, Jewell C. Central nervous system infections. In: Walls RM, ed.
+Rosen's Emergency Medicine: Concepts and Clinical Practice.
+10th ed. Philadelphia, PA: Elsevier; 2023:chap 95.
+Review Date 4/16/2025
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Cancer
+Encephalitis
+Infectious Diseases
+Meningitis
+Multiple Sclerosis

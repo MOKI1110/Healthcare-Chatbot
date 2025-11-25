@@ -1,0 +1,87 @@
+Pharmacogenetic testing: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Pharmacogenetic testing
+URL of this page: //medlineplus.gov/ency/article/007795.htm
+Pharmacogenetic testing
+To use the sharing features on this page, please enable JavaScript.
+Pharmacogenetic
+testing provides information about your
+genes
+and how they control your response to certain medicines. Your genes can affect the desired result of a drug. Your provider can use the information from this test to prescribe medicines that will work best for you and produce fewer side effects.
+How the Test is Performed
+Testing is done one of three ways:
+By taking a
+blood sample
+By taking a sample of your saliva (spit)
+By
+collecting cells from the inside of your cheek
+(buccal smear)
+How to Prepare for the Test
+To prepare for the three different testing methods:
+No special preparation is necessary for the blood test.
+Do not eat, drink, smoke, or chew gum for 30 minutes before the spit test.
+Your provider may ask you to rinse your mouth before your cheek is swabbed.
+How the Test will Feel
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away.
+The saliva test and check swab don't hurt.
+Why the Test is Performed
+Your provider may order pharmacogenetic testing to see if you can take certain medicines safely and how well they will work for your condition. If the results show possible side effects or that your body is resistant to that medicine, your provider can change it to a medicine your body will process better.
+Normal Results
+Pharmacogenetic testing results identify changes in a select group of genes. These genes control how your body responds to medicines. To select the best medicine for you, your provider will use these results, along with other information about you, such as:
+Your age
+Your lifestyle and health habits
+Other medical conditions
+Any health risks
+Any medicines you're taking
+What Abnormal Results Mean
+If the results show possible side effects or that your body is resistant to that medicine, your provider can change it to one your body will process better.
+Risks
+There is little risk in having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Drawing blood from some people may be more difficult than from others.
+Other risks associated with having blood drawn are slight, but may include:
+Excessive bleeding
+Fainting
+or feeling lightheaded
+Multiple punctures to locate veins
+Hematoma
+(blood accumulating under the skin)
+Infection (a slight risk any time the skin is broken)
+There is no risk for the saliva test or check swab.
+Considerations
+Pharmacogenetic testing gives your provider more insight into which medicines may work best for you. The results don't show family medical history or if you may be at risk for specific diseases.
+At this time, there are only certain medicines for which pharmacogenetics testing is considered.
+Alternative Names
+PGx - testing; Pharmacogenomics - testing; Pharmacogenetics - testing
+References
+Centers for Disease Control and Prevention website. Pharmacogenomics.
+www.cdc.gov/genomics-and-health/about/pharmacogenetics.html?CDC_AAref_Val=https://www.cdc.gov/genomics/disease/pharma.htm
+. Updated May 14, 2024. Accessed June 19, 2024.
+Korf BR, Limdi NA. Principles of genetics. In: Goldman L, Schafer AI, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 31.
+Review Date 6/26/2023
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Drug Reactions
+Medicines

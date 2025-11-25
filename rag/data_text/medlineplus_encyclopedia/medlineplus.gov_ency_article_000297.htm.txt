@@ -1,0 +1,113 @@
+Gastroparesis: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Gastroparesis
+URL of this page: //medlineplus.gov/ency/article/000297.htm
+Gastroparesis
+To use the sharing features on this page, please enable JavaScript.
+Gastroparesis is a condition that reduces the ability of the stomach to empty its solid contents. It does not involve a blockage (obstruction) of the outlet of the stomach.
+Causes
+The exact cause of gastroparesis is unknown. It may be caused by a disruption of nerve signals to the stomach. The condition is a common complication of
+diabetes
+. It can also follow some surgeries.
+Risk factors for gastroparesis include:
+Diabetes, especially long-term diabetes or if the blood sugar is very highÂ
+Gastrectomy
+(surgery to remove part of the stomach)
+Systemic sclerosis
+Â and other autoimmune diseases
+Post-viral illness
+Parkinson disease
+Use of medicine such as those that block certain nerve signals (anticholinergic medicine) or muscle contraction (narcotic pain relievers)
+Symptoms
+Symptoms may include:
+Abdominal distention
+Abdominal pain
+Hypoglycemia
+(in people with diabetes)
+Nausea
+Premature abdominal fullness after meals
+Â or feeling full after eating only a small amount of food
+Weight loss
+without trying
+Vomiting
+Exams and Tests
+Tests you may need include:
+Esophagogastroduodenoscopy
+(EGD).
+Gastric emptying study (usually using isotope-labeled food). Other tests that are used include a wireless motility capsule or a breath test.
+Upper GI series
+.
+Treatment
+People with diabetes should always control their blood sugar level. Better control of blood sugar level may improve symptoms of gastroparesis. Eating small and more frequent meals and soft/pureed foods (called a small-particle diet) may also help relieve some symptoms.
+Medicines that may help include:
+Erythromycin (short-term only)
+Metoclopramide, a medicine that helps empty the stomach, or domperidone (available with special approval in the US)
+Serotonin (5-HT4) agonist medicines, which act on serotonin receptors
+Anti-nausea treatments to help control nausea and vomiting
+Other treatments may include:
+Electrical stimulation of the stomach
+Endoscopic myotomy (cutting muscles at the pylorus, the outlet of the stomach), called G-POEM (gastric per-oral endoscopic myotomy)
+Surgical procedure that creates an opening between the stomach and small intestine to allow food to move through the digestive tract more easily (gastroenterostomy)
+If weight loss and malnutrition have occurred, a feeding tube may be inserted into the small intestine to give food until symptoms are better.
+Outlook (Prognosis)
+Many treatments, especially medicines, seem to provide only temporary benefit or have side effects when used for a long time. Gastroparesis is a chronic condition. Management of flare-ups may be helped by the use of diet and medicines. Endoscopic or surgical myotomy often provides a long-term improvement.
+Possible Complications
+Ongoing nausea and vomiting may cause:
+Dehydration
+Electrolyte
+imbalances
+Malnutrition
+People with diabetes may have serious complications from poor blood sugar control.
+When to Contact a Medical Professional
+Changes in your diet may help control symptoms. Contact your health care provider if symptoms continue or if you have new symptoms.
+Alternative Names
+Gastroparesis diabeticorum; Delayed gastric emptying; Diabetes - gastroparesis; Diabetic neuropathy - gastroparesis
+Images
+Digestive system
+Stomach
+References
+Carmilleri M. Disorders of gastrointestinal motility. In: Goldman L,
+Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier;
+2024:chap 122.
+Camilleri M, Kuo B, Nguyen L. ACG Clinical Guideline: Gastroparesis.
+Am J Gastroenterol.
+2022;117(8):1197-1220.
+PMID: 35926490
+pubmed.ncbi.nlm.nih.gov/35926490/
+.
+Koch KL. Gastric neuromuscular function and neuromuscular disorders. In:
+Feldman M, Friedman LS, Brandt LJ, eds.
+Sleisenger and Fordtran's
+Gastrointestinal and Liver Disease.
+11th ed. Philadelphia, PA: Elsevier;
+2021:chap 50.
+Review Date 10/30/2024
+Updated by: Jenifer K. Lehrer, MD, Gastroenterologist, Philadelphia, PA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Diabetes Complications
+Scleroderma
+Stomach Disorders

@@ -1,0 +1,115 @@
+Lung needle biopsy: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Lung needle biopsy
+URL of this page: //medlineplus.gov/ency/article/003860.htm
+Lung needle biopsy
+To use the sharing features on this page, please enable JavaScript.
+A lung needle biopsy is a method to remove a piece of lung tissue for examination. If it is done through the wall of your chest, it is called a transthoracic lung biopsy.
+How the Test is Performed
+The procedure usually takes 30 to 60 minutes. The biopsy is done in the following way:
+A
+chest x-ray
+or
+chest CT scan
+may be used to find the exact spot for the biopsy. If the biopsy is done using a CT scan, you may be lying down during the exam.
+You may be given a sedative to relax you.
+You sit with your arms resting forward on a table. Your skin where the biopsy needle is inserted is scrubbed.
+A local painkilling medicine (anesthetic) is injected.
+Your surgeon makes a small cut in your skin.
+The biopsy needle is inserted into the abnormal tissue,
+tumor
+, or lung tissue. A small piece of tissue is removed with the needle.
+The needle is removed. Pressure is placed on the site. Once bleeding has stopped, a bandage is applied.
+A chest x-ray is taken right after the biopsy.
+The biopsy sample is sent to the lab. Analysis usually takes a few days.
+How to Prepare for the Test
+You should not eat for 6 to 12 hours before the test. Follow instructions about not taking nonsteroidal anti-inflammatory drugs (NSAIDs) such as aspirin, ibuprofen, or blood thinners such as warfarin for a period of time before the procedure. Check with your health care provider before changing or stopping any medicines.
+Before a needle biopsy of the lung, a chest x-ray or chest CT scan may be performed.
+How the Test will Feel
+You will receive an injection of anesthetic before the biopsy. This injection will sting for a moment. You will feel pressure and a brief, sharp pain when the biopsy needle touches the lung.
+Why the Test is Performed
+A lung needle biopsy is done when there is an abnormal condition near the surface of the lung, in the lung itself, or on the chest wall. Most often, it is done to check for cancer. The biopsy is usually done after abnormalities appear on a chest x-ray or CT scan. Sometimes your provider might recommend a
+bronchoscopy
+instead of lung needle biopsy depending on the location of the abnormality.
+Normal Results
+In a normal test, the tissues are normal and there is no cancer or growth of bacteria, viruses, or fungi if a culture is performed.
+What Abnormal Results Mean
+An abnormal result may be due to any of the following:
+Bacterial, viral, or fungal lung infection
+Cancerous cells (
+lung cancer
+,
+mesothelioma
+)
+Pneumonia
+Benign growth
+Risks
+Sometimes, a collapsed lung (
+pneumothorax
+) occurs after this test. A chest x-ray will be done after the biopsy to check for this. The risk is higher if you have certain lung diseases such as
+emphysema
+. Usually, a collapsed lung after a biopsy does not need treatment. But if the pneumothorax is large, there is preexisting lung disease or it does not improve, a chest tube is inserted to expand your lung.
+In rare cases, pneumothorax can be life threatening if air escapes from the lung, gets trapped in the chest, and presses on the rest of your lungs or heart.
+Whenever a biopsy is done, there is a risk of too much bleeding (hemorrhage). Some bleeding is common, and a provider will monitor the amount of bleeding. In rare cases, major and life-threatening bleeding can occur.
+A needle biopsy should not be performed if other tests show that you have:
+A bleeding disorder of any type
+Bullae
+(enlarged alveoli that occur with emphysema)
+Cor pulmonale
+(condition that causes the right side of the heart to fail)
+Cysts
+of the lung
+High blood pressure in the lung arteries
+(pulmonary hypertension)
+Severe
+hypoxia
+(low oxygen)
+Considerations
+Signs of a collapsed lung include:
+Blueness of the skin
+Chest pain
+Rapid heart rate
+(rapid pulse)
+Shortness of breath
+If any of these occur, call your provider right away.
+Alternative Names
+Transthoracic needle aspiration; Percutaneous needle aspiration
+Images
+Lung biopsy
+Lung tissue biopsy
+References
+Given MF, Clements W, Thomson KR, Lyon SM. Percutaneous biopsy and drainage of the lung, mediastinum, and pleura. In: Mauro MA, Murphy KPJ, Thomson KR, Venbrux AC, Morgan RA, eds.
+Image-Guided Interventions
+. 3rd ed. Philadelphia, PA: Elsevier; 2021:chap 103.
+Walsh R, Klein JS. Thoracic radiology: invasive diagnostic imaging and image-guided interventions. In: Broaddus VC, Ernst JD, King TE, et al, eds.
+Murray and Nadel's Textbook of Respiratory Medicine
+. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 21.
+Review Date 8/19/2024
+Updated by: Allen J. Blaivas, DO, Division of Pulmonary, Critical Care, and Sleep Medicine, VA New Jersey Health Care System, Clinical Assistant Professor, Rutgers New Jersey Medical School, East Orange, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Biopsy
+Lung Cancer
+Lung Diseases
+Pneumonia

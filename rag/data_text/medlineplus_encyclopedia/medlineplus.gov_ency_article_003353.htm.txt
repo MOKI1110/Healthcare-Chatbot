@@ -1,0 +1,82 @@
+C1 esterase inhibitor: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+C1 esterase inhibitor
+URL of this page: //medlineplus.gov/ency/article/003353.htm
+C1 esterase inhibitor
+To use the sharing features on this page, please enable JavaScript.
+C1 esterase inhibitor (C1-INH) is a protein found in the fluid part of your blood. It controls a protein called C1, which is part of the
+complement system
+.
+The complement system is a group of nearly 60 proteins in blood plasma or on the surface of some cells. The complement proteins work with your immune system to protect the body from infections. They also help remove dead cells and foreign material. There are nine major complement proteins. They are labeled C1 through C9. Rarely, people may inherit deficiency of some complement proteins. These people are prone to certain infections or
+autoimmune disorders
+.
+This article discusses the test that is done to measure the amount of C1-INH in your blood.
+How the Test is Performed
+A blood sample is needed. This is most often taken through a vein. The procedure is called a
+venipuncture
+.
+How to Prepare for the Test
+No special preparation is needed.
+How the Test will Feel
+When the needle is inserted to draw blood, some people feel moderate pain. Others may feel only a prick or stinging sensation. Afterward, there may be some throbbing.
+Why the Test is Performed
+You may have this test if you have signs of hereditary or acquired
+angioedema
+, which is a type of tissue swelling. Both forms of angioedema are caused by low levels of C1-INH.
+Complement factors may also be important in testing for autoimmune diseases, such as
+systemic lupus erythematosus
+.
+Normal Results
+Normal value ranges may vary slightly among different laboratories. Your health care provider will also measure the functional activity level of your C1 esterase inhibitor. Talk to your provider about the meaning of your specific test results.
+What Abnormal Results Mean
+Low levels of C1-INH may cause certain types of angioedema. Angioedema results in sudden swelling of the tissues of the face, upper throat and tongue. It may also cause difficulty breathing. Swelling in the intestine and abdominal pain may also occur.
+There are two types of angioedema that result from decreased levels of C1-INH. Hereditary angioedema affects children and young adults under age 20. Acquired angioedema is seen in adults older than age 40. Adults with acquired angioedema are much more likely to also have other conditions, such as cancer or autoimmune disease.
+Risks
+Risks associated with having blood drawn are slight, but may include:
+Excessive bleeding
+Fainting
+or feeling lightheaded
+Hematoma
+(blood accumulating under the skin)
+Infection (a slight risk any time the skin is broken)
+Alternative Names
+C1 inhibiting factor; C1-INH
+Images
+Blood test
+References
+Atkinson JP, Liszewski MK, Java A, Kulkarni HS. Complement and complement disorders. In: Rich RR, Fleisher TA, Schroeder HW, Weyand CM, Corry DB, Puck JM, eds.
+Clinical Immunology: Principles and Practice
+. 6th ed. Philadelphia, PA: Elsevier; 2023:chap 40.
+Leslie TA. Hereditary angioedema. In: Lebwohl MG, Heymann WR, Coulson IH, Murrell DF, eds.
+Treatment of Skin Disease: Comprehensive Therapeutic Strategies
+. 6th ed. Philadelphia, PA: Elsevier; 2022:chap 101.
+Saini SS. Urticaria and angioedema. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 232.
+Review Date 1/28/2025
+Updated by: Diane M. Horowitz, MD, Rheumatology and Internal Medicine, Northwell Health, Great Neck, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Edema
+Vascular Diseases

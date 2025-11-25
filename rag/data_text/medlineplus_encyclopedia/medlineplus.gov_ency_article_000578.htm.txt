@@ -1,0 +1,106 @@
+Drug-induced immune hemolytic anemia: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Drug-induced immune hemolytic anemia
+URL of this page: //medlineplus.gov/ency/article/000578.htm
+Drug-induced immune hemolytic anemia
+To use the sharing features on this page, please enable JavaScript.
+Drug-induced immune
+hemolytic anemia
+is a blood disorder that occurs when a medicine triggers the body's defense (immune) system to attack its own red blood cells. This causes red blood cells to break down earlier than normal, a process called hemolysis.
+Causes
+Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues.
+Normally, red blood cells last for about 120 days in the body. In people with hemolytic anemia, red blood cells in the blood are destroyed earlier than normal.
+In some cases, a medicine can cause the immune system to mistake your own red blood cells for foreign substances. The body responds by making antibodies to attack the body's own red blood cells. The antibodies attach to red blood cells and cause them to break down too early.
+Medicines that can cause this type of hemolytic anemia include:
+Cephalosporins (a class of antibiotics), most common cause
+Dapsone
+Levodopa
+Levofloxacin
+Methyldopa
+Nitrofurantoin
+Nonsteroidal anti-inflammatory drugs (NSAIDs)
+Penicillin and its derivatives
+Phenazopyridine (Pyridium)
+Drug-induced hemolytic anemia is rare in children.
+Symptoms
+Symptoms may include any of the following:
+Dark urine
+Fatigue
+Pale skin color
+Â (pallor)
+Rapid heart rate
+Shortness of breath
+Yellowing of the skin and whites of the eyes (
+jaundice
+)
+Exams and Tests
+A physical exam may show an
+enlarged spleen
+. You may have blood and urine tests to help diagnose this condition.
+Tests may include:
+Absolute
+reticulocyte count
+(immature red blood cells) to determine if red blood cells are being created in the bone marrow at an appropriate rate
+Direct or indirect Coombs test
+to check if there are antibodies against red blood cells that are causing red blood cells to die too early
+Indirect blood bilirubin
+(breakdown product of red blood cells) levels to check for jaundice
+Red blood cell count
+Serum haptoglobin
+to check if red blood cells are being destroyed too early
+Lactate dehydrogenase
+level, which increases with red cell destruction
+Urine hemoglobin
+to check for hemolysis
+Treatment
+Stopping the medicine that is causing the problem may relieve or control the symptoms.
+You may need to take a medicine called prednisone to suppress the immune response against the red blood cells. Special blood transfusions may be needed to treat severe symptoms. You will also be prescribed a folic acid supplement.
+Outlook (Prognosis)
+The outcome is good for most people if they stop taking the medicine that is causing the problem.
+Possible Complications
+Death caused by severe anemia is rare.
+Blood clots in the legs and lungs can also rarely occur.
+When to Contact a Medical Professional
+See your health care provider if you have symptoms of this condition.
+Prevention
+Avoid the medicine that caused this condition.
+Alternative Names
+Immune hemolytic anemia secondary to drugs; Anemia - immune hemolytic - secondary to drugs
+Images
+Antibodies
+References
+Michel M. Autoimmune and intravascular hemolytic anemias. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 146.
+Michel M, Jaeger U. Autoimmune hemolytic anemia. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 47.
+Remiker AS, Brandow AM. Hemolytic anemias resulting from extracellular factors -- immune hemolytic anemias. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 513.
+Review Date 2/3/2025
+Updated by: Warren Brenner, MD, Oncologist, Lynn Cancer Institute, Boca Raton, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Anemia

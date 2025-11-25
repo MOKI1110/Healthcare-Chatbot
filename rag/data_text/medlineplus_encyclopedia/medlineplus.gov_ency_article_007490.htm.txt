@@ -1,0 +1,114 @@
+Blood pressure measurement: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Blood pressure measurement
+URL of this page: //medlineplus.gov/ency/article/007490.htm
+Blood pressure measurement
+To use the sharing features on this page, please enable JavaScript.
+Blood pressure is a measurement of the force on the walls of your arteries as your heart pumps blood through your body.
+You can measure your blood pressure at home. You can also have it checked at your health care provider's office, many pharmacies, or even at some fire stations.
+How the Test is Performed
+Sit in a chair with your back supported. Your legs should be uncrossed, and your feet on the floor.
+Your arm should be supported so that your upper arm is at heart level. Roll up your sleeve so that your arm is bare. Be sure the sleeve is not bunched up and squeezing your arm. If it is, take your arm out of the sleeve, or remove the shirt entirely.
+You or your provider will wrap the blood pressure cuff snugly around your upper arm. The lower edge of the cuff should be 1 inch (2.5 cm) above the bend of your elbow.
+The cuff will be inflated quickly. This is done either by pumping the squeeze bulb or pushing a button on the device attached to the cuff. You will feel tightness around your arm.
+Next, the valve of the cuff is opened slightly, allowing the pressure to slowly fall. This happens automatically with most devices used at home.
+As the pressure falls, the reading when the sound of blood pulsing is first heard is recorded. This is the systolic pressure.
+As the air continues to be let out, the sounds will disappear. The point at which the sound stops is recorded. This is the diastolic pressure.
+Inflating the cuff too slowly or not inflating it to a high enough pressure may cause a false reading. If you loosen the valve too much, you will not be able to measure your blood pressure.
+The procedure should be done two or more times.
+How to Prepare for the Test
+Before you measure your blood pressure:
+Rest for at least 5 minutes, 10 minutes is better, before blood pressure is taken.
+DO NOT take your blood pressure when you are under stress, have had caffeine or used tobacco in the past 30 minutes, or have exercised recently.
+Take 2 or 3 readings at a sitting. Take the readings 1 minute apart. Remain seated. When checking your blood pressure on your own, note the time of the readings. Your provider may suggest that you do your readings at certain times of the day.
+A typical approach is to take your blood pressure before breakfast and dinner for 5 days.
+This will give you at least 10 readings and will help your provider make decisions about your blood pressure treatment.
+How the Test will Feel
+You will feel slight discomfort when the blood pressure cuff is inflated to its highest level.
+Why the Test is Performed
+High blood pressure has no symptoms (except in rare, extreme situations), so you may not know if you have this problem. High blood pressure is often discovered during a visit to your provider for another reason, such as a routine physical exam.
+Finding high blood pressure and treating it early can help prevent heart disease,
+stroke
+, eye problems, or
+chronic kidney disease
+. All adults 18 years and older should have their blood pressure checked regularly:
+Once a year for adults aged 40 years and older
+Once a year for people at increased risk for high blood pressure, including people who are overweight or obese, African Americans, and those with an elevated blood pressure (120/80 mm Hg or higher)
+Every 3 to 5 years for adults aged 18 to 39 years with blood pressure lower than 120/80 mm Hg who do not have other risk factors
+Your provider may recommend more frequent checks based on your blood pressure levels and other health conditions.
+Normal Results
+Blood pressure readings are usually given as two numbers. For example, your provider might tell you that your blood pressure is 120 over 80 (written as 120/80 mm Hg). One or both of these numbers can be too high.
+Normal blood pressure is when the top number (systolic blood pressure) is below 120 and the bottom number (diastolic blood pressure) is below 80 (written as 120/80 mm Hg).
+What Abnormal Results Mean
+If your systolic blood pressure is 120 to 129 and your diastolic blood pressure is less than 80, you have elevated blood pressure.
+Your provider will recommend lifestyle changes to bring your blood pressure down to a normal range.
+Medicines are rarely used at this stage.
+If your blood pressure is 130/80 or higher but lower than 140/90 mm Hg, you have Stage 1 high blood pressure. When thinking about the best treatment, you and your provider must consider:
+If you have no other diseases or risk factors, your provider may recommend lifestyle changes and repeat the measurements after a few months.
+If your blood pressure remains 130/80 or higher but lower than 140/90 mm Hg, your provider may recommend medicines to treat high blood pressure.
+If you have other diseases or risk factors for heart disease, your provider may be more likely to recommend medicines to treat high blood pressure and make lifestyle changes.
+If your blood pressure is 140/90 mm Hg or higher, you have Stage 2 high blood pressure. Your provider will most likely recommend you start medicines and make lifestyle changes.
+Most of the time, high blood pressure does not cause symptoms.
+Considerations
+It is normal for your blood pressure to vary at different times of the day:
+It is usually higher when you are at work.
+It drops slightly when you are at home.
+It is usually lowest when you are sleeping.
+It is normal for your blood pressure to increase suddenly when you wake up. In people with very high blood pressure, this is when they are most at risk for a heart attack and stroke.
+Blood pressure readings taken at home are usually a better measure of your current blood pressure than those taken at your provider's office.
+Make sure your home blood pressure monitor is accurate.
+Ask your provider to compare your home readings with those taken in the office.
+Many people get nervous at their provider's office and have higher readings than they have at home. This is called white coat hypertension. Home blood pressure readings can help detect this problem.
+Alternative Names
+Diastolic blood pressure; Systolic blood pressure; Blood pressure reading; Measuring blood pressure; Hypertension - blood pressure measurement; High blood pressure - blood pressure measurement; Sphygmomanometry
+References
+American Diabetes Association Professional Practice Committee. 10. Cardiovascular disease and risk management: standards of care in diabetes-2024.
+Diabetes Care
+. 2024;47:S179-S218. PMID: 38078592
+pubmed.ncbi.nlm.nih.gov/38078592
+.
+American Heart Association (AHA), American Medical Association (AMA) website. Target: BP.
+targetbp.org
+. Accessed August 1, 2024.
+Arnett DK, Blumenthal RS, Albert MA, et al. 2019 ACC/AHA guideline on the primary prevention of cardiovascular disease: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines .
+Circulation
+. 2019;140(11):e596-e646. PMID: 30879355
+pubmed.ncbi.nlm.nih.gov/30879355/
+.
+Ball JW, Dains JE, Flynn JA, Solomon BS, Stewart RW. Examination techniques and equipment. In: Ball JW, Dains JE, Flynn JA, Solomon BS, Stewart RW, eds.
+Seidel's Guide to Physical Examination
+. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 3.
+Bakris GL, Sorrentino MJ. Systemic hypertension: mechanisms, diagnosis and treatment. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+.12th ed. Philadelphia, PA: Elsevier; 2022:chap 26.
+Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+J Am Coll Cardiol
+. 2018;71(19):e127-e248. PMID: 29146535
+pubmed.ncbi.nlm.nih.gov/29146535/
+.
+Review Date 7/23/2024
+Updated by: Linda J. Vorvick, MD, Clinical Professor, Department of Family Medicine, UW Medicine, School of Medicine, University of Washington, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+High Blood Pressure

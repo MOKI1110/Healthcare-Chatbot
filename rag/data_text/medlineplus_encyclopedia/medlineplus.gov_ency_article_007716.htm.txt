@@ -1,0 +1,122 @@
+Myelodysplastic syndrome: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Myelodysplastic syndrome
+URL of this page: //medlineplus.gov/ency/article/007716.htm
+Myelodysplastic syndrome
+To use the sharing features on this page, please enable JavaScript.
+Myelodysplastic syndrome is a group of disorders in which the blood cells produced in the bone marrow do not mature into healthy cells. This leaves you with fewer healthy blood cells in your body. The blood cells that have matured may not function properly.
+Myelodysplastic syndrome (MDS) is a form of cancer. In about a third of people, MDS may develop into
+acute myeloid leukemia
+(AML).
+Causes
+Stem cells in bone marrow form different types of blood cells. With MDS, the DNA in stem cells becomes damaged. Because the DNA is damaged, the stem cells cannot produce healthy blood cells.
+The exact cause of MDS is not known. For most cases, there is no known cause.
+Risk factors for MDS include:
+Certain genetic disorders
+Exposure to environmental or industrial chemicals, fertilizers, pesticides, solvents, or heavy metals
+Smoking
+Prior cancer treatment increases the risk for MDS. This is called secondary or treatment-related MDS.
+Certain chemotherapy medicines increase the chance of developing MDS. This is a major risk factor.
+Radiation therapy, when used with chemotherapy, increases the risk for MDS even more.
+People who have stem cell transplants may develop MDS because they also receive high doses of chemotherapy.
+MDS usually occurs in adults age 60 years and older. It is more common in men.
+Watch this video about:
+Red blood cell production
+Symptoms
+Early stage MDS often has no symptoms. MDS is often discovered during other blood tests.
+People with very low blood counts often experience symptoms. Symptoms depend on the type of blood cell affected, and they include:
+Weakness or tiredness due to anemia
+Shortness of breath
+Easy bruising and bleeding
+Small red or purple pinpoint dots under the skin caused by bleeding
+Frequent infections and fever
+Exams and Tests
+People with MDS have a shortage of blood cells. MDS may reduce the number of one or more of these:
+Red blood cells
+White blood cells
+Platelets
+The shapes of these cells may also be changed. Your health care provider will perform a
+complete blood count
+and
+blood smear
+to find which type of blood cells have been affected.
+Other tests that may be performed are:
+Bone marrow aspiration and biopsy
+.
+Cytochemistry, flow cytometry, immunocytochemistry, and immunophenotyping tests are used to identify and classify specific types of MDS.
+Cytogenetics and fluorescent in situ hybridization (FISH) are used for genetic analysis. Cytogenetic testing can detect translocations and other genetic abnormalities. FISH is used to identify specific changes within chromosomes. Genetic variations identified by next generation sequencing may help determine the response to treatment.
+Some of these tests will help your provider determine what type of MDS you have. This will help your provider plan your treatment.
+Your provider may define your MDS as high-risk, intermediate-risk, or low-risk on the basis of:
+The severity of shortage of blood cells in your body
+The types of changes in your DNA
+The number of immature white blood cells in your bone marrow
+Since there is a risk of MDS developing into AML, regular follow-up with your provider may be required.
+Treatment
+Your treatment will depend on several factors:
+Whether you are low-risk or high-risk
+The type of MDS you have
+Your age, health, and other conditions you may have, such as diabetes or heart disease
+The goal of MDS treatment is to prevent leukemia from developing and to prevent problems due to a shortage of blood cells, infections and bleeding. It may consist of:
+Blood transfusion
+Medicines that promote the production of blood cells
+Medicines that suppress the immune system
+Low-dose
+chemotherapy
+to improve blood cell counts
+Stem cell transplantation
+Your provider may try one or more treatments to see what your MDS responds to.
+Outlook (Prognosis)
+The outlook will depend on your type of MDS and severity of symptoms. Your overall health also may affect your chances of recovery. Many people have stable MDS that does not progress into cancer for years, if ever.
+Some people with MDS may develop AML.
+Possible Complications
+MDS complications include:
+Bleeding
+Infections such as
+pneumonia
+, gastrointestinal infections, urinary infections
+AML
+When to Contact a Medical Professional
+Contact your provider if you:
+Feel weak and tired most of the time
+Bruise or bleed easily, have bleeding of the gums or frequent nosebleeds
+You notice red or purple spots of bleeding under the skin
+Alternative Names
+Myeloid malignancy; Myelodysplastic syndrome; MDS; Preleukemia; Smoldering leukemia; Refractory anemia; Refractory cytopenia
+Images
+Bone marrow aspiration
+References
+National Cancer Institute website. Myelodysplastic/myeloproliferative neoplasms treatment (PDQ) - health professional version.
+www.cancer.gov/types/myeloproliferative/hp/mds-mpd-treatment-pdq
+. Updated January 26, 2022. Accessed March 19, 2024.
+Nguyen PL, Hasserjian RP. Myelodysplastic syndromes. In: Hsi ED, ed.
+Hematopathology: Foundations of Diagnostic Pathology
+. 3rd ed. Philadelphia PA: Elsevier; 2018:chap 18.
+Stone RM. Myelodysplastic syndromes. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 167.
+Review Date 12/31/2023
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Myelodysplastic Syndromes

@@ -1,0 +1,110 @@
+Yaws (Endemic treponematoses)
+Skip to main content
+Overview
+Yaws is a chronic skin infection characterized by papillomas (noncancerous lumps) and ulcers. It is caused by the bacterium
+Treponema pallidum subspecies pertenue
+, which
+belongs to the same group of bacteria that causes venereal syphilis.
+Yaws primarily affects children aged under 15 years who live in poor communities in warm, humid and tropical forested areas of Africa, Asia, Latin America and the Pacific islands. The majority of affected populations live rural areas, far from health services. Poverty, low socio-economic conditions and poor personal hygiene facilitate the spread of yaws.
+Although there are over 80 000 cases of yaws each year, experts believe the disease can be controlled and ultimately eradicated for several reasons. First, it only occurs in humans, not animals, making control much easier. It is also easy to treat with readily available drugs and has already been eliminated in some countries, including India. The remaining pockets of yaws infection, although usually in remote places, means further spread is less likely with proper surveillance and control measures.
+Symptoms
+There are two stages of yaws infection. The early stage is when the patient is infectious and can spread the disease to others. In this stage, a papule (a noncancerous, outward-growing lump) develops at the site of infection. This papule is full of the organisms and may persist for 3–6 months followed by natural healing. Without treatment, this is followed by disseminated skin lesions over the body. Bone pain and bone lesions may also occur.
+The second stage is noninfectious and typically appears five years after infection. It is characterized by disabling consequences of the nose, bones and palmar/plantar hyperkeratosis (thickening).
+After a field diagnosis based on these symptoms, the disease can be confirmed by examining a sample from a skin legion under a special type of microscope (darkfield examination). Blood tests are not typically used because yaws is closely related to the bacterium that causes syphilis and the two diseases will show the same result.
+Treatment
+There is currently no vaccine for yaws. Health education and improved personal hygiene are the most important tactics for prevention.
+Two antibiotics can be used to treat yaws. A single oral dose of azithromycin (30 mg/kg, maximum 2 g) is the recommended treatment. Benzathine penicillin (single intramuscular dose) at 0.6 million units (children aged under 10 years) and 1.2 million units (people aged over 10 years) can be used for patients with suspected clinical treatment failure after azithromycin, or patients who cannot be treated with azithromycin. This treatment will result in complete clinical healing in 95% of cases but patients should be re-examined 4 weeks after receiving the antibiotics.
+A review of the historic documents from 1950s shows that over 90 countries and territories were endemic for yaws. Only 14 out of the 90 countries and territories have recent data on yaws based on the routine surveillance system; however, these figures may just be an indication of the presence of the disease and not its full extent. Ghana, Papua New Guinea and the Solomon Islands report over 10 000 cases per year. Ecuador and India appear to have interrupted transmission.
+Fact sheets
+Yaws
+Questions and answers
+Frequently asked questions on Yaws
+Databases and tools
+Yaws data from Global Health Observatory
+Status of yaws endemicity (interactive graph), GHO
+Status of yaws endemicity by country
+Resolutions and decisions
+Control of endemic treponematoses, 1978
+| WHA31.58
+Bejel and other Treponematoses, 1949
+| WHA2.36
+Initiatives and groups
+Skin NTDs Laboratory Network (Skin NTDs LABNET)
+Technical work
+Neglected Tropical Diseases
+News
+All →
+26 May 2025
+Departmental update
+Progress for NTDs: two resolutions adopted at WHA78
+1 April 2025
+Departmental update
+Global meeting calls for stronger partnerships to tackle skin NTDs
+24 March 2025
+Departmental update
+Second global meeting on skin NTDs focuses on advancing integration and innovation
+WHO Academy Course
+Yaws: Training of health workers at national and districts levels on skin-NTDs
+Our work
+Certifying countries for interruption of yaws transmission
+Supporting endemic countries to implement yaws eradication strategy
+Promoting and coordinating operational research on yaws
+Promoting the integrated approach to skin-related neglected tropical diseases
+Events
+24 – 26 March 2025
+Second global meeting on skin-related neglected tropical diseases (skin NTDs)
+Working Groups
+WHO Skin NTDs Working Groups (office.com)
+Following the Skin NTD Meeting held in Geneva, Switzerland from 27-31 March 2023, WHO is proposing to establish different INFORMAL WORKING GROUPS to help follow up of the main outcomes and keep the momentum.
+Publications
+All →
+6 September 2025
+Yaws eradication: guidance for serological surveys to assess interruption of transmision
+This document summarizes guidance developed for national programmes on conducting serosurveys to assess whether interruption of yaws transmission has
+been...
+Download
+Read More
+13 June 2025
+Skin health for all: update on skin neglected tropical diseases with a focus on Buruli ulcer and yaws
+Skin diseases in general are the third most prevalent cause of illness, with almost 5 billion incident cases of skin and subcutaneous diseases, and...
+Download
+Read More
+Fact file
+28 February 2018
+Yaws eradication
+Multimedia
+Infographic
+Countries reporting cases on at least one skin-NTD, 2017-2021
+20 October 2020
+How do we tackle the skin NTDs to reach the 2030 NTD road map targets?
+Yaws success story
+Calls
+3 October 2025
+Call for consultation
+Survey : WHA resolution on skin diseases as a global public health priority
+More literature
+Peer-reviewed publications (PubMed)
+Results for
+treponematoses
+or
+yaws
+Contact
+neglected.diseases@who.int
+Dr. Kingsley Bampoe Asiedu
+Medical officer
+asieduk@who.int
+Related health topics
+Communicable diseases
+Buruli ulcer  (Mycobacterium ulcerans infection)
+Diseases and conditions
+Leishmaniasis
+Diseases and conditions
+Leprosy (Hansen disease)
+Diseases and conditions
+Lymphatic filariasis (Elephantiasis)
+Diseases and conditions
+Leishmaniasis
+Diseases and conditions
+Mycetoma, chromoblastomycosis and other deep mycoses
+Diseases and conditions
+Onchocerciasis (river blindness)

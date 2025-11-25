@@ -1,0 +1,129 @@
+Polycythemia vera: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Polycythemia vera
+URL of this page: //medlineplus.gov/ency/article/000589.htm
+Polycythemia vera
+To use the sharing features on this page, please enable JavaScript.
+Polycythemia vera (PV) is a bone marrow disease that leads to an abnormal increase in the number of blood cells. The red blood cells are the most affected blood cell type.
+Causes
+PV is a disorder of the bone marrow. It mainly causes too many red blood cells to be produced. The numbers of white blood cells and platelets may also be higher than normal.
+PV is a rare disorder that occurs more often in men than in women. It is not usually seen in people under age 40. The problem is often linked to a variant gene called
+JAK2
+V617F. The cause of this variant gene is unknown. This variant gene is not an inherited disorder.
+Symptoms
+In people with PV, there are too many red blood cells in the blood. This results in thicker blood, which can't flow through small blood vessels normally, leading to symptoms such as:
+Trouble breathing when lying down
+Dizziness
+Feeling tired all the time
+Full feeling in the left upper abdomen (due to enlarged spleen)
+Headache
+Itchiness
+, especially after a warm bath
+Red skin coloring, especially of the face
+Shortness of breath
+Symptoms of blood clots in veins near the skin surface (
+phlebitis
+)
+Vision problems
+Ringing in the ears (
+tinnitus
+)
+Joint pain
+Exams and Tests
+Your health care provider will perform a physical exam. You may also have the following tests:
+Bone marrow biopsy
+Complete blood count
+Â with
+differential
+Comprehensive metabolic panel
+Erythropoietin level
+Genetic test for the
+JAK2
+V617F variant
+Oxygen saturation of the blood
+Vitamin B12 level
+PV may also affect the results of the following tests:
+Erythrocyte sedimentation rate
+(ESR)
+Lactate dehydrogenase
+Â (LDH)
+Leukocyte alkaline phosphatase
+Platelet aggregation test
+Serum uric acid
+PV must be distinguished from other causes of increased red blood cells.
+Treatment
+The goal of treatment is to reduce the thickness of the blood and prevent bleeding and clotting problems.
+A method called phlebotomy is used to decrease blood thickness. One unit of blood (about 1 pint, or 1/2 liter) is removed each week until the number of red blood cells drops. The treatment is continued as needed.
+Medicines that may be used include:
+Hydroxyurea to reduce the number of red blood cells made by the bone marrow. This medicine may be used when the numbers of other blood cell types are also high.
+Interferons to lower blood counts, especially in pregnancy.
+Ruxolitinib (Jakafi) to reduce the number of red blood cells and reduce an enlarged spleen. This medicine is prescribed when hydroxyurea and other treatments have failed.
+Taking aspirin to reduce the risk of blood clots may be an option for some people, but aspirin increases the risk for stomach bleeding.
+Ultraviolet-B or ultraviolet-A light therapy can reduce the severe itching some people experience.
+Support Groups
+More information and support for people with polycythemia vera and their families can be found at:
+The Leukemia and Lymphoma Society --
+www.lls.org/myeloproliferative-neoplasms/polycythemia-vera
+MPN Research Foundation --
+www.mpnresearchfoundation.org/living-with-an-mpn/
+National Organization for Rare Disorders --
+rarediseases.org/rare-diseases/polycythemia-vera/
+NIH Genetic and Rare Diseases Information Center --
+rarediseases.info.nih.gov/diseases/7422/polycythemia-vera
+Outlook (Prognosis)
+PV usually develops slowly. Most people do not have symptoms related to the disease at the time of diagnosis. The condition is often diagnosed before severe symptoms occur.
+Possible Complications
+Complications of PV may include:
+Acute myelogenous leukemia
+(AML)
+Bleeding from the stomach or other parts of the intestinal tract
+Gout
+(painful swelling of a joint)
+Heart failure
+Myelofibrosis
+(disorder of the bone marrow in which the marrow is replaced by fibrous scar tissue)
+Thrombosis (blood clotting, which can cause a
+stroke
+,
+heart attack
+, or other body damage)
+When to Contact a Medical Professional
+Contact your provider if symptoms of PVÂ develop.
+Alternative Names
+Primary polycythemia; Polycythemia rubra vera; P. Vera; Myeloproliferative disorder; Erythremia; Splenomegalic polycythemia; Vaquez's disease; Osler's disease; Polycythemia with chronic cyanosis; Erythrocytosis megalosplenica; Cryptogenic polycythemia
+References
+Gotlib J. Polycythemia vera, essential thrombocythemia, and primary myelofibrosis. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 152.
+Kremyanskaya M, Najfeld V, Mascarenhas J, Hoffman R. The polycythemias. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 70.
+National Cancer Institute website. Myeloproliferative neoplasms treatment (PDQ) -- health professional version.
+www.cancer.gov/types/myeloproliferative/hp/myeloproliferative-neoplasms-treatment
+. Updated September 27, 2024. Accessed February 11, 2025.
+Review Date 2/3/2025
+Updated by: Warren Brenner, MD, Oncologist, Lynn Cancer Institute, Boca Raton, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Bone Marrow Diseases

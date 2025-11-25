@@ -1,0 +1,198 @@
+Long COVID: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Long COVID
+URL of this page: //medlineplus.gov/ency/article/007791.htm
+Long COVID
+To use the sharing features on this page, please enable JavaScript.
+Most people who have
+COVID-19
+recover completely. Some people continue to have health problems after having COVID-19. This is called long COVID.
+Long COVID can happen in people who had mild to severe disease or no symptoms at all during an active COVID-19 infection. Long COVID most often affects adults. It can also occur in children, although less often.
+Other names for long COVID include: long-haul COVID, chronic COVID, post-COVID conditions (PCC), and post-acute sequelae of SARS CoV-2 infection (PASC).
+Causes
+Health experts are not sure exactly what causes long COVID. Some theories include:
+SARS-CoV-2 virus particles become active again in the body after the initial illness or one or more of the person's organs is taking longer to recover than the rest
+The
+immune system
+Â becomes overactive, causing inflammation in the body
+The overactive immune system makes antibodies that attack organs and tissues
+Long COVID health problems may be due to more than one of these factors. Research is ongoing to find out what causes long COVID, and who is most at risk.
+Your risk of developing long COVID may be higher if you:
+Had severe illness with COVID-19
+Required hospitalization or intensive care during COVID-19 infection
+Had other health conditions before COVID-19 infection
+Had inflammation in the heart, lungs, kidneys, brain, or other areas if the body following COVID-19 infection (multisystem inflammatory syndrome)
+Are not vaccinated
+Are an older adult
+Are female
+People at high risk for COVID-19 infection because of where they live and work and members of communities who don't have good access to health care may also be at risk for long COVID.
+People with mild COVID-19 can also develop longÂ COVID. Some people have developed long COVID and never knew they had a COVID-19 infection.
+Symptoms
+A person who has symptoms that persist for 4 or more weeks after a case of COVID-19 is said to have long COVID. Long COVID does not affect every person the same way. The symptoms may:
+Continue after your initial illness
+Begin later after you recover
+Go away and then come back
+Improve or get worse with time
+Be some of the same
+symptoms
+you had when you had COVID-19
+Be new symptoms
+Symptoms of long COVID may last for weeks, months, or longer. Although many people have mild symptoms, long COVID can be disabling for some people.
+Common symptoms of long COVID include:
+Fatigue
+or tiredness that makes it hard to do daily activities
+Fever
+Difficulty breathing or shortness of breath
+Cough
+Changes in smell or taste
+Worsening symptoms after vigorous physical or mental activity
+Long COVID can affect different body systems and include other symptoms:
+Brain and nerves
+-- headache,
+difficulty thinking or concentrating
+(sometimes called brain fog), sleep problems, dizziness, tingling, numbness
+Mental health
+-- mood changes,
+depression
+, anxiety, post-traumatic stress disorder (
+PTSD
+)
+Bones and joints
+-- joint pain, muscle pain
+Digestive
+-- stomach pain, diarrhea, constipation, appetite changes
+Heart and blood
+--
+blood clots
+, chest pain,
+palpitations
+(fast or irregular heartbeat)
+Long COVID may affect multiple organs in the body, such as the lungs, kidneys, heart, brain, and skin. People who had severe COVID-19 are more at risk for multi-organ effects. This increases the risk for a person to develop diabetes, heart conditions, or neurological problems compared to people who did not have COVID-19.
+Some long COVID symptoms, such as muscle weakness and PTSDÂ may result from having spent a long time in the hospital. These effects can occur from any illness that leads to being in bed for a long time and being on a breathing machine (intubated).
+Long COVID symptoms vary a lot and can be hard to figure out and manage. Because of this, people with long COVID can have a hard time getting a proper diagnosis.
+Exams and Tests
+There are no specific tests for long COVID. Your health care provider may diagnose you with long COVID based on:
+Your symptoms
+A physical exam
+Your health history, including whether you had COVID-19 before
+Complete blood count (CBC)
+Complete metabolic panel
+Urinalysis
+Liver function tests
+C-reactive protein
+Erythrocyte sedimentation rate (ESR)
+TSH
+Free T4
+Chest x-ray
+Electrocardiogram
+Â or
+cardiac MRI
+Tests for vitamin deficiencies
+vitamin D
+Â and
+B12
+Test for
+antibodies to COVID-19
+Â to document your initial infection
+Medical tests may be normal despite the presence of symptoms, and this does not rule out a long COVID diagnosis.
+Treatment
+There is no specific cure for long COVID. Treatment will depend on your symptoms and may include:
+A progressive exercise program
+Physical therapy
+Occupational therapy
+Speech and language therapy
+Neurological rehabilitation (for cognitive symptoms)
+Pulmonary rehabilitation
+Mental health care
+Medicines to help manage symptoms
+You may want to consider joining a clinical trial for long COVID. A clinical trial is a study using people who agree to participate in new tests or treatments. Clinical trials help researchers know whether a new treatment works well and is safe. The National Institutes of Health has created
+RECOVER: Researching COVID to Enhance Recovery
+where you can learn more about long COVID clinical trials near you.
+For the most up-to-date information on long COVID, visit these websites:
+Centers for Disease Control and Prevention: Long COVID basics --
+www.cdc.gov/covid/long-term-effects/
+Centers for Disease Control and Prevention: CDC science and the public health approach to long COVID --
+www.cdc.gov/covid/php/long-covid/
+Support Groups
+More information and support for people with long COVID and their families can be found at:
+Long COVID Kids --
+www.longcovidkids.org/support-services
+Outlook (Prognosis)
+COVID-19 is a new disease, so no one knows exactly what the outlook will be for people with post-COVID symptoms. Most people who have symptoms at 4 weeks after a COVID-19 infection will gradually improve. Research is ongoing into how to help people with long COVID overcome the condition.
+When to Contact a Medical Professional
+You should contact your provider if you had COVID-19 and you have ongoing symptoms for 4 weeks or more, or the same or new symptoms return 4 or more weeks after your illness.
+Call 911 or the local emergency number if you have:
+Trouble breathing
+Chest pain or pressure
+Confusion or inability to wake up
+Blue or gray lips or face
+(cyanosis)
+Any other symptoms that are severe or concern you
+Prevention
+The only way to prevent long COVID is to
+protect yourself from COVID-19 infection
+.
+Get an
+updated COVID-19 vaccine
+.
+Avoid contact with people who are suspected or confirmed to have COVID-19.
+Get yourself
+tested
+Â if you develop COVID-19 symptoms or come in contact with someone with COVID-19.
+Alternative Names
+Post-COVID; Post-COVID conditions; PCC; Long-haul COVID; Post-acute COVID-19; Post-acute sequelae of SARS CoV-2 infection; PASC; Long-term effects of COVID-19; Chronic COVID
+Images
+How long COVID affects the body
+Long-term effects of COVID
+References
+Berger Z, Altiery DE Jesus V, Assoumou SA, Greenhalgh T. Long COVID and health inequities: the role of primary care.
+Milbank Q.
+2021;99(2):519-541. Epub 2021 Mar 30. PMID: 33783907Â
+pubmed.ncbi.nlm.nih.gov/33783907/
+.
+Centers for Disease Control and Prevention website. COVID-19: clinical overview of long COVID.Â
+www.cdc.gov/covid/hcp/clinical-overview/index.html
+.Â Updated February 3, 2025. Accessed June 5, 2025.
+Centers for Disease Control and Prevention website. COVID-19: long COVID basics.
+www.cdc.gov/covid/long-term-effects/
+. Updated February 3, 2025. Accessed June 5, 2025.
+Crook H, Raza S, Nowell J, Young M, Edison P. Long covid- mechanisms, risk factors, and management. BMJ. 2021; 374:n1648. Erratum in: BMJ. 2021;3;374:n1944. PMID: 34312178
+pubmed.ncbi.nlm.nih.gov/34312178/
+.
+Ramadan MS, Bertolino L, Zampino R, Durante-Mangoni E; Monaldi Hospital Cardiovascular Infection Study Group. Cardiac sequelae after coronavirus disease 2019 recovery: a systematic review.
+Clin Microbiol Infect.
+2021;27(9):1250-1261. PMID: 34171458
+pubmed.ncbi.nlm.nih.gov/34171458/
+.
+Recover: researching COVID to enhance recovery website. What is long COVID?
+recovercovid.org/long-covid
+. Accessed January 7, 2025.
+World Health Organization website. Coronavirus Disease (COVID-19). Post COVID-19 condition.
+www.who.int/news-room/questions-and-answers/item/coronavirus-disease-(COVID-19)-post-COVID-19-condition
+. Updated March 28, 2023. Accessed January 7, 2025.
+Review Date 1/1/2025
+Updated by: Linda J. Vorvick, MD, Clinical Professor Emeritus, Department of Family Medicine, UW Medicine, School of Medicine, University of Washington, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 06/05/2025.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Post-COVID Conditions (Long COVID)

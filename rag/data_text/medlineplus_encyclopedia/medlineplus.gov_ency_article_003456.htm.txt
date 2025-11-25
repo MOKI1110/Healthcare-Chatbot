@@ -1,0 +1,116 @@
+Complement: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Complement
+URL of this page: //medlineplus.gov/ency/article/003456.htm
+Complement
+To use the sharing features on this page, please enable JavaScript.
+Complement is a blood test that measures the activity of certain proteins in the liquid portion of your blood.
+The complement system is a group of nearly 60 proteins that are in blood plasma or on the surface of some cells. The proteins work with your immune system and play a role to protect the body from infections, and to remove dead cells and foreign material. Rarely, people may inherit deficiency of one or more complement proteins. These people are prone to certain infections or autoimmune disorders.
+There are nine major complement proteins. They are labeled C1 through C9. This article describes the test that measures total complement activity.
+How the Test is Performed
+A blood sample is needed. This is most often taken through a vein. The procedure is called a
+venipuncture
+.
+How to Prepare for the Test
+There is no special preparation.
+How the Test will Feel
+When the needle is inserted to draw blood, some people feel slight pain. Others may feel only a prick or sting. Afterward, there may be some throbbing.
+Why the Test is Performed
+Total complement activity (CH50, CH100) looks at the overall activity of the complement system. In most cases, other tests that are more specific for the suspected disease are done first. C3 and C4 are the complement components measured most often.
+A complement test may be used to monitor people with an
+autoimmune disorder
+. It is also used to see if treatment for their condition is working. For example, people with active
+lupus erythematosus
+may have lower-than-normal levels of the complement proteins
+C3
+and
+C4
+.
+Complement activity varies throughout the body. For example, in people with
+rheumatoid arthritis
+, complement activity in the blood may be normal or higher-than-normal, but much lower-than-normal in the joint fluid.
+People with some bacterial blood infections and
+shock
+often have very low C3 and components of what's known as the alternative pathway. C3 is often also low in fungal infections and some parasitic infections, such as
+malaria
+.
+Normal Results
+The normal results for this test are:
+Total blood complement level: 41 to 90 hemolytic units
+C1 level: 14.9 to 22.1 mg/dL
+C3 levels: 88 to 201 mg/dL
+C4 levels: 15 to 45 mg/dL
+Note: mg/dL = milligrams per deciliter.
+Note: Normal value ranges may vary slightly among different laboratories. Talk to your health care provider about the meaning of your specific test results.
+The examples above show the common measurements for results for these tests. Some laboratories use different measurements or may test different specimens.
+What Abnormal Results Mean
+Increased complement activity may be seen in:
+Cancer
+Certain infections
+Ulcerative colitis
+Decreased complement activity may be seen in:
+Cirrhosis
+Glomerulonephritis
+Hereditary angioedema
+Hepatitis
+Kidney transplant
+rejection
+Lupus nephritis
+Malnutrition
+Systemic lupus erythematosus
+Rare inherited complement deficiencies
+Risks
+Risks associated with having blood drawn are slight, but may include:
+Excessive bleeding
+Fainting
+or feeling lightheaded
+Hematoma
+(blood accumulating under the skin)
+Infection (a slight risk any time the skin is broken)
+Considerations
+The "complement cascade" is a series of reactions that take place in the blood. The cascade activates the complement proteins. The result is an attack unit that creates holes in the membrane of bacteria, killing them.
+Alternative Names
+Complement assay; Complement proteins; CH50 test
+Images
+Blood test
+References
+Atkinson JP, Holers VM. Complement system in disease. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicin
+e. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 37.
+Bean KV, Massey HD, Gupta G. Mediators of inflammation: complement. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods.
+24th ed. Philadelphia, PA: Elsevier; 2022:chap 48.
+Ram S. Complement and deficiencies. In: Bennett JE, Dolin R, Blaser MJ, eds.
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases.
+9th ed. Philadelphia, PA: Elsevier; 2020:chap 9.
+Sullivan KE, Grumach AS. The complement system. In: Burks AW, Holgate ST, O'Hehir RE, et al, eds.
+Middleton's Allergy: Principles and Practice.
+9th ed. Philadelphia, PA: Elsevier; 2020:chap 8.
+Review Date 1/28/2025
+Updated by: Diane M. Horowitz, MD, Rheumatology and Internal Medicine, Northwell Health, Great Neck, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Autoimmune Diseases
+Lupus
+Rheumatoid Arthritis

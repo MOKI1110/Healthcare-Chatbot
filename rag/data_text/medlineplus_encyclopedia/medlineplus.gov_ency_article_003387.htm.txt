@@ -1,0 +1,88 @@
+Color vision test: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Color vision test
+URL of this page: //medlineplus.gov/ency/article/003387.htm
+Color vision test
+To use the sharing features on this page, please enable JavaScript.
+A color vision test checks your ability to distinguish between different colors.
+How the Test is Performed
+You will sit in a comfortable position in regular lighting. The health care provider will explain the test to you.
+There are several tests for color vision. During the most common, you will be shown several cards with colored dot patterns. These cards are called Ishihara plates. In the patterns, some of the dots will appear to form numbers or symbols. You will be asked to identify the symbols, if possible.
+As you cover one eye, the tester will hold the cards 14 inches (35 centimeters) from your face and ask you to quickly identify the symbol found in each color pattern.
+Depending on the problem suspected, you may be asked to determine the intensity of a color, particularly in one eye compared to the other. This is often tested by using the cap of a red eyedrop bottle.
+A more detailed test is called the Farnsworth Munsell 100 hue test in which you arrange 100 tiles in order as the hue gradually changes.
+How to Prepare for the Test
+If your child is having this test performed, it may be helpful to explain how the test will feel, and to practice or demonstrate on a doll. Your child will feel less anxious about the test if you explain what will happen and why.
+Usually there is a sample card of multicolored dots that almost everyone can identify, even people with color vision problems.
+If you or your child normally wears glasses, wear them during the test.
+Small children may be asked to tell the difference between a red bottle cap and caps of a different color.
+How the Test will Feel
+The test is similar to a vision test.
+Why the Test is Performed
+This test is done to determine whether you have any problems with your color vision.
+Color vision problems often fall into two categories:
+Present from birth (congenital) problems in the light-sensitive cells (cones) of the
+retina
+(the light-sensitive layer at the back of the eye) -- the color cards are used in this case.
+Diseases of the optic nerve (the nerve that carries visual information from the eye to the brain) -- the bottle caps are used in this case.
+Normal Results
+If your color vision is normal, you will be able to distinguish all the letters, numbers, or symbols on the Ishihara plates. If you were tested with bottle caps, you will be able to identify the colors correctly.
+What Abnormal Results Mean
+This test can determine the following congenital (present from birth) color vision problems:
+Achromatopsia -- complete
+color blindness
+, seeing only shades of gray
+Deuteranopia -- difficulty telling the difference between red/purple and green/purple
+Protanopia -- difficulty telling the difference between blue/green and red/green
+Tritanopia -- difficulty telling the difference between yellow/green and blue/green
+Problems in the optic nerve can show up as a loss of color intensity, although the color card test may be normal.
+There is no treatment for congenital colorblindness. But, there are special contact lenses that may help you distinguish between certain colors, depending on the type of colorblindness you have.
+Risks
+There are no risks with this test.
+Alternative Names
+Eye test - color; Vision test - color; Ishihara color vision test
+Images
+Color blindness tests
+References
+Chuck RS, Dunn SP, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Committee, et al. Comprehensive adult medical eye evaluation preferred practice pattern.
+Ophthalmology
+. 2021;128(1):P1-P29. PMID: 34933742
+pubmed.ncbi.nlm.nih.gov/34933742/
+.
+Hutchinson AK, Morse CL, Hercinovic A; American Academy of Ophthalmology Preferred Practice Pattern Pediatric Ophthalmology/Strabismus Panel, et al. Pediatric eye evaluations preferred practice pattern.
+Ophthalmology
+. 2023;130(3):P222-P270. PMID: 36543602
+pubmed.ncbi.nlm.nih.gov/36543602/
+.
+Salmon JF. Examination techniques. In: Salmon JF, ed.
+Kanski's Clinical Ophthalmology
+. 10th ed. Philadelphia, PA: Elsevier; 2025:chap 1.
+Salmon JF. Lens. In: Salmon JF, ed.
+Kanski's Clinical Ophthalmology
+. 10th ed. Philadelphia, PA: Elsevier; 2025:chap 10.
+Review Date 1/20/2025
+Updated by: Franklin W. Lusby, MD, Ophthalmologist, Lusby Vision Institute, La Jolla, CA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Color Blindness

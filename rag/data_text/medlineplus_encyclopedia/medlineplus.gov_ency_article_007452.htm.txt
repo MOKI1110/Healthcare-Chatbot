@@ -1,0 +1,107 @@
+Troponin test: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Troponin test
+URL of this page: //medlineplus.gov/ency/article/007452.htm
+Troponin test
+To use the sharing features on this page, please enable JavaScript.
+A troponin test measures the levels of troponin T or troponin I proteins in the blood. These proteins are released when the heart muscle has been damaged, such as occurs with a heart attack. The more damage there is to the heart, the greater the amount of troponin T and I there will be in the blood.
+How the Test is Performed
+A
+blood sample
+is needed.
+How to Prepare for the Test
+No special steps are needed to prepare, most of the time.
+How the Test will Feel
+You may feel slight pain or a sting when the needle is inserted. You may also feel some throbbing at the site after the blood is drawn.
+Why the Test is Performed
+The most common reason to perform this test is to see if a heart attack has occurred. Your health care provider will order this test if you have chest pain or other signs of a heart attack. The test is usually repeated two more times over the next 6 to 24 hours.
+Your provider may also order this test if you have
+angina
+that is getting worse, but no other signs of a heart attack. (Angina is chest pain thought to be from a part of your heart not getting enough blood flow.)
+The troponin test may also be done to help detect and evaluate other causes of heart injury.
+The test may be done along with other cardiac marker tests, such as
+CPK isoenzymes
+or
+myoglobin
+.
+Normal Results
+Cardiac troponin levels are normally so low they cannot be detected with most blood tests.
+Having normal troponin levels 12 hours after chest pain has started means a heart attack is unlikely.
+A normal value range may vary slightly among different laboratories. Some labs use different measurements (for example, "high sensitivity troponin test") or test different samples. Also, some labs have different cutoff points for "normal" and "probable myocardial infarction." Talk to your provider about the meaning of your specific test results.
+What Abnormal Results Mean
+Even a slight increase in the troponin level will often mean there has been some damage to the heart. Very high levels of troponin are a sign that a heart attack has occurred.
+Most patients who have had a heart attack have increased troponin levels within 6 hours. After 12 hours, almost everyone who has had a heart attack will have raised levels.
+Troponin levels may remain high for 1 to 2 weeks after a heart attack.
+Increased troponin levels may also be due to:
+Abnormally fast heartbeat
+High blood pressure in lung arteries (
+pulmonary hypertension
+)
+Blockage of a lung artery by a blood clot, fat, or tumor cells (
+pulmonary embolus
+)
+Congestive heart failure
+Coronary artery spasm
+Inflammation of the heart muscle usually due to a virus (
+myocarditis
+)
+Prolonged exercise (for example, due to marathons or triathlons)
+Trauma that injures the heart, such as a car accident
+Weakening of the heart muscle (
+cardiomyopathy
+)
+Long-term kidney disease
+Increased troponin levels may also result from certain medical procedures such as:
+Cardiac angioplasty/stenting
+Heart defibrillation or
+electrical cardioversion
+(purposeful shocking of the heart by medical personnel to correct an abnormal heart rhythm)
+Open heart surgery
+Radiofrequency ablation of the heart
+Alternative Names
+TroponinI; TnI; TroponinT; TnT; Cardiac-specific troponin I; Cardiac-specific troponin T; cTnl; cTnT
+Images
+Blood test
+References
+Bohula EA, Morrow DA. ST-Elevation myocardial infarction: management. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 38.
+Bonaca MP, Sabatine MS. Approach to the patient with chest pain. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 35.
+Lawton JS, Tamis-Holland JE, Bangalore S, et al. 2021 ACC/AHA/SCAI Guideline for coronary artery revascularization: Executive Summary: A report of the American College of Cardiology/American Heart Association joint committee on Clinical Practice Guidelines.
+Circulation
+. 2022;145(3):e18-e114. PMID: 34882435
+pubmed.ncbi.nlm.nih.gov/34882435/
+.
+Thygesen K, Alpert JS, Jaffe AS, Chaitman BR, Bax JJ; Executive Group on behalf of the Joint European Society of Cardiology (ESC)/American College of Cardiology (ACC)/American Heart Association (AHA)/World Heart Federation (WHF) Task Force for the Universal Definition of Myocardial Infarction. Fourth Universal Definition of Myocardial Infarction (2018).
+Circulation
+. 2018;138(20):e618-e651 PMID: 30571511
+pubmed.ncbi.nlm.nih.gov/30571511/
+.
+Review Date 10/23/2023
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Heart Attack

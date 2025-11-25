@@ -1,0 +1,137 @@
+Dengue and severe dengue
+Skip to main content
+Overview
+Dengue is a mosquito-borne viral infection common in warm, tropical climates. It is caused by any one of four closely related dengue viruses (called serotypes), which can lead to a broad spectrum of symptoms, including some that are extremely mild (unnoticeable) to those who may require medical intervention and hospitalization. In severe cases, fatalities can occur. There is no treatment for the infection itself, but the symptoms that a patient experiences can be managed.
+In 2023, WHO graded dengue as a Grade 3 emergency after outbreaks increased in several countries. Dengue epidemics tend to have seasonal patterns, with transmission often peaking
+during and after rainy seasons
+.
+Several factors contribute to this increase, including high mosquito population levels, susceptibility to circulating serotypes, favourable
+air temperatures
+,
+precipitation and humidity, all of which affect the reproduction and feeding patterns of mosquito populations, as well as the dengue virus incubation period. Unplanned urbanization and climatic factors such as heat waves and high temperatures have increased the intensity, frequency, duration and distribution of dengue in recent years. Lack of sustained surveillance and control interventions as well as staff are some of the other challenges. Absence of an integrated programmatic approach continues to affect countries.
+Symptoms
+Dengue is a self-limiting febrile illness with symptoms ranging from extremely mild (asymptomatic) to severe. Symptoms of dengue may be observed around 4–10 days after the bite of an infected mosquito. Common symptoms are like those of the flu, with patients experiencing:
+fever,
+headaches,
+pain behind the eyes,
+muscle and joint pain,
+nausea/vomiting,
+rash and
+fatigue.
+As the disease progresses, patients can also experience respiratory distress, bleeding from the nose and gums and rapid drop in blood pressure leading to shock. If left unmanaged, this can lead to death. Sound case management of dengue in hospitals has helped to reduce case-fatality rates to less than 1% in most affected countries.
+Dengue is increasing at a faster rate than any other communicable disease, with a significant increase over 24 years (2000–2024). Annual dengue incidence is estimated to be in the order of 100 million symptomatic cases a year, with another ~300 million asymptomatic infections. The greatest burden is seen in Asia (75%), followed by Latin America and Africa. 2024 recorded the highest levels of dengue with 14 305 764 cases and 10 576 deaths reported from 112 countries to WHO. WHO has established a global dengue surveillance dashboard to track cases from all regions. (
+https://worldhealthorg.shinyapps.io/dengue_global/
+)
+Treatment
+There are no specific antiviral treatments against dengue fever. Acetaminophen (Paracetamol) is indicated to bring down the fever. Acetylsalicylic acid (Aspirin) and related non-steroidal anti-inflammatory drugs (such as Ibuprofen) should be avoided.
+Recovery from infection by one dengue virus provides lifelong immunity against that particular virus serotype. However, this immunity confers only partial and transient protection against subsequent infection by the other three serotypes of the virus. Evidence suggests that sequential infection increases the risk of developing severe dengue. The time interval between infections and the particular viral sequence of infections may also be of importance.
+Currently, only one vaccine is available for dengue prevention. WHO recommends the use of Q-denga (TAK-003) in children aged 6–16 years in settings with high intensity of dengue transmission. The vaccination course consists of two injections given 3 months apart
+The best way to prevent infection is to avoid being bitten by mosquitoes during the daytime. Mosquitoes that transmit dengue virus often live in and around the home and in the garden. People should:
+wear clothing that covers the body well      (especially the legs and feet);
+keep mosquitoes out of the house by      placing insect screens over doors and windows;
+apply insect repellents according to the      manufacturer’s label instructions;
+sleep under a net, during the day;
+take extra precautions to prevent      transmission if a family member is infected by avoiding mosquito bites;      and
+clean the surroundings and prevent water      stagnation in and around homes.
+Fact sheets
+Dengue
+Questions and answers
+Frequently asked questions on dengue and severe dengue
+Databases and tools
+NTD roadmap tracker
+Global dengue surveillance dashboard
+Disease outbreak news
+Disease outbreak news
+Initiatives and groups
+Vector Control Advisory Group
+Resolutions and decisions
+Dengue fever and dengue haemorrhagic fever prevention and control;2002 | WHA55.17
+Prevención y control de la fiebre dengue y la fiebre hemorrágica dengue;2002 | WHA55.17
+Technical work
+Control of Neglected tropical Diseases
+News
+All →
+10 July 2025
+Departmental update
+New WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever
+22 May 2025
+Departmental update
+Dengue Expert Review Panel for Diagnostics
+DONs
+All →
+Disease Outbreak News
+Dengue - Iran (Islamic Republic of)
+22 July 2024 |
+Dengue - Iran (Islamic Republic of)
+Disease Outbreak News
+Dengue - Global situation
+30 May 2024 |
+Dengue - Global situation
+Disease Outbreak News
+Dengue - Global situation
+21 December 2023 |
+Dengue - Global situation
+Science in 5
+Episode #115 - Dengue Fever
+27 March 2024 | video (webinar).
+Why is Dengue fever spreading to places it did not exist before? What are the symptoms and treatments? What about vaccines? Dr Raman Velayudhan explains in Science in 5.
+Our work
+Improving data for dengue
+Enhancing dengue diagnosis and case management
+Engaging communities to sustain dengue vector control
+Promoting dengue vector surveillance and control
+Latest publications
+All →
+27 October 2025
+Dengue case management for primary health care and home-based care: Booklet for health professionals...
+The Dengue Case Management for Primary Health Care and Home-Based Care booklet, developed by the WHO South-East Asia Regional Office, is a comprehensive...
+Download
+Read More
+16 July 2025
+Policy considerations for strengthening preparedness and response to arbovirus epidemics and pandemics
+The increasing incidence of arboviral outbreaks, such as dengue, chikungunya, and Zika, highlights the need for urgent and stronger preparedness and response...
+Download
+Read More
+4 July 2025
+WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever
+World Health Organization (WHO) has just released the Integrated Guidelines on the Clinical Management of Arboviral Diseases — a crucial step...
+Download
+Read More
+28 April 2025
+Laboratory testing for dengue virus: interim guidance, April 2025
+Dengue is a growing global public health concern, with incidence rising significantly over the past two decades and cases doubling annually since 2021....
+Download
+Read More
+Documents
+All →
+24 May 2024
+Dengue information for travelers
+In light of recent outbreaks of dengue virus infection and ongoing transmission in multiple regions where Aedes aegypti and Aedes albopictus mosquitoes...
+Download
+Read More
+WHO Academy Course
+Self-learning course: Clinical diagnosis and management of dengue
+Feature story
+Dengue outbreak and response in Bangladesh
+Facts in pictures
+29 September 2019
+Dengue and severe dengue
+Multimedia
+All →
+Infographic
+Dengue and severe dengue
+Related links
+Integrated Vector Management
+Vector Control Advisory Group
+Contact
+neglected.diseases@who.int
+Dr Raman Velayudhan
+Scientist
+velayudhanr@who.int
+Other arbo-viral diseases
+14 April 2025
+Chikungunya
+6 August 2024
+Japanese encephalitis
+20 October 2025
+Yellow fever

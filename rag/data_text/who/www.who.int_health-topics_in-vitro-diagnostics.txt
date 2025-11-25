@@ -1,0 +1,145 @@
+In vitro diagnostics - Global
+Skip to main content
+Overview
+In vitro diagnostics (IVDs) are tests that can detect disease, conditions and infections. In vitro simply means ‘in glass’, meaning these tests are typically conducted in test tubes and similar equipment, as opposed to in vivo tests, which are conducted in the body itself. In vitro tests may be done in laboratories, health care facilities or even in the home. The tests themselves can be performed on a variety of instruments ranging from small, handheld tests to complex laboratory instruments. They allow doctors to diagnose patients effectively and work to provide appropriate treatments.
+Diagnosis is a driver of patient, financial and health systems impact, and a critical enabler of universal health coverage, but it is also the weakest link in the care cascade. This is especially true in primary healthcare settings in low- and middle-income countries. These countries often lack an integrated network of laboratories used for such diagnosis; however, broad set of IVDs is available for testing patients in the primary care setting where laboratories are not available.
+Impact
+Over 40 000 products are available today for in vitro diagnostic testing, covering a wide range of conditions. These include traditional laboratory-based tests, with samples being sent to a central laboratory for analysis, and point-of-care tests, which can be performed near, or at, the point of patient care. Point-of-care testing can help optimize treatment decision-making, avoid referrals, improve the efficiency of care and decrease costs, especially in resource-constrained settings where laboratory infrastructure is weak.
+Diagnostic tests are increasingly important around the world as a first defence against the spread of many diseases. The fight against tuberculosis, for example, replies on modern diagnostics as a prerequisite for the early, rapid and accurate detection of the disease and changes in drug resistance used in its treatment.
+In vitro diagnostics are also the first line of defence against the possibility of the re-emergence of eradicated diseases. Smallpox, for example, is unlikely to reappear; however, WHO maintains a network of partnerships around the world dedicated to the rapid diagnosis and containment of any potential cases.
+WHO response
+Access to good quality, affordable, and appropriate health products is indispensable to advance universal health coverage, address health emergencies, and promote healthier populations – the three strategic priorities of the World Health Organization (WHO) Thirteenth General Programme of Work 2019–2023.
+To ensure the quality of diagnosis for priority diseases, the WHO prequalification team evaluates the safety and performance of a number of diagnostic tests according to international standards. Tests found to meet the required criteria are listed on a public web site and eligible for procurement by UN and international procurement agencies. Countries may also use the prequalification list to purchase diagnostics.
+The WHO procurement service for in vitro diagnostics was established in 1990 to facilitate Member States' access to high quality HIV test kits at a reasonable cost. Over the years, the service has expanded to include diagnostics for HIV/AIDS, malaria, hepatitis B and hepatitis C, as well as basic laboratory consumables and equipment.
+The WHO also develops and updates the WHO Model List of Essential in vitro Diagnostics (EDL), a list of recommended in vitro diagnostic tests (IVDs) for  point of care in the community and for laboratory,  that should be available in every country. The EDL provides guidance based on the latest evidence, to countries for creating or updating their national lists of essential IVDs.
+Databases and tools
+WHO list of prequalified in vitro diagnostic products
+Initiatives and groups
+Strategic Advisory Group of Experts on In Vitro Diagnostics
+Resolutions and decisions
+WHA67.20: Regulatory system strengthening for medical products
+WHA63.12: Availability, safety and quality of blood products
+WHA76.5Strengthening diagnostics capacity
+WHA75(25) Standardization of medical devices nomenclature
+Technical work
+Regulation and Prequalification
+Health product and policy standards
+Selection, access and use of in vitro diagnostics
+Quality assurance of in vitro diagnostics
+News
+All →
+9 May 2025
+Joint News Release
+WHO and Medicines Patent Pool announce sublicensing agreement for rapid diagnostic test technology
+5 April 2024
+News release
+Global deployment of rapid diagnostic tests to boost fight against cholera
+19 October 2023
+News release
+WHO releases new list of essential diagnostics; new recommendations for hepatitis E virus tests, personal use glucose meters
+28 September 2020
+News release
+Global partnership to make available 120 million affordable, quality COVID-19 rapid tests for low- and middle-income countries
+Videos
+All →
+28 January 2021
+What is the WHO EDL for a better access to diagnostics?
+28 January 2021
+The importance of diagnostics and the EDL
+28 January 2021
+Developing a national EDL for a better access to diagnostics
+Publications
+All →
+24 February 2023
+Target product profile for readers of rapid diagnostic tests
+Lateral-flow rapid diagnostic tests (RDTs) continue to play a vital role in global health in the management
+and diagnosis of infectious diseases, including...
+Download
+Read More
+18 October 2023
+The selection and use of essential in vitro diagnostics: report of the fourth meeting of the WHO Strategic...
+The Technical report of the fourth meeting of the WHO Strategic Advisory Group of Experts on In Vitro Diagnostics, 2022 (including the fourth WHO model...
+Download
+Read More
+30 July 2021
+Selection of essential in vitro diagnostics at country level: using the WHO Model List of Essential In...
+This document intends to provide guidance to countries on methods for developing and updating national lists of essential in vitro diagnostics (NEDL)....
+Download
+Read More
+20 June 2021
+Guidance for post-market surveillance and market surveillance of medical devices, including in vitro...
+Post-market surveillance is a set of activities conducted by manufacturers, to collect and evaluate experience gained from medical devices that have...
+Download
+Read More
+Documents
+All →
+15 May 2025
+Interview with Dr Jicui Dong, Head of the Secretariat of the World Local
+Production...
+Download
+Read More
+Our work
+A diagnosis is the first step to getting effective treatment
+Discover the WHO Model List of Essential in vitro diagnostics (EDL) and improve health in your country.
+Download infographic
+Electronic WHO Model List of Essential In Vitro Diagnostics
+eEDL beta version
+Feature stories
+All →
+26 January 2023
+Syria takes steps to advance polio transition while strengthening essential health priorities
+19 January 2023
+Donors making a difference: building skills, building capacity
+19 December 2022
+Donors making a difference in 2022
+8 January 2020
+Expansion of the prequalification of in vitro diagnostics scope
+Events
+All →
+Global Forum for Public Procurement of Health Products
+4 – 7 November 2025
+Fifth WHO Global Forum on Medical Devices
+2 – 4 June 2025
+Open session day - 5th Meeting of the Strategic Advisory Group of Experts on IVDs
+25 November 2024 08:30 – 13:00 CET
+Commentaries
+8 April 2020
+Advice on the use of point-of-care immunodiagnostic tests for COVID-19
+Calls
+2 October 2024
+Call for consultation
+Call for public comments - Applications to the Fifth WHO model list of essential in vitro diagnostics (EDL5)
+20 March 2024
+Call for submissions
+Call for submission - Submissions for the fifth WHO model list of essential in vitro diagnostics (EDL 5)
+Required information for prequalifications
+Guidance for Manufacturers
+Guidance for Regulatory agencies
+Guidance for Evaluating laboratories
+Guidance for Procurement agencies
+Newsletter
+Q2 2025, Issue 49
+Q1 2025, Issue 48
+Issues 31 to 46
+In vitro diagnostics - Prequal
+Related links
+International Federation of Biomedical Laboratory Science – IFBLS
+The International Federation of Clinical Chemistry and Laboratory Medicine – IFCC
+World Association of Societies of Pathology and Laboratory Medicine – WASPaLM
+More information on in vitro diagnostics
+Emergency use listing procedure
+Related health topics
+Substances
+Biologicals
+Physiological interventions
+Blood products
+Health systems
+Blood transfusion safety
+Health interventions
+Diagnostics
+Health interventions
+Medical devices
+Health interventions
+Medicines
+Health interventions
+Vaccines and immunization

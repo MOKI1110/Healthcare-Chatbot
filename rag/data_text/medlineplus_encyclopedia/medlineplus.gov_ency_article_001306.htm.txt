@@ -1,0 +1,133 @@
+ABO incompatibility: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+ABO incompatibility
+URL of this page: //medlineplus.gov/ency/article/001306.htm
+ABO incompatibility
+To use the sharing features on this page, please enable JavaScript.
+A, B, AB, and O are the 4 major blood types. The types are based on small substances (molecules) on the surface of the blood cells.
+When people who haveÂ one blood type receive blood from someone with a different blood type, it may cause their immune system to react. This is called ABO incompatibility.
+Due to modern testing techniques, this problem is very rare.
+Causes
+The different blood types are:
+Type A
+Type B
+Type AB
+Type O
+People who have one blood type may form proteins (
+antibodies
+) that cause their immune system to react against one or more of the other blood types.
+Being exposed to another type of blood can cause a reaction. This is important when someone needs to receive a blood transfusion or have an organ transplant. The blood types must be compatible to avoid an ABO incompatibility reaction.
+For example:
+People with type A blood will react against type B or type AB blood.
+People with type B blood will react against type A or type AB blood.
+People with type O blood will react against type A, type B, or type AB blood.
+People with type AB blood will not react against type A, type B, type AB, or type O blood.
+Type O blood does not cause an immune response when it is given to people with type A, type B, or type AB blood. This is why type O blood cells can be given to people of any blood type. People with type O blood are called universal donors. But people with type O can only receive type O blood.
+Both blood and plasma transfusions must be matched to avoid an immune reaction. Before anyone receives blood, both the blood and the person receiving it are tested carefully to avoid a reaction. Usually, a reaction occurs because of a clerical error causing someone to receive incompatible blood.
+Symptoms
+The following are symptoms of ABO incompatible
+transfusion reactions
+:
+Low back pain
+Blood in urine
+Chills
+Feeling of impending doom
+Fever
+Nausea and vomiting
+Shortness of breath
+Increased heart rate
+Pain at infusion site
+Chest pain
+Dizziness
+Bronchospasm (spasm of the muscles lining the lung; causes cough)
+Yellow skin and whites of the eyes (
+jaundice
+)
+Acute kidney failure
+Low blood pressure
+Disseminated intravascular coagulation (DIC)
+Exams and Tests
+Your health care provider will perform a physical exam. Blood tests will usually show:
+The
+bilirubin level
+is high
+The
+complete blood count
+(CBC) shows damage to red blood cells or
+anemia
+The recipient's and donor's blood are not compatible
+Elevated
+lactate dehydrogenase
+(LDH)
+Elevated
+blood urea nitrogen (BUN)
+andÂ
+blood creatinine
+; in case of renal injury
+Prolonged
+prothrombin time
+or
+partial thromboplastin time
+(findings of DIC)
+Positive
+direct antiglobulin test
+(DAT)
+Urine tests show the presence of hemoglobin due to breakdown of red blood cells.
+Treatment
+In case of any reaction, the transfusion should be stopped immediately. Treatment may also include:
+Medicines used to treat allergic reactions (antihistamines)
+Medicines used to treat swelling and allergies (steroids)
+Fluids given through a vein (
+intravenously
+)
+Medicines to raise blood pressure if it drops too low
+Outlook (Prognosis)
+ABO incompatibility can be a very serious problem that can result in death. With the right and timely treatment, a full recovery is expected.
+Possible Complications
+Complications that may result include:
+Kidney failure
+Low blood pressure needing intensive care
+Death
+When to Contact a Medical Professional
+Contact your provider if you have recently had a blood transfusion or transplant and you have symptoms of ABO incompatibility.
+Prevention
+Careful testing of donor andÂ recipient blood types before transfusion or transplant can prevent this problem.
+Alternative Names
+Transfusion reaction - hemolytic; Acute hemolytic transfusion reaction; AHTR; Blood incompatibility - ABO
+Images
+Jaundiced infant
+Antibodies
+References
+Manis JP. Blood components, product modifications, and blood donor screening. In: Rifai N, Chiu RWK, Young I, Burnham CAD, Wittwer CT, eds.
+Tietz Textbook of Laboratory Medicine
+. 7th ed. St Louis, MO: Elsevier; 2023:chap 91.
+San Miguel CE, Kaide CG. Blood and blood components. In: Walls RM, ed. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 108.
+Schipperus MR, Wiersum-Osselton JC. Transfusion reactions to blood and hematopoietic stem cell therapy products. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 117.
+Review Date 6/17/2024
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Blood Transfusion and Donation

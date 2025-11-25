@@ -1,0 +1,132 @@
+Taeniasis and cysticercosis
+Skip to main content
+Overview
+Infection with the tapeworm
+Taenia solium
+can result in two distinct conditions:
+taeniasis
+and
+cysticercosis
+. Taeniasis is the intestinal infection with the tapeworm and it occurs when a person eats raw or undercooked, infected pork. Taeniasis has no major impact on human health. However, tapeworm eggs pass in the faeces of the tapeworm carrier and in the absence of a proper sanitation may contaminate the environment. While tapeworm eggs are infective for pigs,
+T. solium
+eggs may also infect humans if they are ingested by a person (via the fecal-oral route, or by ingesting contaminated food or water). Ingestion of tapeworm eggs causes infection with the larval parasite in the tissues such as
+muscles, skin, eyes and the central nervous system (human cysticercosis), with possible devastating effects on health.
+When cysts develop in the brain, the condition is referred to as
+neurocysticercosis
+.
+Symptoms
+Taeniasis
+is usually characterized by mild and non-specific symptoms associated to an intestinal infection (abdominal pain, nausea, diarrhoea, etc.). These symptoms may continue until the tapeworm dies following treatment, otherwise it may live for years.
+For
+cysticercosis
+, the incubation period is variable, and infected people may remain asymptomatic for years. In some endemic regions, infected people may develop visible or palpable nodules (a small solid bump or node which is solid that can be detected by touch) beneath the skin.
+Neurocysticercosis
+is associated with a variety of signs and symptoms depending on the number, size, stage and location of the pathological changes as well as the host’s immune response and the parasite’s genotype, but it can also be clinically asymptomatic. Symptoms may include chronic headaches, blindness, seizures (epilepsy if they are recurrent), hydrocephalus, meningitis, dementia and symptoms caused by lesions occupying spaces of the central nervous system.
+Treatment
+The treatment of
+taeniasis
+by
+Taenia solium
+is important to prevent neurocysticercosis and as a tool to assist in controlling or stopping the parasite transmission cycle. The treatment can be done on an individual bases, or as Mass Drug Administration depending on the local circumstances and the control approaches being implemented. Taeniasis can be treated using anthelmintics (Praziquantel, Niclosamide, Albendazole).
+In
+neurocysticercosis
+, since the destruction of cysts may lead to an inflammatory response, specialised treatment of active disease is required and may include long courses with high doses of anthelmintic, as well as supporting therapy with corticosteroids and/or anti-epileptic drugs, and possibly surgery. The dosage and the duration of treatment can vary greatly and depend mainly on the number, size, location and developmental stage of the cysts, their surrounding inflammatory edema, acuteness and severity of clinical symptoms or signs.
+Fact sheets
+Taeniasis/cysticercosis
+Questions and answers
+Taeniasis and cysticercosis
+Forms, databases and tools
+Forms to request donated medicines, report data and mapping tool on taeniasis
+Taeniasis village selection tool
+Endemicity of
+T. solium
+, 2022
+Data on taeniasis and cysticercosis (Global Health Observatory)
+Resolutions and decisions
+Global burden of epilepsy and the need for coordinated action at the country level to address its health, social and public knowledge implications
+; 2015 |
+WHA68.12
+Technical work
+Control of Neglected Tropical Diseases
+OpenWHO Course
+Toolbox for the control and management of Taenia solium
+News
+All →
+4 November 2025
+Departmental update
+WHO and Bayer AG renew longstanding collaboration to eliminate three deadly neglected tropical diseases
+23 November 2023
+Departmental update
+New OpenWHO course: Toolbox for the control and management of Taenia solium
+15 November 2021
+Departmental update
+WHO and Bayer renew longstanding collaboration to accelerate control and elimination of neglected tropical diseases
+Our work
+Supporting a better clinical management of neurocysticercosis
+Supporting the development of diagnostic tools for Taenia solium infection
+Supporting countries in their cysticercosis control efforts
+Promoting prevention and control of Taenia solium infection through animals with the One Health approach
+Improving data on Taenia solium infections
+Publications
+All →
+25 November 2024
+Implementing Taenia solium control programmes in countries: monitoring and evaluation...
+This document aims to provide best practice on monitoring and evaluation of Taenia solium, as part of the World Health Organization’s (WHO) effort to develop...
+Download
+Read More
+16 September 2023
+Mapping protocol for Taenia solium: identification of endemic and high-risk areas
+The mapping tool for Taenia solium has three companion elements: this document, the Mapping Protocol;
+an Excel document, the Risk Classification Tool;...
+Download
+Read More
+16 September 2023
+Early detection and management of neurological serious adverse events in relation to the administration...
+Preventive anthelminthic chemotherapy programmes involving the administration of
+praziquantel or albendazole are used to control various neglected parasitic...
+Download
+Read More
+22 April 2023
+Symptoms and signs compatible or associated with neurocysticercosis
+Symptoms and signs compatible or associated with neurocysticercosis. People showing any of these symptoms and signs should not receive praziquantel without...
+Download
+Read More
+22 April 2023
+In areas where cysticercosis might be present
+In areas where cysticercosis might be present, at any time, but especially after receiving medication, if you feel headache, seizures, and any acute neurological...
+Download
+Read More
+Facts in pictures
+22 February 2018
+Neurocysticercosis
+Feature story
+26 January 2024
+Moving slow but steady following the first actions to control the disease caused by Taenia solium infection in Madagascar: voices from the field
+Multimedias
+All →
+29 November 2021
+A One Health Approach to Tackling the Pork Tapeworm
+10 January 2017
+Controlling porcine cysticercosis in Udaipur, Nepal
+More information
+Peer-reviewed publications (PubMed)
+Results for
+taeniasis
+and
+cysticercosis
+Foodborne Disease Burden Epidemiology Reference Group (FERG)
+Estimating the burden of foodborne diseases
+Contact
+neglected.diseases@who.int
+Dr Bernadette Abela-Ridder
+Technical officer
+abelab@who.int
+Related health topics
+Diseases and conditions
+Dengue and severe dengue
+Diseases and conditions
+Echinococcosis
+Diseases and conditions
+Rabies
+Diseases and conditions
+Snakebite envenoming

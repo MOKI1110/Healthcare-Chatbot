@@ -1,0 +1,104 @@
+Pseudohypoparathyroidism: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Pseudohypoparathyroidism
+URL of this page: //medlineplus.gov/ency/article/000364.htm
+Pseudohypoparathyroidism
+To use the sharing features on this page, please enable JavaScript.
+Pseudohypoparathyroidism (PHP)Â is a genetic disorder in which the body fails to respond to parathyroid hormone.
+A related condition is
+hypoparathyroidism
+,Â in which the body does not make enough parathyroid hormone.Â
+Causes
+The parathyroid glands produce parathyroid hormone (PTH). PTH helps regulate calcium, phosphorus, and vitamin D levels in the blood and is important for bone health.
+If you have PHP, your body produces the right amount of PTH, but is resistant to its effect. This causes low blood calcium levels and high blood phosphate levels.
+PHP is caused by abnormal genes. There are different types of PHP. All forms are rare and are usually diagnosed in childhood.
+Type 1a is inherited in an
+autosomal dominant manner
+. That means only one parent needs to pass you the variant gene for you to have the condition. It is also called Albright hereditary osteodystrophy. The condition causes short stature, round face, obesity, developmental delay, and short hand bones. Symptoms depend on whether you inherit the gene from your mother or father.
+Type 1b involves resistance to PTH only in the kidneys. Less is known about type 1b than type 1a. Calcium in the blood is low, but there are none of the other characteristic features of Albright hereditary osteodystrophy.
+Type 2 also involves low blood calcium and high blood phosphate levels. People with this form do not have the physical traits common to people with Type 1a. The genetic abnormality that causes it is not known. It is different from Type 1b in how the kidney responds to high PTH levels.
+Symptoms
+Symptoms are related to aÂ low level of calcium and include:
+Cataracts
+Dental problems
+Numbness
+Seizures
+Tetany (a collection of symptoms including muscle twitches and hand and foot cramps and muscle spasms)
+People with Albright hereditary osteodystrophy may have the following symptoms:
+Calcium deposits under the skin
+Dimples that can replace knuckles on affected fingers
+Round face and short neck
+Short hand bones, especially the bone below the 4th finger
+Short height
+Exams and Tests
+Blood tests will be done to check
+calcium
+,
+phosphorus
+, and
+PTH
+levels. You may also need urine tests.
+Other tests may include:
+Genetic testing
+Head MRI
+or
+CT scan of the brain
+Treatment
+Your health care provider will recommend calcium and vitamin D supplements to maintain a proper blood calcium level. If the blood phosphate level is high, you may need to follow a low-phosphorus diet or take medicines called phosphate binders (such as calcium carbonate or calcium acetate). Treatment is usually life-long.
+Outlook (Prognosis)
+Low blood calcium in PHP is usually milder than in other forms of hypoparathyroidism, but the severity of symptoms can be different between different people.
+Possible Complications
+People with type 1a PHPÂ are more likely to have other endocrine system problems (such as
+hypothyroidism
+and
+hypogonadism
+).
+PHP may be connected to other hormone problems, resulting in:
+Low sex drive
+Slow sexual development
+Low energy levels
+Weight gain
+When to Contact a Medical Professional
+Contact your provider if you or your child have any symptoms of a low calcium level or pseudohypoparathyroidism.
+Alternative Names
+Albright hereditary osteodystrophy; Types 1A and 1B pseudohypoparathyroidism; PHP
+Images
+Endocrine glands
+Parathyroid glands
+References
+Bastepe M, Juppner H. Pseudohypoparathyroidism, Albright's hereditary osteodystrophy, and progressive osseous heteroplasia: disorders caused by inactivating GNAS mutations that reduce Gsa activity. In: Robertson RP, ed.
+DeGroot's Endocrinology
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 57.
+Hanley PC, Doyle DA. Pseudohypoparathyroidism. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 612.
+Thakker RV. The parathyroid glands, hypercalcemia, and hypocalcemia. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 227.
+Review Date 5/20/2024
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Bone Diseases
+Metabolic Disorders

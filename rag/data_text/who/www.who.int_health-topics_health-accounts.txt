@@ -1,0 +1,80 @@
+Health accounts
+Skip to main content
+Overview
+The system of health accounts is an international accounting framework for systematically tracking health spending. Time trends of overall health spending and its components guide future policies and investments to make health systems more responsive to people’s needs. They are essential for improving the performance of health systems while enhancing transparency and accountability. Health expenditure data also provide insights for assessing the adequacy of health resources, evaluating the efficiency, effectiveness, and equity of resource allocations, benchmarking against peers, and monitoring the progress towards the key goals of universal health coverage and health security. Accordingly, the demand for timely, accurate, and comprehensive data on health expenditures has been increasing at both the country and global levels.
+“A System of Health Accounts 2011” (SHA 2011) establishes an integrated and comprehensive methodology for tracking health expenditure through a set of uniform accounts comparable across countries. The framework, which focuses on final consumption, tracks resource flows through the health system: from its sources (funding sources, financial arrangements), patterns of provision (providers and factors of provision), and through to its use (health care functions, diseases/programs).
+WHO Response
+WHO works closely with partners to establish and institutionalize harmonized, integrated mechanisms for the routine and timely collection and publication of health expenditure data, as well as using health accounts information in policymaking. At a technical level. WHO has developed methodologies, practical guidance, and IT tools, and provides direct technical support. At an institutional level, it involves efforts to help countries build their capacity to undertake such functions.
+Data collection on countries’ health expenditure, based on SHA 2011, is the foundation of the Global Health Expenditure Database (GHED) (
+https://apps.who.int/nha/database
+). GHED is a global public good: being an open-access platform that hosts internationally comparable data on annual health spending for more than 190 countries from 2000 onwards, as well as data visualization for easy comparisons across countries and over time. GHED also contains key methodology and guidance documents for health expenditure tracking. WHO works with the countries to update the GHED annually. To accompany the annual data release, WHO also publishes an annual global health expenditure report that provides an overview of the trends in global health expenditure, the thematic profile of spending, as well as special topics.
+Databases and tools
+Global health expenditure database
+Global Health Observatory – Health Expenditure
+Global Health Observatory – Current Health Expenditure
+Global Health Observatory – Health Financing
+Resolutions and decisions
+A/RES/74/2: Political declaration of the high-level meeting on universal health coverage
+WHA72.4: Preparation for the high-level meeting of the United Nations General Assembly on universal health coverage
+Technical work
+Health Systems Governance and Financing
+Health Expenditure Tracking
+Latest publications
+All →
+26 August 2025
+Methodology for the update of the Global Health Expenditure Database
+This document provides an overview of the WHO Global Health Expenditure Database (GHED), a key global resource for tracking health spending across more...
+Download
+Read More
+19 June 2025
+Tracking governance and administration expenditure under the System of Health Accounts 2011
+This document analyses country practices for measuring expenditure on governance and health system and health financing administration (hereafter referred...
+Download
+Read More
+9 December 2024
+Global spending on health: Emerging from the pandemic
+The Global Health Expenditure Report delves into the intricate landscape of global economies and health systems. This year, it focuses on health spending...
+Download
+Read More
+22 April 2024
+Framework for assessing maturity of health accounts institutionalization
+This document provides a framework for assessing the maturity of the institutionalization of Health Accounts (HA). The framework is based on elements commonly...
+Download
+Read More
+Our work
+All →
+Addressing the political economy of health financing reform
+Assessing country progress in health financing for UHC
+Fostering fiscal dialogue between finance and health
+Pooling revenues and reducing fragmentation
+Videos
+All →
+25 May 2020
+Global Spending on Health: A World in Transition (short version)
+25 May 2020
+Global Spending on Health: A World in Transition
+27 June 2018
+Universal Health Coverage – Everything You Need to Know about Global Health Expenditure
+Feature story
+All →
+24 May 2019
+There is no stopping our progress to advance health for all
+Events
+All →
+Global Spending on Health: Coping with the Pandemic
+11 December 2023 14:30 – 16:00 CET
+Global spending on health: rising to the pandemic’s challenges
+8 December 2022 14:00 – 15:30 CET
+Global expenditure on health: Public spending on the rise?
+15 December 2021 14:00 – 15:30 UTC Time
+Related health topics
+Health systems
+Health budget
+Health systems
+Health financing
+Other
+Universal health coverage
+Health systems
+Common goods for health
+Health systems
+Health taxes

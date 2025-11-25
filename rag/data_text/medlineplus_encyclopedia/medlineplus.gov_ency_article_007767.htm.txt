@@ -1,0 +1,159 @@
+Coronavirus: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Coronavirus
+URL of this page: //medlineplus.gov/ency/article/007767.htm
+Coronavirus
+To use the sharing features on this page, please enable JavaScript.
+Coronaviruses are a family of viruses. Infection with these viruses generally causes mild to moderate respiratory illnesses, such as the common cold. Some coronaviruses cause severe illness that can lead to pneumonia, and even death.
+Causes
+There are many different coronaviruses. They affect both humans and animals. Common human coronaviruses cause mild to moderate illnesses, such as the
+common cold
+.
+Some animal coronaviruses evolve (mutate) and can be passed from animals to humans. They may then spread through person-to-person contact. The coronaviruses that spread from animals to humans can sometimes cause more severe illness:
+Severe acute respiratory syndrome (SARS)
+is a serious form of
+pneumonia
+. It is caused by the SARS-CoV coronavirus. No cases in humans have been reported since 2004.
+Middle East Respiratory Syndrome (MERS)
+is a severe respiratory illness. MERS is caused by the MERS-CoV coronavirus. About 30% of people who have gotten this illness have died. Some people only have mild symptoms. MERS continues to cause illness in humans, mainly in the Arabian Peninsula.
+COVID-19
+can be a respiratory illness that causes cold or flu-like symptoms, but it can also affect other parts of your body. It is caused by the SARS-CoV-2 virus (severe acute respiratory syndrome coronavirus 2). COVID-19 can be a mild to serious illness and even fatal. COVID-19 is a serious public health threat globally and in the United States.
+Many coronaviruses originate in bats, which can then infect other animals. SARS-CoV spreads from civet cats, while MERS-CoV spreads from camels. The latest virus, SARS-CoV-2, is also suspected to have originated from animals. It is from the same family of viruses as SARS-CoV, which is why they have similar names. There are many other coronaviruses circulating in animals, but they haven't spread to humans.
+Once a person has been infected by a coronavirus, the infection can spread to a healthy person (person-to-person transmission). You can catch coronavirus infection when:
+An infected person sneezes, coughs, or blows their nose near you and releases the virus into the air (droplet infection)
+You touch, hug, shake hands with, or kiss an infected person
+Symptoms
+Human coronaviruses that cause the common cold spread from person-to-person. Symptoms develop in 2 to 14 days. These include:
+Runny nose
+Sore throat
+Sneezing
+Nasal congestion
+Fever, often with chills
+Headache
+Body aches
+Cough
+Exposure to MERS-CoV, SARS-CoV, and SARS-CoV-2 can cause severe symptoms. These include:
+Nausea and vomiting
+Shortness of breath
+Diarrhea
+Blood in phlegm (hemoptysis)
+Death
+Severe coronavirus infection may cause:
+Croup
+Pneumonia
+Bronchiolitis
+Bronchitis
+Symptoms may be severe in certain people:
+Children
+Older adults
+People with chronic conditions such as diabetes, cancer, chronic kidney disease, heart disease, or HIV infection
+People with respiratory illnesses such as asthma or COPD
+Exams and Tests
+Your health care provider may take a sample of the following for lab testing:
+Nasal swab (from the nostrils) or throat swab for a
+polymerase chain reaction (PCR) test
+for SARS-CoV-2 or other viruses
+Blood tests
+Sputum culture
+Stool and urine samples may also be taken in some cases.
+You may need further testing if your infection is severe. These tests may include:
+Blood chemistry tests
+Chest x-ray
+or
+chest CT scan
+Complete blood count (CBC)
+Diagnostic tests may not be available for all kinds of coronavirus.
+Treatment
+At this time, there is no specific treatment for coronavirus infection except for SARS-CoV-2. For a coronavirus infection not due to SARS-CoV-2, medicines are given only to ease your symptoms. Experimental treatments are sometimes used in severe cases.
+Mild coronavirus infections, such as the common cold, will go away in a few days with
+rest and self care at home
+.
+If you are suspected to have a severe coronavirus infection and are treated in a hospital, you may:
+Have to wear a
+face mask
+Stay in an isolated room or ICU for treatment
+Treatment for severe infections may include:
+Antibiotics, only if you also have bacterial pneumonia
+Antiviral medicines
+Steroids
+Oxygen, breathing support (mechanical ventilation), or chest therapy
+Treatment for
+COVID-19
+, the illness due to SARS-CoV-2, may involve additional antiviral medicines.
+Outlook (Prognosis)
+Common colds due to coronavirus usually resolve on their own. Severe coronavirus infections may require hospitalization and breathing support. Rarely, certain severe coronavirus infections may lead to death, especially in older people, children, or people with chronic conditions.
+Possible Complications
+Coronavirus infections may lead to bronchitis or pneumonia. Some severe forms may cause organ failure, and even death. Infection with SARS-CoV-2 may lead to
+long COVID
+(also called post-acute sequelae of COVID-19) in some people.
+When to Contact a Medical Professional
+Contact your provider if you have:
+Come in contact with a person with a coronavirus infection
+Travelled to a place which had an outbreak of a coronavirus infection and have developed common cold symptoms, shortness of breath, nausea, or diarrhea
+Prevention
+Follow these steps to lower your risk of infection:
+Avoid contact with people who have coronavirus infection.
+Avoid travelling to places that have an outbreak of coronavirus infection.
+Wash your hands properly
+or clean them with an alcohol-based hand sanitizer.
+Cover your mouth and nose with a tissue or sleeve (not your hands) when you sneeze or cough. Throw the tissue away.
+Do not share food, drink, or utensils.
+Clean commonly touched surfaces with a disinfectant.
+There are
+vaccines
+that can prevent severe disease with COVID-19. Contact your local health department to find out about availability in your area. Information about COVID-19 vaccines is available from the Centers for Disease Control and Prevention at
+www.cdc.gov/covid/vaccines/index.html
+.
+If you are travelling, talk to your provider about:
+Being up-to-date with vaccines
+Taking
+self-test kits
+Carrying medicines
+Alternative Names
+Coronavirus - SARS; Coronavirus - 2019-nCoV; Coronavirus - COVID-19; Coronavirus - Severe acute respiratory syndrome; Coronavirus - Middle East respiratory syndrome; Coronavirus - MERS
+Images
+Coronavirus
+Pneumonia
+Cold symptoms
+Respiratory system
+Upper respiratory tract
+Lower respiratory tract
+References
+Centers for Disease Control and Prevention website. COVID-19: about COVID-19.
+www.cdc.gov/covid/about/
+. Updated June13, 2024. Accessed January 5, 2025.
+Havers FP, Kirking H, Plumb ID. PRE-2019 coronaviruses. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier; 2024:chap 334.
+Perlman S, McIntosh K. Coronaviruses, including severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). In: Bennett JE, Dolin R, Blaser MJ eds.
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases.
+9th ed. Philadelphia, PA: Elsevier; 2020:chap 155.
+World Health Organization website. Coronavirus disease (COVID-19).
+www.who.int/health-topics/coronavirus#tab=tab_1
+. Accessed January 5, 2025.
+Review Date 1/1/2025
+Updated by: Linda J. Vorvick, MD, Clinical Professor Emeritus, Department of Family Medicine, UW Medicine, School of Medicine, University of Washington, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+COVID-19 (Coronavirus Disease 2019)

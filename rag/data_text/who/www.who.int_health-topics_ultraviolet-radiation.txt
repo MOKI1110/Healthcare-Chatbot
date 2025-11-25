@@ -1,0 +1,125 @@
+Ultraviolet radiation
+Skip to main content
+Overview
+Ultraviolet (UV) radiation covers the wavelength range of 100–400 nm, which is a higher frequency and lower wavelength than visible light. UV radiation comes naturally from the sun, but it can also be created by artificial sources used in industry, commerce and recreation.
+The UV region covers the wavelength range 100-400 nm and is divided into three bands:
+UVA (315-400 nm)
+UVB (280-315 nm)
+UVC (100-280 nm).
+As sunlight passes through the atmosphere, all UVC and approximately 90% of UVB radiation is absorbed by ozone, water vapour, oxygen and carbon dioxide. UVA radiation is less affected by the atmosphere. Therefore, the UV radiation reaching the Earth’s surface is largely composed of UVA with a small UVB component.
+The amount of UV radiation from the sun that hits the Earth’s surface depends on several factors, including the sun’s height in the sky, latitude, cloud cover, altitude, the thickness of the ozone layer and ground reflection. Reductions in the ozone layer due to human-created pollution increase the amount of UVA and UVB that reaches the surface. This can impact human health, animals, marine organisms and plant life. In humans, increased UV exposure can cause skin cancers, cataracts and immune system damage.
+Prevention
+The rise in the number of cases of skin cancer over the past decades is strongly related to increased exposure to the sun during outdoor activities and to artificial sources of UV radiation such as sunlamps and tanning beds. Overexposure is also the underlying cause of harmful effects on the eyes and immune system.
+Adopting a few simple precautions can greatly reduce the risk of these health conditions:
+Limit time in the midday sun from 10 a.m. to 4 p.m., particularly on days when the UV index is high.
+When UV rays are most intense and you must be outside, try to find shade and wear protective clothing, including a brimmed hat that provides sun protection for your head, face and neck.
+Use a broad-spectrum sunscreen of at least 15 SPF – ideally higher– and reapply every 2 hours.
+Avoid sunlamps and tanning parlours, as they are known to damage the skin and eyes.
+Children’s UV exposure should be carefully limited because they are in a dynamic state of growth and therefore more susceptible to environmental threats than adults. Many vital functions such as the immune system are not fully developed at birth, and unsafe environments may interfere with their normal development.
+WHO Response
+WHO works with Member States and partners to increase public understanding of the effects of overexposure to ultraviolet radiation.
+The INTERSUN Programme is a collaboration between WHO, the United Nations Environment Programme, the World Meteorological Organization, the International Agency on Cancer Research and the International Commission on Non-Ionizing Radiation Protection. It promotes and evaluates research on the health effects of UV radiation, and develops an appropriate response through guidelines, recommendations and information dissemination. The goals of the programme including providing practical and sound advice on the health and environmental impacts of UV exposure, to encourage countries to take action to reduce UV-induced health risks and to provide guidance to national authorities about sun awareness programmes.
+To this end, the programme collaborates with experts and specialist agencies to implement key research activities, identifies and quantifies health risks from UV radiation, develops reliable predictions of health and environmental consequences of changes in UV exposure with stratospheric ozone depletion, and develops practical ways of monitoring change in UV-induced health effects over time.
+The programme provides tools and guidelines related to the UV index, sun protection for children, artificial sunbeds, tourism and occupational health.
+Fact sheets
+Ultraviolet radiation
+Cancer
+Protecting workers' health
+Questions and answers
+Radiation: The known health effects of ultraviolet radiation
+Radiation: The ultraviolet (UV) index
+Databases and tools
+WHO Global Health Observatory: Exposure to solar ultraviolet (UV) radiation
+WHO Global Health Observatory: Legislation of artificial tanning sunbeds
+Initiatives and groups
+INTERSUN programme
+Initiative against extreme heat and health risks in workplaces and major events
+Resolutions and decisions
+WHA58(22) Cancer prevention and control
+WHA70(12) Cancer prevention and control in the context of an integrated approach
+WHA72(9) Global strategy on health, environment and climate change
+WHA78.7 Primary prevention and integrated care for sensory impairments including vision impairment and hearing loss, across the life course
+WHA78.11 Rare diseases: a global health priority for equity and inclusion
+WHA78.15 Skin diseases as a global public health priority
+Technical work
+Radiation and health
+News
+All →
+24 July 2025
+Departmental update
+WHO unveils health and environment scorecards for 194 countries
+12 June 2025
+Departmental update
+WHO’s “Beat the Heat” initiative making strides to protect workers and event participants from extreme heat and related environmental hazards
+29 July 2024
+Departmental update
+WHO announces the 2024 updated Compendium of interventions on environmental health
+16 July 2024
+Departmental update
+SunSmart Global UV App launches with new features to enhance sun protection
+Latest publications
+All →
+30 July 2024
+International travel and health - module 2: environmental health risks
+Depending on the health profile of the traveller, the type of travel to be undertaken, and the place of transit and destination, travellers may face various...
+Download
+Read More
+3 July 2024
+Compendium of WHO and other UN guidance in health and environment, 2024 update
+This is the 2024 update of the Compendium of WHO and other UN guidance on health and environment.
+The Compendium is a comprehensive collection of available...
+Download
+Read More
+23 January 2024
+Compendium of WHO and other UN guidance on health and environment: version with International Classification...
+In this version of the compendium, each guidance is coded using the International Classification of Health Interventions (ICHI).The compendium provides...
+Download
+Read More
+24 April 2022
+The effect of occupational exposure to solar ultraviolet radiation on malignant skin melanoma and non-melanoma...
+This is a report for the World Health Organization (WHO)/International Labour Organization (ILO) Joint Estimates of the Work-Related Burden of Disease...
+Download
+Read More
+Our work
+Enhancing radiation safety in health care
+Raising awareness on ultraviolet radiation
+Supporting the development of national policies on electromagnetic fields
+Infographics
+All →
+Infographic
+1 in 4 adults works outdoors: these workers face health risks from pollution and climate change
+Infographic
+1 in 4 workers is exposed to hazardous ultraviolet radiation from working in the sun
+Infographic
+1 in 3 deaths from non-melanoma skin cancer is caused by working in the sun
+Infographic
+Non-melanoma skin cancer caused by sunlight at work is particularly high among men or people aged 55 years or older
+Videos
+All →
+15 August 2019
+Question and answer on sunburn
+Events
+All →
+Webinar - Striking a balance: harms and benefits of sun exposure
+17 February 2022 10:00 – 11:00 CET
+Webinar: Disinfection using Ultraviolet Radiation
+17 December 2021 13:00 – 14:00 CET
+5th international UV and skin cancer prevention conference
+7 – 9 September 2021
+Health topics
+Non-communicable diseases
+Cancer
+Physical environment
+Children's environmental health
+Disasters
+Climate change
+Physical environment
+Environmental health
+Disasters
+Heatwaves
+Physical environment
+Occupational health
+Physical environment
+Radiation
+Socio-political determinants
+Travel and health

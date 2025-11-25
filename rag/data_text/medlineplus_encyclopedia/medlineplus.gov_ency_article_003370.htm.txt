@@ -1,0 +1,73 @@
+CSF myelin basic protein: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+CSF myelin basic protein
+URL of this page: //medlineplus.gov/ency/article/003370.htm
+CSF myelin basic protein
+To use the sharing features on this page, please enable JavaScript.
+CSF myelin basic protein is a test to measure the level of myelin basic protein (MBP) in the cerebrospinal fluid (CSF).
+CSF is a clear liquid that surrounds the brain and spinal cord.
+MBP is found in the material that covers many of your nerves.
+How the Test is Performed
+A sample of spinal fluid is needed. This is done using a
+lumbar puncture
+.
+Why the Test is Performed
+This test is done to see if myelin is breaking down.
+Multiple sclerosis
+is the most common cause for this, but other causes may include:
+Bleeding in the
+central nervous system
+Central nervous system trauma
+Certain brain diseases (encephalopathies)
+Infection of the central nervous system
+Stroke
+Traumatic brain injury
+Normal Results
+In general, there should be less than 4 ng/mL of myelin basic protein in the CSF.
+Normal value ranges may vary slightly among different labs. Talk to your health care provider about the meaning of your specific test results.
+The example above shows the common measurement result for this test. Some labs use different measurements or may test different specimens.
+What Abnormal Results Mean
+Myelin basic protein levels from 4 to 8 ng/mL may be a sign of a long-term (
+chronic
+) breakdown of myelin. It may also indicate recovery from an
+acute
+episode of myelin breakdown.
+If the myelin basic protein level is 9 ng/mL or greater, myelin is actively breaking down.
+Images
+Lumbar puncture (spinal tap)
+References
+Fabian MT, Krieger SC, Lublin FD. Multiple sclerosis and other inflammatory demyelinating diseases of the central nervous system. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2022: chap 80.
+Karcher DS, McPherson RA. Cerebrospinal, synovial, serous body fluids, and alternative specimens. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods
+. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 30.
+Schnapp BH, Jewell C. Central nervous system infections. In: Walls RM, ed.
+Rosen's Emergency Medicine: Concepts and Clinical Practice
+. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 95.
+Review Date 4/16/2025
+Updated by: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Multiple Sclerosis

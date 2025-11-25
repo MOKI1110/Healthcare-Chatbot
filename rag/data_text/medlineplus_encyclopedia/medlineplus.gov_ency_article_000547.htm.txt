@@ -1,0 +1,132 @@
+Antiphospholipid syndrome - APS: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Antiphospholipid syndrome - APS
+URL of this page: //medlineplus.gov/ency/article/000547.htm
+Antiphospholipid syndrome - APS
+To use the sharing features on this page, please enable JavaScript.
+Antiphospholipid syndrome (APS) is an autoimmune disorder that involves frequent blood clots (thromboses). When you have this condition, your body's immune system makes abnormal proteins that attack the blood cells and lining of the blood vessels. The presence of these
+antibodies
+can cause problems with blood flow and lead to dangerous clots in blood vessels throughout the body.
+Causes
+The exact cause of APS is not known. Both certain gene changes and other factors (such as an infection) may cause the problem to develop.
+It is often found in people with other autoimmune diseases, such as
+systemic lupus erythematosus
+(SLE). The condition is more common in women than in men. It is often found in women who have a history of repeated miscarriages.
+Some people carry the antibodies mentioned above, but do not have APS. Certain triggers may cause these people to have a blood clot, including:
+Infection
+Smoking
+Prolonged bed rest
+Pregnancy
+Hormone therapy or birth control pills
+Cancer
+Kidney disease
+Symptoms
+You may not have any symptoms, even though you have the antibodies. Symptoms that may occur include:
+Blood clots in the legs
+, arms or
+the lungs
+. The clots can be in either the veins or in the arteries.
+Recurrent
+miscarriages
+or
+still birth
+.
+Rash
+, in some people.
+In rare cases, clots suddenly develop in many arteries over a period of days. This is called catastrophic anti-phospholipid syndrome (CAPS). It can lead to stroke as well as the clots in the kidney, liver, and other organs throughout the body, and gangrene in the limbs. CAPS has a high mortality rate, even with treatment.
+Exams and Tests
+Tests for the lupus anticoagulant and antiphospholipid antibodies may be done when:
+An unexpected blood clot occurs, such as in young people or those with no other risk factors for a blood clot.
+A woman has a history of repeated pregnancy losses.
+The lupus anticoagulant tests are blood clotting tests. The antiphospholipid antibodies (aPL) cause the test to be abnormal in the laboratory.
+Types of clotting tests may include:
+Activated partial thromboplastin time (aPTT)
+Russell viper venom time
+Thromboplastin inhibition test
+Tests for antiphospholipid antibodies (aPL) will also be done. They include:
+Anticardiolipin antibody tests
+Antibodies to beta-2-glypoprotein I (Beta2-GPI)
+Your health care provider will diagnose APS if you have positive test for aPL or the lupus anticoagulant, and one or more of the following events:
+A blood clot
+Repeated miscarriages
+The positive tests need to be confirmed after 12 weeks. If you have a positive test without other features of the disease, you will not have the diagnosis of APS.
+Treatment
+The treatment for APS is directed at preventing complications from new blood clots forming or existing clots getting larger. You will need to take some form of blood-thinning medicine. If you also have an autoimmune disease, such as lupus, you will need to keep that condition under control as well.
+The exact treatment will depend on how severe your condition is and the complications it is causing.
+ANTIPHOSPHOLIPID ANTIBODY SYNDROME (APS)
+In general, you will need treatment with a blood thinner for a long time if you have APS. Initial treatment may be heparin. This medicine is given by injection.
+In most cases, warfarin (Coumadin), which is given by mouth, is then started. It is necessary to frequently monitor the level of anticoagulation. This is most often done using the INR test.
+If you have APS and become pregnant, you will need to be followed closely by a provider who is an expert in this condition. You will not take warfarin during pregnancy, but will be given heparin shots instead.
+If you have SLE and APS, your provider may also recommend that you take hydroxychloroquine.
+Currently, other types of blood thinning medicines are not recommended.
+CATASTROPHIC ANTIPHOSPHOLIPID SYNDROME (CAPS)
+Treatment for CAPS that involves a combination of anticoagulation therapy, high doses of corticosteroids, and plasma exchange has been effective in most people. Sometimes IVIG, rituximab or eculizumab is also used for severe cases.
+POSITIVE TEST FOR LUPUS ANTICOAGULANT OR APL
+You will not need treatment if you do not have symptoms, pregnancy loss, or if you have never had a blood clot.
+Take the following steps to help prevent blood clots from forming:
+Avoid most birth control pills or hormone treatments for menopause (women).
+DO NOT smoke or use other tobacco products.
+Get up and move around during long plane flights or other times when you have to sit or lie down for extended periods.
+Move your ankles up and down when you can't move around.
+You will be prescribed blood-thinning medicines (such as heparin and warfarin) to help prevent blood clots:
+After surgery
+After a
+bone fracture
+With active cancer
+When you need to sit or lie down for long periods of time, such as during a hospital stay or recovering at home
+You may also need to take blood thinners for 3 to 4 weeks after surgery to lower your risk for blood clots.
+Outlook (Prognosis)
+Without treatment, people with APS will have repeat clotting events. Most of the time, outcome is good with proper treatment, which includes long-term anticoagulation therapy. Some people may have blood clots that are hard to control in spite of treatments. This can lead to CAPS, which can be life-threatening.
+When to Contact a Medical Professional
+Contact your provider if you notice symptoms of a blood clot, such as:
+Swelling or redness in the leg
+Shortness of breath
+Pain,
+numbness
+, and pale skin color in an arm or leg
+Also talk to your provider if you have repeated loss of pregnancy (miscarriage).
+Alternative Names
+Anticardiolipin antibodies; Hughes syndrome
+Images
+Systemic lupus erythematosus rash on the face
+Blood clots
+References
+Barbhaiya M, Salmon JE, Erkan D. Antiphospholipid syndrome. In: Firestein GS, McInnes IB, Koretzky GA, Mikuls TR, Neogi T, O'Dell JR, eds.
+Firestein & Kelly's Textbook of Rheumatology
+. 12th ed. Philadelphia, PA: Elsevier; 2025:chap 83.
+Cervera R, RodriÂ­guez-Pinto I, Leagult K, Erkan D. 16th International Congress on Antiphospholipid Antibodies Task Force Report on catastrophic antiphospholipid syndrome.
+Lupus
+. 2020:29(12):1594-1600. PMID 32819183
+pubmed.ncbi.nlm.nih.gov/32819183/
+.
+National Heart, Lung, and Blood Institute website. Antiphospholipid syndrome (APS).
+www.nhlbi.nih.gov/health/antiphospholipid-syndrome
+. Updated March 24, 2022. Accessed February 19, 2025.
+Review Date 1/28/2025
+Updated by: Diane M. Horowitz, MD, Rheumatology and Internal Medicine, Northwell Health, Great Neck, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Blood Clots
+Infertility
+Lupus

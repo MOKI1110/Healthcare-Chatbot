@@ -1,0 +1,78 @@
+Brain natriuretic peptide test: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Brain natriuretic peptide test
+URL of this page: //medlineplus.gov/ency/article/007509.htm
+Brain natriuretic peptide test
+To use the sharing features on this page, please enable JavaScript.
+Brain natriuretic peptide (BNP) test is a blood test that measures levels of the protein BNP that is made by your heart and blood vessels. BNP levels are higher than normal when you have heart failure.
+How the Test is Performed
+A blood sample is needed. The blood is taken from a vein (
+venipuncture
+).
+This test is most often done in the emergency room or hospital. Results take up to 15 minutes. In some hospitals, a finger prick test with rapid results is available.
+How the Test will Feel
+When the needle is inserted to draw blood, you may feel a little pain. Most people feel only a prick or a stinging sensation. Afterward there may be some throbbing or bruising.
+Why the Test is Performed
+You may need this test if you have signs of heart failure. Symptoms include shortness of breath and swelling of your legs or abdomen. The test helps make sure your symptoms are due to your heart and not your lungs, kidneys, or liver.
+It is unclear if repeated BNP tests are helpful in guiding treatment in those already diagnosed with heart failure.
+Normal Results
+In general, results of less than 100 picograms/milliliter (pg/mL) suggest a person does not have heart failure.
+Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your health care provider about the meaning of your specific test results.
+What Abnormal Results Mean
+BNP levels go up when the heart cannot pump the way it should.
+A result greater than 100 pg/mL is abnormal. The higher the number, the more likely heart failure is present and the more severe it is.
+Sometimes other conditions can causeÂ high BNP levels. These include:
+Kidney failure
+Pulmonary embolism
+Pulmonary hypertension
+Severe infection (sepsis)
+Lung problems
+Risks
+Risks associated with having blood drawn are slight, but may include:
+Excessive bleeding
+Fainting or feeling lightheaded
+Hematoma (blood accumulating under the skin)
+Infection (a slight risk any time the skin is broken)
+Considerations
+A related test, called the N-terminal pro-BNP test, is done in the same way. It provides similar information, but the normal range is different.
+Images
+Blood test
+Heart - front view
+References
+Bock JL. Cardiac injury, atherosclerosis, and thrombotic disease. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods.
+24th ed. Philadelphia, PA: Elsevier; 2022:chap 19.
+Felker GM, Teerlink JR. Diagnosis and management of acute heart failure. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine.
+12th ed. Philadelphia, PA: Elsevier; 2022:chap 49.
+Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+Circulation.
+2022;145(18):e895-e1032. PMID: 35363499
+pubmed.ncbi.nlm.nih.gov/35363499/
+.
+Review Date 7/14/2024
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Heart Failure

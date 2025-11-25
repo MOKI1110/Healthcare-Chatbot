@@ -1,0 +1,82 @@
+Anti-insulin antibody test: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Anti-insulin antibody test
+URL of this page: //medlineplus.gov/ency/article/003375.htm
+Anti-insulin antibody test
+To use the sharing features on this page, please enable JavaScript.
+The anti-insulin antibody test checks to see if your body has produced
+antibodies
+against insulin.
+Antibodies are proteins the body produces to protect itself when it detects anything foreign, such as a virus or transplanted organ.
+How the Test is Performed
+A
+blood sample
+is needed.
+How to Prepare for the Test
+No special preparation is needed.
+How the Test will Feel
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.
+Why the Test is Performed
+This test may be performed if:
+You have or are at risk for
+type 1 diabetes
+You appear to have an allergic response to insulin
+Insulin no longer seems to control your diabetes
+You are taking insulin to control your diabetes and your blood sugar level varies a lot, with both high and low numbers that can't be explained by the food you are eating relative to the timing of your insulin injections
+Normal Results
+Normally, there are no antibodies against insulin in your blood. Antibodies can be found in the blood of many people who are taking insulin to control diabetes.
+Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or test different samples. Talk to your health care provider about the meaning of your specific test results.
+What Abnormal Results Mean
+The presence of IgG and IgM antibodies against insulin can be part of the testing that diagnoses you with type 1 diabetes.
+If you develop anti-insulin antibodies, insulin may not work as well, or it may not work at all. As a result, your blood sugar can be very high. Or the antibodies can also put you at risk for low blood sugar.
+Your provider may suggest a different form of insulin to which your body may be less likely to form antibodies.
+If the test shows a high level of IgE antibody against insulin, your body has developed an allergic response to the insulin.
+This could put you at risk for skin reactions where you inject insulin. You can also develop more severe reactions that affect your blood pressure or breathing.
+Medicines, such as antihistamines or low-dose injectable steroids, may help. Or you may need a treatment process called desensitization or a treatment to remove the antibodies from your blood.
+Risks
+There is little risk involved with having your blood taken. Veins and arteries vary in size from one person to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others.
+Other risks of having blood drawn are slight, but may include:
+Excessive bleeding
+Fainting or feeling lightheaded
+Multiple punctures to locate veins
+Hematoma
+(blood building up under the skin)
+Infection (a slight risk any time the skin is broken)
+Alternative Names
+Insulin antibodies - serum; Insulin Ab test; Insulin resistance - insulin antibodies; Diabetes - insulin antibodies
+Images
+Blood test
+References
+Atkinson MA, Mcgill DE, Dassau E, Laffel L. Type 1 diabetes mellitus. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds.
+Williams Textbook of Endocrinology
+. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 36.
+Kahn CR, Ferris HA, O'Neill BT. Pathophysiology of type 2 diabetes mellitus. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds.
+Williams Textbook of Endocrinology
+. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 34.
+Review Date 2/28/2024
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Diabetes
+Diabetes Type 1

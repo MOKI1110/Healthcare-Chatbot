@@ -1,0 +1,101 @@
+Partial breast radiation therapy - external beam: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Partial breast radiation therapy - external beam
+URL of this page: //medlineplus.gov/ency/article/007693.htm
+Partial breast radiation therapy - external beam
+To use the sharing features on this page, please enable JavaScript.
+External beam partial breast radiation therapy uses high-powered x-rays to kill
+breast cancer
+cells. This type of treatment does not target the entire breast, rather just part of the breast. This includes the area around where the original cancer was located, sparing some normal tissue.
+A standard course of whole breast directed external beam breast treatment takes 3 to 6 weeks. Partial breast radiation therapy can be accelerated (APBI) and accomplished in as little as 1 to 2 weeks. APBI targets a high dose of radiation only on or near the area where the breast tumor was removed. It avoids exposing the surrounding tissue to radiation.
+There are three common approaches for APBI:
+External beam, the topic of this article
+Brachytherapy
+(inserting radioactive sources into the breast)
+Intraoperative radiation (delivering radiation at the time of surgery in the operating room)
+Description
+Radiation therapy is usually delivered on an outpatient basis, except for intraoperative radiation therapy.
+Two common techniques are used for partial breast external beam radiation treatment:
+Three dimensional conformal external beam radiation (3DCRT)
+Intensity-modulated radiation therapy (IMRT)
+Before you have any radiation treatment, you will meet with the radiation oncologist. This person is a doctor who specializes in radiation therapy.
+The doctor will put small alignment marks on your skin. These marks ensure that you are correctly positioned during your treatments.
+These marks will either be ink marks or a permanent tattoo. Do not wash ink marks off until instructed by your doctor.
+The treatment is usually given 5 days a week for anywhere from 2 to 6 weeks. It may sometimes be given twice a day (usually with 4 to 6 hours between sessions).
+During each treatment session you will lie on a special table, either on your back or your stomach.
+The technicians will position you so the radiation targets the treatment area.
+You may be asked to hold your breath while the radiation is being delivered. This helps limit how much radiation your heart receives.
+Most often, you will receive radiation treatment for between 1 and 5 minutes. You will be in and out of the cancer center within 15 to 20 minutes on average.
+You are not radioactive after these radiation treatments. It is safe to be around others, including babies and children.
+Why the Procedure is Performed
+Experts have learned that certain cancers are most likely to return to the location of the original cancer. Therefore, in some cases, the whole breast may not need to receive radiation. Partial breast irradiation only treats some, but not all of the breast, focusing on the area where the cancer is most likely to return, usually around the surgical cavity. The thinking is that by sparing some normal tissue, it will lower the risk of side effects.
+APBI is used to prevent breast cancer from coming back. When radiation therapy is given after breast-conserving surgery, it is called adjuvant (additional) radiation therapy.
+APBI may be given after
+lumpectomy
+or partial
+mastectomy
+(called breast-conserving surgery) for:
+Ductal carcinoma in situ (DCIS)
+Stage I or II breast cancer
+Before the Procedure
+Tell your health care provider what medicines you are taking.
+Wear loose fitting clothes to the treatments.
+After the Procedure
+Radiation therapy can also damage or kill healthy cells. The death of healthy cells can lead to side effects. These side effects depend on the dose of radiation and how often you have the therapy. Radiation can have short-term (acute) or long-term (later) side effects.
+Short-term side effects can begin within days or weeks after treatment begins. Most side effects of this type go away within 4 to 6 weeks after treatment ends. The most common short-term effects include:
+Breast redness, tenderness, sensitivity
+Breast swelling or edema
+Breast infection (rare)
+Long-term side effects may begin months or years after treatment and may include:
+Decreased breast size
+Increased firmness of the breast
+Skin redness and discoloration
+In rare cases, rib fractures, heart problems (more likely for left breast radiation), or lung inflammation (called pneumonitis) or scar tissue affecting breathing
+The development of a second cancer in the breast or chest years or even decades later
+Arm swelling (edema) -- more common if lymph nodes were surgically removed and if the armpit area was treated with radiation
+Your providers will explain
+care at home
+during and after radiation treatment.
+Outlook (Prognosis)
+Partial breast radiation following breast conservation therapy reduces the risk of cancer coming back, and possibly even death from breast cancer.
+Alternative Names
+Carcinoma of the breast - partial radiation therapy; Partial external beam radiation - breast; Intensity-modulated radiation therapyÂ - breast cancer; IMRTÂ - breast cancer WBRT; Adjuvant partial breast - IMRT; APBI - IMRT; Accelerated partial breast irradiation - IMRT; Conformal external beam radiation - breast
+References
+Davidson NE. Breast cancer and benign breast disorders. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed. Philadelphia, PA: Elsevier; 2024:chap 183.
+National Cancer Institute website. Breast cancer treatment (PDQ) - health professional version.
+www.cancer.gov/types/breast/hp/breast-treatment-pdq
+. Updated October 11, 2024. Accessed October 25, 2024.
+National Cancer Institute website. Radiation therapy and you: support for people who have cancer.
+www.cancer.gov/publications/patient-education/radiation-and-you-2021-508.pdf
+. Updated April, 2021. Accessed October 25, 2024.
+Pisano CE, Harris EE. Partial breast irradiation: accelerated and intraoperative. In: Klimberg VS, Gradishar WJ, Bland KI, et al, eds.
+Bland and Copeland's The Breast.
+6th ed. Philadelphia, PA: Elsevier; 2024:chap 48.
+Review Date 7/16/2024
+Updated by: David Herold, MD, Radiation Oncologist in Jupiter, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Breast Cancer

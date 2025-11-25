@@ -1,0 +1,90 @@
+COVID-19 antibody test: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+COVID-19 antibody test
+URL of this page: //medlineplus.gov/ency/article/007773.htm
+COVID-19 antibody test
+To use the sharing features on this page, please enable JavaScript.
+This blood test shows if you have antibodies against the virus that causes COVID-19. Antibodies are proteins produced by the body in response to harmful substances, such as viruses and bacteria. Antibodies may help protect you from getting infected again (immune).
+The COVID-19 antibody test is not used to diagnose a current infection with COVID-19. To test if you are currently infected, you will need a SARS-CoV-2
+(or COVID-19) virus test
+.
+How the Test is Performed
+A
+blood sample
+is needed.
+The blood sample will be sent to a lab for testing. The test can detect one or more types of
+antibodies
+to SARS-CoV-2, the virus that causes
+COVID-19
+.
+How to Prepare for the Test
+No special preparation is needed.
+How the Test will Feel
+When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or a slight bruise. This soon goes away.
+Why the Test is Performed
+The COVID-19 antibody test is used for the following:
+To see if you have COVID-19 antibodies, which indicates you had a past infection or vaccination.
+To help diagnose multisystem inflammatory syndrome, a rare complication from COVID-19.
+To check the level of immunity within a population and estimate vaccine coverage.
+Normal Results
+The test is considered normal when it is negative. If you test negative, you likely have not had COVID-19 in the past.
+However, there are other reasons that may explain a negative test result.
+If you have recently been infected with COVID-19, antibodies may not yet be present, so you can still test negative.
+Some people infected with COVID-19 do not develop enough antibodies to be detected.
+If infection occurred a long time ago, there may not be enough antibodies to detect.
+What Abnormal Results Mean
+The test is considered abnormal when it is positive. This means you have antibodies to the virus that causes COVID-19. A positive test suggests:
+You may have been infected with SARS-CoV-2, the virus that causes COVID-19.
+You may have been infected with another virus from the same family of viruses (coronavirus).Â This is considered a false positive test for SARS-CoV-2.
+Because people vaccinated against SARS-CoV-2 commonly have positive antibody tests to the S (spike) protein, a positive antibody test does not always mean you were infected with SARS-CoV-2.
+You may or may not have had symptoms at the time of the infection.
+A positive result does not mean that you are immune to COVID-19. It is not certain if having these antibodies means that you are protected from future infections, or for how long the protection might last. Talk with your provider about what your test results mean.
+If you tested positive and you have
+symptoms of COVID-19
+, you may need a diagnostic test to confirm an active infection with SARS-CoV-2. You should stay at home andÂ
+take steps to protect others from getting COVID-19
+.Â
+Alternative Names
+SARS CoV-2 antibody test; COVID-19 serologic test; COVID-19 - past infection
+Images
+COVID-19
+Blood test
+References
+Centers for Disease Control and Prevention website. COVID-19: overview of testing for SARS-CoV-2.
+www.cdc.gov/covid/hcp/clinical-care/overview-testing-sars-cov-2.html
+. Updated August 29, 2024. Accessed January 6, 2025.
+Centers for Disease Control and Prevention website. COVID-19: testing for COVID-19.
+www.cdc.gov/covid/testing/index.html
+. Updated March 10, 2025. Accessed June 5, 2025.
+US Food and Drug Administration website. COVID-19 test basics.
+www.fda.gov/consumers/consumer-updates/covid-19-test-basics
+. Updated September 7, 2023. Accessed January 6, 2025.
+Del Rio C, Gandhi M, Cohen MS. COVID-19: epidemiology, clinical manifestations, diagnosis, community prevention, and prognosis. In: Goldman L, Cooney K, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 336.
+Review Date 1/1/2025
+Updated by: Linda J. Vorvick, MD, Clinical Professor Emeritus, Department of Family Medicine, UW Medicine, School of Medicine, University of Washington, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+COVID-19 Testing

@@ -1,0 +1,66 @@
+Cell phones and cancer: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Cell phones and cancer
+URL of this page: //medlineplus.gov/ency/article/007151.htm
+Cell phones and cancer
+To use the sharing features on this page, please enable JavaScript.
+The amount of time people spend on cell phones has increased dramatically. Research continues to investigate whether there is a relationship between long-term cell phone use and slow-growing
+tumors in the brain
+or other parts of the body.
+Information
+At this time it is not clear if there is a link between cell phone use and
+cancer
+. Studies that have been conducted have not reached consistent conclusions. More long-term research is needed.
+WHAT WE KNOW ABOUT CELL PHONE USE
+Cell phones use low levels of radiofrequency (RF) energy. It is not known whether RF from cell phones causes health problems, because the studies done so far have not been in agreement.
+The US Food and Drug Administration (FDA) and the Federal Communications Commission (FCC) have developed guidelines that limit the amount of RF energy cell phones are allowed to give off.
+The RF exposure from cell phones is measured in specific absorption rate (SAR). The SAR measures the amount of energy absorbed by the body. The SAR permitted in the United States is 1.6 watts per kilogram (W/kg).
+According to the FCC, this amount is much lower than the level shown to cause any changes in lab animals. Every cell phone manufacturer is required to report the RF exposure of each of its phone models to the FCC.
+CHILDREN AND CELL PHONES
+At this time, the effects of cell phone use on children are not clear. However, scientists do know that children absorb more RF than adults. For this reason, some agencies and government organizations recommend that children should avoid prolonged use of cell phones.
+REDUCING RISKS
+Although health problems related to long-term cell phone use are unknown, you can take steps to limit your potential risk:
+Keep calls short when using your cell phone.
+Use an earpiece or the speaker mode when making calls.
+When not using your cell phone, keep it away from your body, such as in your purse, briefcase, or backpack. Even when a cell phone is not in use, but is still turned on, it continues to give off radiation.
+Alternative Names
+Cancer and cell phones; Do cell phones cause cancer?
+References
+Federal Communications Commission website. Wireless devices and health concerns.
+www.fcc.gov/consumers/guides/wireless-devices-and-health-concerns
+. Updated November 4, 2020. Accessed August 28, 2024.
+Federal Communications Commission website. Specific absorption rate (SAR) for cell phones: what it means for you.
+www.fcc.gov/consumers/guides/specific-absorption-rate-sar-cell-phones-what-it-means-you
+. Updated October 15, 2019. Accessed August 28, 2024.
+National Cancer Institute website. Cell phones and cancer risk.
+www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet
+. Updated April 4, 2024. Accessed August 28, 2024.
+US Food & Drug Administration website. Reducing radio frequency exposure from cell phones.
+www.fda.gov/radiation-emitting-products/cell-phones/reducing-radio-frequency-exposure-cell-phones
+. Accessed August 28, 2024.
+Review Date 8/21/2024
+Updated by: Warren Brenner, MD, Oncologist, Lynn Cancer Institute, Boca Raton, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Electromagnetic Fields

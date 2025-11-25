@@ -1,0 +1,154 @@
+Health economics Global
+Skip to main content
+Overview
+This area of work in WHO covers both technical and allocative efficiency: Costing and budget impact, global price tags and investment cases, cost-effectiveness analysis and health technology assessment, benefit package design and priority setting and resource allocation.  The following tools facilitate the above mentioned work: WHO-CHOICE and the One Health Tool for costing and cost-effectiveness analysis, Accesmod for geographic modelling and EPIC for estimating economic consequences of disease and injury.
+Our work
+The following are the key areas of our work:
+Health technology assessment and Benefit Package Design -
+One of the key objectives for policymakers is to use existing and additional resources efficiently. This calls for prioritizing between and amongst interventions. There are several initiatives related to health technology assessment (HTA) and health benefit package design. These are:
+A survey on HTA and health benefit packages.
+The WHO-CHOICE (Choosing interventions that are Cost-Effective) project, with the Generalized Cost-Effectiveness Analysis methodology.
+The UHC Compendium.
+The OneHealth Tool, used to help countries to examine the costs and feasibility of their strategic plans, as well as to evaluate the plan’s impact.
+Costing and Technical Efficiency -
+The work on costing and technical efficiency explores questions around resource use in the health sector. Strategies for improving health and expanding access to health care services need to be examined from a resource perspective in order to ensure that they are feasible, efficient, affordable and sustainable.
+Health and the economy –
+While measurements of morbidity and mortality are key considerations for estimating the burden of disease in populations, they provide an incomplete picture of the adverse impact of ill health on human welfare. In particular, the economic consequences of poor health can be substantial. Analysis of the economic impact of ill-health addresses a number of policy questions concerning the consequences of disease or injury. Some of these questions relate to the microeconomic level of households, firms or government – such as the impact of ill-health on a household’s income or a firm’s profits – while others relate to the macroeconomic level, including the aggregate impact of a disease on a country’s current and future gross domestic product (GDP). WHO proposes a defined conceptual framework within which the economic impact of diseases and injuries can be considered and appropriately estimated.
+Tools used
+AccessMod
+– This is a toolbox that has been
+developed by WHO in order to assist countries to examine the geographic aspects
+of their health system. It specifically addresses the first three layers of a
+well-known framework developed by Tanahashi (1978) to evaluate health service
+coverage (the specific three layers being: the target population, availability
+coverage and accessibility coverage).
+EPIC – It
+is a model to estimate the burden of ill-health (or, conversely
+the contribution of improving health) on economic performance, through the
+direct and indirect impacts that health has on two key production factors: the
+labour force and physical capital. EPIC estimates how changes in health status
+affect the size of the effective labour force and the accumulation of physical
+capital and ultimately national income. EPIC may be used to conduct investment
+case in health.
+One Health Tool
+- The OneHealth Tool is a software tool designed to inform
+national strategic health planning in low- and middle-income countries. While
+many costing tools take a narrow disease-specific approach, the OneHealth Tool
+attempts to link strategic objectives and targets of disease control and
+prevention programmes to the required investments in health systems. The tool
+provides planners with a single framework for scenario analysis, costing,
+health impact analysis, budgeting, and financing of strategies for all major
+diseases and health system components. It is thus primarily intended to inform
+sector wide national strategic health plans and policies.
+UHC Compendium -
+The UHC Compendium is a database of health services and intersectoral interventions designed to assist countries in making progress towards Universal Health Coverage (UHC). It provides a strategic way to organize and present information and creates a framework to think about health services and health interventions. The database for the Compendium spans the full spectrum of promotive, preventive, resuscitative, curative, rehabilitative, and palliative services, as well as a full complement of intersectoral interventions. The Compendium will provide rapid one-stop access to supporting evidence, associated human and material resource inputs, and feedback on cost impact as interventions are selected.
+Questions and answers
+WHO-CHOICE
+Databases and tools
+AccessMod: geographic access to health care
+Economic projections for illness and cost of treatment (EPIC)
+One health tool
+UHC Compendium
+Resolutions and decisions
+WHA 77.13 (2024) Economics of health for all
+WHA 60.29 (2017) Health technologies
+WHA 67.23 (2014) Health intervention and technology assessment in support of universal health coverage
+SEA/RC66/R4 (2013) Health intervention and technology assessment in support of universal health coverage
+Technical work
+Health Financing and Economics
+News
+All →
+28 October 2024
+Departmental update
+International Day of Care and Support: time for gender-equitable investment to better value and recognize care workers
+23 May 2023
+News release
+Landmark report charts route for reorienting economies
+to deliver health for all
+6 December 2022
+News release
+Economics council issues mid-term report
+Our work
+All →
+Providing guidance to countries on institutionalizing Health Technology Assessment
+Latest publications
+All →
+21 May 2024
+Health labour market analysis in Tajikistan
+The Health Labour Market Analysis (‎HLMA)‎ was undertaken to understand the health workforce situation in Tajikistan to inform the development...
+Download
+Read More
+12 March 2024
+Fair share for health and care: gender and the undervaluation of health and care work
+The Fair Share report outlines how gender-equitable investments in health and care work can help fully recognize the value of health and care work, to...
+Download
+Read More
+12 January 2024
+Health benefit packages analysis of AB-PMJAY SEHAT
+This analysis provides recommendations for changes and rationalization of the health benefit package of the AB-PMJAY SEHAT scheme in Jammu & Kashmir...
+Download
+Read More
+11 December 2023
+Assessing employment effects for the health and care workforce: a guiding framework
+For policy makers, it is essential to assess the employment effects of policy interventions that increase and strengthen the health and care workforce....
+Download
+Read More
+Documents
+All →
+31 December 2024
+Working for Health: Optimize, build and strengthen the health and care workforce
+Working for Health: Optimize, build and strengthen the health and care workforce is a non-technical brochure that gives an overview of the Working for...
+Download
+Read More
+2 September 2024
+Approaches and tools to help finance and implement national action plans on AMR - Council Insight no....
+Antimicrobial resistance (AMR) threatens to become one of the biggest health challenges facing humanity, with devastating consequences, if humanity fails...
+Download
+Read More
+20 June 2024
+Exploring innovative financing solutions for pandemic preparedness and response - Council Insight no....
+The coronavirus disease (COVID-19) pandemic highlighted the fact that governments and international institutions were not financially equipped to address...
+Download
+Read More
+19 April 2024
+The mRNA Vaccine Technology Transfer Hub: a pilot for transformative change for the common good?
+WHO created the mRNA
+technology transfer programme (mRNA TT Programme) in mid-2021 to meet requests
+from low- and middle-income countries (LMIC) for...
+Download
+Read More
+Infographics
+All →
+Infographic
+Extending Life Expectancy
+Infographic
+What will be a healthier world cost?
+Infographic
+SDG Health Price Tag: Cost of reaching global health targets by 2030
+Infographic
+Health in the SDG Era
+Videos
+All →
+29 May 2024
+Building an economy for health for all
+12 March 2024
+Fair share for health and care
+12 March 2024
+Highlights: Fair share for health and care report launch at CSW68
+12 March 2024
+Fair share for health and care report launch at
+Events
+All →
+Structures for Success: The Power of Effective Workforce Governance: Working for Health 2030 Seminar Series
+2 April 2025 11:00 – 13:00 GMT
+Special webinar: Oxygen scale-up initiatives
+13 February 2025 13:30 – 15:00 CET
+Here, There, and Everywhere’: Enabling Equitable Distribution of Health and Care Workers Across the Urban-Rural Divide: Working for Health 2030 webinar 7
+23 January 2025 11:00 – 13:00 GMT
+Launch of the WHO Economic Council’s case study on the mRNA Vaccine TT programme
+19 April 2024 14:00 – 15:00 CET
+Related health topics
+Health systems
+Financial protection
+Health systems
+Health taxes

@@ -1,0 +1,131 @@
+Thyroid cancer: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Thyroid cancer
+URL of this page: //medlineplus.gov/ency/article/001213.htm
+Thyroid cancer
+To use the sharing features on this page, please enable JavaScript.
+Thyroid cancer is a cancer that starts in the thyroid gland. The thyroid gland is located in the front of your lower neck.
+Causes
+Thyroid cancer can occur in people of any age.
+Radiation to the thyroid increases the risk of developing thyroid cancer. Exposure may occur from:
+Radiation therapy
+to the neck (especially in childhood)
+Radiation exposure from nuclear plant disasters
+Other risk factors are a family history of thyroid cancer and chronic
+goiter
+(enlarged thyroid). Being overweight or having obesity may be a risk factor for papillary carcinoma of the thyroid.
+There are several types of thyroid cancer:
+Anaplastic carcinoma
+(also called giant and spindle cell cancer) is the most dangerous form of thyroid cancer. It is rare, and spreads quickly.
+Follicular carcinoma is more likely to come back and spread.
+Medullary carcinoma
+is a cancer of non-thyroid hormone-producing cells that are normally present in the thyroid gland. This form of thyroid cancer tends to occur in families.
+Papillary carcinoma
+is the most common type, and it usually affects women of childbearing age. It spreads slowly and is the least dangerous type of thyroid cancer.
+Symptoms
+Symptoms vary depending on the type of thyroid cancer, but may include:
+Cough
+Difficulty swallowing
+Enlargement of the thyroid gland
+Hoarseness or changing voice
+Neck swelling
+Thyroid lump (nodule)
+Exams and Tests
+Your health care provider will perform a physical exam. This may reveal a lump in your thyroid or swollen lymph nodes in your neck.
+The following tests may be done:
+Calcitonin
+blood test to check for medullary thyroid cancer
+An examination of the airway with a fiberoptic scope (
+laryngoscopy
+) may show a paralyzed vocal cord.
+Thyroid biopsy, which may include genetic testing of the cells obtained in the biopsy
+Thyroid scan
+TSH
+, free
+T4
+(blood tests for thyroid function)
+Ultrasound of the thyroid
+and the lymph nodes of the neck
+CT scan
+of the neck (to determine the extent of the cancerous mass)
+PET scan
+Treatment
+Treatment depends on the type of thyroid cancer. Treatment of most thyroid cancer types is effective if diagnosed early.
+Surgery is most often the initial treatment. All or part of the
+thyroid gland may be removed
+. If your provider suspects that the cancer has spread to lymph nodes in the neck, these will also be removed. If some of your thyroid gland remains, you will need follow-up ultrasound and possibly other studies to detect any regrowth of thyroid cancer.
+Radiation therapy may be done with or without surgery. It may be performed by:
+Taking radioactive iodine by mouth
+Aiming external beam (x-ray) radiation at the thyroid
+After treatment for thyroid cancer, you must take thyroid hormone pills for the rest of your life. The dosage is usually slightly higher than what your body needs. This helps keep the cancer from coming back. The pills also replace the thyroid hormone your body needs to function normally.
+If the cancer does not respond to surgery or radiation, and has spread to other parts of the body,
+chemotherapy
+or
+targeted therapy
+may be used. These are only needed by a small number of people.
+Support Groups
+You can ease the stress of illness by joining a
+cancer support group
+. Sharing with others who have common experiences and problems can help you not feel alone.
+Possible Complications
+Complications of thyroid cancer may include:
+Injury to the voice box and hoarseness after thyroid surgery
+Low calcium level from accidental removal of the parathyroid glands during surgery
+Spread of the cancer to the lungs, bones, or other parts of the body
+When to Contact a Medical Professional
+Contact your provider if you notice a lump in your neck.
+Prevention
+Awareness of risk (such as previous radiation therapy to the neck) can allow earlier diagnosis and treatment.
+Sometimes, people with family histories and genetic mutations related to medullary thyroid cancer will have their thyroid gland removed to prevent cancer.
+Alternative Names
+Tumor - thyroid; Cancer - thyroid; Nodule - thyroid cancer; Papillary thyroid carcinoma; Medullary thyroid carcinoma; Anaplastic thyroid carcinoma; Follicular thyroid cancer
+Patient Instructions
+Thyroid gland removal - discharge
+Images
+Endocrine glands
+Thyroid cancer - CT scan
+Thyroid cancer - CT scan
+Incision for thyroid gland surgery
+Thyroid gland
+References
+Kitahara CM, Pfeiffer RM, Sosa JA, Shiels MS. Impact of overweight and obesity on US Papillary Thyroid Cancer Incidence Trends (1995-2015).
+J Natl Cancer Inst
+. 2020;112(8):810. PMID: 31638139
+pubmed.ncbi.nlm.nih.gov/31638139/
+.
+National Cancer Institute website. Thyroid cancer treatment (PDQ) - health provisional version.
+www.cancer.gov/cancertopics/pdq/treatment/thyroid/HealthProfessional
+. Updated April 11, 2024. Accessed May 7, 2024.
+Pearce EN, Hollenberg AN. Thyroid. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 207.
+Suh I, Sosa JA. Thyroid. In: Townsend CM Jr, Beauchamp RD, Evers BM, Mattox KL, eds.
+Sabiston Textbook of Surgery
+. 21st ed. St Louis, MO: Elsevier; 2022:chap 37.
+Thompson LDR. Malignant neoplasms of the thyroid gland. In: Thompson LDR, Bishop JA, eds. Head and Neck Pathology. 3rd ed. Philadelphia, PA: Elsevier; 2019:chap 25.
+Review Date 2/28/2024
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Thyroid Cancer

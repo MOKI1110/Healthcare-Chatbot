@@ -1,0 +1,141 @@
+Human African trypanosomiasis (sleeping sickness)
+Skip to main content
+Overview
+Human African trypanosomiasis (HAT), or sleeping sickness, is caused by trypanosome parasites that are transmitted by tsetse flies. HAT is found only in sub-Saharan Africa. Two subspecies of
+Trypanosoma brucei
+cause disease:
+T. b. gambiense
+in West and Central Africa, and
+T. b. rhodesiense
+in East Africa.
+This life-threatening disease mostly affects poor rural populations, causing significant harm. Travellers to endemic regions may also be at risk of infection.
+HAT transmission requires the interaction of humans, tsetse flies and parasite reservoirs (humans, and domestic and wild animals). The animal reservoir is very important in
+T. b. rhodesiense
+and less so in
+T. b. gambiense
+, although it could explain the long-term endemicity in some foci despite control interventions.
+Transmission can be interrupted by depleting the parasite reservoirs through detection and treatment of infected people and/or domestic animals and by reducing the tsetse fly population and human–tsetse contact.
+In 1995, about 25 000 cases were detected, 300 000 undetected cases were estimated and 60 million people were estimated to be at risk of HAT infection. In 2001, WHO launched an initiative to reinforce control and surveillance, and HAT decreased markedly in the ensuing years. Since 2019, fewer than 1000 cases are reported yearly. This reduction does not reflect a lack of control efforts as in general active and passive screening has been maintained at similar levels (around 2.5 million people screened per year).
+Symptoms
+After infection, trypanosomes multiply in the blood and lymph (first-stage, haemolymphatic) and, following a variable incubation period (from days to months), unspecific symptoms and signs such as headache, fever, weakness, joint pain, and lymphadenopathy appear. Over time, the parasites cross the blood–brain barrier to invade the central nervous system (second-stage, meningoencephalitic), causing various neurological disturbances including sleep disorders (excessive daytime sleepiness, nocturnal insomnia), deep sensory disturbances, abnormal movements, tremor, ataxia, walking difficulties, speech difficulties, psychiatric disorders, seizures, coma and ultimately death. Most signs and symptoms are common to both stages, and sleep disorders in particular can appear already during the first stage.
+Rhodesiense HAT is typically acute, progressing to second-stage within a few weeks, and to death within 6 months. Gambiense HAT progresses slowly over around 3 years (highly variable).
+An inoculation chancre (dermal reaction of 3–4 cm at the tsetse bite site) may appear 2–3 days after infection with rhodesiense HAT in up to 25% of local patients, but more frequently in patients from non-endemic regions. It is rare with gambiense HAT.
+Sleeping sickness is diagnosed in several steps: after a clinical suspicion, serological tests (card agglutination trypanosomiasis test or HAT rapid diagnostic tests) can reinforce the suspicion, which should be confirmed by parasitological findings (in chancre exudate, lymphatic juice, blood and cerebrospinal fluid). Unfortunately, the usual serological tests are only applicable to
+T. b. gambiense.
+Stage is determined by the number of white blood cells and the presence of trypanosomes in cerebrospinal fluid examination.
+Treatment
+All confirmed HAT cases require treatment. Available treatment can cure most patients, completely eliminating trypanosomes from the body. Treatment of cases suspected by serology depends on specific conditions set by national protocols, which usually
+set specific conditions defining a higher suspicion index.
+The current treatment options include six medicines, all of which are donated by the manufacturers; WHO ensures their worldwide distribution free of charge.
+Treatment choices are based on the causative trypanosome and the disease stage. The medicines for treatment of second-stage must cross the blood–brain barrier and tend to be more toxic and complex to administer than first-stage medicines.
+In 2019, WHO issued
+interim guidelines for treatment of gambiense HAT
+. For treatment
+of rhodesiense HAT,
+the former guidelines
+remain valid.
+Gambiense HAT
+can be treated with oral fexinidazole in first-stage and also non-severe second-stage, with some limitations of age and body weight and following some important specific rules to ensure efficacy. In first-stage, intramuscular
+pentamidine can be also used, and in second stage nifurtimox–eflornithine combination therapy (NECT).
+Rhodesiense HAT
+must be treated without delay, because it can provoke multi-organ failure and progress to second stage within a few weeks. In first-stage, the treatment is intravenous suramin, with pentamidine as an alternative. In second-stage,
+the only treatment is intravenous melarsoprol.
+Fact sheets
+Trypanosomiasis, human African (sleeping sickness)
+Questions and answers
+Frequently asked questions on sleeping sickness (human African trypanosomiasis)
+Databases and tools
+Distribution in disease-endemic countries
+Risk of human African trypanosomiasis
+Interactive graph for HAT (Global Health Observatory)
+Number of reported cases (
+T.b. gambiense
+) GHO
+Number of reported cases (
+T.b. rhodesiense
+) GHO
+Resolutions and decisions
+Control of human African trypanosomiasis, 2004
+| WHA57.2
+Pan African Tsetse and trypanosomiasis eradication campaign, 2003
+| WHA56.7
+African trypanosomiasis, 1997
+| WHA50.36
+African human trypanosomiasis, 1983
+| WHA36.31
+Technical work
+Control of Neglected Tropical Diseases
+News
+All →
+4 November 2025
+Departmental update
+WHO and Bayer AG renew longstanding collaboration to eliminate three deadly neglected tropical diseases
+8 August 2025
+News release
+Kenya achieves elimination of human African trypanosomiasis or sleeping sickness as a public health problem
+7 February 2025
+Departmental update
+WHO delivers fexinidazole to Malawi and Zimbabwe – a long-awaited safer treatment for rhodesiense human African trypanosomiasis
+29 January 2025
+News release
+Guinea eliminates human African trypanosomiasis as a public health problem
+Our work
+Mapping and tracking transmission until the elimination of human African trypanosomiasis
+Coordinating partners and countries within one HAT network
+Supporting research and innovation in human African trypanosomiasis
+Supporting endemic countries to eliminate human African trypanosomiasis
+Publications
+All →
+28 June 2024
+Guidelines for the treatment of human African trypanosomiasis
+These guidelines are providing updated evidence-based recommendations on
+therapeutic choices to ensure the best possible treatment for individuals infected...
+Download
+Read More
+17 May 2024
+Human African trypanosomiasis eliminated as a public health problem in Chad
+Chad was validated for the elimination of gambiense  HAT as a public health problem in April 2024, and the work continues towards interrupting transmission...
+Download
+Read More
+External publications
+Elimination of human African trypanosomiasis: The long last mile.
+PloS Neglected Tropical Diseases. May 1, 2024, Pages 1-6
+The elimination of human African trypanosomiasis: Monitoring progress towards the 2021–2030 WHO road map targets
+PloS Neglected Tropical Diseases. April 16, 2024, Pages 1-22.
+Peer-reviewed publications (PubMed)
+Results for Human African trypanosomiasis
+Events
+All →
+Eighth International Course on Trypanosomiasis in Africa (ICAT8)
+23 September – 11 October 2024
+Fifth WHO stakeholders meeting on human African trypanosomiasis elimination
+7 – 9 June 2023
+Call for
+All →
+6 December 2023
+Call for consultation
+Public notice and comments on the Guideline Development Group for WHO human African trypanosomiasis therapeutic guideline
+22 September 2022
+Call for consultation
+Call for public consultation  ̶  Target Product Profile for two gambiense Human African Trypanosomiasis tests: (TPP3) individual test to assess infection in low prevalence settings; (TPP4) high-throughput test for verification of elimination
+Multimedia
+All →
+11 November 2024
+STR0gHAT Project - How to use KPS manufactured at the Biomedical Research Institute in Kinshasa
+Contact
+Dr. José Ramon Franco Minguell
+Medical officer
+francoj@who.int
+Dr. Gerardo Priotto
+Medical officer
+priottog@who.int
+neglected.diseases@who.int
+Related health topics
+Diseases and conditions
+Chagas disease (American trypanosomiasis)
+Diseases and conditions
+Dracunculiasis (Guinea-worm disease)
+Diseases and conditions
+Leishmaniasis
+Diseases and conditions
+Leprosy (Hansen disease)

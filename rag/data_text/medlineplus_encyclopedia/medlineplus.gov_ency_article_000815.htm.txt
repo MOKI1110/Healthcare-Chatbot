@@ -1,0 +1,124 @@
+Transplant rejection: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Transplant rejection
+URL of this page: //medlineplus.gov/ency/article/000815.htm
+Transplant rejection
+To use the sharing features on this page, please enable JavaScript.
+Transplant rejection is a process in which a transplant recipient's immune system attacks the transplanted organ or tissue.
+Causes
+Your body's
+immune system
+usually protects you from substances that may be harmful, such as germs, poisons, and sometimes, cancer cells.
+These harmful substances have proteins called
+antigens
+coating their surfaces. As soon as these antigens enter the body, the immune system recognizes that they are not from that person's body and that they are foreign, and attacks them.
+When a person receives an organ from someone else during transplant surgery, that person's immune system may recognize that it is foreign. This is because the person's immune system detects that the antigens on the cells of the organ are different or not "matched." Mismatched organs, or organs that are not matched closely enough, can trigger a
+blood transfusion reaction
+or transplant rejection.
+To help prevent this reaction, health care providers type, or match both the organ donor and the person who is receiving the organ. The more similar the antigens are between the donor and recipient, the less likely that the organ will be rejected.
+Tissue typing ensures that the organ or tissue is as similar as possible to the tissues of the recipient. The match is usually not perfect. No two people, except identical twins, have identical tissue antigens.
+Providers use medicines to suppress the recipient's immune system. The goal is to prevent the immune system from attacking the newly transplanted organ. If these medicines are not used, the body will almost always launch an immune response and destroy the foreign tissue.
+There are some exceptions, though. Cornea transplants are rarely rejected because the cornea has no blood supply. Also, transplants from one identical twin to another are almost never rejected.
+There are three types of rejection:
+Hyperacute rejection occurs a few minutes after the transplant when the antigens are completely unmatched. The tissue must be removed right away so the recipient does not die. This type of rejection is seen when a recipient is given an organ that is a different blood type. For example, when a person is given an organ that is type A blood when he or she has type B blood.
+Acute rejection may occur any time from the first week after the transplant to 3 months afterward. All recipients have some amount of acute rejection.
+Chronic rejection can take place over many years. The body's constant immune response against the new organ slowly damages the transplanted tissues or organ.
+Symptoms
+Symptoms may include:
+The organ's function may start to decrease
+General discomfort, uneasiness, or ill feeling
+Pain or swelling in the area of the organ (rare)
+Fever (rare)
+Flu-like symptoms, including chills, body aches, nausea, cough, and shortness of breath
+The symptoms depend on the transplanted organ or tissue. For example, people who reject a kidney may make less urine, and people who reject a heart may have symptoms of heart failure.
+Exams and Tests
+Your provider will examine the area over and around the transplanted organ.
+Signs that the organ is not working properly depend on which organ was transplanted and may include:
+High blood sugar (
+pancreas transplant
+)
+Less urine released (
+kidney transplant
+)
+Shortness of breath and less ability to exercise (
+heart transplant
+or
+lung transplant
+)
+Yellow skin color and easy bleeding (
+liver transplant
+)
+A
+biopsy
+of the transplanted organ can confirm that it is being rejected. A routine biopsy is often performed periodically to detect rejection early, before symptoms develop.
+When organ rejection is suspected, one or more of the following tests may be done to assess the transplanted organ:
+Abdominal CT scan
+Chest x-ray
+Heart echocardiography
+Kidney arteriography
+Kidney
+ultrasound
+Lab tests of kidney or liver function
+Ultimately, if an organ rejection is suspected, a biopsy of the transplanted organ is done to assess for rejection and how severe it is.
+Treatment
+The goal of treatment is to improve the chances that the transplanted organ or tissue continues to work properly by suppressing your immune system response. Suppressing the immune response may prevent transplant rejection.
+Medicines will likely be used to suppress the immune response. Dosage and choice of medicines depends on your condition. The dosage may be very high while the tissue is being rejected. After you no longer have signs of rejection, the dosage will likely be lowered.
+Outlook (Prognosis)
+Medicines that suppress the immune system may stop the rejection. Most people need to take these medicines for the rest of their life.
+Single episodes of acute rejection rarely lead to organ failure.
+Chronic rejection is the leading cause of organ transplant failure. The organ slowly loses its function and symptoms start to appear. This type of rejection cannot be effectively treated with medicines. Some people may need another transplant.
+Possible Complications
+Health problems that may result from transplant or transplant rejection include:
+Certain cancers (in some people who take strong immune-suppressing medicines for a long time)
+Infections (because the person's immune system is suppressed by taking immune-suppressing medicines)
+Loss of function in the transplanted organ/tissue
+Side effects of medicines, which may be severe
+When to Contact a Medical Professional
+After a transplant, it is important to have regular visits with your providers so that they can follow you and your organ for any signs of rejection. Contact your provider if the transplanted organ or tissue does not seem to be working properly, or if other symptoms occur. Also, contact your provider if you have side effects from medicines you are taking.
+Prevention
+ABO blood typing
+and
+HLA (tissue antigen) typing
+before a transplant helps ensure a close match.
+You will likely need to take medicine to suppress your immune system for the rest of your life to prevent the tissue from being rejected.
+Being careful about taking your post-transplant medicines and being closely watched by your provider may help prevent rejection.
+Alternative Names
+Graft rejection; Tissue/organ rejection
+Images
+Antibodies
+References
+Abbas AK, Lichtman AH, Pillai S. Transplantation immunology. In: Abbas AK, Lichtman AH, Pillai S, eds.
+Cellular and Molecular Immunology
+. 10th ed. Philadelphia, PA: Elsevier; 2022:chap 17.
+Badell IR, Adams AB, Larsen CP. Transplantation immunobiology and immunosuppression. In: Townsend CM Jr, Beauchamp RD, Evers BM, Mattox KL, eds.
+Sabiston Textbook of Surgery
+. 21st ed. St Louis, MO: Elsevier; 2022:chap 25.
+Johnston SL. Clinical immunology. In: Penman ID, Ralston SH, Strachan MWJ, Hobson RP, eds.
+Davidson's Principles and Practice of Medicine
+. 24th ed. Philadelphia, PA: Elsevier Limited; 2023:chap 4.
+Review Date 4/1/2025
+Updated by: Jonas DeMuro, MD, Diplomate of the American Board of Surgery with added Qualifications in Surgical Critical Care, Assistant Professor of Surgery, Renaissance School of Medicine, Stony Brook, NY. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Organ Transplantation

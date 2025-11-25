@@ -1,0 +1,103 @@
+Lipase test: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Lipase test
+URL of this page: //medlineplus.gov/ency/article/003465.htm
+Lipase test
+To use the sharing features on this page, please enable JavaScript.
+Lipase is a protein (
+enzyme
+) released by the pancreas into the small intestine. It helps the body absorb fat. This test is used to measure the amount of lipase in the blood.
+How the Test is Performed
+A sample of
+blood will be taken from a vein
+.
+How to Prepare for the Test
+Do not eat for 8 hours before the test.
+Your health care provider may ask you to stop taking medicines that may affect the test, such as:
+Birth control pills
+Cholinergic medicines
+Indomethacin
+Opiates (codeine, meperidine, and morphine)
+Thiazide diuretics
+How the Test will Feel
+You may feel slight pain or a sting when the needle is inserted to draw blood. There may be some throbbing at the site after the blood is drawn. Veins and arteries vary in size, so it may be harder to take a blood sample from one person than another.
+Why the Test is Performed
+This test is done to check for disease of the pancreas, most often
+acute pancreatitis
+.
+Lipase appears in excessive amounts in the blood when the pancreas is damaged.
+Normal Results
+In general, normal results are 0 to 160 units per liter (U/L) or 0 to 2.67 microkat/L (Âµkat/L).
+Normal value ranges may vary slightly among different labs. Some labs use different measurement methods. Talk to your provider about the meaning of your test results.
+What Abnormal Results Mean
+Higher-than-normal levels may be due to:
+Blockage of the bowel
+(bowel obstruction)
+Celiac disease
+Cancer of the pancreas
+Pancreatitis
+Pancreatic or bile duct blockage
+Pancreatic pseudocyst
+Perforated ulcer
+Renal failure
+Salivary gland inflammation
+This test may also be done for
+familial lipoprotein lipase deficiency
+.
+Risks
+There is very little risk from your blood taken.
+Other uncommon risks may include:
+Excessive bleeding
+Fainting or feeling lightheaded
+Hematoma
+(blood accumulating under the skin)
+Infection (a slight risk any time the skin is broken)
+Alternative Names
+Pancreatitis - blood lipase
+Images
+Blood test
+References
+Forsmark CE. Pancreatitis. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 130.
+Siddiqi HA, Rabinowitz S, Axiotis CA. Laboratory diagnosis of gastrointestinal and pancreatic disorders. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods
+. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 23.
+Tenner S, Vege SS, Sheth SG, et al. American College of Gastroenterology Guidelines: Management of acute pancreatitis.
+Am J Gastro
+. 2024;119(3):419-437. PMID: 38857482
+pubmed.ncbi.nlm.nih.gov/38857482/
+.
+Vege SS. Acute pancreatitis. In: Feldman M, Friedman LS, Brandt LJ, eds.
+Sleisenger and Fordtran's Gastrointestinal and Liver Disease
+. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 58.
+Review Date 1/1/2025
+Updated by: Frank D. Brodkey, MD, FCCM, Associate Professor, Section of Pulmonary and Critical Care Medicine, University of Wisconsin School of Medicine and Public Health, Madison, WI. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Gastroenteritis
+Genetic Disorders
+Pancreatic Cancer
+Pancreatic Diseases
+Pancreatitis

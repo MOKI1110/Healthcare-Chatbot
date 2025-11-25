@@ -1,0 +1,176 @@
+Hypogonadism: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Hypogonadism
+URL of this page: //medlineplus.gov/ency/article/001195.htm
+Hypogonadism
+To use the sharing features on this page, please enable JavaScript.
+Hypogonadism occurs when the body's sex glands (gonads) produce little or no hormones. In men, these glands are the testes. In women, these glands are the ovaries.
+Causes
+The cause of hypogonadism can be primary (testes or ovaries) or secondary (problem with the pituitary or hypothalamus). In primary hypogonadism, the ovaries or testes themselves do not function properly. Causes of primary hypogonadism include:
+Certain
+autoimmune disorders
+Genetic and developmental disorders
+Infection
+Iron excess (hemochromatosis)
+Liver and kidney disease
+Radiation (to the gonads)
+Surgery
+Trauma
+The most common genetic disorders that cause primary hypogonadism are
+Turner syndrome
+(in women) and
+Klinefelter syndrome
+(in men).
+If you already have other autoimmune disorders you may be at higher risk for autoimmune damage to the gonads. These can include disorders that affect the liver, adrenal glands, and thyroid glands, as well as type 1 diabetes.
+In central hypogonadism, the centers in the brain that control the gonads (hypothalamus and pituitary) do not function properly. Causes of central hypogonadism include:
+Anorexia nervosa
+Bleeding in the area of the pituitary
+Taking medicines, such as glucocorticoids and opiates
+Stopping anabolic steroids
+Genetic problems
+Infections
+Nutritional deficiencies
+Iron excess (
+hemochromatosis
+)
+Radiation (to the pituitary or hypothalamus)
+Rapid, significant weight loss (including weight loss after bariatric surgery)
+Surgery (skull base surgery near the pituitary)
+Trauma
+Tumors
+A genetic cause of central hypogonadism is
+Kallmann syndrome
+. Many people with this condition also have a decreased sense of smell.
+Menopause is the most common reason for hypogonadism. It is normal in all women and occurs on average around age 50. Testosterone levels decrease in men as they age, as well. The range of normal testosterone in the blood is much lower in a 50 to 60 year-old man than it is in a 20 to 30 year-old man.
+Symptoms
+Girls who have hypogonadism will not begin menstruating. Hypogonadism can affect their breast development and height. If hypogonadism occurs after puberty, symptoms in women include:
+Hot flashes
+Energy and mood changes
+Menstruation becomes irregular or stops
+In boys, hypogonadism affects muscle, beard, genital and voice development. It also leads to growth problems. In men the symptoms are:
+Breast enlargement
+Muscle loss
+Decreased interest in sex (low libido)
+If a pituitary or other brain tumor is present (central hypogonadism), there may be:
+Headaches or vision loss
+Milky breast discharge (from a prolactinoma, a tumor that produces the hormone prolactin)
+Symptoms of other hormone deficiencies (such as
+hypothyroidism
+)
+The most common tumors affecting the pituitary are craniopharyngioma in children and prolactinoma adenomas in adults.
+Exams and Tests
+You may need to have tests to check:
+Estrogen level (women)
+Follicle stimulating hormone (
+FSH level
+) and luteinizing hormone (
+LH) level
+Testosterone level
+(men) - interpretation of this test in older men and men who are obese can be difficult so results should be discussed with a hormone specialist (endocrinologist)
+Other measures of pituitary function
+Other tests may include:
+Blood tests for
+anemia
+and iron level
+Genetic tests including a karyotype to check chromosomal number and structure
+Prolactin level
+(milk hormone)
+Sperm count
+Thyroid tests
+Sometimes imaging tests are needed, such as a
+sonogram
+of the ovaries. If pituitary disease is suspected, an
+MRI
+or
+CT scan of the brain
+may be done.
+Treatment
+You may need to take hormone-based medicines. Estrogen and progesterone are used for girls and women. The medicines come in the form of a pill or skin patch. Testosterone is used for boys and men. The medicine can be given as a skin patch, skin gel, a solution applied to the armpit, a patch applied to the upper gum, or by injection.
+Menopausal symptoms may be treated with estrogen alone (if the woman does not have a uterus) or estrogen and progesterone for a woman who still has a uterus. This is called combination hormone therapy.
+In some women, injections or pills can be used to stimulate ovulation. Injections of pituitary hormone may be used to help men produce sperm. Other people may need surgery and radiation therapy if there is a pituitary or hypothalamic cause of the disorder.
+Outlook (Prognosis)
+Many forms of hypogonadism are treatable and have a good outlook.
+Possible Complications
+In women, hypogonadism may cause
+infertility
+. Menopause is a form of hypogonadism that occurs naturally. It can cause hot flashes, vaginal dryness, and irritability as estrogen levels fall. The risk forÂ
+osteoporosis
+and
+heart disease
+increase after menopause.
+Some women with hypogonadism take
+estrogen therapy
+, most often those who have early menopause. But long-term use of hormone therapy may increase the risk for breast cancer, blood clots and heart disease (especially in older women). Women should talk with their health care provider about the risks and benefits of menopausal hormone therapy.
+In men, hypogonadism results in the loss of sex drive and may cause:
+Impotence
+Infertility
+Osteoporosis
+Weakness
+Men normally have lower testosterone as they age. However, the decline in hormone levels is much less than in women.
+When to Contact a Medical Professional
+Contact your provider if you notice:
+Breast discharge
+Breast enlargement (men)
+Hot flashes (women)
+Impotence
+Loss of body hair
+Loss of menstrual period
+Problems getting pregnant
+Problems with your sex drive
+Weakness
+Both men and women should contact their provider if they have headaches or vision problems.
+Prevention
+Maintaining fitness, normal body weight and healthy eating habits may help in some cases. Other causes may not be preventable.
+Alternative Names
+Gonadal deficiency; Testicular failure; Ovarian failure; Testosterone - hypogonadism
+Images
+Gonadotropins
+References
+Aleksic S, Bartke A, Lamberts SWJ, Milman S. Endocrine function and aging. In: Melmed S, Auchus RJ, Goldfine AB, , Rosen CJ, Kopp PA, eds.
+Williams Textbook of Endocrinology
+. 15th ed. Philadelphia, PA: Elsevier; 2025:chap 26.
+Ali O, Donohoue PA. Hypofunction of the testes. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 623.
+Bhasin S, Brito JP, Cunningham GR, et al. Testosterone therapy in men with hypogonadism: an Endocrine Society clinical practice guideline.
+J Clin Endocrinol Metab
+. 2018;103(5):1715-1744. PMID: 29562364
+pubmed.ncbi.nlm.nih.gov/29562364/
+.
+Garibaldi LR, Chemaitilly W. Physiology of puberty. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 599.
+Swerdloff RS, Wang C. The testis and male hypogonadism, infertility, and sexual dysfunction. In: Goldman L, Cooney CA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 216.
+Wierman ME, Arlt W, Basson R, et al. Androgen therapy in women: a reappraisal: an Endocrine Society clinical practice guideline.
+J Clin Endocrinol Metab
+. 2014;99(10):3489-3510. PMID: 25279570
+pubmed.ncbi.nlm.nih.gov/25279570/
+.
+Review Date 7/21/2024
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Endocrine Diseases

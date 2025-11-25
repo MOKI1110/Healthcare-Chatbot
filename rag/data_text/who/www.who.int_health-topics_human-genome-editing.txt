@@ -1,0 +1,78 @@
+Human genome editing
+Skip to main content
+Overview
+Genome editing is a method for making specific changes to the DNA of a cell or organism. It can be used to add, remove or alter DNA in the genome. Human genome editing technologies can be used on somatic cells (non-heritable), germline cells (not for reproduction) and germline cells (for reproduction).
+Application of somatic human genome editing has already been undertaken, including in vivo editing, to address HIV and sickle-cell disease, for example. Although somatic human genome editing is well established and acceptable for treatments in some scientifically advanced countries with regulations in place, challenges remain. These include the need to develop inclusive genome editing innovations that take note of the diversity of the human population and human experience. Other challenges are associated with rogue clinics, medical travel, as well as the reporting of illegal, unregistered, unethical or unsafe research and other activities including the offer of unproven so-called therapeutic interventions.
+Heritable human genome editing refers to editing of nuclear DNA in a way that may be heritable across generations. Heritable human genome editing is the subject of intense debate over its possible consequences for offspring and for society in general. They may pose greater safety and ethical issues than somatic human genome editing.
+Impact
+The recent application of tools, such as CRISPR-Cas9, to edit the human genome with the intention to treating or preventing disease and the gaps in our scientific understanding raise ethical issues that have highlighted the need for robust oversight in this area. Current, potential and speculative human genome editing research will go beyond national borders, as will possible societal effects. This applies equally to somatic, germline and heritable human genome editing, although the latter is generally considered to be of greater ethical concern. Therefore, governance for this technology is needed at national and transnational levels. Some of the necessary governance structures and processes already exist. These may need to be reinforced or amended; where such structures and processes are lacking, gaps need to be filled.
+Application of heritable human genome editing is likely to be a much more limited activity in the coming years. To help ensure heritable human genome editing does not proceed prematurely to clinical trials, the WHO Expert Advisory Committee recommended, and the WHO Director-General subsequently made, a policy statement in July 2019 clarifying that “it would be irresponsible at this time for anyone to proceed with clinical applications of human germline genome editing.”
+WHO Response
+In December 2018, WHO established a global, multi-disciplinary Expert Advisory Committee to examine the scientific, ethical, social and legal challenges associated with human genome editing (somatic, that is, non-heritable; germline, involving in vitro
+studies on early embryos, gametes or their precursors; and heritable, where embryos subject to genome editing are used to establish pregnancies and create individuals who could pass on the edit to their offspring).
+The Committee was tasked to advise and make recommendations on appropriate institutional, national, regional and global governance mechanisms for human genome editing. During its work, the Committee reviewed the current literature on human genome editing
+research and its applications, considered existing proposals for governance and relevant ongoing initiatives, and gathered information on a range of topics relating to the different uses of this technology. The Committee consulted widely and built
+on existing initiatives to develop a governance framework and recommendations on the governance and oversight of human genome editing.
+In July 2021, the Committee published a governance framework for human genome editing and recommendations on human genome editing. Additional outputs of the Committee include a
+global registry on human genome editing
+,
+a policy statement by the Director-General on germline human genome editing
+and the
+reports
+of the Committee’s work.
+Questions and answers
+Genomics
+Human Genome Editing Registry
+Databases and tools
+Human Genome Editing (HGE) Registry
+Initiatives and groups
+Expert Advisory Committee on Developing Global Standards for Governance and Oversight of Human Genome Editing
+Human Genome Editing Registry
+Technical work
+Health Ethics and Governance Unit
+News
+All →
+5 August 2021
+Departmental update
+Obituary: Dr Ana Sánchez Urrutia, member of WHO Expert Advisory Committee on Developing Global Standards for Governance and Oversight of Human Genome Editing
+12 July 2021
+News release
+WHO issues new recommendations on human genome editing  for the advancement of public health
+8 November 2019
+Departmental update
+Human Genome Editing: As we explore options for global governance, caution must be our watchword
+29 August 2019
+News release
+WHO launches global registry on human genome editing
+Publications
+All →
+29 January 2025
+Expert Working Group Meeting on Accelerating Access to Human Genomics for All in the Western Pacific,...
+Download
+Read More
+12 July 2021
+Human genome editing: recommendations
+The recent application of tools, such as CRISPR-Cas9 (clustered regularly interspaced short palindromic repeats; Cas9 nuclease), to edit the human genome...
+Download
+Read More
+12 July 2021
+Human genome editing: a framework for governance
+The recent application of tools, such as CRISPR-Cas9 (clustered regularly interspaced short palindromic repeats; Cas9 nuclease), to edit the human genome...
+Download
+Read More
+12 July 2021
+Human genome editing: position paper
+The recent application of tools, such as CRISPR-Cas9 (clustered regularly interspaced short palindromic repeats; Cas9 nuclease), to edit the human genome...
+Download
+Read More
+Our work
+Engaging the global community in health ethics
+Developing normative guidance to address ethical challenges in global health
+Ensuring responsible use of life sciences research
+Ensuring ethical standards and procedures for research with human beings
+Multimedia
+17 September 2021
+Human genome editing: A framework for governance and recommendations ENGLISH AUDIO
+Related health topics
+Socio-political determinants
+Global health ethics

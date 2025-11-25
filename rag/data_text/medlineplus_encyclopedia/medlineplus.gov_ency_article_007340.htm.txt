@@ -1,0 +1,108 @@
+Fetal echocardiography: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Fetal echocardiography
+URL of this page: //medlineplus.gov/ency/article/007340.htm
+Fetal echocardiography
+To use the sharing features on this page, please enable JavaScript.
+Fetal echocardiography is a test that uses sound waves (
+ultrasound
+) to evaluate the baby's heart for problems before birth.
+How the Test is Performed
+Fetal echocardiography is a test that is done while the baby is still in the womb. It is most often done during the second trimester of pregnancy. This is when a woman is about 18 to 24 weeks pregnant.
+The procedure is similar to that of a
+pregnancy ultrasound
+. You will lie down for the procedure.
+The test can be performed on your belly (abdominal ultrasound) or through your vagina (
+transvaginal ultrasound
+).
+In an abdominal ultrasound, the person performing the test places a clear, water-based gel on your belly. A hand-held probe is moved over the area. The probe sends out sound waves, which bounce off the baby's heart and create a picture of the heart on a computer screen.
+In a transvaginal ultrasound, a much smaller probe is placed into the vagina. A transvaginal ultrasound can be done earlier in the pregnancy and produces a clearer image than an abdominal ultrasound.
+How to Prepare for the Test
+No special preparation is needed for this test.
+How the Test will Feel
+The conducting gel may feel slightly cold and wet. You will not feel the ultrasound waves.
+Why the Test is Performed
+This test is done to detect a heart problem before the baby is born. It can provide a more detailed image of the baby's heart than a regular pregnancy ultrasound.
+The test can show:
+Blood flow through the heart
+Heart rhythm
+Structures of the baby's heart
+The test may be done if:
+A parent, sibling or other close family member has or had a heart defect or heart disease.
+A routine pregnancy ultrasound detected an abnormal heart rhythm or possible heart problem in the unborn baby.
+The mother has
+diabetes
+(prior to pregnancy),
+lupus
+, or
+phenylketonuria
+.
+The mother has
+rubella
+during the first trimester of pregnancy.
+The mother used medicines that can damage the baby's developing heart (such as some epilepsy medicines and prescription acne medicines).
+An
+amniocentesis
+revealed a
+chromosome
+disorder.
+There is some other reason to suspect that the baby is at higher risk for heart problems.
+Normal Results
+The echocardiogram finds no problems in the unborn baby's heart.
+What Abnormal Results Mean
+Abnormal results may be due to:
+A problem with the way the baby's heart has formed (
+congenital heart disease
+)
+A problem with the way the baby's heart works
+Heart rhythm disturbances (
+arrhythmias
+)
+The test may need to be repeated.
+Risks
+There are no known risks to the mother or unborn baby.
+Considerations
+Some heart defects cannot be seen before birth, even with fetal echocardiography. These include small holes in the heart or mild valve problems. Also, because it may not be possible to see every part of the large blood vessels leading out of the baby's heart, problems in this area may go undetected. It may still be necessary to repeat an ultrasound of the baby's heart following delivery to confirm findings seen on fetal echocardiography and evaluate areas not previously seen clearly.
+If the health care provider finds a problem in the structure of the heart, a detailed ultrasound may be done to look for other problems with the developing baby.
+References
+Bernstein D. Laboratory cardiac evaluation. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 472.
+Drose JA. Fetal echocardiography. In: Rumack CM, Levine D, eds.
+Diagnostic Ultrasound
+. 6th ed. Philadelphia, PA: Elsevier; 2024:chap 38.
+Guthrie J, Hagen-Ansert SL. Fetal echocardiography: congenital heart disease. In: Hagen-Ansert SL, ed. T
+extbook of Diagnostic Sonography
+. 9th ed. St Louis, MO: Elsevier; 2023:chap 36.
+Moon-Grady AJ, Donofrio MT, Gelehrter S, et al. Guidelines and recommendations for performance of the fetal echocardiogram: An update from the American Society of Echocardiography.
+J Am Soc Echocardiogr
+. 2023;36(7):679-723. PMID: 37227365
+pubmed.ncbi.nlm.nih.gov/37227365/
+.
+Review Date 1/15/2025
+Updated by: Mary J. Terrell, MD, IBCLC, Neonatologist, Cape Fear Valley Medical Center, Fayetteville, NC. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Fetal Health and Development
+Prenatal Testing

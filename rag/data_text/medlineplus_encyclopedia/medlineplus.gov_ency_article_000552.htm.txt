@@ -1,0 +1,118 @@
+Thrombotic thrombocytopenic purpura: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Thrombotic thrombocytopenic purpura
+URL of this page: //medlineplus.gov/ency/article/000552.htm
+Thrombotic thrombocytopenic purpura
+To use the sharing features on this page, please enable JavaScript.
+Thrombotic thrombocytopenic purpura (TTP) is a blood disorder in which platelet clumps form in small blood vessels. This leads to a low platelet count (
+thrombocytopenia
+).
+Causes
+This disease may be caused by problems with an enzyme (a type of protein) that is involved in blood clotting. This enzyme is called ADAMTS13. Absence of this enzyme results in platelet clumping. This is usually caused by an autoimmune disorder where antibodies attack the ADAMTS 13 enzyme. Platelets are particles in the blood that aid in blood clotting.
+As the platelets clump together, fewer platelets are available in the blood in other parts of the body to help with clotting. This can lead to bleeding under the skin. The platelets that clump in blood vessels affects the blood supply to various organs such as the kidneys and the brain, which can damage these organs.
+In some cases, the disorder is passed down through families (inherited) and is called congenital TTP. In these cases, people are born with naturally low levels of this enzyme.
+This condition also may be caused by:
+Cancer
+Chemotherapy
+Hematopoietic stem cell transplantation
+HIV infection
+Hormone replacement therapy
+and estrogens
+Medicines (including clopidogrel, quinine, and cyclosporine A)
+Symptoms
+Symptoms may include any of the following:
+Bleeding into the skin
+or mucus membranes
+Confusion
+Fast heart rate (over 100 beats per minute)
+Fatigue
+, weakness
+Fever
+Headache
+Pale skin color
+Â (pallor)
+Shortness of breath
+Yellowish skin color
+(jaundice)
+Exams and Tests
+Tests that may be ordered include:
+ADAMTS 13 activity level
+Blood bilirubin
+Â level
+Blood smear
+Complete blood count
+(CBC)
+Blood creatinine
+level
+Lactate dehydrogenase
+(LDH) level
+Platelet count
+Urinalysis
+Serum haptoglobin
+Â level
+Coombs test
+Treatment
+You may have a treatment called plasma exchange. It removes the abnormal proteins in your plasma and replaces it with normal plasma from a healthy donor. Plasma is the liquid part of blood that contains blood cells and platelets. Plasma exchange also replaces the missing enzyme.
+The procedure is done as follows:
+First, you have your blood drawn as if donating blood.
+As the blood is passed through a machine that separates blood into its different parts, the abnormal plasma is removed and your blood cells are saved.
+Your blood cells are then combined with normal plasma from a donor, and then given back to you through an intravenous (IV) line.
+This treatment is repeated daily until blood tests show improvement.
+To treat congenital TTP, plasma infusion is used. For this, donor plasma is given through an IV line.
+People who do not respond to this treatment or whose condition often returns may need medicine, such as steroids or rituximab, which suppress the immune system.
+Outlook (Prognosis)
+Most people with TTP who undergo plasma exchange recover completely. But some people die of this disease, especially if it is not diagnosed right away. In people who do not recover, this condition can become long-term (chronic).
+Possible Complications
+Complications may include:
+Kidney failure
+Low platelet count (
+thrombocytopenia
+)
+Low red blood cell count (caused by the premature breakdown of red blood cells)
+Nervous system problems
+Severe bleeding (hemorrhage)
+Stroke
+When to Contact a Medical Professional
+Contact your health care provider if you have any unexplained bleeding.
+Prevention
+Because the cause is unknown, there is no known way to prevent this condition.
+Alternative Names
+TTP
+Images
+Blood cells
+References
+Abrams CS. Thrombocytopenia. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 158.
+George G, Friedman KD. Thrombotic thrombocytopenic purpura and the hemolytic uremic syndromes. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds.
+Hematology: Basic Principles and Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 132.
+National Heart, Lung, and Blood Institute website. Thrombotic thrombocytopenic purpura.
+www.nhlbi.nih.gov/health/thrombotic-thrombocytopenic-purpura
+. Updated February 18, 2025. Accessed July 9, 2025.
+Review Date 2/3/2025
+Updated by: Warren Brenner, MD, Oncologist, Lynn Cancer Institute, Boca Raton, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Platelet Disorders

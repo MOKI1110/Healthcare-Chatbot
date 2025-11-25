@@ -1,0 +1,129 @@
+Mucopolysaccharidosis type II: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Mucopolysaccharidosis type II
+URL of this page: //medlineplus.gov/ency/article/001203.htm
+Mucopolysaccharidosis type II
+To use the sharing features on this page, please enable JavaScript.
+Mucopolysaccharidosis type II (MPS II) is a rare disease in which the body is missing or does not have enough of an
+enzyme
+needed to break down long chains of sugar molecules. These chains of molecules are called glycosaminoglycans (formerly called mucopolysaccharides). As a result, the molecules build up in different parts of the body and cause various health problems.
+The condition belongs to a group of diseases called
+mucopolysaccharidoses
+(MPSs). MPS II is also known as Hunter syndrome.
+There are several other types of MPSs, including:
+MPS I
+(Hurler syndrome; Hurler-Scheie syndrome; Scheie syndrome)
+MPS III
+(Sanfilippo syndrome)
+MPS IV
+(Morquio syndrome)
+Causes
+MPS II is a genetic disorder. This means it can be passed down through families. The affected gene is on the X chromosome. Boys are most often affected because they have only one X chromosome, which they inherit from their mothers. Their mothers do not have symptoms of the disease because although they carry one nonworking copy of the gene, they also have a second copy of the X chromosome.
+MPS II is caused by a lack of the enzyme iduronate sulfatase. Without this enzyme, chains of sugar molecules build up in various body tissues, causing damage.
+The early-onset, severe form of the disease begins shortly after age 2. A late-onset, mild form causes less severe symptoms to appear later in life.
+Symptoms
+In the early-onset, severe form, symptoms include:
+Aggressive behavior
+Hyperactivity
+Mental function gets worse over time
+Severe
+intellectual disability
+Jerky body movements
+In the late (mild) form, there can be mild to no mental deficiency.
+In both forms, symptoms include:
+Carpal tunnel syndrome
+Coarse features of the face
+Deafness
+(gets worse over time)
+Increased hair growth
+Joint stiffness
+Large head
+Exams and Tests
+A physical exam and tests may show:
+Abnormal
+retina
+(back of the eye)
+Decreased iduronate sulfatase enzyme in blood serum or cells
+Heart murmur
+and leaky heart valves
+Enlarged liver
+Enlarged spleen
+Hernia in the groin
+Joint
+contractures
+(from joint stiffness)
+Tests may include:
+Enzyme study
+Genetic testing for a change in the iduronate sulfatase gene
+Urine test for heparan sulfate and dermatan sulfate
+Treatment
+The medicine called idursulfase (Elaprase), which replaces the enzyme iduronate sulfatase may be recommended. It is given through a vein (IV, intravenously). Talk to your health care provider for more information.
+Bone marrow transplant
+has been tried for the early-onset form, but the results can vary.
+Each health problem caused by this disease should be treated separately.
+Support Groups
+More information and support for people with MPS II and their families can be found at:
+National MPS Society --
+mpssociety.org/
+National Organization for Rare Disorders --
+rarediseases.org/rare-diseases/mucopolysaccharidosis-type-ii-2/
+NIH Genetic and Rare Diseases Information Center --
+rarediseases.info.nih.gov/diseases/6675/mucopolysaccharidosis-type-ii
+Outlook (Prognosis)
+People with the early-onset (severe) form usually live for 10 to 20 years. People with the late-onset (mild) form usually live 20 to 60 years.
+Possible Complications
+These complications may occur:
+Airway obstruction
+Carpal tunnel syndrome
+Hearing loss that gets worse over time
+Loss of ability to complete daily living activities
+Joint stiffness that leads to contractures
+Mental function that gets worse over time
+When to Contact a Medical Professional
+Contact your provider if:
+You or your child has a group of these symptoms
+You know you are a genetic carrier and are considering having children
+Prevention
+Genetic counseling
+Â is recommended for couples who want to have children and who have a family history of MPS II. Prenatal testing is available. Carrier testing for female relatives of affected males is also available.
+Alternative Names
+MPS II; Hunter syndrome; Lysosomal storage disease - mucopolysaccharidosis type II; Iduronate 2-sulfatase deficiency; I2S deficiency
+References
+Kumar V, Abbas AK, Aster JC. Genetic disorders. In: Kumar V, Abbas AK, Aster JC, eds.
+Robbins & Cotran Pathologic Basis of Disease
+. 10th ed. Philadelphia, PA: Elsevier; 2021:chap 5.
+Lampe C. Mucopolysaccharidoses. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 109.
+Pyeritz RE. Inherited diseases of connective tissue. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 239.
+Turnpenny PD, Ellard S, Cleaver R. Inborn errors of metabolism. In: Turnpenny PD, Ellard S, Cleaver R, eds.
+Emery's Elements of Medical Genetics and Genomics
+.16th ed. Philadelphia, PA: Elsevier; 2022:chap 18.
+Review Date 4/8/2025
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Carbohydrate Metabolism Disorders

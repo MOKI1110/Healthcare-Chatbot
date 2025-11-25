@@ -1,0 +1,195 @@
+Marburg virus disease
+Skip to main content
+Overview
+Marburg virus disease (MVD) is a severe disease with a fatality ratio of up to 88%. This rate can be lower with good and early patient care.
+MVD was initially detected in 1967 after two simultaneous outbreaks in Marburg and Frankfurt in Germany, and in Belgrade, Serbia. The outbreak was associated with laboratory work using African green monkeys (
+Cercopithecus aethiops
+) imported from Uganda. Subsequently, outbreaks and sporadic cases have been reported in Angola, the Democratic Republic of the Congo, Equatorial Guinea, Ghana, Guinea, Kenya, Rwanda, South Africa (in a person with recent travel history to Zimbabwe), Tanzania and Uganda.
+Initially, human MVD infection results from prolonged exposure to mines or caves inhabited by Rousettus fruit bat colonies. Once introduced in the human population, Marburg virus can spread through human-to-human transmission via direct contact (through broken skin or mucous membranes) with the blood, secretions, organs or other bodily fluids of infected people, and with surfaces and materials (e.g. bedding, clothing) contaminated with these fluids.
+Symptoms
+The incubation period (interval from infection to onset of symptoms) varies from 2 to 21 days.
+MVD begins abruptly, with high fever, severe headache and severe malaise. Muscle aches and pains are a common feature. Severe watery diarrhoea, abdominal pain and cramping, nausea and vomiting can begin on the third day. Non-itchy rash have been reported in patients between 2 and 7 days after onset of symptoms.
+From day 5 of the disease, patients may develop haemorrhagic manifestations, including fresh blood in vomitus and faeces, bleeding from the nose, gums and vagina. Bleeding at venepuncture sites (where intravenous access is obtained to give fluids or obtain blood samples) can also be observed. Involvement of the central nervous system can result in confusion, irritability and aggression. Orchitis (inflammation of one or both testicles) has been reported occasionally in the late phase of disease.
+In fatal cases, death occurs most often between 8 and 9 days after symptom onset, usually preceded by severe blood loss and shock.
+Treatment
+Early intensive supportive care including rehydration and treatment of specific symptoms can improve survival.
+Currently there are no vaccines or antiviral treatments approved for MVD. There are candidate monoclonal antibodies and antivirals, along with candidate vaccines that can be evaluated in clinical trials.
+Diagnosis
+It can be difficult to clinically distinguish MVD from other infectious diseases such as malaria, typhoid fever, shigellosis, meningitis and other viral haemorrhagic fevers. Confirmation that symptoms are caused by Marburg virus infection are made using the following diagnostic methods:
+antibody-capture enzyme-linked immunosorbent assay (ELISA)
+antigen-capture detection tests
+reverse transcriptase polymerase chain reaction (RT-PCR) assay
+virus isolation by cell culture in maximum containment laboratories.
+Samples collected from patients are an extreme biohazard risk. Laboratory testing on non-inactivated samples should be conducted under maximum biological containment conditions. All non-inactivated biological specimens should be packaged using the triple packaging system when transported nationally and internationally.
+Fact sheets
+Marburg virus disease
+Questions and answers
+Marburg virus disease
+Disease outbreak news
+Marburg virus disease - Rwanda
+Marburg virus disease - Equatorial Guinea
+All disease outbreak news
+Database and tools
+Communication for behavioural impact (COMBI) - toolkit
+Ebola and Marburg Virus Outbreak toolkit
+Essential Items Estimator Tool for health facilities in Marburg disease context
+Training
+Learning resources: Marburg virus disease
+Technical work
+Emergencies
+R&D Blueprint - Marburg
+News
+All →
+26 March 2025
+Departmental update
+WHO Launches Online Training to Strengthen Filovirus Outbreak Response
+8 June 2023
+Departmental update
+Marburg virus disease outbreak in Equatorial Guinea
+9 August 2021
+Departmental update
+West Africa’s first-ever case of Marburg virus disease confirmed in Guinea
+8 December 2017
+News release
+Uganda ends Marburg virus disease outbreak
+Regional news
+WHO Director-General's opening remarks at the media briefing on outbreak of Marburg virus disease in Tanzania
+20 January 2025 I Speech of Director-General
+Tanzania confirms outbreak of Marburg virus disease
+20 January 2025 I AFRO News Release
+WHO support for Tanzania’s response to suspected Marburg virus disease outbreak
+16 January 2025 I AFRO News Release
+Marburg outbreak in Rwanda declared over
+20 December 2024 I AFRO News Release
+Rwanda reports first-ever Marburg virus disease outbreak, with 26 cases confirmed
+28 September 2024 I AFRO News Release
+Equatorial Guinea confirms eight more Marburg cases
+22 March 2023 I AFRO News Release
+Tanzania confirms first-ever outbreak of Marburg Virus Disease
+21 March 2023 I AFRO News Release
+Equatorial Guinea confirms first-ever Marburg virus disease outbreak
+13 February 2023 I AFRO News Release
+Beating Marburg virus outbreak: Ghana’s journey to victory
+04 November 2022 I AFRO News Release
+Ghana declares end of Marburg virus disease outbreak
+16 September 2022 I AFRO News Release
+Latest publications
+All →
+10 January 2025
+Diagnostic testing for Ebola and Marburg virus diseases: interim guidance, 20 December 2024
+Rapid diagnosis of Ebola and Marburg virus disease is critical to provide timely and appropriate care and stop transmission. These diseases can be difficult...
+Download
+Read More
+11 August 2023
+Infection prevention and control guideline for Ebola and Marburg disease, August 2023
+Ebola and Marburg disease outbreaks remain important public health threats. The newly published WHO Infection prevention and control guideline...
+Download
+Read More
+26 September 2018
+Preferred Product Characteristics for Personal Protective Equipment for the Health Worker on the Frontline...
+ObjectivesTo provide a review and summary of current evidence on protective effects of PPE and applicable
+standards, and to identify the knowledge gaps...
+Download
+Read More
+28 November 2014
+Guideline on hand hygiene in health care in the context of filovirus disease outbreak response : rapid...
+This document provides a summary of the recommendations for hand hygiene best practices to be
+performed by health workers providing care and/or support...
+Download
+Read More
+Documents
+All →
+10 October 2024
+Considerations for border health and points of entry for filovirus disease outbreaks
+During outbreaks of filovirus diseases (FVDs), health authorities should strengthen capacities for detection, reporting and management of cases and contacts,...
+Download
+Read More
+8 October 2024
+WHO appeal: Marburg virus disease outbreak Rwanda 2024
+WHO is seeking US$ 7.7 million from October to December 2024 to support the Government of Rwanda in controlling the Marburg Virus Disease (MVD) outbreak....
+Download
+Read More
+8 October 2024
+Marburg virus disease strategic preparedness and response plan for Rwanda
+Marburg Virus Disease (MVD) Strategic Preparedness and Response Plan (SPRP), provides a comprehensive framework for coordinated public health preparedness...
+Download
+Read More
+7 August 2024
+Filoviridae - Landscape of vaccines and therapeutics licensed or under development for pathogens being...
+This document provides a list of Filovirus vaccines and therapeutics licensed or under development for pathogens being considered as PRIORITY PATHOGENS.
+Download
+Read More
+Our work
+Communicating risk in public health emergencies
+Rapidly detecting and responding to health emergencies
+Prioritizing diseases for research and development in emergency contexts
+Technical guidance
+Coordination
+6 August 2014
+Ebola and Marburg virus disease epidemics: preparedness, alert, control, and evaluation
+Ebola and Marburg virus disease epidemics: preparedness, alert, control, and evaluation
+Surveillance and contact tracing
+8 August 2014
+Case definition recommendations for Ebola or Marburg virus diseases
+Case definition recommendations for Ebola or Marburg virus diseases
+Risk communication and community engagement
+27 December 2019
+WHO outbreak communication planning guide
+WHO outbreak communication planning guide
+Laboratory
+1 January 2017
+How to safely ship human blood samples from suspected Ebola or Marburg cases within a country by road, rail and sea
+How to safely ship human blood samples from suspected Ebola or Marburg cases within a country by road, rail and sea
+3 December 2014
+How to safely collect blood samples by phlebotomy from patients suspected to be infected with Ebola or Marburg
+How to safely collect blood samples by phlebotomy from patients suspected to be infected with Ebola or Marburg
+Clinical care
+Ebola and Marburg treatment centres: facility design and construction standards for preparing for and responding to outbreaks
+Infection Prevention and control
+11 August 2023
+Infection prevention and control guideline for Ebola and Marburg disease, August 2023
+Infection prevention and control guideline for Ebola and Marburg disease, August 2023
+Safe injection practices – leaflet
+Travel and Points of Entry
+14 May 2024
+Syndromic entry and exit screening for epidemic-prone diseases of travellers at ground crossings
+Syndromic entry and exit screening for epidemic-prone diseases of travellers at ground crossings
+Considerations for border health and points of entry for filovirus disease outbreaks
+Research and development for countermeasures
+4 April 2023
+WHO Technical Advisory Group – candidate vaccine prioritization. Summary of the evaluations and recommendations on the four Marburg vaccines
+WHO Technical Advisory Group – candidate vaccine prioritization. Summary of the evaluations and recommendations on the four Marburg vaccines
+13 February 2023
+Marburg virus therapeutics landscape
+Marburg virus therapeutics landscape
+13 February 2023
+Marburg virus vaccine landscape
+Marburg virus vaccine landscape
+7 June 2022
+A WHO-Strategic Research Agenda for Filovirus Research and Monitoring
+(WHO-AFIRM)
+A WHO-Strategic Research Agenda for Filovirus Research and Monitoring
+(WHO-AFIRM)
+Infographics
+All →
+Infographic
+Geographic distribution of Marburg Virus Disease outbreaks on bats of Pteropodidae family
+Infographic
+IPC measures for Ebola and Marburg disease: past and present
+Infographic
+Steps to put on personal protective equipment (PPE)
+for Ebola/Marburg disease: Gown and headcover
+Infographic
+Steps to remove personal protective equipment (PPE)
+for Ebola/Marburg disease: Gown and headcover
+Related health topics
+Communicable diseases
+Crimean-Congo haemorrhagic fever
+Communicable diseases
+Ebola virus disease
+Communicable diseases
+Lassa fever
+Communicable diseases
+Nipah virus infection
+Communicable diseases
+Rift Valley fever

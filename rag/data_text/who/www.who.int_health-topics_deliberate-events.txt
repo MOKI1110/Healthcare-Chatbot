@@ -1,0 +1,137 @@
+Deliberate events
+Skip to main content
+Overview
+Deliberate events (DEs) are malicious act with intentions to cause harm to the target. Traditionally, DEs involve the use of hazardous substances such as chemicals, biological agents, toxins or radio-nuclear materials (CBRN) while emerging threats include disinformation, misuse of digital, cyber means and other new technologies.
+DEs can cause harm in several ways, for example through the intentional release of a harmful material or a dangerous pathogen directly targeting humans and/or animals, or indirectly through contaminating food or water, destroying crops or damaging the environment.
+Addressing DEs involves both health and security dimensions. The health sector’s role is to protect and manage the health and well-being of those at risk of or affected by DEs. The security sector and law enforcement’s role is to identify and control the source of the DE and prevent the situation from worsening (see
+Strengthening the global health-security interface
+).
+Preparing for DEs is an integral part of developing and updating national emergency preparedness and response plans. The work of WHO focuses on increasing Member States’ awareness, preparedness and readiness related to DEs and developing the Organization’s capacity to coordinate the international public health response to a DE.
+Preparedness
+Preparing for deliberate events (DEs) is an integral part of developing and updating national emergency preparedness and response plans. WHO advises Member States to 1) strengthen public health surveillance and preparedness activities and to 2) link public health and security authorities to prepare for possible DEs, with an emphasis on:
+evaluating and identifying gaps in national preparedness and readiness, as well as national capacities to manage risks posed by deliberate exposure to hazardous materials, disinformation or cyberattacks. This could be done by using the section dedicated to DE
+(1)
+of the National Self-Assessment toolkit (NSAT), which provides a baseline measurement of national capacity and capabilities related to DEs. NSAT is typically used in
+preparation for a Joint External Evaluation (JEE)
+or as part of a
+National Action Plan for Health Security (NAPHS)
+;
+developing training material packages for online (
+OpenWHO course series
+) and in-person sessions;
+identifying and recommending actions to fill gaps in readiness by conducting DE simulation exercises in collaboration with relevant partners;
+developing national, sub-national or local stockpile systems to provide deployable pharmaceuticals, supplies and equipment to support rapid national response operations; and
+putting in place national protocols or formal agreements to work with partners and benefit from international assistance for responses.
+Beta-version available for test use. Please request by sending an e-mail to:
+BSP@who.int
+WHO response
+Similar to non-deliberate event response, WHO experts can be deployed at country, regional and global levels to support the DE response upon the request of the affected Member State(s). Specific WHO response activities specific to DEs include:
+working with international or national partners and laboratories to characterize the nature, scope, and impact of the DE;
+offering targeted training to public health and frontline responders;
+facilitating the identification and acquisition of necessary response materials (such as personal protective equipment or medical countermeasures) and providing medical countermeasures in certain circumstances; and
+coordinating additional international expert support through WHO Networks including the Global Outbreak and Response Network (GOARN), WHO Collaborating Centres, or the UN Humanitarian Emergency Cluster system. WHO can join the United Nations Secretary-General’s mechanism (UNSGM) in very specific cases.
+The nature and cause of an event may not be clear when the response is initiated and may or may not be conclusively determined over time. WHO does not have mandate to lead or investigate an attribution process, though WHO may collaborate with and support other entities whose role is to determine the identity of the perpetrators of a DE.
+Fact sheets
+Burns
+Deliberate events
+Food safety
+Ionizing radiation and health effects
+White phosphorus
+Questions and answers
+Disinformation and public health
+Cyber-attacks on critical health infrastructure
+Deliberate events: chemical release and oil fires
+What is WHO's role in emergencies?
+Radiation and Health
+Radioactivity in food after a nuclear emergency
+Use of potassium iodide for thyroid protection during nuclear or radiological emergencies
+Disease outbreak news
+Latest DONs
+Resolutions and decisions
+WHA69.4 The role of the health sector in the Strategic Approach to International Chemicals Management towards the 2020 goal and beyond
+WHA 64.10 Strengthening national health emergency and disaster management capacities and resilience of health systems
+WHA 55.16 Global public health response to natural occurrence, accidental release or deliberate use of biological and chemical agents or radio-nuclear material that affect health
+Training
+Chemical and Biological Deliberate Events Course Series
+Chemical Hazards Part I: An Introduction to Chemical Hazards
+Chemical Hazards Part II: Elements for Assessment
+Chemical Hazards Part III: Immediate Actions at the Event Site
+Infodemic management: Misinformation and disinformation
+Technical work
+Health Emergencies Programme
+News
+All →
+6 June 2025
+Departmental update
+New WHO online course series strengthens readiness for chemical hazards
+11 April 2018
+Statement
+WHO concerned about suspected chemical attacks in Syria
+5 April 2017
+Statement
+WHO alarmed by use of highly toxic chemicals as weapons in Syria
+Publications
+All →
+8 December 2021
+WHO Human Health Risk Assessment Toolkit: Chemical Hazards, second edition
+The purpose of the WHO human health risk assessment toolkit: chemical hazards is to provide its users with guidance to identify, acquire and use the information...
+Download
+Read More
+13 July 2021
+Manual for investigating suspected outbreaks of illnesses of possible chemical etiology: guidance for...
+This manual describes methods for investigating
+clusters or outbreaks that may be of chemical origin and
+describes the importance of a structured, coordinated,
+collaborative...
+Download
+Read More
+11 December 2019
+Public health response to biological and chemical weapons : WHO guidance (2004)
+The message contained in this publication is clear: countries need a
+public health system that can respond to the deliberate release of
+chemical and...
+Download
+Read More
+1 January 2014
+Initial clinical management of patients exposed to chemical weapons: interim guidance document
+This interim guidance is aimed at healthcare workers who may receive patients
+exposed to chemical weapons at their healthcare facilities.
+The guidance...
+Download
+Read More
+Our work
+Strengthening the global health-security interface
+Managing health risks during mass gatherings
+Minimizing health risks at airports, ports and ground crossings
+Strengthening national emergency preparedness
+Rapidly detecting and responding to health emergencies
+Managing environmental health risks in emergencies
+Infographics
+All →
+Infographic
+Signs and symptoms of chemical exposures
+Infographic
+Decontamination steps
+Infographic
+Basic equipment for decontamination
+Infographic
+Initial management of patients flowchart
+Events
+All →
+10 December 2024 09:00 – 09:45 UTC Time
+Side Event - Information session - Update on WHO Deliberate Event preparedness and response
+6 – 7 July 2023
+Health-Security Interface Technical Advisory Group (HSI-TAG) in-person meeting July 2023
+Related health topics
+Other
+Biological weapons
+Disasters
+Chemical incidents
+Physical environment
+Radiation
+Disasters
+Radiation emergencies
+Physical environment
+Chemical safety
+Socio-political determinants
+International Health Regulations

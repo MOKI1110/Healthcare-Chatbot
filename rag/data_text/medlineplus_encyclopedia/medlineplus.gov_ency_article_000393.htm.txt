@@ -1,0 +1,156 @@
+Pancreatic neuroendocrine tumors: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Pancreatic neuroendocrine tumors
+URL of this page: //medlineplus.gov/ency/article/000393.htm
+Pancreatic neuroendocrine tumors
+To use the sharing features on this page, please enable JavaScript.
+Pancreatic neuroendocrine tumors (NET) are rare
+tumors
+of the pancreas that start from a type of cell called the islet cell.
+Causes
+In the healthy pancreas, cells called islet cells produce hormones that regulate several bodily functions. These include blood sugar level and the production of stomach acid.
+Tumors that arise from islet cells of the pancreas can also produce a variety of hormones, which can lead to specific symptoms.
+Pancreatic NETs can be noncancerous (
+benign
+) or cancerous (
+malignant
+).
+NETs include:
+Gastrinoma (
+Zollinger-Ellison syndrome
+)
+Glucagonoma
+Insulinoma
+Somatostatinoma
+VIPoma (
+Verner-Morrison syndrome
+)
+A family history of multiple
+endocrine
+neoplasia, type I (
+MEN I
+) is a risk factor for the development of NETs.
+Symptoms
+Symptoms depend on which hormone is made by the tumor.
+For example, insulinomas produce insulin, which lowers blood sugar level. Symptoms may include:
+Feeling tired or weak
+Shaking or sweating
+Headache
+Hunger
+Nervousness, anxiety, or feeling irritable
+Unclear thinking or feeling uneasy
+Double or blurry vision
+Fast or pounding heartbeat
+If your blood sugar level gets too low, you may faint, have a seizure, or even go into a coma.
+Gastrinomas make the hormone gastrin, which tells the body to make stomach acid. Symptoms may include:
+Abdominal pain
+Diarrhea
+Ulcers in the stomach and small bowel
+Vomiting blood (occasionally)
+Glucagonomas make the hormone glucagon, which helps the body raise blood sugar level. Symptoms can include:
+Diabetes
+Red, blistery rash in the groin or buttocks
+Weight loss
+Frequent urination and thirst
+Somatostatinomas make the hormone somatostatin. Symptoms may include:
+High blood sugar
+Gallstones
+Yellowish appearance to skin, and eyes
+Weight loss
+Diarrhea with foul smelling stools
+VIPomas make the hormone vasoactive intestinal peptide (VIP) which is involved in maintaining the balance of sodium, potassium and other minerals in the GI tract. VIPomas may cause:
+Severe diarrhea that may lead to dehydration
+Low blood potassium levels, and high calcium levels
+Abdominal cramps
+Weight loss
+Exams and Tests
+Your health care provider will take your medical history and perform a physical exam.
+Blood tests may vary, depending upon the symptoms, but may include:
+Fasting glucose
+level
+Gastrin level
+Glucose tolerance test
+Secretin stimulation test
+for pancreas
+Blood glucagon
+level
+Blood insulin C-peptide
+Â level
+Blood insulin level
+Fasting serum somatostatin level
+Serum vasoactive intestinal peptide (VIP) level
+Imaging tests may be done:
+Abdominal CT scan
+Abdominal ultrasound
+Endoscopic
+ultrasound
+MRI of abdomen
+A blood sample may also be taken from a vein in the pancreas for testing.
+Sometimes, surgery is needed to diagnose and treat this condition. During this procedure, the surgeon examines the pancreas by hand and with ultrasound.
+Treatment
+Treatment depends on the type of tumor and if it is cancerous.
+Cancerous tumors can grow quickly and spread to other organs. They may not be treatable. Tumors are often removed with surgery, if possible.
+If cancer cells spread to the liver, a part of the liver may also be removed, if possible. If the cancer is widespread, chemotherapy may be used to try to shrink the tumors.
+If the abnormal production of hormones is causing symptoms, you may receive medicines to counteract their effects. For example, with gastrinomas, the overproduction of gastrin leads to too much acid in the stomach. Medicines that block stomach acid release can reduce symptoms.
+Support Groups
+You can ease the stress of illness by joining a
+cancer support group
+. Sharing with others who have common experiences and problems can help you not feel alone.
+Outlook (Prognosis)
+You may be cured if the tumors are surgically removed before they have spread to other organs. If tumors are cancerous, chemotherapy may be used, but it usually cannot cure people.
+Life-threatening problems (such as very low blood sugar) can occur due to excess hormone production, or if the cancer spreads throughout the body.
+Possible Complications
+Complications of these tumors include:
+Diabetes
+Hormone crises (if the tumor releases certain types of hormones)
+Severe low blood sugar (from insulinomas)
+Severe ulcers in the stomach and small intestine (from gastrinomas)
+Spread of the tumor to the liver
+When to Contact a Medical Professional
+Contact your provider if you develop symptoms of these tumors, especially if you have a family history of MEN I.
+Prevention
+There is no known prevention for these tumors.
+Alternative Names
+Cancer - pancreas; Cancer - pancreatic; Pancreatic cancer; Islet cell tumors; Islet of Langerhans tumor; Neuroendocrine tumors; Peptic ulcer - islet cell tumor; Hypoglycemia - islet cell tumor; Zollinger-Ellison syndrome; Verner-Morrison syndrome; Gastrinoma; Insulinoma; VIPoma; Somatostatinoma; Glucagonoma; Pancreatic islet cell tumor
+Images
+Endocrine glands
+Pancreas
+References
+Khreiss MR, Riall TS. Pancreatic neuroendocrine tumors of the pancreas excluding gastrinoma. In: Cameron JL, Cameron AM, eds.
+Current Surgical Therapy
+. 14th ed. Philadelphia, PA: Elsevier; 2023:632-638.
+National Cancer Institute website. Pancreatic neuroendocrine tumors (islet cell tumors) treatment (PDQ) - health professional version.
+www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq
+. Updated August 19, 2022. Accessed May 6, 2024.
+National Comprehensive Cancer Network website. NCCN clinical practice guidelines in oncology (NCCN guidelines). Neuroendocrine and adrenal tumors. Version 1. 2023.
+www.nccn.org/professionals/physician_gls/pdf/neuroendocrine.pdf
+. Updated August 2, 2023. Accessed May 6, 2024.
+National Comprehensive Cancer Network website. NCCN guidelines for patients. Neuroendocrine tumors. 2022.
+www.nccn.org/patients/guidelines/content/PDF/neuroendocrine-patient.pdf
+. Accessed May 6, 2024.
+Review Date 3/31/2024
+Updated by: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Pancreatic Cancer

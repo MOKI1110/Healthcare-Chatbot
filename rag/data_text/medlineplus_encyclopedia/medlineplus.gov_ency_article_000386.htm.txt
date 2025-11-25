@@ -1,0 +1,122 @@
+Low blood sugar: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Low blood sugar
+URL of this page: //medlineplus.gov/ency/article/000386.htm
+Low blood sugar
+To use the sharing features on this page, please enable JavaScript.
+Low blood sugar is a condition that occurs when the body's blood sugar (glucose) decreases and is too low.
+Blood sugar below 70 mg/dL (3.9 mmol/L) is considered low. Blood sugar at or below this level can be harmful.
+The medical name of low blood sugar is hypoglycemia.
+Causes
+Insulin is a hormone made by the pancreas. Insulin is needed to move glucose into cells where it is stored or used for energy. Without enough insulin, glucose builds up in the blood instead of going into the cells. This leads to symptoms of
+diabetes
+.
+Low blood sugar occurs due to any of the following:
+Your body's glucose is used up too quickly
+Glucose production by the body is too low or it is released into the bloodstream too slowly
+Too much insulin is in the bloodstream
+Low blood sugar is common in people with diabetes who are taking insulin or certain other medicines to control their diabetes. However, many other diabetes medicines do not cause low blood sugar.
+Exercise can also lead to low blood sugar in people taking insulin to treat their diabetes.
+Babies born to mothers with diabetes may have severe drops in blood sugar right after birth.
+In people who do not have diabetes, low blood sugar may be caused by:
+Drinking alcohol
+Insulinoma
+, which is a rare tumor in the pancreas that produces too much insulin
+Lack of a hormone, such as cortisol, growth hormone, or thyroid hormone
+Severe heart, kidney, or liver failure
+Infection that affects the whole body (
+sepsis
+)
+Some types of weight-loss surgery (usually 5 or more years after the surgery)
+Medicines not used to treat diabetes (certain antibiotics or heart medicines)
+Symptoms
+Symptoms you may have when your blood sugar gets too low include:
+Double vision
+or blurry vision
+Fast or pounding heartbeat
+Feeling cranky or acting aggressive
+Feeling nervous
+Headache
+Hunger
+Seizures
+Shaking or trembling
+Sweating
+Tingling or numbness of the skin
+Tiredness or weakness
+Trouble sleeping
+Unclear thinking
+In many people with diabetes, low blood sugar causes nearly the same symptoms every time it happens. Not everybody feels low blood sugar symptoms the same way.
+Some symptoms, like hunger or sweating, occur when blood sugar is only slightly low. More severe symptoms, such as unclear thinking or seizure, may occur when the blood sugar is much lower (less than 54 mg/dL or 3.0 mmol/L).
+Even if you do not have symptoms, your blood sugar could still be too low (called hypoglycemic unawareness). You may not even know you have low blood sugar until you faint, have a seizure, or go into a
+coma
+. If you have diabetes, ask your health care provider if wearing a continuous glucose monitor can help you detect when your blood sugar is getting too low to help prevent a medical emergency. Some continuous glucose monitors can alert you and other people that you designate when your blood sugar decreases below a set level.
+If you have diabetes, keeping good control of your blood sugar can help prevent low blood sugar. Talk to your provider if you're not sure about the causes and symptoms of low blood sugar.
+Exams and Tests
+When you have low blood sugar, the reading will be lower than 70 mg/dL (3.9 mmol/L) on your glucose monitor.
+Your provider may ask you to wear a small monitor that measures your blood sugar every 5 minutes (continuous glucose monitor). The device is typically worn for 3 to 14 days. The data is downloaded to find out if you're having periods of low blood sugar that are going unnoticed.
+If you're admitted to the hospital, you'll likely have blood samples taken from your vein to:
+Measure your blood sugar level
+Diagnose the cause of your low blood sugar (these tests need to be carefully timed related to low blood sugar to make an accurate diagnosis)
+Treatment
+The goal of treatment is to correct your low blood sugar level. It is also important to try and identify the reason why the blood sugar was low to prevent another low blood sugar episode from happening.
+If you have diabetes, it is important that your provider teaches you how to
+treat yourself for low blood sugar
+. Treatment may include:
+Drinking juice
+Eating food
+Taking glucose tablets
+Or you may have been told to give yourself a shot of glucagon. This is a medicine that raises blood sugar.
+If low blood sugar is caused by an
+insulinoma
+, surgery to remove the tumor will be recommended.
+Possible Complications
+Severe low blood sugar is a medical emergency. It can cause seizures and brain damage. Severe low blood sugar that causes you to become unconscious is called hypoglycemic or insulin shock.
+Even one episode of severe low blood sugar may make it less likely for you to have symptoms that allow you to recognize another episode of low blood sugar. Episodes of severe low blood sugar can make people afraid to take insulin as prescribed by their provider.
+When to Contact a Medical Professional
+If signs of low blood sugar do not improve after you have eaten a snack that has sugar:
+Get a ride to the emergency room. Do not drive yourself.
+Call 911 or the local emergency number
+Get medical help right away for a person with diabetes or low blood sugar who:
+Becomes less alert
+Cannot be woken up
+Alternative Names
+Hypoglycemia; Insulin shock; Insulin reaction; Diabetes - hypoglycemia
+Images
+Food and insulin release
+15/15 rule
+Low blood sugar symptoms
+References
+American Diabetes Association Professional Practice Committee. 6. Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes-2024.
+Diabetes Care
+. 2024;47(Suppl 1):S111-S125. PMID: 38078586
+pubmed.ncbi.nlm.nih.gov/38078586/
+.
+Cryer PE, ArbelÃ¡ez AM. Hypoglycemia. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds.
+Williams Textbook of Endocrinology
+. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 38.
+Review Date 2/28/2024
+Updated by: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Hypoglycemia

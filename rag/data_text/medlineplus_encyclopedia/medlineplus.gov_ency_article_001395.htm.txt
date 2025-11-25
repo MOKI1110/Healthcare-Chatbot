@@ -1,0 +1,105 @@
+Brachial plexus injury in newborns: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Brachial plexus injury in newborns
+URL of this page: //medlineplus.gov/ency/article/001395.htm
+Brachial plexus injury in newborns
+To use the sharing features on this page, please enable JavaScript.
+The brachial plexus is a group of nerves around the shoulder. A loss of movement or weakness of the arm may occur if these nerves are damaged. This injury is called neonatal brachial plexus palsy (NBPP).
+Causes
+The nerves of the brachial plexus can be affected by compression inside the mother's womb or during a difficult delivery. Injury may be caused by:
+The infant's head and neck pulling toward the side as the shoulders pass through the birth canal or surgical incision
+The infant's shoulders stretching or arm being pulled during a head-first delivery
+Pressure on the baby's raised arms during a breech (feet-first) delivery
+There are different forms of NBPP. The type depends on the amount of arm paralysis:
+Brachial plexus palsy most often affects only the upper arm. It is also called Duchenne-Erb or Erb-Duchenne paralysis.
+Klumpke paralysis affects the lower arm and hand. This is less common.
+The following factors increase the risk of NBPP:
+Breech delivery
+Maternal obesity
+Larger-than-average newborn (such as an
+infant of a diabetic mother
+)
+Difficulty delivering the baby's shoulder after the head has already come out (called shoulder dystocia)
+NBPP is less common than in the past. Cesarean delivery is used more often when there are concerns about a difficult delivery. Although a C-section reduces the risk of injury, it does not prevent it. A C-section also carries other risks.
+NBPP may be confused with a condition called
+pseudoparalysis
+. This is seen when the infant has a fracture of the clavicle (collarbone) and is not moving the arm because of pain, but there is no nerve damage.
+Symptoms
+Symptoms can be seen right away or soon after birth. They may include:
+No movement in the newborn's upper or lower arm or hand
+Absent
+Moro reflex
+on the affected side
+Arm extended (straight) at elbow and held against body
+Decreased grip on the affected side (depending on the site of injury)
+Exams and Tests
+A physical exam most often shows that the infant is not moving the upper or lower arm or hand. The affected arm may flop when the infant is rolled from side to side.
+The Moro reflex is absent on the side of injury.
+The health care provider will examine the clavicle to look for a fracture. The infant may need to have an x-ray taken.
+Treatment
+In mild cases, the provider will suggest:
+Gentle massage of the arm
+Range-of-motion exercises
+Pediatric physical therapists can help with these. The infant may need to be seen by specialists if the damage is severe or the condition does not improve in the first few weeks.
+Surgery may be considered if strength does not improve by 3 to 9 months of age.
+Outlook (Prognosis)
+Most babies will fully recover within 3 to 4 months. Those who do not recover during this time have a poor outlook for full recovery. In these cases, there may have been a separation of the nerve root from the spinal cord (avulsion).
+It is not clear whether surgery to fix the nerve problem can help. Surgery may involve nerve grafts or nerve transfers. It may take many years for healing to occur.
+In cases of pseudoparalysis, the child will begin to use the affected arm as the fracture heals. Fractures in infants heal quickly and easily in most cases.
+Possible Complications
+Complications include:
+Abnormal muscle contractions (contractures) or tightening of the muscles. These may be permanent.
+Permanent, partial, or total loss of function of the affected nerves, causing paralysis of the arm or arm weakness.
+When to Contact a Medical Professional
+Contact your provider if your newborn is not moving an arm.
+Prevention
+It is difficult to prevent NBPP. Taking steps to avoid a difficult delivery, whenever possible, reduces the risk.
+Alternative Names
+Klumpke paralysis; Erb-Duchenne paralysis; Erb's palsy; Brachial palsy; Brachial plexopathy; Obstetrical brachial plexus palsy; Birth-related brachial plexus palsy; Neonatal brachial plexus palsy; NBPP
+References
+Executive summary: neonatal brachial plexus palsy. Report of the American College of Obstetricians and Gynecologists' Task Force on neonatal brachial plexus palsy.
+Obstet Gynecol
+. 2014;123(4):902-904. PMID: 24785634
+pubmed.ncbi.nlm.nih.gov/24785634/
+.
+Fogel I, Katz A, Sela HY, Lebel E. Brachial plexus birth palsy: incidence, natural-course, and prognostic factors during the first year of life.
+J Perinatol
+. 2021;41(7):1590-1594. PMID: 33790402
+pubmed.ncbi.nlm.nih.gov/33790402/
+.
+Prazad PA, Rajpal MN, Mangurten HH. Birth injuries. In: Martin RJ, Fanaroff AA, Walsh MC, eds.
+Fanaroff and Martin's Neonatal-Perinatal Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2025:chap 28.
+Shah V, Coroneos CJ, Ng E. The evaluation and management of neonatal brachial plexus palsy.
+Paediatr Child Health
+. 2021;26(8):493-497. PMID: 34992702
+pubmed.ncbi.nlm.nih.gov/34992702/
+.
+Review Date 12/31/2023
+Updated by: Mary J. Terrell, MD, IBCLC, Neonatologist, Cape Fear Valley Medical Center, Fayetteville, NC. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Arm Injuries and Disorders
+Brachial Plexus Injuries
+Childbirth Problems

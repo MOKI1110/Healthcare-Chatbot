@@ -1,0 +1,96 @@
+Cardioversion: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Cardioversion
+URL of this page: //medlineplus.gov/ency/article/007110.htm
+Cardioversion
+To use the sharing features on this page, please enable JavaScript.
+Cardioversion is a method to bring an abnormal heart rhythm back to normal.
+Information
+Cardioversion can be done using an electric shock or with medicines.
+ELECTRICAL CARDIOVERSION
+Electrical cardioversion is done with a device that gives off an electrical shock to the heart to change the rhythm back to normal. The device is called a defibrillator.
+The shock can be delivered from a device outside the body called an external defibrillator. These are found in emergency rooms, ambulances, or some public places such as airports.
+Electrode patches are placed on the chest and back. The patches are connected to the defibrillator. Or, paddles attached to the devices are placed directly onto the chest.
+The defibrillator is activated and an electric shock is delivered to your heart.
+This shock briefly stops all electrical activity of the heart. Then it allows the normal heart rhythm to return.
+Sometimes more than one shock, or a shock with higher energy is needed.
+An external defibrillator is used to treat abnormal heart rhythms (
+arrhythmia
+) that cause collapse and cardiac arrest. Examples are ventricular tachycardia and ventricular fibrillation.
+These same devices may also be used to treat less dangerous abnormal rhythms, problems such as atrial fibrillation.
+Some people may need to start blood thinners beforehand to prevent small blood clots.
+You will be given medicine to help you relax before the procedure.
+After the procedure, you may be given medicines to prevent blood clots or to help prevent the arrhythmia from coming back.
+An
+implantable cardioverter-defibrillator
+(ICD) is a device that is placed inside your body. It is most often used in people who are at risk for sudden death because their heart function is so poor, or they have had dangerous heart rhythms before.
+The ICD is implanted underneath the skin of your upper chest or abdomen.
+Wires are attached that go into or near the heart.
+If the device detects a dangerous heartbeat, it sends an electrical shock to the heart to change the rhythm back to normal.
+CARDIOVERSION USING MEDICINES
+Cardioversion can be done using medicines that are taken by mouth or given through an intravenous line (IV). It can take from several minutes to days for this treatment to work. This treatment is often done while in a hospital where your heart rhythm will be monitored.
+Cardioversion using medicines can be done outside the hospital. This treatment is most often used for people with atrial fibrillation that comes and goes. However, you will need to be closely followed-up by a cardiologist.
+You may be given blood thinning medicines to prevent blood clots from forming and leaving the heart (which can cause a stroke).
+COMPLICATIONS
+Complications of cardioversion are uncommon, but may include:
+Allergic reactions from medicines used
+Blood clots that can cause a stroke or other organ damage
+Bruising, burning, or pain where the electrodes were used
+Worsening of the arrhythmia
+People who perform external cardioversion may be shocked if the procedure is not done correctly. This can cause heart rhythm problems, pain, and even death.
+Alternative Names
+Abnormal heart rhythms - cardioversion; Bradycardia - cardioversion; Tachycardia - cardioversion; Fibrillation - cardioversion; Arrhythmia - cardioversion; Cardiac arrest - cardioversion; Defibrillator - cardioversion; Pharmacologic cardioversion
+Images
+Implantable cardioverter-defibrillator
+References
+Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society.
+Heart Rhythm
+. 2018;15(10):e190-e252. PMID: 29097320
+pubmed.ncbi.nlm.nih.gov/29097320/
+.
+Curtis AB, Tomaselli GF. Approach to the patient with cardiac arrhythmias. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 61.
+Epstein AE, DiMarco JP, Ellenbogen KA, et al. 2012 ACCF/AHA/HRS focused update incorporated into the ACCF/AHA/HRS 2008 guidelines for device-based therapy of cardiac rhythm abnormalities: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines and the Heart Rhythm Society.
+J Am Coll Cardiol
+. 2013;61(3):e6-e75. PMID: 23265327
+pubmed.ncbi.nlm.nih.gov/23265327/
+.
+Minczak BM, Laub GW. Defibrillation and cardioversion. In: Roberts JR, Custalow CB, Thomsen TW, eds.
+Roberts and Hedges' Clinical Procedures in Emergency Medicine and Acute Care
+. 7th ed. Philadelphia, PA: Elsevier; 2019:chap 12.
+Myerburg RJ, Lampert R. Cardiac arrest and life-threatening arrhythmias. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 50.
+Nattel S, Tomaselli GF. Mechanisms of cardiac arrhythmias. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 62.
+Santucci PA, Wilber DJ. Electrophysiologic interventional procedures and surgery. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 54.
+Review Date 5/27/2024
+Updated by: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Arrhythmia

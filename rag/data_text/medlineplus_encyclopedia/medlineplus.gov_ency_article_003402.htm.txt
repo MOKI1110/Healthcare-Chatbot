@@ -1,0 +1,92 @@
+Apgar score: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Apgar score
+URL of this page: //medlineplus.gov/ency/article/003402.htm
+Apgar score
+To use the sharing features on this page, please enable JavaScript.
+The Apgar score is a quick test performed on a baby at 1 and 5 minutes after birth. The 1-minute score determines how well the baby tolerated the birthing process. The 5-minute score tells your health care provider how well the baby is doing outside the mother's womb.Â It also helps measure how well the baby responds if resuscitation is needed right after birth.
+In rare cases, the test will be done 10 minutes after birth.
+Virginia Apgar, MD (1909-1974) introduced the Apgar score in 1952.
+How the Test is Performed
+The Apgar test is done by a doctor, midwife, or nurse. Your provider examines the baby's:
+Breathing effort
+Heart rate
+Muscle tone
+Reflexes
+Skin color
+Each category is scored with 0, 1, or 2, depending on the observed condition.
+Breathing effort:
+If the infant is not breathing, the respiratory score is 0.
+If the respirations are slow or irregular, the infant scores 1 for respiratory effort.
+If the infant cries well, the respiratory score is 2.
+Heart rate is evaluated by stethoscope. This is the most important assessment:
+If there is no heartbeat, the infant scores 0 for heart rate.
+If heart rate is less than 100 beats per minute, the infant scores 1 for heart rate.
+If heart rate is greater than 100 beats per minute, the infant scores 2 for heart rate.
+Muscle tone:
+If muscles are loose and floppy, the infant scores 0 for muscle tone.
+If there is some muscle tone, the infant scores 1.
+If there is active motion, the infant scores 2 for muscle tone.
+Grimace response or reflex irritability is a term describing response to stimulation, such as a mild pinch:
+If there is no reaction, the infant scores 0 for reflex irritability.
+If there is grimacing, the infant scores 1 for reflex irritability.
+If there is grimacing and a cough, sneeze, or vigorous cry, the infant scores 2 for reflex irritability.
+Skin color:
+If the skin color is pale blue, the infant scores 0 for color.
+If the body is pink and the extremities are blue, the infant scores 1 for color.
+If the entire body is pink, the infant scores 2 for color.
+Why the Test is Performed
+This test is done to determine whether a newborn needs help breathing or is having heart trouble.
+Normal Results
+The Apgar score is based on a total score of 1 to 10. The higher the score, the better the baby is doing after birth.
+A score of 7, 8, or 9 is normal and is a sign that the newborn is in good health. A score of 10 is very unusual, since almost all newborns lose 1 point for blue hands and feet, which is normal for after birth.
+What Abnormal Results Mean
+Any score lower than 7 is a sign that the baby needs medical attention. The lower the score, the more help the baby needs to adjust outside the mother's womb.
+Most of the time a low Apgar score is caused by:
+A difficult birth
+C-section
+Fluid in the baby's airway
+A baby with a low Apgar score may need:
+Oxygen and clearing out the airway to help with breathing
+Physical stimulation to get the heart beating at a healthy rate
+Most of the time, a low score at 1 minute is near-normal by 5 minutes. Apgar scores are not usually measured after 5 minutes.
+A lower Apgar score does not mean a child will have serious or long-term health problems. The Apgar score is not designed to predict the future health of the child.
+If the Apgar score is below 7 at the five-minute mark, some providers will check it a few minutes later to assess the effect of any action taken to correct any respiratory or cardiac concerns. If it is rechecked, that typically stops once the Apgar score has reached 7.
+Alternative Names
+Newborn scoring; Delivery - Apgar
+Images
+Infant care following delivery
+Newborn test
+References
+Arulkumaran S. Fetal surveillance in labor. In: Arulkumaran SS, Robson MS, eds.
+Munro Kerr's Operative Obstetrics.
+13th ed. Philadelphia, PA: Elsevier; 2020:chap 9.
+Parga-Belinkie JJ. The newborn infant. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics.
+22nd ed. Philadelphia, PA: Elsevier; 2025:chap 115.
+Review Date 10/20/2024
+Updated by: Neil K. Kaneshiro, MD, MHA, Clinical Professor of Pediatrics, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Newborn Screening

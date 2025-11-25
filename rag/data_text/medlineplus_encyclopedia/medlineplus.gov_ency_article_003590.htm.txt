@@ -1,0 +1,105 @@
+Stool C difficile toxin: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Stool C difficile toxin
+URL of this page: //medlineplus.gov/ency/article/003590.htm
+Stool C difficile toxin
+To use the sharing features on this page, please enable JavaScript.
+The stool
+C difficile
+toxin test detects harmful substances produced by the bacterium
+Clostridioides difficile
+(
+C difficile
+). This infection is a common cause of diarrhea after antibiotic use.
+How the Test is Performed
+A stool sample is needed. It is sent to a lab to be analyzed. There are several ways to detect
+C difficile
+toxin in the stool sample.
+Enzyme immunoassay (
+EIA
+) was used most often in the past to detect substances produced by the bacteria. This test is faster than older tests, and simpler to perform. The results are ready in a few hours. However, it is slightly less sensitive than earlier methods. Several stool samples may be needed to get an accurate result.
+A newer and more common method is to use polymerase chain reaction (PCR) to detect the toxin genes. This is the most sensitive and specific test. Results are ready within 1 hour. Only one stool sample is needed.
+How to Prepare for the Test
+There are many ways to collect the samples.
+You can catch the stool on plastic wrap that is loosely placed over the toilet bowl and held in place by the toilet seat. Then you put the sample in a clean container.
+A test kit is available that supplies a special toilet tissue or plastic cover for the back of the toilet that you use to collect the sample. After collecting the sample, you put it in a container.
+Do not mix urine, water, or toilet tissue with the sample.
+For children wearing diapers:
+Line the diaper with plastic wrap.
+Position the plastic wrap so that it will prevent urine and stool from mixing. This will provide a better sample.
+Why the Test is Performed
+You may have this test if your health care provider thinks that yourÂ
+diarrhea
+is caused by the antibiotic medicines you have taken recently. Antibiotics change the balance of bacteria in the colon. This sometimes leads to too much growth of
+C difficile
+.
+Diarrhea caused by
+C difficile
+after antibiotic use often occurs in people who are in the hospital. It also can occur in people who have not recently taken antibiotics. People with inflammatory bowel disease are particularly at risk as are people who are immunosuppressed. This can lead to a condition called
+pseudomembranous colitis
+.
+Normal Results
+No
+C difficile
+toxin is detected.
+Note: Normal value ranges may vary slightly among different laboratories. Talk to your provider about the meaning of your specific test results.
+What Abnormal Results Mean
+Abnormal results mean that toxins produced by
+C difficile
+are seen in the stool and are causing diarrhea.
+Risks
+There are no risks associated with testing for
+C difficile
+toxin.
+Considerations
+Several stool samples may be needed to detect the condition. This is particularly true if the older EIA for toxin test is used.
+Alternative Names
+Antibiotic associated colitis - toxin; Colitis - toxin; Pseudomembranous colitis - toxin; Necrotizing colitis - toxin; C difficile - toxin
+Images
+Clostridioides difficile organism
+References
+Galloway DP, Cohen MB.
+Clostridioides difficile
+infection. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 258.
+Gerding DN, Young VB, Donskey CJ. Clostridioides difficile (formerly Clostridium difficile) infection. In: Bennett JE, Dolin R, Blaser MJ, eds.
+Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases
+. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 243.
+Plourde AR, Beavis KG. Specimen collection and handling for diagnosis of infectious diseases. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods
+. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 66.
+Siddiqi HA, Rabinowitz S, Axiotis CA..Laboratory diagnosis of gastrointestinal and pancreatic disorders. In: McPherson RA, Pincus MR, eds.
+Henry's Clinical Diagnosis and Management by Laboratory Methods
+. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 22.
+Wilcox MH, Dubberke ER. Clostridial and
+clostridioides
+infections. In: Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 271.
+Review Date 6/11/2024
+Updated by: Jenifer K. Lehrer, MD, Department of Gastroenterology, Aria - Jefferson Health Torresdale, Jefferson Digestive Diseases Network, Philadelphia, PA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+C. diff Infections

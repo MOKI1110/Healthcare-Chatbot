@@ -1,0 +1,68 @@
+Pharmacogenetics : MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Pharmacogenetics
+URL of this page: //medlineplus.gov/ency/article/007794.htm
+Pharmacogenetics
+To use the sharing features on this page, please enable JavaScript.
+Pharmacogenetics is the study of how genes affect the way medicines work in a person. Your health care provider can use the information from
+pharmacogenetic testing
+to prescribe medicines that will work best for you with fewer side effects.
+Information
+Pharmacogenetics is a type of precision medicine. Precision medicine uses information about a person's genes, environment, and lifestyle to help diagnose, prevent, and treat illness specifically for that person.
+Pharmacogenetics uses information from your genes to see how your body will respond to a medicine. Your provider may order pharmacogenetic testing to see if you can take certain medicines safely and how well they will work.
+Pharmacogenetic testing results identify changes in certain genes. These genes control your body's response to medicines. Using pharmacogenetic testing, your provider can find out:
+Whether your body will have a strong, weak, or no response to a medicine
+How quickly a medicine is taken up into the tissues and cells where it is needed
+How quickly your body breaks down a medicine
+The chance that a medicine will cause side effects
+These results can help your provider know what medicine and dose will work to treat your condition. This can speed up the treatment process by avoiding trial-and-error dosing. Finding the right medicine can improve your health more quickly.
+At this time, only certain medicines have this testing available. For example, it can be used in some cases for people taking medicine for:
+Depression
+Anxiety
+Some cancers
+HIV
+Epilepsy
+Thromboembolism
+Hyperuricemia
+Tuberculosis
+Certain types of
+leukemia
+Fungal infection
+Malaria
+Pharmacogenetics may help providers find the best medicines for the people who need them.
+Alternative Names
+PGx; Pharmacogenomics
+References
+Centers for Disease Control and Prevention website. Pharmacogenomics.
+www.cdc.gov/genomics-and-health/about/pharmacogenetics.html?CDC_AAref_Val=https://www.cdc.gov/genomics/disease/pharma.htm
+. Updated May 14, 2024. Accessed June 19, 2024.
+Korf BR, Limdi NA. Principles of genetics. In: Goldman L, Schafer AI, eds.
+Goldman-Cecil Medicine
+. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 31.
+Review Date 6/26/2023
+Updated by: Jacob Berman, MD, MPH, Clinical Assistant Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Drug Reactions
+Medicines

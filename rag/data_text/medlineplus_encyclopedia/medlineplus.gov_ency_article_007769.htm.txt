@@ -1,0 +1,97 @@
+COVID-19 virus test: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+COVID-19 virus test
+URL of this page: //medlineplus.gov/ency/article/007769.htm
+COVID-19 virus test
+To use the sharing features on this page, please enable JavaScript.
+Testing for the virus that causes COVID-19 involves taking a mucus sample from your upper respiratory tract. This test is used to diagnose COVID-19.
+The COVID-19 virus test is not used to test your immunity to COVID-19. To test if you have antibodies against the SARS-CoV-2 virus, you need a
+COVID-19 antibody test
+Â taken from a blood sample.
+How the Test is Performed
+Testing is usually done in one of two ways. For a nasopharyngeal test, you will be asked to tilt your head back slightly. A sterile, cotton-tipped swab is gently passed through a nostril and into the nasopharynx. This is the uppermost part of the throat, behind the nose. The swab is left in place for several seconds, rotated, and removed. This same procedure may be done on your other nostril.
+For an anterior nasal test, the swab will be inserted into your nostril no more than 3/4 of an inch (2 centimeters). The swab will be rotated at least 4 times while pressing against the inside of your nostril. The same swab will be used to collect samples from both nostrils.
+Tests may be done by a health care provider at an office, drive-through, or walk-up location. Check with your local health department to find out where testing is available in your area.
+At-home testing
+kits (self-tests) are available over-the-counter. Most kits have you collect a sample using a nasal swab, and you can get results at home in minutes. Be sure to follow the instructions that come with the kit,
+There are two types of virus tests available that can diagnose COVID-19:
+Polymerase chain reaction (PCR) tests (also called Nucleic Acid Amplification Tests [NAATs]) detect the genetic material of the virus that causes COVID-19. The samples are usually sent to a lab for testing, and results are usually available in 1 to 3 days. There are also rapid PCR diagnostic tests that are run on specialized equipment on-site, for which the results are available in several minutes. PCR tests tend to be the most reliable tests, whether or not you have symptoms.
+Antigen tests detect specific proteins on the virus that causes COVID-19. Antigen tests are rapid diagnostic tests, which means results are available in several minutes. Self-tests taken at home are antigen tests. These tests are not as reliable as PCR tests, especially if you do not have symptoms.
+Rapid diagnostic tests of any kind are less accurate than the regular PCR test. If you get a negative result on a rapid test, but have symptoms of COVID-19, your provider may do a non-rapid PCR test.
+How to Prepare for the Test
+No special preparation is needed.
+How the Test will Feel
+Depending on the type of test, you may have slight or moderate discomfort, your eyes may water, and you may gag.
+Why the Test is Performed
+The test identifies the SARS-CoV-2 virus (severe acute respiratory syndrome coronavirus 2), which causes
+COVID-19
+.
+Normal Results
+The test is considered normal when it is
+negative
+. A negative test means that at the time you were tested, you probably didn't have the virus that causes COVID-19 in your respiratory tract. But you can test negative if you were tested too early after infection for the SARS-CoV-2 virus to be detected. And you can have a positive test later if you are exposed to the virus after you were tested. Also, rapid diagnostic tests of any kind are less accurate than the regular PCR test, and either test may remain positive for weeks after you've recovered from the illness.
+For this reason, if you have symptoms of COVID-19 or you are at risk for contracting COVID-19 and your first test result was negative, your provider may recommend being retested at a later time. A single negative self-test will not rule out infection. If you used a self-test, you should take at least one more test again in 48 hours. Take a third test 48 hours after the second test if you don't have symptoms. Or, your provider may recommend a PCR test to confirm your results.
+What Abnormal Results Mean
+A
+positive
+test means that you are infected with SARS-CoV-2. You may or may not have
+symptoms of COVID-19
+, the illness caused by the virus. Whether you have symptoms or not, you can still spread the illness to others. You should
+stay at home away from others
+until your symptoms are better, and you are free of fever for at least 24 hours (without taking fever-reducing medicine). Continue to take precautions for another 5 days to protect others from developing COVID-19.
+Alternative Names
+COVID-19 - Nasopharyngeal swab; SARS CoV-2 test; COVID-19 PCR test
+Images
+COVID-19
+Respiratory system
+Upper respiratory tract
+References
+Centers for Disease Control and Prevention website. COVID-19: Interim
+guidelines for collecting and handling of clinical specimens for COVID-19
+testing.
+www.cdc.gov/covid/hcp/clinical-care/clinical-specimen-guidelines.html
+.
+Updated October 29, 2024. Accessed
+January 6, 2025.
+Centers for Disease Control and Prevention website. COVID-19: testing for
+COVID-19.
+www.cdc.gov/covid/testing/index.html
+.
+Updated March 10, 2025. Accessed June 5, 2025.
+Del Rio C, Gandhi M, Cohen MS.
+COVID-19: epidemiology, clinical manifestations, diagnosis, and community prevention.
+In:
+Goldman L, Cooney KA, eds.
+Goldman-Cecil Medicine.
+27th ed.
+Philadelphia, PA: Elsevier; 2024:chap 336.
+US Food and Drug Administration website. COVID-19 test basics.
+www.fda.gov/consumers/consumer-updates/covid-19-test-basics
+.
+Updated September 7, 2023. Accessed January 6, 2025.
+Review Date 1/1/2025
+Updated by: Linda J. Vorvick, MD, Clinical Professor Emeritus, Department of Family Medicine, UW Medicine, School of Medicine, University of Washington, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 06/05/2025.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+COVID-19 Testing

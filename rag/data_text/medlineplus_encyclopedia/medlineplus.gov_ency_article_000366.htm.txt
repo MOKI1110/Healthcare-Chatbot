@@ -1,0 +1,130 @@
+Galactosemia: MedlinePlus Medical Encyclopedia
+Skip navigation
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means youâve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+You Are Here:
+Home
+→
+Medical Encyclopedia
+→
+Galactosemia
+URL of this page: //medlineplus.gov/ency/article/000366.htm
+Galactosemia
+To use the sharing features on this page, please enable JavaScript.
+Galactosemia is a condition in which the body is unable to use (
+metabolize
+) the simple sugar galactose.
+Causes
+Galactosemia is an inherited disorder. This means it is passed down through families. If both parents carry a nonworking copy of the gene that can cause galactosemia, each of their children has a 25% (1 in 4) chance of being affected with it. This is called autosomal recessive inheritance.
+There are 3 forms of the disease:
+Galactose-1 phosphate uridyl transferase (GALT) deficiency: Classic galactosemia, the most common and most severe form
+Deficiency of galactose kinase (GALK)
+Deficiency of galactose-6-phosphate epimerase (GALE)
+People with galactosemia are unable to fully break down the simple sugar galactose. Galactose makes up one half of lactose, the sugar found in milk.
+If an infant with galactosemia is given milk, substances made from galactose build up in the infant's system. These substances damage the liver, brain, kidneys, and eyes.
+People with galactosemia cannot tolerate any form of milk (human or animal). They must be careful about eating other foods containing galactose.
+Symptoms
+Infants with galactosemia may show symptoms in the first few days of life if they eat formula or breast milk that contains lactose. They may develop a serious blood infection with the bacteria
+E coli
+.
+Symptoms of galactosemia are:
+Convulsions
+Irritability
+Lethargy
+Poor feeding -- baby refuses to eat formula containing milk
+Poor weight gain
+Yellow skin and whites of the eyes (jaundice)
+Vomiting
+Exams and Tests
+Tests to check for galactosemia include:
+Enzyme
+activity in the red blood cells
+Ketones in the urine
+Prenatal diagnosis by directly measuring the enzyme
+galactose-1-phosphate uridyl transferase
+"Reducing substances" in the infant's urine, and normal or
+low blood sugar
+while the infant is being fed breast milk or a formula containing lactose
+Genetic testing for the gene that causes this disorder
+In many states, newborn screening tests check for galactosemia.
+Test results may show:
+Amino acids in the urine
+or blood plasma
+Enlarged liver
+Fluid in the abdomen
+Low blood sugar
+Treatment
+People with this condition must avoid all milk, products that contain milk (including dry milk), and other foods that contain galactose, for life. Read product labels to make sure you or your child with the condition are not eating foods that contain galactose.
+Infants can be fed:
+Soy formula
+Another lactose-free formula
+Meat-based formula or a
+protein
+hydrolysate formula
+Calcium supplements are recommended.
+Support Groups
+More information and support for people with galactosemia and their families can be found at:
+Galactosemia Foundation --
+www.galactosemia.org
+Outlook (Prognosis)
+People who are diagnosed early and strictly avoid milk products and other foods that contain lactose can live a relatively normal life. However, mild mental impairment may develop, even in people who avoid galactose.
+Possible Complications
+These complications can develop:
+Cataracts
+Cirrhosis
+of the liver
+Delayed speech development
+Irregular menstrual periods, reduced function of ovaries leading to ovarian failure and infertility
+Mental disability
+Severe infection with bacteria (
+E coli sepsis
+)
+Tremors (shaking) and uncontrollable motor functions
+Death (if there is galactose in the diet)
+When to Contact a Medical Professional
+Contact your health care provider if:
+Your infant has galactosemia symptoms
+You have a family history of galactosemia and are considering having children
+Prevention
+It is helpful to know your family history. If you have a family history of galactosemia and want to have children,
+genetic counseling
+will help you make decisions about pregnancy and prenatal testing. Once the diagnosis of galactosemia is made, genetic counseling is recommended for other members of the family.
+Many states screen all newborns for galactosemia. If the newborn test shows possible galactosemia, they should contact the child's provider right away for advice about giving their infant milk products. They should also ask the provider about having blood tests that can be done to confirm a diagnosis of galactosemia.
+Alternative Names
+Galactose-1-phosphate uridyl transferase deficiency; Galactokinase deficiency; Galactose-6-phosphate epimerase deficiency; GALT; GALK; GALE; Epimerase deficiency galactosemia; GALE deficiency; Galactosemia type III; UDP-galactose-4; Duarte variant
+Images
+Galactosemia
+References
+Berry GT. Classic galactosemia and clinical variant galactosemia. 2000 Feb 4 [updated 2021 Mar 11]. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, eds.
+GeneReviews
+[Internet]. Seattle, WA: University of Washington. PMID: 20301691
+pubmed.ncbi.nlm.nih.gov/20301691/
+.
+Bonnardeaux A, Bichet DG. Inherited disorders of the renal tubule. In: Yu ASL, Chertow GM, Luyckx VA, Marsden PA, Skorecki K, Taal MW, eds.
+Brenner and Rector's The Kidney
+. 11th ed. Philadelphia, PA: Elsevier; 2020:chap 44.
+Hijazi G, Kishnani PS. Defects in metabolism of carbohydrates. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds.
+Nelson Textbook of Pediatrics
+. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 107.
+Pearl PL, DiBacco ML, Gibson KM. Inborn errors of metabolism and the nervous system. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds.
+Bradley and Daroff's Neurology in Clinical Practice
+. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 91.
+Review Date 4/8/2025
+Updated by: Anna C. Edens Hurst, MD, MS, Associate Professor in Medical Genetics, The University of Alabama at Birmingham, Birmingham, AL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Carbohydrate Metabolism Disorders
