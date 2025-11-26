@@ -1,7 +1,6 @@
 import clsx from "clsx";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import React from "react";
 
 interface ChatBubbleProps {
   sender: "user" | "bot";
@@ -176,40 +175,47 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
                 />
               ),
 
-              // Code blocks & inline code
-              code: ({ className, children, ...props }) => {
-                const isInline = !className;
-                if (isInline) {
-                  return (
-                    <code
-                      className={clsx(
-                        "rounded px-1.5 py-0.5 text-[0.85em] font-mono",
-                        isUserMessage
-                          ? "bg-white/15 text-white"
-                          : "bg-secondary-100 text-secondary-900"
-                      )}
-                      {...props}
-                    >
-                      {children}
-                    </code>
-                  );
-                }
-                // fenced code block
-                return (
-                  <pre
-                    className={clsx(
-                      "my-3 rounded-lg p-3 overflow-x-auto text-[0.8em] font-mono",
-                      isUserMessage
-                        ? "bg-black/20 border border-white/20 text-white"
-                        : "bg-secondary-900/5 border border-secondary-300 text-secondary-900",
-                      className
-                    )}
-                    {...props}
-                  >
-                    {children}
-                  </pre>
-                );
-              },
+               // Code blocks (pre wraps code for fenced blocks)
+               pre: ({ children, ...props }) => {
+                 return (
+                   <pre
+                     className={clsx(
+                       "my-3 rounded-lg p-3 overflow-x-auto text-[0.8em] font-mono",
+                       isUserMessage
+                         ? "bg-black/20 border border-white/20 text-white"
+                         : "bg-secondary-900/5 border border-secondary-300 text-secondary-900"
+                     )}
+                     {...props}
+                   >
+                     {children}
+                   </pre>
+                 );
+               },
+               // Inline code
+               code: ({ className, children, ...props }) => {
+                 const isInline = !className;
+                 if (isInline) {
+                   return (
+                     <code
+                       className={clsx(
+                         "rounded px-1.5 py-0.5 text-[0.85em] font-mono",
+                         isUserMessage
+                           ? "bg-white/15 text-white"
+                           : "bg-secondary-100 text-secondary-900"
+                       )}
+                       {...props}
+                     >
+                       {children}
+                     </code>
+                   );
+                 }
+                 // Code inside pre (for fenced blocks)
+                 return (
+                   <code className={className} {...props}>
+                     {children}
+                   </code>
+                 );
+               },
 
               // Link styling
               a: ({ children, href, ...props }) => (
