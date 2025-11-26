@@ -1,4 +1,4 @@
-import React, { useState, useContext, useRef } from "react";
+import React, { useState, useContext, useRef, useEffect } from "react";
 import ChatBubble from "./ChatBubble";
 import MessageInput from "./MessageInput";
 import QuickReplies from "./QuickReplies";
@@ -35,14 +35,21 @@ export default function Chatbot() {
   const initialMsg = t("greeting");
 
   const [conversationHistory, setConversationHistory] = useState<Message[]>([
-    { role: 'assistant', content: initialMsg }
+    { role: "assistant", content: initialMsg },
   ]);
 
   const [messages, setMessages] = useState<UIMessage[]>([
-    { sender: 'bot', text: initialMsg }
+    { sender: "bot", text: initialMsg },
   ]);
 
   const [isTyping, setIsTyping] = useState(false);
+
+  const messagesEndRef = useRef<HTMLDivElement | null>(null);
+
+  useEffect(() => {
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages, isTyping]);
+
 
   async function handleUserMessage(text: string) {
     setMessages((msgs) => [...msgs, { sender: "user", text }]);
@@ -136,7 +143,7 @@ export default function Chatbot() {
   }
 
   return (
-    <main className="min-h-screen bg-secondary-50 p-6 flex flex-col">
+    <div className="min-h-screen bg-secondary-50 p-6 flex flex-col">
       <div className="max-w-5xl mx-auto w-full flex-1 flex flex-col bg-white rounded-3xl shadow-xl overflow-hidden">
         {/* Header with Icon-based Start Over */}
         <div className="bg-primary-600 px-8 py-6 border-b border-primary-700">
@@ -167,7 +174,13 @@ export default function Chatbot() {
         </div>
 
         {/* Chat messages */}
-        <div className="flex-1 overflow-y-auto p-6 bg-primary-50 space-y-2" style={{ maxHeight: '60vh' }}>
+        <div
+          className="flex-1 overflow-y-auto p-6 bg-primary-50 space-y-2"
+          style={{ maxHeight: "60vh" }}
+          role="log"
+          aria-live="polite"
+          aria-relevant="additions"
+        >
           {messages.map((msg, idx) => (
             <ChatBubble
               key={idx}
@@ -177,7 +190,10 @@ export default function Chatbot() {
             />
           ))}
           {isTyping && <TyperIndicator />}
+          {/* Auto-scroll anchor */}
+          <div ref={messagesEndRef} />
         </div>
+
 
         {/* Input area */}
         <div className="p-6 bg-white border-t border-secondary-200 space-y-4">
@@ -192,6 +208,6 @@ export default function Chatbot() {
           <MessageInput onSend={handleUserMessage} onFileUpload={handleFileUpload} />
         </div>
       </div>
-    </main>
+    </div>
   );
 }
