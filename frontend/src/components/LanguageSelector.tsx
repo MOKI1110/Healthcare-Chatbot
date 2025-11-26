@@ -19,7 +19,7 @@ export default function LanguageSelector() {
   ];
 
   const filteredLanguages = langs.filter(
-    lang =>
+    (lang) =>
       lang.label.toLowerCase().includes(search.toLowerCase()) ||
       lang.native.toLowerCase().includes(search.toLowerCase())
   );
@@ -30,45 +30,76 @@ export default function LanguageSelector() {
   }
 
   return (
-    <section aria-labelledby="language-select-title" className="w-full max-w-2xl px-4 relative z-10 animate-fadeIn">
-      <div className="card p-8 mb-6">
-        <h1 id="language-select-title" className="text-4xl font-bold text-center mb-3 gradient-text">
-          {t("Welcome, how can we help today?")}
+    <section
+      aria-labelledby="language-select-title"
+      className="w-full px-2 sm:px-4"
+    >
+      {/* Centered hero like ChatGPT home */}
+      <div className="flex flex-col items-center text-center mb-8">
+        <h1
+          id="language-select-title"
+          className="text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight mb-3"
+        >
+          HealthBot
         </h1>
-        <p className="text-center text-gray-600 text-lg mb-6">
-          {t("Please choose your language.")}
+        <p className="text-sm sm:text-base text-slate-400 max-w-xl">
+          {t("Welcome, how can we help today?")}  
         </p>
+      </div>
+
+      {/* Main card – similar to ChatGPT’s “New chat” area */}
+      <div className="mx-auto max-w-3xl rounded-3xl border border-slate-800 bg-[#0c0f13] shadow-[0_0_40px_rgba(0,0,0,0.6)] p-5 sm:p-7 md:p-8">
+        {/* Search bar */}
         <div className="relative mb-6">
+          <span className="absolute left-3 top-1/2 -translate-y-1/2 text-xl text-slate-400">
+            🔍
+          </span>
           <input
-            className="w-full p-4 pl-12 text-lg border-2 border-gray-200 focus:border-indigo-500 rounded-2xl shadow-sm transition-all duration-300"
+            className="w-full rounded-2xl bg-[#050509] border border-slate-700/80 px-11 py-3 text-sm sm:text-base text-slate-100 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-emerald-500/70 focus:border-emerald-500/70 transition"
             value={search}
-            onChange={e => setSearch(e.target.value)}
+            onChange={(e) => setSearch(e.target.value)}
             placeholder={t("Search languages...")}
             aria-label={t("Search languages...")}
           />
-          <span className="absolute left-4 top-1/2 transform -translate-y-1/2 text-2xl">🔍</span>
         </div>
 
-        <ul className="grid grid-cols-2 md:grid-cols-3 gap-3">
+        {/* Language pills – like ChatGPT model cards but compact */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
           {filteredLanguages.map((lang, idx) => (
-            <li key={lang.code} style={{ animationDelay: `${idx * 0.05}s` }} className="animate-fadeIn">
-              <button
-                onClick={() => start(lang.code)}
-                className="w-full p-4 flex items-center gap-3 border-2 border-gray-200 rounded-2xl hover:border-indigo-400 hover:bg-gradient-to-br hover:from-indigo-50 hover:to-purple-50 transition-all duration-300 hover:scale-105 hover:shadow-lg group"
+            <button
+              key={lang.code}
+              onClick={() => start(lang.code)}
+              style={{ animationDelay: `${idx * 40}ms` }}
+              className="group flex items-center gap-3 rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left hover:border-emerald-500/80 hover:bg-[#050f10] hover:shadow-[0_0_25px_rgba(16,185,129,0.35)] transition-all duration-200"
+            >
+              <span
+                className="text-2xl sm:text-3xl drop-shadow-sm group-hover:scale-110 transition-transform"
+                role="img"
+                aria-label={lang.label}
               >
-                <span className="text-3xl group-hover:scale-125 transition-transform duration-300" role="img" aria-label={lang.label}>
-                  {lang.emoji}
+                {lang.emoji}
+              </span>
+              <div className="flex flex-col">
+                <span className="text-sm sm:text-base font-medium text-slate-100">
+                  {lang.native}
                 </span>
-                <span className="font-semibold text-gray-700 group-hover:text-indigo-600 transition-colors duration-300">
-                  {lang.native} <span className="text-xs text-gray-400">({lang.label})</span>
+                <span className="text-xs text-slate-500">
+                  {lang.label}
                 </span>
-              </button>
-            </li>
+              </div>
+            </button>
           ))}
-        </ul>
+
+          {filteredLanguages.length === 0 && (
+            <div className="col-span-full text-center text-sm text-slate-500 py-4">
+              {t("No languages found")}
+            </div>
+          )}
+        </div>
       </div>
 
-      <div className="text-center text-gray-500 text-sm">
+      {/* Footer small text like ChatGPT disclaimer */}
+      <div className="mt-4 text-center text-[11px] text-slate-500">
         ✨ {t("Secure")} • {t("Private")} • {t("Multilingual")}
       </div>
     </section>

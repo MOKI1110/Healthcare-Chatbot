@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { useTranslation } from "react-i18next";
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo.png";
 import { LanguageContext } from "../context/LanguageContext";
 
 export default function Header() {
