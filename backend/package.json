@@ -30,7 +30,8 @@
     "node-html-to-image": "^5.0.0",
     "openai": "^6.7.0",
     "pdf-img-convert": "^2.0.0",
-    "pdf-to-img": "^5.0.0"
+    "pdf-to-img": "^5.0.0",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "@types/axios": "^0.14.4",
