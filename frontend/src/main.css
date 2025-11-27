@@ -277,27 +277,25 @@ animation: fadeIn 0.25s ease-out;
   box-shadow: 0 8px 24px rgba(0, 128, 128, 0.3);
 }
 
-/* ============================================
-   SCROLLBAR STYLING (Teal Theme)
-   ============================================ */
-
+/* ===== Custom Scrollbar (Dark ChatGPT Style) ===== */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 10px;
 }
 
 ::-webkit-scrollbar-track {
-  @apply bg-gray-100 rounded-full;
+  background: #0a0a0c;        /* Chatbot background */
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(to bottom, #008080, #006666);
-  @apply rounded-full;
+  background: #2a2d39;        /* Dark grey thumb */
+  border-radius: 10px;
+  border: 2px solid #0a0a0c;  /* Creates spacing effect */
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(to bottom, #006666, #004D4D);
+  background: #3a3d47;        /* Slightly lighter on hover */
 }
+
 
 /* ============================================
    UTILITY CLASSES (Teal Theme)

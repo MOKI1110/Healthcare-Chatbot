@@ -1,106 +1,94 @@
-import React, { useContext, useState } from "react";
-import languages from "../locales/languages.json";
-import { LanguageContext } from "../context/LanguageContext";
-import i18n from "../utils/i18n";
+import React from "react";
 import { useTranslation } from "react-i18next";
+import logo from "../assets/logo.png";
 
 export default function LanguageSelector() {
   const { t } = useTranslation();
-  const { setLanguage } = useContext(LanguageContext);
-  const [search, setSearch] = useState("");
-
-  // Fallback to your chosen five languages if languages.json is missing or incorrect
-  const langs = (Array.isArray(languages) && languages.length > 0) ? languages : [
-    { code: "en", label: "English", native: "English", emoji: "🇬🇧" },
-    { code: "ta", label: "Tamil", native: "தமிழ்", emoji: "🇮🇳" },
-    { code: "hi", label: "Hindi", native: "हिन्दी", emoji: "🇮🇳" },
-    { code: "te", label: "Telugu", native: "తెలుగు", emoji: "🇮🇳" },
-    { code: "kn", label: "Kannada", native: "ಕನ್ನಡ", emoji: "🇮🇳" }
-  ];
-
-  const filteredLanguages = langs.filter(
-    (lang) =>
-      lang.label.toLowerCase().includes(search.toLowerCase()) ||
-      lang.native.toLowerCase().includes(search.toLowerCase())
-  );
-
-  function start(langCode: string) {
-    setLanguage(langCode);
-    i18n.changeLanguage(langCode);
-  }
 
   return (
     <section
-      aria-labelledby="language-select-title"
-      className="w-full px-2 sm:px-4"
+      aria-labelledby="healthbot-hero-title"
+      className="w-full px-2 sm:px-4 py-10 bg-[#050509]"
     >
       {/* Centered hero like ChatGPT home */}
       <div className="flex flex-col items-center text-center mb-8">
+        <div className="relative mb-4">
+          <div className="absolute inset-0 bg-blue-500/30 blur-2xl rounded-3xl opacity-60" />
+          <div className="relative h-16 w-16 rounded-2xl bg-[#0b0b10] border border-blue-500/40 shadow-[0_0_30px_rgba(59,130,246,0.5)] flex items-center justify-center overflow-hidden">
+            <img
+              src={logo}
+              alt={t("HealthBot logo")}
+              className="h-full w-full object-contain p-2"
+            />
+          </div>
+        </div>
+
         <h1
-          id="language-select-title"
-          className="text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight mb-3"
+          id="healthbot-hero-title"
+          className="text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight mb-3 text-white"
         >
-          HealthBot
+          {t("Welcome, how can we help today?")}
         </h1>
+
         <p className="text-sm sm:text-base text-slate-400 max-w-xl">
-          {t("Welcome, how can we help today?")}  
+          {t(
+            "Ask HealthBot about your symptoms, medications, or lab reports. I’ll help you understand what might be going on and when to seek a doctor."
+          )}
         </p>
       </div>
 
-      {/* Main card – similar to ChatGPT’s “New chat” area */}
+      {/* Main card – “what you can ask” instead of language picker */}
       <div className="mx-auto max-w-3xl rounded-3xl border border-slate-800 bg-[#0c0f13] shadow-[0_0_40px_rgba(0,0,0,0.6)] p-5 sm:p-7 md:p-8">
-        {/* Search bar */}
-        <div className="relative mb-6">
-          <span className="absolute left-3 top-1/2 -translate-y-1/2 text-xl text-slate-400">
-            🔍
-          </span>
-          <input
-            className="w-full rounded-2xl bg-[#050509] border border-slate-700/80 px-11 py-3 text-sm sm:text-base text-slate-100 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-emerald-500/70 focus:border-emerald-500/70 transition"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            placeholder={t("Search languages...")}
-            aria-label={t("Search languages...")}
-          />
+        <p className="text-xs uppercase tracking-wide text-emerald-300 mb-4 text-center">
+          {t("Try asking about…")}
+        </p>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
+            <p className="text-xs text-emerald-300 mb-1">
+              {t("Symptoms")}
+            </p>
+            <p className="text-sm text-slate-100">
+              {t("“I have a headache and mild fever since yesterday.”")}
+            </p>
+          </div>
+
+          <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
+            <p className="text-xs text-emerald-300 mb-1">
+              {t("Lab reports")}
+            </p>
+            <p className="text-sm text-slate-100">
+              {t("“Can you help me understand my blood test results?”")}
+            </p>
+          </div>
+
+          <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
+            <p className="text-xs text-emerald-300 mb-1">
+              {t("Medicines")}
+            </p>
+            <p className="text-sm text-slate-100">
+              {t("“I missed a dose of my tablet, what should I do?”")}
+            </p>
+          </div>
+
+          <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
+            <p className="text-xs text-emerald-300 mb-1">
+              {t("General health")}
+            </p>
+            <p className="text-sm text-slate-100">
+              {t("“How can I improve my sleep and reduce stress?”")}
+            </p>
+          </div>
         </div>
 
-        {/* Language pills – like ChatGPT model cards but compact */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
-          {filteredLanguages.map((lang, idx) => (
-            <button
-              key={lang.code}
-              onClick={() => start(lang.code)}
-              style={{ animationDelay: `${idx * 40}ms` }}
-              className="group flex items-center gap-3 rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left hover:border-emerald-500/80 hover:bg-[#050f10] hover:shadow-[0_0_25px_rgba(16,185,129,0.35)] transition-all duration-200"
-            >
-              <span
-                className="text-2xl sm:text-3xl drop-shadow-sm group-hover:scale-110 transition-transform"
-                role="img"
-                aria-label={lang.label}
-              >
-                {lang.emoji}
-              </span>
-              <div className="flex flex-col">
-                <span className="text-sm sm:text-base font-medium text-slate-100">
-                  {lang.native}
-                </span>
-                <span className="text-xs text-slate-500">
-                  {lang.label}
-                </span>
-              </div>
-            </button>
-          ))}
-
-          {filteredLanguages.length === 0 && (
-            <div className="col-span-full text-center text-sm text-slate-500 py-4">
-              {t("No languages found")}
-            </div>
-          )}
-        </div>
+        <p className="mt-5 text-xs text-slate-400 text-center">
+          {t("Scroll down to start chatting with HealthBot. You can change language inside the chat anytime.")}
+        </p>
       </div>
 
       {/* Footer small text like ChatGPT disclaimer */}
       <div className="mt-4 text-center text-[11px] text-slate-500">
-        ✨ {t("Secure")} • {t("Private")} • {t("Multilingual")}
+        ✨ {t("Secure")} • {t("Private")} • {t("Not a replacement for your doctor")}
       </div>
     </section>
   );

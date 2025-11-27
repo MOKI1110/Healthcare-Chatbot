@@ -25,8 +25,8 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
           "max-w-[85%] md:max-w-[75%] lg:max-w-[65%]",
           "text-[15px] leading-relaxed whitespace-pre-wrap break-words",
           isUser
-            ? "bg-[#4C5BD8] text-white"   // user bubble (right, darker blue)
-            : "bg-[#3A4CA8] text-white"   // bot bubble (left, softer blue)
+            ? "bg-[#4C5BD8] text-white"
+            : "bg-[#3A4CA8] text-white"
         )}
       >
         {/* Bubble tail */}
@@ -47,6 +47,7 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
           </div>
         )}
 
+        {/* MARKDOWN */}
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}
           components={{
@@ -89,14 +90,14 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
 
             hr: () => <hr className="my-3 border-white/20" />,
 
-            // Code blocks
+            // Code block
             pre: ({ children }) => (
               <pre className="bg-black/25 text-teal-50 p-3 rounded-xl overflow-x-auto text-[13px] font-mono my-3">
                 {children}
               </pre>
             ),
 
-            // Inline vs fenced code
+            // Inline / fenced code
             code: ({ className, children, ...props }) => {
               const isInline = !className;
               if (isInline) {
@@ -116,29 +117,35 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
               );
             },
 
+            // 🌟🌟🌟 UPDATED TABLE DESIGN 🌟🌟🌟
             table: ({ children }) => (
-              <div className="overflow-x-auto my-3">
-                <table className="min-w-full border border-white/20 rounded-lg text-sm">
+              <div className="overflow-x-auto my-4 rounded-xl shadow-md">
+                <table className="w-full border-collapse overflow-hidden rounded-xl text-sm bg-white/10 backdrop-blur">
                   {children}
                 </table>
               </div>
             ),
+
             thead: ({ children }) => (
-              <thead className="bg-white/10 border-b border-white/20">
+              <thead className="bg-white/20 text-white font-semibold">
                 {children}
               </thead>
             ),
+
             tbody: ({ children }) => <tbody>{children}</tbody>,
+
             tr: ({ children }) => (
-              <tr className="even:bg-white/5">{children}</tr>
+              <tr className="border-b border-white/10 even:bg-white/5">{children}</tr>
             ),
+
             th: ({ children }) => (
-              <th className="border border-white/20 px-3 py-2 font-semibold text-left">
+              <th className="px-4 py-3 text-left border border-white/10 font-semibold">
                 {children}
               </th>
             ),
+
             td: ({ children }) => (
-              <td className="border border-white/20 px-3 py-2">
+              <td className="px-4 py-3 border border-white/10">
                 {children}
               </td>
             ),
