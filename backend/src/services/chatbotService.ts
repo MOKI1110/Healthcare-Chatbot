@@ -313,49 +313,49 @@ export async function handleMessage(
 ): Promise<string> {
   console.log(`[handleMessage] History length: ${conversationHistory.length}`);
   
-  // Check if RAG is enabled
   const ragEnabled = config.RAG_ENABLED !== false;
-  
+
+  // ❌ We will NOT use ragContextManager anymore
+  // ❌ We will NOT persist anything by sessionId
+
   if (!ragEnabled) {
-    console.log("[handleMessage] RAG disabled, using direct DeepSeek call");
+    console.log("[handleMessage] RAG disabled, using direct model call");
+    // Ignore any server-side memory — just use provided conversationHistory
     return callWithFallback(message, conversationHistory);
   }
-  
+
   try {
-    // 1. Retrieve relevant context using RAG
-    console.log("[RAG] Retrieving context for query...");
+    // 1. Retrieve relevant context just for THIS request
+    console.log("[RAG] Retrieving context for query (stateless)...");
     const ragContext = await retrieveContext(message, conversationHistory);
-    
+
     console.log(`[RAG] Retrieved ${ragContext.retrievedDocs.length} relevant documents`);
     if (ragContext.retrievedDocs.length > 0) {
       ragContext.retrievedDocs.forEach((doc, idx) => {
-        console.log(`[RAG] Doc ${idx + 1}: ${doc.chunk.metadata.source} (similarity: ${(doc.similarity * 100).toFixed(1)}%)`);
+        console.log(
+          `[RAG] Doc ${idx + 1}: ${doc.chunk.metadata.source} (similarity: ${(doc.similarity * 100).toFixed(1)}%)`
+        );
       });
     } else {
       console.log("[RAG] No documents retrieved - vector store may be empty or query doesn't match");
     }
-    
-    // 2. Store RAG context for conversation management
-    ragContextManager.addRAGContext(sessionId, ragContext);
-    
-    // 3. Get relevant context from conversation history
-    const relevantContext = ragContextManager.getRelevantContext(sessionId, message);
-    
-    // 4. Format RAG context for prompt
-    const formattedContext = formatRAGContext(relevantContext.retrievedDocs);
-    
-    // 5. Enhance message with conversation context if needed
+
+    // 2. 🚫 NO ragContextManager.addRAGContext(...)
+    // 3. 🚫 NO ragContextManager.getRelevantContext(...)
+
+    // 4. Directly format the retrieved docs for this single response
+    const formattedContext = formatRAGContext(ragContext.retrievedDocs);
+
+    // 5. Optionally enrich message with **only this request's** history
     let enhancedMessage = message;
-    if (relevantContext.conversationSummary && relevantContext.relevantEntities.length > 0) {
-      enhancedMessage = `${message}\n\n[Context: ${relevantContext.conversationSummary}. Relevant topics: ${relevantContext.relevantEntities.join(", ")}]`;
-    }
-    
-    // 6. Call DeepSeek with RAG context
-    console.log("[RAG] Calling DeepSeek with retrieved context...");
+
+    // If you want, you can still summarize conversationHistory on the frontend
+    // and pass it in; we won't store anything here across requests.
+
+    console.log("[RAG] Calling model with stateless RAG context...");
     return await callWithFallback(enhancedMessage, conversationHistory, undefined, formattedContext);
   } catch (error: any) {
     console.error("[handleMessage] RAG retrieval failed, falling back to direct call:", error.message);
-    // Fallback to direct call if RAG fails
     return callWithFallback(message, conversationHistory);
   }
 }
@@ -370,22 +370,26 @@ export async function handleTriage(
   console.log(`[handleTriage] History length: ${conversationHistory.length}`);
   
   try {
-    // Retrieve relevant medical guidelines for triage
+    console.log("[RAG][Triage] Retrieving triage-related context (stateless)...");
     const ragContext = await retrieveContext(message, conversationHistory, {
       topK: 3,
       documentType: "guideline",
     });
-    
-    ragContextManager.addRAGContext(sessionId, ragContext);
-    const relevantContext = ragContextManager.getRelevantContext(sessionId, message);
-    const formattedContext = formatRAGContext(relevantContext.retrievedDocs);
-    
+
+    console.log(`[RAG][Triage] Retrieved ${ragContext.retrievedDocs.length} guideline docs`);
+
+    const formattedContext = formatRAGContext(ragContext.retrievedDocs);
+
+    // 🚫 No ragContextManager.addRAGContext
+    // 🚫 No getRelevantContext
+
     return await callWithFallback(triagePrompt, conversationHistory, undefined, formattedContext);
   } catch (error: any) {
     console.error("[handleTriage] RAG retrieval failed:", error.message);
     return callWithFallback(triagePrompt, conversationHistory);
   }
 }
+
 
 export async function handleImageMessage(
   message: string,

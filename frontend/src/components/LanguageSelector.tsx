@@ -1,75 +1,94 @@
-import React, { useContext, useState } from "react";
-import languages from "../locales/languages.json";
-import { LanguageContext } from "../context/LanguageContext";
-import i18n from "../utils/i18n";
+import React from "react";
 import { useTranslation } from "react-i18next";
+import logo from "../assets/logo.png";
 
 export default function LanguageSelector() {
   const { t } = useTranslation();
-  const { setLanguage } = useContext(LanguageContext);
-  const [search, setSearch] = useState("");
-
-  // Fallback to your chosen five languages if languages.json is missing or incorrect
-  const langs = (Array.isArray(languages) && languages.length > 0) ? languages : [
-    { code: "en", label: "English", native: "English", emoji: "🇬🇧" },
-    { code: "ta", label: "Tamil", native: "தமிழ்", emoji: "🇮🇳" },
-    { code: "hi", label: "Hindi", native: "हिन्दी", emoji: "🇮🇳" },
-    { code: "te", label: "Telugu", native: "తెలుగు", emoji: "🇮🇳" },
-    { code: "kn", label: "Kannada", native: "ಕನ್ನಡ", emoji: "🇮🇳" }
-  ];
-
-  const filteredLanguages = langs.filter(
-    lang =>
-      lang.label.toLowerCase().includes(search.toLowerCase()) ||
-      lang.native.toLowerCase().includes(search.toLowerCase())
-  );
-
-  function start(langCode: string) {
-    setLanguage(langCode);
-    i18n.changeLanguage(langCode);
-  }
 
   return (
-    <section aria-labelledby="language-select-title" className="w-full max-w-2xl px-4 relative z-10 animate-fadeIn">
-      <div className="card p-8 mb-6">
-        <h1 id="language-select-title" className="text-4xl font-bold text-center mb-3 gradient-text">
-          {t("Welcome, how can we help today?")}
-        </h1>
-        <p className="text-center text-gray-600 text-lg mb-6">
-          {t("Please choose your language.")}
-        </p>
-        <div className="relative mb-6">
-          <input
-            className="w-full p-4 pl-12 text-lg border-2 border-gray-200 focus:border-indigo-500 rounded-2xl shadow-sm transition-all duration-300"
-            value={search}
-            onChange={e => setSearch(e.target.value)}
-            placeholder={t("Search languages...")}
-            aria-label={t("Search languages...")}
-          />
-          <span className="absolute left-4 top-1/2 transform -translate-y-1/2 text-2xl">🔍</span>
+    <section
+      aria-labelledby="healthbot-hero-title"
+      className="w-full px-2 sm:px-4 py-10 bg-[#050509]"
+    >
+      {/* Centered hero like ChatGPT home */}
+      <div className="flex flex-col items-center text-center mb-8">
+        <div className="relative mb-4">
+          <div className="absolute inset-0 bg-blue-500/30 blur-2xl rounded-3xl opacity-60" />
+          <div className="relative h-16 w-16 rounded-2xl bg-[#0b0b10] border border-blue-500/40 shadow-[0_0_30px_rgba(59,130,246,0.5)] flex items-center justify-center overflow-hidden">
+            <img
+              src={logo}
+              alt={t("HealthBot logo")}
+              className="h-full w-full object-contain p-2"
+            />
+          </div>
         </div>
 
-        <ul className="grid grid-cols-2 md:grid-cols-3 gap-3">
-          {filteredLanguages.map((lang, idx) => (
-            <li key={lang.code} style={{ animationDelay: `${idx * 0.05}s` }} className="animate-fadeIn">
-              <button
-                onClick={() => start(lang.code)}
-                className="w-full p-4 flex items-center gap-3 border-2 border-gray-200 rounded-2xl hover:border-indigo-400 hover:bg-gradient-to-br hover:from-indigo-50 hover:to-purple-50 transition-all duration-300 hover:scale-105 hover:shadow-lg group"
-              >
-                <span className="text-3xl group-hover:scale-125 transition-transform duration-300" role="img" aria-label={lang.label}>
-                  {lang.emoji}
-                </span>
-                <span className="font-semibold text-gray-700 group-hover:text-indigo-600 transition-colors duration-300">
-                  {lang.native} <span className="text-xs text-gray-400">({lang.label})</span>
-                </span>
-              </button>
-            </li>
-          ))}
-        </ul>
+        <h1
+          id="healthbot-hero-title"
+          className="text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight mb-3 text-white"
+        >
+          {t("Welcome, how can we help today?")}
+        </h1>
+
+        <p className="text-sm sm:text-base text-slate-400 max-w-xl">
+          {t(
+            "Ask HealthBot about your symptoms, medications, or lab reports. I’ll help you understand what might be going on and when to seek a doctor."
+          )}
+        </p>
       </div>
 
-      <div className="text-center text-gray-500 text-sm">
-        ✨ {t("Secure")} • {t("Private")} • {t("Multilingual")}
+      {/* Main card – “what you can ask” instead of language picker */}
+      <div className="mx-auto max-w-3xl rounded-3xl border border-slate-800 bg-[#0c0f13] shadow-[0_0_40px_rgba(0,0,0,0.6)] p-5 sm:p-7 md:p-8">
+        <p className="text-xs uppercase tracking-wide text-emerald-300 mb-4 text-center">
+          {t("Try asking about…")}
+        </p>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
+            <p className="text-xs text-emerald-300 mb-1">
+              {t("Symptoms")}
+            </p>
+            <p className="text-sm text-slate-100">
+              {t("“I have a headache and mild fever since yesterday.”")}
+            </p>
+          </div>
+
+          <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
+            <p className="text-xs text-emerald-300 mb-1">
+              {t("Lab reports")}
+            </p>
+            <p className="text-sm text-slate-100">
+              {t("“Can you help me understand my blood test results?”")}
+            </p>
+          </div>
+
+          <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
+            <p className="text-xs text-emerald-300 mb-1">
+              {t("Medicines")}
+            </p>
+            <p className="text-sm text-slate-100">
+              {t("“I missed a dose of my tablet, what should I do?”")}
+            </p>
+          </div>
+
+          <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
+            <p className="text-xs text-emerald-300 mb-1">
+              {t("General health")}
+            </p>
+            <p className="text-sm text-slate-100">
+              {t("“How can I improve my sleep and reduce stress?”")}
+            </p>
+          </div>
+        </div>
+
+        <p className="mt-5 text-xs text-slate-400 text-center">
+          {t("Scroll down to start chatting with HealthBot. You can change language inside the chat anytime.")}
+        </p>
+      </div>
+
+      {/* Footer small text like ChatGPT disclaimer */}
+      <div className="mt-4 text-center text-[11px] text-slate-500">
+        ✨ {t("Secure")} • {t("Private")} • {t("Not a replacement for your doctor")}
       </div>
     </section>
   );
