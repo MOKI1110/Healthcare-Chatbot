@@ -1,4 +1,5 @@
 import clsx from "clsx";
+import React from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 
@@ -8,9 +9,110 @@ interface ChatBubbleProps {
   isHealthRelated?: boolean;
 }
 
+/**
+ * Turn a single-line, pipe-heavy health message into:
+ *   [intro paragraph] + markdown table + [note paragraph]
+ *
+ * Works for inputs like:
+ *   | long intro... | Header1 | Header2 | Header3 | | --- | --- | --- | | row... | ... | ... | Note... |
+ */
+function normalizeHealthMarkdown(input: string): string {
+  // Only touch single-line texts that contain pipes.
+  if (input.includes("\n") || !input.includes("|")) return input;
+
+  const firstPipe = input.indexOf("|");
+  const lastPipe = input.lastIndexOf("|");
+  if (firstPipe === -1 || lastPipe <= firstPipe) return input;
+
+  const globalPrefix = input.slice(0, firstPipe).trim();
+  const middle = input.slice(firstPipe, lastPipe + 1);
+  const globalSuffix = input.slice(lastPipe + 1).trim();
+
+  // Split rows at " | | " or "||" (row glue)
+  let segments = middle.split(/\s*\|\s*\|\s*/).map((s) => s.trim()).filter(Boolean);
+  if (segments.length < 2) return input;
+
+  let headerCells: string[] | null = null;
+  const dataRows: string[][] = [];
+
+  let extraIntro = "";
+  let extraNote = "";
+
+  segments.forEach((seg, idx) => {
+    // Split into cells on single pipes
+    let cells = seg
+      .split("|")
+      .map((c) => c.trim())
+      .filter(Boolean);
+
+    if (!cells.length) return;
+
+    // If all cells are just dashes, it's the separator row -> skip (we'll insert our own)
+    const allDash = cells.every((c) => /^-+$/.test(c.replace(/\s+/g, "")));
+    if (allDash) return;
+
+    // Heuristic: very long first cell in the first segment is likely the intro paragraph.
+    if (idx === 0 && cells.length > 1 && cells[0].length > 120) {
+      extraIntro = cells[0];
+      cells = cells.slice(1);
+    }
+
+    // Heuristic: very long last cell in the last segment is likely the trailing note.
+    if (
+      idx === segments.length - 1 &&
+      cells.length > 1 &&
+      cells[cells.length - 1].length > 120
+    ) {
+      extraNote = cells[cells.length - 1];
+      cells = cells.slice(0, -1);
+    }
+
+    if (!cells.length) return;
+
+    if (!headerCells) {
+      headerCells = cells;
+    } else {
+      dataRows.push(cells);
+    }
+  });
+
+  if (!headerCells) return input;
+
+  const headers = headerCells as string[];
+  const colCount = headers.length;
+
+  const headerLine = "| " + headers.join(" | ") + " |";
+  const sepLine = "| " + Array(colCount).fill("---").join(" | ") + " |";
+
+  const rowLines: string[] = [headerLine, sepLine];
+
+  dataRows.forEach((row) => {
+    const normalized = [...row];
+    if (normalized.length < colCount) {
+      while (normalized.length < colCount) normalized.push("");
+    } else if (normalized.length > colCount) {
+      normalized.length = colCount;
+    }
+    rowLines.push("| " + normalized.join(" | ") + " |");
+  });
+
+  const prefixText = [globalPrefix, extraIntro].filter(Boolean).join(" ").trim();
+  const suffixText = [extraNote, globalSuffix].filter(Boolean).join(" ").trim();
+
+  let result = "";
+
+  if (prefixText) result += prefixText + "\n\n";
+  result += rowLines.join("\n");
+  if (suffixText) result += "\n\n" + suffixText;
+
+  return result;
+}
+
 export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubbleProps) {
   const isUser = sender === "user";
   const showWarning = sender === "bot" && isHealthRelated === false;
+
+  const normalizedText = React.useMemo(() => normalizeHealthMarkdown(text), [text]);
 
   return (
     <div
@@ -23,19 +125,15 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
         className={clsx(
           "relative px-4 py-3 rounded-3xl shadow-md animate-fadeIn",
           "max-w-[85%] md:max-w-[75%] lg:max-w-[65%]",
-          "text-[15px] leading-relaxed whitespace-pre-wrap break-words",
-          isUser
-            ? "bg-[#4C5BD8] text-white"
-            : "bg-[#3A4CA8] text-white"
+          "text-[15px] leading-relaxed break-words",
+          isUser ? "bg-[#4C5BD8] text-white" : "bg-[#3A4CA8] text-white"
         )}
       >
         {/* Bubble tail */}
         <span
           className={clsx(
             "absolute bottom-1 w-3 h-3 rounded-full",
-            isUser
-              ? "right-[-4px] bg-[#4C5BD8]"
-              : "left-[-4px] bg-[#3A4CA8]"
+            isUser ? "right-[-4px] bg-[#4C5BD8]" : "left-[-4px] bg-[#3A4CA8]"
           )}
         />
 
@@ -51,7 +149,7 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}
           components={{
-            p: ({ children }) => <p className="mb-2">{children}</p>,
+            p: ({ children }) => <p className="mb-2 whitespace-pre-wrap">{children}</p>,
 
             strong: ({ children }) => (
               <strong className="font-semibold">{children}</strong>
@@ -90,14 +188,12 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
 
             hr: () => <hr className="my-3 border-white/20" />,
 
-            // Code block
             pre: ({ children }) => (
               <pre className="bg-black/25 text-teal-50 p-3 rounded-xl overflow-x-auto text-[13px] font-mono my-3">
                 {children}
               </pre>
             ),
 
-            // Inline / fenced code
             code: ({ className, children, ...props }) => {
               const isInline = !className;
               if (isInline) {
@@ -117,7 +213,6 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
               );
             },
 
-            // 🌟🌟🌟 UPDATED TABLE DESIGN 🌟🌟🌟
             table: ({ children }) => (
               <div className="overflow-x-auto my-4 rounded-xl shadow-md">
                 <table className="w-full border-collapse overflow-hidden rounded-xl text-sm bg-white/10 backdrop-blur">
@@ -151,7 +246,7 @@ export default function ChatBubble({ sender, text, isHealthRelated }: ChatBubble
             ),
           }}
         >
-          {text}
+          {normalizedText}
         </ReactMarkdown>
       </div>
     </div>
