@@ -8,11 +8,10 @@ import { sendChatMessage, uploadFile } from "../services/chatApi";
 import { LanguageContext } from "../context/LanguageContext";
 
 import { GiCycle } from "react-icons/gi";
-import { TbLanguage } from "react-icons/tb";
 import { useTranslation } from "react-i18next";
 
 import BotLogo from "../assets/logo.png";
-import languages from "../locales/languages.json";
+import languages from "../locales/languages.json"; // kept for internal usage
 import i18n from "../utils/i18n";
 
 function getSessionId() {
@@ -53,21 +52,19 @@ export default function Chatbot() {
 
   const messagesEndRef = useRef<HTMLDivElement | null>(null);
 
-  // Auto scroll to latest message
+  // Auto scroll
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages, isTyping]);
 
-  // 🔥 FIX: Update greeting + history when language changes
+  // Update greeting when language changes
   useEffect(() => {
     const newGreeting = t("greeting");
-
     setMessages([{ sender: "bot", text: newGreeting }]);
     setConversationHistory([{ role: "assistant", content: newGreeting }]);
   }, [selectedLanguage]);
 
-
-  // 🔥 Close language dropdown on outside click
+  // Keep the close-menu logic (though UI is hidden)
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
       if (!(e.target as HTMLElement).closest(".lang-menu")) {
@@ -75,14 +72,10 @@ export default function Chatbot() {
       }
     }
     document.addEventListener("click", handleClickOutside);
-
     return () => document.removeEventListener("click", handleClickOutside);
   }, []);
 
-
-  // ===========================
   // SEND MESSAGE
-  // ===========================
   async function handleUserMessage(text: string) {
     setMessages((msgs) => [...msgs, { sender: "user", text }]);
 
@@ -119,9 +112,7 @@ export default function Chatbot() {
     }
   }
 
-  // ===========================
   // FILE UPLOAD
-  // ===========================
   async function handleFileUpload(file: File) {
     const fileType = file.type.startsWith("image/") ? "🖼️" : "📄";
     const uploadMsg = `${fileType} ${t("file_uploaded")}: ${file.name}`;
@@ -164,14 +155,12 @@ export default function Chatbot() {
     }
   }
 
-
   // Restart
   function handleStartOver() {
     const startMsg = t("greeting");
     setMessages([{ sender: "bot", text: startMsg }]);
     setConversationHistory([{ role: "assistant", content: startMsg }]);
   }
-
 
   return (
     <div className="w-full h-full flex justify-center">
@@ -195,52 +184,15 @@ export default function Chatbot() {
             </div>
           </div>
 
+          {/* ONLY Restart Button (Language button removed) */}
+          <button
+            onClick={handleStartOver}
+            className="w-9 h-9 rounded-full bg-gray-800 hover:bg-gray-700 flex items-center justify-center text-white"
+          >
+            <GiCycle className="w-5 h-5" />
+          </button>
 
-          {/* BUTTONS */}
-          <div className="flex items-center gap-3">
-
-            {/* Language Button */}
-            <div className="relative lang-menu">
-              <button
-                className="w-9 h-9 rounded-full bg-gray-800 hover:bg-gray-700 flex items-center justify-center text-white"
-                onClick={(e) => {
-                  e.stopPropagation(); // prevent closing instantly
-                  setShowLangMenu(!showLangMenu);
-                }}
-              >
-                <TbLanguage className="text-xl" />
-              </button>
-
-              {showLangMenu && (
-                <div className="absolute right-0 mt-2 w-44 bg-[#151519] border border-gray-700 rounded-xl p-2 shadow-xl z-50 animate-fadeSlide">
-                  {languages.map((lang, idx) => (
-                    <button
-                      key={idx}
-                      className="w-full text-left px-3 py-2 text-sm rounded-lg text-gray-200 hover:bg-gray-800"
-                      onClick={() => {
-                        setLanguage(lang.code);
-                        i18n.changeLanguage(lang.code);
-                        setShowLangMenu(false);
-                      }}
-                    >
-                      {lang.emoji} {lang.native}
-                    </button>
-                  ))}
-                </div>
-              )}
-            </div>
-
-            {/* Restart */}
-            <button
-              onClick={handleStartOver}
-              className="w-9 h-9 rounded-full bg-gray-800 hover:bg-gray-700 flex items-center justify-center text-white"
-            >
-              <GiCycle className="w-5 h-5" />
-            </button>
-
-          </div>
         </div>
-
 
         {/* CHAT AREA */}
         <div className="flex-1 overflow-y-auto px-5 py-4 space-y-3 bg-[#0a0a0c]">
@@ -252,7 +204,6 @@ export default function Chatbot() {
 
           <div ref={messagesEndRef} />
         </div>
-
 
         {/* INPUT AREA */}
         <div className="border-t border-gray-800 bg-[#0a0a0c] px-5 py-4 space-y-3">

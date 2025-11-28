@@ -5,6 +5,23 @@ import logo from "../assets/logo.png";
 export default function LanguageSelector() {
   const { t } = useTranslation();
 
+  function openChat() {
+    try {
+      // Emit an event the Chatbot listens for
+      window.dispatchEvent(new CustomEvent("healthbot:start"));
+
+      // Remember the user intent (optional)
+      window.sessionStorage.setItem("healthbot-open", "true");
+
+      // Jump to the chat root if it's on the same page
+      window.location.hash = "#chat";
+    } catch (err) {
+      // don't crash the page if something goes wrong
+      // eslint-disable-next-line no-console
+      console.warn("Could not open chat programmatically", err);
+    }
+  }
+
   return (
     <section
       aria-labelledby="healthbot-hero-title"
@@ -45,36 +62,28 @@ export default function LanguageSelector() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
-            <p className="text-xs text-emerald-300 mb-1">
-              {t("Symptoms")}
-            </p>
+            <p className="text-xs text-emerald-300 mb-1">{t("Symptoms")}</p>
             <p className="text-sm text-slate-100">
               {t("“I have a headache and mild fever since yesterday.”")}
             </p>
           </div>
 
           <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
-            <p className="text-xs text-emerald-300 mb-1">
-              {t("Lab reports")}
-            </p>
+            <p className="text-xs text-emerald-300 mb-1">{t("Lab reports")}</p>
             <p className="text-sm text-slate-100">
               {t("“Can you help me understand my blood test results?”")}
             </p>
           </div>
 
           <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
-            <p className="text-xs text-emerald-300 mb-1">
-              {t("Medicines")}
-            </p>
+            <p className="text-xs text-emerald-300 mb-1">{t("Medicines")}</p>
             <p className="text-sm text-slate-100">
               {t("“I missed a dose of my tablet, what should I do?”")}
             </p>
           </div>
 
           <div className="rounded-2xl border border-slate-700/80 bg-[#050509] px-4 py-3 text-left">
-            <p className="text-xs text-emerald-300 mb-1">
-              {t("General health")}
-            </p>
+            <p className="text-xs text-emerald-300 mb-1">{t("General health")}</p>
             <p className="text-sm text-slate-100">
               {t("“How can I improve my sleep and reduce stress?”")}
             </p>
@@ -82,8 +91,21 @@ export default function LanguageSelector() {
         </div>
 
         <p className="mt-5 text-xs text-slate-400 text-center">
-          {t("Scroll down to start chatting with HealthBot. You can change language inside the chat anytime.")}
+          {t(
+            "Scroll down to start chatting with HealthBot. You can change language inside the chat anytime."
+          )}
         </p>
+
+        {/* START CHAT BUTTON */}
+        <div className="mt-6 flex justify-center">
+          <button
+            onClick={openChat}
+            className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-emerald-500 hover:bg-emerald-600 text-black font-semibold shadow-lg"
+            aria-label={t("Start chat")}
+          >
+            {t("Start chat")}
+          </button>
+        </div>
       </div>
 
       {/* Footer small text like ChatGPT disclaimer */}
